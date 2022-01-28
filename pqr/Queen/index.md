@@ -1,4 +1,4 @@
-![](/songs/pqr/Queen/cover.jpg)  
+![](/songs/pqr/Queen/queen.jpg)  
 * ['39 (2 вариант)](/songs/pqr/Queen/'39%20(2%20вариант))
 * ['39](/songs/pqr/Queen/'39)
 * [A Kind Of Magic](/songs/pqr/Queen/A%20Kind%20Of%20Magic)

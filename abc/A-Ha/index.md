@@ -1,4 +1,4 @@
-![](/songs/abc/A-Ha/cover.jpg)  
+![](/songs/abc/A-Ha/a-ha.jpg)  
 Норвежская группа из Осло, играющая в стиле электро-поп.
 
 * [(Seemingly) Nonstop July](/songs/abc/A-Ha/(Seemingly)%20Nonstop%20July)

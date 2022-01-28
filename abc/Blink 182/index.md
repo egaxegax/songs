@@ -1,4 +1,4 @@
-![](/songs/abc/Blink%20182/cover.jpg)  
+![](/songs/abc/Blink%20182/blink_182.jpg)  
 Американская панк-рок-группа из северного пригорода Сан-Диего. Образовалась в 1992 году.
 
 * [Adam's Song](/songs/abc/Blink%20182/Adam's%20Song)

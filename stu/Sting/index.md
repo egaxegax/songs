@@ -1,4 +1,4 @@
-![](/songs/stu/Sting/cover.jpg)  
+![](/songs/stu/Sting/sting.jpg)  
 
 Британский музыкант, певец, актер.
 

@@ -1,4 +1,4 @@
-![](/songs/ghi/HIM/cover.jpg)  
+![](/songs/ghi/HIM/him.jpg)  
 Популярная финская рок-группа, появившаяся в 1991.
 
 * [Again](/songs/ghi/HIM/Again)

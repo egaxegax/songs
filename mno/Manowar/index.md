@@ -1,4 +1,4 @@
-![](/songs/mno/Manowar/cover.jpg)  
+![](/songs/mno/Manowar/manowar.jpg)  
 
 Американская пауэр-металл группа, известная своей воинственной тематикой песен.
 

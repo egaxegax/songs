@@ -1,5 +1,3 @@
-[.](/songs) / 
-[stu](/songs/stu)  
 * [Santa Esmeralda](/songs/stu/Santa%20Esmeralda)
 * [Santana](/songs/stu/Santana)
 * [Satyricon](/songs/stu/Satyricon)

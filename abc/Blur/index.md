@@ -1,4 +1,4 @@
-![](/songs/abc/Blur/cover.jpg)  
+![](/songs/abc/Blur/blur.jpg)  
 Британская рок-группа из Лондона. Одна из самых успешных групп 90-х годов.
 
 * [1992](/songs/abc/Blur/1992)

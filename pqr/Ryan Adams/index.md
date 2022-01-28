@@ -1,4 +1,4 @@
-![](/songs/pqr/Ryan%20Adams/cover.jpg)  
+![](/songs/pqr/Ryan%20Adams/ryan_adams.jpg)  
 
 Американский рок-гитарист, певец, композитор. Бывший участник группы **Whiskeytown**.
 

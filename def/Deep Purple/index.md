@@ -1,4 +1,4 @@
-![](/songs/def/Deep%20Purple/cover.jpg)  
+![](/songs/def/Deep%20Purple/deep_purple.jpg)  
 
 Легендарная британская хард-рок группа, одна из самых влиятельных в 20-м веке.
 

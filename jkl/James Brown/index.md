@@ -1,4 +1,4 @@
-![](/songs/jkl/James%20Brown/cover.jpg)  
+![](/songs/jkl/James%20Brown/james_brown.jpg)  
 
 Американский певец в жанре ритм-энд-блюз.
 

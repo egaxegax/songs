@@ -1,4 +1,4 @@
-![](/songs/stu/Scorpions/cover.jpg)  
+![](/songs/stu/Scorpions/scorpions.jpg)  
 
 Немецкая англоязычная классическая рок-группа. Знаменита своими гитарными балладами.
 

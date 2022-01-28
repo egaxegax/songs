@@ -1,4 +1,4 @@
-![](/songs/abc/Clapton%20Eric/cover.jpg)  
+![](/songs/abc/Clapton%20Eric/clapton_eric.jpg)  
 Британский рок и блюз-музыкант, гитарист-виртуоз.
 
 * [Aint nobodys business](/songs/abc/Clapton%20Eric/Aint%20nobodys%20business)

@@ -1,4 +1,4 @@
-![](/songs/pqr/Pink%20Floyd/cover.jpg)  
+![](/songs/pqr/Pink%20Floyd/pink_floyd.jpg)  
 
 Легендарная британская рок-группа в жанре психоделический рок, симфо-рок.
 

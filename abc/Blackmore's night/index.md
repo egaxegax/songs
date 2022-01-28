@@ -1,4 +1,4 @@
-![](/songs/abc/Blackmore's%20night/cover.jpg)  
+![](/songs/abc/Blackmore's%20night/blackmores_night.jpg)  
 Фолк-рок-группа, основанная в 1997 году бывшим гитаристом *Deep Purple* и *Rainbow* Ричи Блэкмором и его женой Кэндис Найт.
 
 * [A Maid Bedlam](/songs/abc/Blackmore's%20night/A%20Maid%20Bedlam)

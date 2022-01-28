@@ -1,4 +1,4 @@
-![](/songs/def/Foo%20Fighters/cover.jpg)  
+![](/songs/def/Foo%20Fighters/foo_fighters.jpg)  
 * [Alone & Easy Target](/songs/def/Foo%20Fighters/Alone%20&%20Easy%20Target)
 * [Baker Street](/songs/def/Foo%20Fighters/Baker%20Street)
 * [Big Me](/songs/def/Foo%20Fighters/Big%20Me)

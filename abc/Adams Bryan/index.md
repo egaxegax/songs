@@ -1,4 +1,4 @@
-![](/songs/abc/Adams%20Bryan/cover.jpg)  
+![](/songs/abc/Adams%20Bryan/adams_bryan.jpg)  
 
 Канадский рок-музыкант, гитарист, автор песен. Обладатель премии "Грэмми".
 

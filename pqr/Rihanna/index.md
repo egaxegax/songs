@@ -1,4 +1,4 @@
-![](/songs/pqr/Rihanna/cover.jpg)  
+![](/songs/pqr/Rihanna/rihanna.jpg)  
 Американская популярная певица, актриса родом с Барбадоса.
 
 * [Diamonds](/songs/pqr/Rihanna/Diamonds)

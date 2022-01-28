@@ -1,4 +1,4 @@
-![](/songs/jkl/Judas%20Priest/cover.jpg)  
+![](/songs/jkl/Judas%20Priest/judas_priest.jpg)  
 
 Британская хэви-метал группа, ведущая свою карьеру с 1970-х годов, оказала большое влияние на развитие этого стиля рок-музыки, наряду с Led Zeppelin, Black Sabath, Deep Purple и др.
 

@@ -1,4 +1,4 @@
-![](/songs/pqr/Papa%20Roach/cover.jpg)  
+![](/songs/pqr/Papa%20Roach/papa_roach.jpg)  
 
 Американская рок-метал группа.
 

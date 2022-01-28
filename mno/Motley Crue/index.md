@@ -1,4 +1,4 @@
-![](/songs/mno/Motley%20Crue/cover.jpg)  
+![](/songs/mno/Motley%20Crue/motley_crue.jpg)  
 
 Американская глэм-метал группа, основанная в Лос-Анджелесе в 1981 году.
 

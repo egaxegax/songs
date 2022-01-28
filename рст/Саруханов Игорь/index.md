@@ -1,4 +1,4 @@
-![](/songs/рст/Саруханов%20Игорь/cover.jpg)  
+![](/songs/рст/Саруханов%20Игорь/saruhanov_igor.jpg)  
 * [Funny Love](/songs/рст/Саруханов%20Игорь/Funny%20Love)
 * [Miami Beach](/songs/рст/Саруханов%20Игорь/Miami%20Beach)
 * [Алина](/songs/рст/Саруханов%20Игорь/Алина)

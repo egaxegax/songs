@@ -1,4 +1,4 @@
-![](/songs/def/Elton%20John/cover.jpg)  
+![](/songs/def/Elton%20John/elton_john.jpg)  
 
 Британский композитор, певец, музыкант.
 

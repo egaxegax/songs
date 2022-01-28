@@ -1,5 +1,3 @@
-[.](/songs) / 
-[ghi](/songs/ghi)  
 * [Garbage](/songs/ghi/Garbage)
 * [Gary Moore](/songs/ghi/Gary%20Moore)
 * [Gasoline](/songs/ghi/Gasoline)

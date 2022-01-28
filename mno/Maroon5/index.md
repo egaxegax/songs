@@ -1,4 +1,4 @@
-![](/songs/mno/Maroon5/cover.jpg)  
+![](/songs/mno/Maroon5/maroon5.jpg)  
 
 Американская поп-рок, соул-роул группа из Лос-Анджелоса.
 

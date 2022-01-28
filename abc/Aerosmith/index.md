@@ -1,4 +1,4 @@
-![](/songs/abc/Aerosmith/cover.jpg)  
+![](/songs/abc/Aerosmith/aerosmith.jpg)  
 
 Американская рок-группа во главе с вокалистом Стивеном Тайлером.
 

@@ -1,5 +1,3 @@
-[.](/songs) / 
-[jkl](/songs/jkl)  
 * [Jackson Alan](/songs/jkl/Jackson%20Alan)
 * [Jakubowicz Martyna](/songs/jkl/Jakubowicz%20Martyna)
 * [James Blunt](/songs/jkl/James%20Blunt)

@@ -1,4 +1,4 @@
-![](/songs/mno/Moby/cover.jpg)  
+![](/songs/mno/Moby/moby.jpg)  
 
 Американский мультиинструменталист, диджей. 
 

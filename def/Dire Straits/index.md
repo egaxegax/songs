@@ -1,4 +1,4 @@
-![](/songs/def/Dire%20Straits/cover.jpg)  
+![](/songs/def/Dire%20Straits/dire_straits.jpg)  
 
 Британская рок-группа, основанная в 1977 году братьями Марком и Дэвидом Нопфлерами.
 

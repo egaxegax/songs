@@ -1,4 +1,4 @@
-![](/songs/stu/Skid%20Row/cover.jpg)  
+![](/songs/stu/Skid%20Row/skid_row.jpg)  
 
 Американская рок-группа, играющая в стиле глэм-метал.
 

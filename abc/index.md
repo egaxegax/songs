@@ -1,5 +1,3 @@
-[.](/songs) / 
-[abc](/songs/abc)  
 * [A Perfect Circle](/songs/abc/A%20Perfect%20Circle)
 * [A-Ha](/songs/abc/A-Ha)
 * [A-Teens](/songs/abc/A-Teens)

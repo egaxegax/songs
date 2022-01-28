@@ -1,5 +1,3 @@
-[.](/songs) / 
-[def](/songs/def)  
 * [DJ Дождик](/songs/def/DJ%20Дождик)
 * [Da Buzz](/songs/def/Da%20Buzz)
 * [Dance Hall Crashers](/songs/def/Dance%20Hall%20Crashers)

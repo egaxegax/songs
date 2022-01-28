@@ -1,4 +1,4 @@
-![](/songs/abc/Bob%20Marley/cover.jpg)  
+![](/songs/abc/Bob%20Marley/bob_marley.jpg)  
 
 Ямайский музыкант, гитарист и композитор в стиле регги.
 

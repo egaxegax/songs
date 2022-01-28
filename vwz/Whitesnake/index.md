@@ -1,4 +1,4 @@
-![](/songs/vwz/Whitesnake/cover.jpg)  
+![](/songs/vwz/Whitesnake/whitesnake.jpg)  
 
 Британская рок-группа, образованная в 1977 году Дэвидом Ковердэйлом.
 

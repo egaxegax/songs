@@ -1,4 +1,4 @@
-![](/songs/abc/Blue%20System/cover.jpg)  
+![](/songs/abc/Blue%20System/blue_system.jpg)  
 Немецкая англоязычная поп-группа, созданная после распада дуэта *Modern Talking* Дитером Боленом в 1987 году.  
 Существовала до воссоздания *Modern Talking* в 1998 году.
 

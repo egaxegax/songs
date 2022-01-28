@@ -1,4 +1,4 @@
-![](/songs/stu/Tom%20Petty%20and%20the%20Heartbreakers/cover.jpg)  
+![](/songs/stu/Tom%20Petty%20and%20the%20Heartbreakers/tom_petty_and_the_heartbreakers.jpg)  
 
 Американский рок-музыкант и лидер группы **Tom Petty and the Heartbreakers**.
 

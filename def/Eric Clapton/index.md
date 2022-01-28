@@ -1,4 +1,4 @@
-![](/songs/def/Eric%20Clapton/cover.jpg)  
+![](/songs/def/Eric%20Clapton/eric_clapton.jpg)  
 
 Британский рок-музыкант, гитарист-виртуоз.
 

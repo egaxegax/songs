@@ -1,4 +1,4 @@
-![](/songs/jkl/Lumen/cover.jpg)  
+![](/songs/jkl/Lumen/lumen.jpg)  
 
 Российская рок-группа из Уфы. Образовалась в 1998 году.
 

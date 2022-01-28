@@ -1,4 +1,4 @@
-![](/songs/pqr/Richie%20Sambora/cover.jpg)  
+![](/songs/pqr/Richie%20Sambora/richie_sambora.jpg)  
 
 Американский рок-музыкант. Бывший гитарист группы **Bon Jovi**.
 

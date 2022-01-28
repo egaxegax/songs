@@ -1,4 +1,4 @@
-![](/songs/mno/Nightwish/cover.jpg)  
+![](/songs/mno/Nightwish/nightwish.jpg)  
 Финская симфоник-метал-группа с женским вокалом, исполняющая песни преимущественно на английском языке.
 
 * [10th Man Down](/songs/mno/Nightwish/10th%20Man%20Down)

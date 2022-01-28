@@ -1,4 +1,3 @@
-[.](/songs)  
 * [0-9](/songs/0-9)
 * [abc](/songs/abc)
 * [def](/songs/def)

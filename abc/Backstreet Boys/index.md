@@ -1,4 +1,4 @@
-![](/songs/abc/Backstreet%20Boys/cover.jpg)  
+![](/songs/abc/Backstreet%20Boys/backstreet_boys.jpg)  
 
 Американская поп-группа из Орландо, образованная в 1993 году.
 

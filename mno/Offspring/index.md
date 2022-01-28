@@ -1,4 +1,4 @@
-![](/songs/mno/Offspring/cover.jpg)  
+![](/songs/mno/Offspring/offspring.jpg)  
 Американская панк-рок-группа из Калифорнии.
 
 * [All Along](/songs/mno/Offspring/All%20Along)

@@ -1,4 +1,4 @@
-![](/songs/mno/Mike%20Oldfield/cover.jpg)  
+![](/songs/mno/Mike%20Oldfield/mike_oldfield.jpg)  
 
 Британский мультиинструменталист и композитор.
 

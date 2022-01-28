@@ -1,4 +1,4 @@
-![](/songs/abc/Amatory/cover.jpg)  
+![](/songs/abc/Amatory/amatory.jpg)  
 
 Российская экстрим-метал группа из Санкт-Петербурга.
 

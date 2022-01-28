@@ -1,5 +1,3 @@
-[.](/songs) / 
-[mno](/songs/mno)  
 * [Mad Caddies](/songs/mno/Mad%20Caddies)
 * [Madonna](/songs/mno/Madonna)
 * [Male Factors](/songs/mno/Male%20Factors)

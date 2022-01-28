@@ -1,4 +1,4 @@
-![](/songs/abc/Coldplay/cover.jpg)  
+![](/songs/abc/Coldplay/coldplay.jpg)  
 
 Британская рок-группа, начавшая играть в конце 90-х гг. прошлого века.
 

@@ -1,4 +1,4 @@
-![](/songs/abc/Brainstorm/cover.jpg)  
+![](/songs/abc/Brainstorm/brainstorm.jpg)  
 
 Латвийская рок-группа. Заняла третье место на Евровидении-2000.
 
