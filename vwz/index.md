@@ -1,3 +1,5 @@
+Список разделов *vwz*
+
 * [Van Halen](/songs/vwz/Van%20Halen)
 * [Van der Graaf Generator](/songs/vwz/Van%20der%20Graaf%20Generator)
 * [Vandals](/songs/vwz/Vandals)

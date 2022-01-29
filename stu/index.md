@@ -1,3 +1,5 @@
+Список разделов *stu*
+
 * [Santa Esmeralda](/songs/stu/Santa%20Esmeralda)
 * [Santana](/songs/stu/Santana)
 * [Satyricon](/songs/stu/Satyricon)
