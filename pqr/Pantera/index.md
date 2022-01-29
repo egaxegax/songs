@@ -1,4 +1,5 @@
 ![](/songs/pqr/Pantera/pantera.jpg)  
+
 Американская метал-группа из Арлингтона, штат Техас, существовавшая с 1981 по 2003 год.
 
 * [Cemetary Gates](/songs/pqr/Pantera/Cemetary%20Gates)

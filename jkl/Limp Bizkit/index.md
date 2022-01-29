@@ -1,4 +1,5 @@
 ![](/songs/jkl/Limp%20Bizkit/limp_bizkit.jpg)  
+
 Американская рэп-поп-группа из Флориды, основанная в 1994 году Фредом Дёрстом (вокал) и Сэмом Риверсом (бас).
 
 * [9 Teen 90 Nine](/songs/jkl/Limp%20Bizkit/9%20Teen%2090%20Nine)

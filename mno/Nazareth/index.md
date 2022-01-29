@@ -1,4 +1,5 @@
 ![](/songs/mno/Nazareth/nazareth.jpg)  
+
 Шотландская рок-группа, существующая с конца 1960-х годов.
 
 * [Hair of the Dog](/songs/mno/Nazareth/Hair%20of%20the%20Dog)

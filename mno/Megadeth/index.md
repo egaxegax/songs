@@ -1,4 +1,5 @@
 ![](/songs/mno/Megadeth/megadeth.jpg)  
+
 Американская трэш-метал-группа из Лос-Анджелеса.
 
 * [502](/songs/mno/Megadeth/502)

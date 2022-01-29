@@ -1,4 +1,5 @@
 ![](/songs/stu/Sepultura/sepultura.jpg)  
+
 Бразильская метал-группа. Образовалась в 1984 году.
 
 * [Beneath The Remains](/songs/stu/Sepultura/Beneath%20The%20Remains)

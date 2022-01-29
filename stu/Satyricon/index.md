@@ -1,4 +1,5 @@
 ![](/songs/stu/Satyricon/satyricon.jpg)  
+
 Норвежская блэк-метал-группа, появившаяся в начале 90-х.
 
 * [Fuel For Hatred](/songs/stu/Satyricon/Fuel%20For%20Hatred)

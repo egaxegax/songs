@@ -1,4 +1,5 @@
 ![](/songs/jkl/Linkin%20Park/linkin_park.jpg)  
+
 Американская рок-группа, основанная в 1996 году, исполняющая альтернативный рок.
 
 * [A Place For My Head](/songs/jkl/Linkin%20Park/A%20Place%20For%20My%20Head)

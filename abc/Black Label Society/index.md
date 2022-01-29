@@ -1,4 +1,5 @@
 ![](/songs/abc/Black%20Label%20Society/black_label_society.jpg)  
+
 Американская хеви-металл группа бывшего гитариста группы Ozzy Osbourne Закка Уайлда.
 
 * [Angel Of Mercy](/songs/abc/Black%20Label%20Society/Angel%20Of%20Mercy)
