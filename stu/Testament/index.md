@@ -1,1 +1,1 @@
-* [Trail Of Tears](/songs/stu/Testament/Trail%20Of%20Tears)
+* [Trail Of Tears](Trail%20Of%20Tears)

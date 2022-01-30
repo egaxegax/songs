@@ -1,1 +1,1 @@
-* [Alte Frau](/songs/vwz/Wizo/Alte%20Frau)
+* [Alte Frau](Alte%20Frau)

@@ -1,1 +1,1 @@
-* [Why'd You Lie](/songs/jkl/James%20Colin/Why'd%20You%20Lie)
+* [Why'd You Lie](Why'd%20You%20Lie)

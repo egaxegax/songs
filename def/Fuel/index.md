@@ -1,1 +1,1 @@
-* [Shimmer](/songs/def/Fuel/Shimmer)
+* [Shimmer](Shimmer)

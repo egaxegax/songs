@@ -1,1 +1,1 @@
-* [Korn](/songs/0-9/22-shed/Korn)
+* [Korn](Korn)

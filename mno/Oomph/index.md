@@ -1,1 +1,1 @@
-* [Supernova](/songs/mno/Oomph/Supernova)
+* [Supernova](Supernova)

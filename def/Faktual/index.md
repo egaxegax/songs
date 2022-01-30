@@ -1,1 +1,1 @@
-* [Faktual](/songs/def/Faktual/Faktual)
+* [Faktual](Faktual)

@@ -1,1 +1,1 @@
-* [Trollhammaren](/songs/def/FinnTroll/Trollhammaren)
+* [Trollhammaren](Trollhammaren)

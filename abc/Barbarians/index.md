@@ -1,1 +1,1 @@
-* [Moulty](/songs/abc/Barbarians/Moulty)
+* [Moulty](Moulty)

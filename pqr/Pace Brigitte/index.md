@@ -1,1 +1,1 @@
-* [Save Your Soul](/songs/pqr/Pace%20Brigitte/Save%20Your%20Soul)
+* [Save Your Soul](Save%20Your%20Soul)

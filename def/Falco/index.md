@@ -1,1 +1,1 @@
-* [Rock me Amadeus](/songs/def/Falco/Rock%20me%20Amadeus)
+* [Rock me Amadeus](Rock%20me%20Amadeus)

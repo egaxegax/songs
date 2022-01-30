@@ -1,1 +1,1 @@
-* [Ska Nighter](/songs/stu/Skalamander/Ska%20Nighter)
+* [Ska Nighter](Ska%20Nighter)

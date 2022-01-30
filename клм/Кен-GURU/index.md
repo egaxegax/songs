@@ -1,1 +1,1 @@
-* [Ceвep](/songs/клм/Кен-GURU/Ceвep)
+* [Ceвep](Ceвep)

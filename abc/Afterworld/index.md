@@ -1,1 +1,1 @@
-* [To The Afterworld](/songs/abc/Afterworld/To%20The%20Afterworld)
+* [To The Afterworld](To%20The%20Afterworld)

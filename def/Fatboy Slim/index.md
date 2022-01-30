@@ -1,1 +1,1 @@
-* [The Rockafeller Skank](/songs/def/Fatboy%20Slim/The%20Rockafeller%20Skank)
+* [The Rockafeller Skank](The%20Rockafeller%20Skank)

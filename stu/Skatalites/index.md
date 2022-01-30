@@ -1,2 +1,2 @@
-* [Latino Goes Ska](/songs/stu/Skatalites/Latino%20Goes%20Ska)
-* [Youre Wondering Now](/songs/stu/Skatalites/Youre%20Wondering%20Now)
+* [Latino Goes Ska](Latino%20Goes%20Ska)
+* [Youre Wondering Now](Youre%20Wondering%20Now)

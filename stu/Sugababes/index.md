@@ -1,1 +1,1 @@
-* [Grace](/songs/stu/Sugababes/Grace)
+* [Grace](Grace)

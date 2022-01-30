@@ -1,1 +1,1 @@
-* [Alone Again](/songs/ghi/God%20Lives%20Underwater/Alone%20Again)
+* [Alone Again](Alone%20Again)

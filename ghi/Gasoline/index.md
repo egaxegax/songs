@@ -1,1 +1,1 @@
-* [Rabalderstraede](/songs/ghi/Gasoline/Rabalderstraede)
+* [Rabalderstraede](Rabalderstraede)

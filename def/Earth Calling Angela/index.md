@@ -1,1 +1,1 @@
-* [Lights](/songs/def/Earth%20Calling%20Angela/Lights)
+* [Lights](Lights)

@@ -1,1 +1,1 @@
-* [Gypsies, Tramps, and Thieves](/songs/abc/Cher/Gypsies,%20Tramps,%20and%20Thieves)
+* [Gypsies, Tramps, and Thieves](Gypsies,%20Tramps,%20and%20Thieves)

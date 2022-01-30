@@ -1,1 +1,1 @@
-* [Rip it up](/songs/0-9/28%20days/Rip%20it%20up)
+* [Rip it up](Rip%20it%20up)

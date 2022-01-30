@@ -1,3 +1,3 @@
-* [Dino's Song](/songs/pqr/Quicksilver%20Messenger%20Service/Dino's%20Song)
-* [Just For Love](/songs/pqr/Quicksilver%20Messenger%20Service/Just%20For%20Love)
-* [The Fool](/songs/pqr/Quicksilver%20Messenger%20Service/The%20Fool)
+* [Dino's Song](Dino's%20Song)
+* [Just For Love](Just%20For%20Love)
+* [The Fool](The%20Fool)

@@ -1,1 +1,1 @@
-* [Hands Up](/songs/mno/Ottawan/Hands%20Up)
+* [Hands Up](Hands%20Up)

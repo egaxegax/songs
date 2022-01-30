@@ -1,1 +1,1 @@
-* [Puppy Drink](/songs/def/Falling%20Joys/Puppy%20Drink)
+* [Puppy Drink](Puppy%20Drink)

@@ -1,1 +1,1 @@
-* [Fear Of Falling](/songs/abc/Badlees/Fear%20Of%20Falling)
+* [Fear Of Falling](Fear%20Of%20Falling)

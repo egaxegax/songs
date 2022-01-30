@@ -1,1 +1,1 @@
-* [Whiskey in the jar](/songs/abc/Blackstar/Whiskey%20in%20the%20jar)
+* [Whiskey in the jar](Whiskey%20in%20the%20jar)

@@ -1,1 +1,1 @@
-* [Cert na koze jel](/songs/jkl/Kabat/Cert%20na%20koze%20jel)
+* [Cert na koze jel](Cert%20na%20koze%20jel)

@@ -1,1 +1,1 @@
-* [See through...](/songs/abc/Billy/See%20through...)
+* [See through...](See%20through...)

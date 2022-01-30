@@ -1,1 +1,1 @@
-* [They Want War](/songs/stu/Udo/They%20Want%20War)
+* [They Want War](They%20Want%20War)

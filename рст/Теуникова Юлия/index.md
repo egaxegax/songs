@@ -1,1 +1,1 @@
-* [Eвaнгeлиe Oт Eгopa](/songs/рст/Теуникова%20Юлия/Eвaнгeлиe%20Oт%20Eгopa)
+* [Eвaнгeлиe Oт Eгopa](Eвaнгeлиe%20Oт%20Eгopa)

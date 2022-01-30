@@ -1,1 +1,1 @@
-* [Felkeszultem A Halalra](/songs/abc/Akela/Felkeszultem%20A%20Halalra)
+* [Felkeszultem A Halalra](Felkeszultem%20A%20Halalra)

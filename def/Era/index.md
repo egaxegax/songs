@@ -1,1 +1,1 @@
-* [Avemano](/songs/def/Era/Avemano)
+* [Avemano](Avemano)

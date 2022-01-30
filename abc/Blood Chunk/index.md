@@ -1,1 +1,1 @@
-* [Surgical Buffet](/songs/abc/Blood%20Chunk/Surgical%20Buffet)
+* [Surgical Buffet](Surgical%20Buffet)

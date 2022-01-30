@@ -1,1 +1,1 @@
-* [Truly Madly Deeply](/songs/stu/Savage%20Garden/Truly%20Madly%20Deeply)
+* [Truly Madly Deeply](Truly%20Madly%20Deeply)

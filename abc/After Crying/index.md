@@ -1,1 +1,1 @@
-* [Madrigal Love Part One](/songs/abc/After%20Crying/Madrigal%20Love%20Part%20One)
+* [Madrigal Love Part One](Madrigal%20Love%20Part%20One)

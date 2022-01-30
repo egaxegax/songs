@@ -1,2 +1,2 @@
-* [Hi-Fi](/songs/pqr/Potshot/Hi-Fi)
-* [Since Yesterday](/songs/pqr/Potshot/Since%20Yesterday)
+* [Hi-Fi](Hi-Fi)
+* [Since Yesterday](Since%20Yesterday)

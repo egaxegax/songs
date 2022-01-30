@@ -1,1 +1,1 @@
-* [Space Oddity](/songs/abc/Bowie%20David/Space%20Oddity)
+* [Space Oddity](Space%20Oddity)

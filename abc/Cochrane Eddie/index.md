@@ -1,1 +1,1 @@
-* [Summertime Blues](/songs/abc/Cochrane%20Eddie/Summertime%20Blues)
+* [Summertime Blues](Summertime%20Blues)

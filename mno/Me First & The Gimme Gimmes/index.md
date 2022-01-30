@@ -1,1 +1,1 @@
-* [Seasons in the Sun](/songs/mno/Me%20First%20&%20The%20Gimme%20Gimmes/Seasons%20in%20the%20Sun)
+* [Seasons in the Sun](Seasons%20in%20the%20Sun)

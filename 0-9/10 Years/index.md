@@ -1,1 +1,1 @@
-* [Waking up](/songs/0-9/10%20Years/Waking%20up)
+* [Waking up](Waking%20up)

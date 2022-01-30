@@ -1,1 +1,1 @@
-* [Papa](/songs/abc/Bos%20Stef/Papa)
+* [Papa](Papa)

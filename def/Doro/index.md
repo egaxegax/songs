@@ -1,1 +1,1 @@
-* [Rare Diamond](/songs/def/Doro/Rare%20Diamond)
+* [Rare Diamond](Rare%20Diamond)

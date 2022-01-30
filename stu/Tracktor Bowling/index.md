@@ -1,1 +1,1 @@
-* [Черта](/songs/stu/Tracktor%20Bowling/Черта)
+* [Черта](Черта)

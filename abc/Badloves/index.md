@@ -1,1 +1,1 @@
-* [Caroline](/songs/abc/Badloves/Caroline)
+* [Caroline](Caroline)

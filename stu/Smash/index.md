@@ -1,2 +1,2 @@
-* [The One To Cry](/songs/stu/Smash/The%20One%20To%20Cry)
-* [Молитва](/songs/stu/Smash/Молитва)
+* [The One To Cry](The%20One%20To%20Cry)
+* [Молитва](Молитва)

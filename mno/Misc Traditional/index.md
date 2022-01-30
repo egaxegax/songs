@@ -1,1 +1,1 @@
-* [Happy Birthday to you](/songs/mno/Misc%20Traditional/Happy%20Birthday%20to%20you)
+* [Happy Birthday to you](Happy%20Birthday%20to%20you)

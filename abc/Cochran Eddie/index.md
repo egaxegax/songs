@@ -1,1 +1,1 @@
-* [C'mon Everybody](/songs/abc/Cochran%20Eddie/C'mon%20Everybody)
+* [C'mon Everybody](C'mon%20Everybody)

@@ -1,3 +1,3 @@
-* [Code Of Silence](/songs/ghi/Grip%20Inc/Code%20Of%20Silence)
-* [Pathetic Liar](/songs/ghi/Grip%20Inc/Pathetic%20Liar)
-* [Rusty Nail](/songs/ghi/Grip%20Inc/Rusty%20Nail)
+* [Code Of Silence](Code%20Of%20Silence)
+* [Pathetic Liar](Pathetic%20Liar)
+* [Rusty Nail](Rusty%20Nail)

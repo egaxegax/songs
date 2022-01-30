@@ -1,1 +1,1 @@
-* [Child Migration](/songs/def/Eloy/Child%20Migration)
+* [Child Migration](Child%20Migration)

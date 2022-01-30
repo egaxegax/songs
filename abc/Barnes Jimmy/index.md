@@ -1,1 +1,1 @@
-* [No Second Prize](/songs/abc/Barnes%20Jimmy/No%20Second%20Prize)
+* [No Second Prize](No%20Second%20Prize)

@@ -1,1 +1,1 @@
-* [Path To Salvation](/songs/def/Darkwell/Path%20To%20Salvation)
+* [Path To Salvation](Path%20To%20Salvation)

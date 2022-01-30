@@ -1,1 +1,1 @@
-* [Holy Thunderforce](/songs/pqr/Rhapsody/Holy%20Thunderforce)
+* [Holy Thunderforce](Holy%20Thunderforce)

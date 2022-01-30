@@ -1,1 +1,1 @@
-* [Give Up](/songs/abc/Airdash/Give%20Up)
+* [Give Up](Give%20Up)

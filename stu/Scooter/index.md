@@ -1,1 +1,1 @@
-* [Eyes Without A Face](/songs/stu/Scooter/Eyes%20Without%20A%20Face)
+* [Eyes Without A Face](Eyes%20Without%20A%20Face)

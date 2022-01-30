@@ -1,1 +1,1 @@
-* [Big City Life](/songs/mno/Mattafix/Big%20City%20Life)
+* [Big City Life](Big%20City%20Life)

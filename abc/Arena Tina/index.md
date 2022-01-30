@@ -1,1 +1,1 @@
-* [Je M'Appelle Bagdad](/songs/abc/Arena%20Tina/Je%20M'Appelle%20Bagdad)
+* [Je M'Appelle Bagdad](Je%20M'Appelle%20Bagdad)

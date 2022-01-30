@@ -1,1 +1,1 @@
-* [Savoir aimer](/songs/pqr/Pagny%20Florent/Savoir%20aimer)
+* [Savoir aimer](Savoir%20aimer)

@@ -1,8 +1,8 @@
-![](/songs/mno/Mike%20Oldfield/mike_oldfield.jpg)  
+![](mike_oldfield.jpg)
 
 Британский мультиинструменталист и композитор.
 
-* [Afghan](/songs/mno/Mike%20Oldfield/Afghan)
-* [Altered State](/songs/mno/Mike%20Oldfield/Altered%20State)
-* [Amarok](/songs/mno/Mike%20Oldfield/Amarok)
-* [Amber Light](/songs/mno/Mike%20Oldfield/Amber%20Light)
+* [Afghan](Afghan)
+* [Altered State](Altered%20State)
+* [Amarok](Amarok)
+* [Amber Light](Amber%20Light)

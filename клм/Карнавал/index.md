@@ -1,1 +1,1 @@
-* [Чyдo-Ocтpoв](/songs/клм/Карнавал/Чyдo-Ocтpoв)
+* [Чyдo-Ocтpoв](Чyдo-Ocтpoв)

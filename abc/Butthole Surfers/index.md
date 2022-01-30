@@ -1,1 +1,1 @@
-* [Tv Star](/songs/abc/Butthole%20Surfers/Tv%20Star)
+* [Tv Star](Tv%20Star)

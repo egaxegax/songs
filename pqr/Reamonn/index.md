@@ -1,1 +1,1 @@
-* [Tonight](/songs/pqr/Reamonn/Tonight)
+* [Tonight](Tonight)

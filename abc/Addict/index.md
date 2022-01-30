@@ -1,1 +1,1 @@
-* [Think Again](/songs/abc/Addict/Think%20Again)
+* [Think Again](Think%20Again)

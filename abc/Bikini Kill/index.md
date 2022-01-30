@@ -1,4 +1,4 @@
-* [Alien She](/songs/abc/Bikini%20Kill/Alien%20She)
-* [Feels Blind](/songs/abc/Bikini%20Kill/Feels%20Blind)
-* [Rebel Girl](/songs/abc/Bikini%20Kill/Rebel%20Girl)
-* [Tell Me So](/songs/abc/Bikini%20Kill/Tell%20Me%20So)
+* [Alien She](Alien%20She)
+* [Feels Blind](Feels%20Blind)
+* [Rebel Girl](Rebel%20Girl)
+* [Tell Me So](Tell%20Me%20So)

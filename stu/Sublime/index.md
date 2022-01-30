@@ -1,1 +1,1 @@
-* [Santeria](/songs/stu/Sublime/Santeria)
+* [Santeria](Santeria)

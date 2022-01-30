@@ -1,1 +1,1 @@
-* [Will You](/songs/mno/O'Connor%20Hazel/Will%20You)
+* [Will You](Will%20You)

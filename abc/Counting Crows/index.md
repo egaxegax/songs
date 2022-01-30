@@ -1,3 +1,3 @@
-* [Einstein on the Beach](/songs/abc/Counting%20Crows/Einstein%20on%20the%20Beach)
-* [Omaha](/songs/abc/Counting%20Crows/Omaha)
-* [Raining In Baltimore](/songs/abc/Counting%20Crows/Raining%20In%20Baltimore)
+* [Einstein on the Beach](Einstein%20on%20the%20Beach)
+* [Omaha](Omaha)
+* [Raining In Baltimore](Raining%20In%20Baltimore)

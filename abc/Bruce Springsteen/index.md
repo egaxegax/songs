@@ -1,1 +1,1 @@
-* [Streets of Philadelphia](/songs/abc/Bruce%20Springsteen/Streets%20of%20Philadelphia)
+* [Streets of Philadelphia](Streets%20of%20Philadelphia)

@@ -1,5 +1,5 @@
-![](/songs/vwz/ZZ%20Top/zz_top.jpg)  
+![](zz_top.jpg)
 
 Американская блюз-рок-группа из Хьюстоне. Образовалась в 1969 году.
 
-* [LaGrange](/songs/vwz/ZZ%20Top/LaGrange)
+* [LaGrange](LaGrange)

@@ -1,1 +1,1 @@
-* [Belle](/songs/ноп/Петкун%20В/Belle)
+* [Belle](Belle)

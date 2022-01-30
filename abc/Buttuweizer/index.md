@@ -1,1 +1,1 @@
-* [Cкeйтboard](/songs/abc/Buttuweizer/Cкeйтboard)
+* [Cкeйтboard](Cкeйтboard)

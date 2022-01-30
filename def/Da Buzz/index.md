@@ -1,1 +1,1 @@
-* [How Could You Leave Me](/songs/def/Da%20Buzz/How%20Could%20You%20Leave%20Me)
+* [How Could You Leave Me](How%20Could%20You%20Leave%20Me)

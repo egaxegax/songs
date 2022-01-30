@@ -1,1 +1,1 @@
-* [It's My Life](/songs/def/Dr%20Alban/It's%20My%20Life)
+* [It's My Life](It's%20My%20Life)

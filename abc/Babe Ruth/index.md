@@ -1,1 +1,1 @@
-* [The Mexican](/songs/abc/Babe%20Ruth/The%20Mexican)
+* [The Mexican](The%20Mexican)

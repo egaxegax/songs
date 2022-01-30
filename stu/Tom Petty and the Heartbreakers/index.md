@@ -1,6 +1,6 @@
-![](/songs/stu/Tom%20Petty%20and%20the%20Heartbreakers/tom_petty_and_the_heartbreakers.jpg)  
+![](tom_petty_and_the_heartbreakers.jpg)
 
 Американский рок-музыкант и лидер группы **Tom Petty and the Heartbreakers**.
 
-* [Learning The Fly](/songs/stu/Tom%20Petty%20and%20the%20Heartbreakers/Learning%20The%20Fly)
-* [Mary Janes Last Dance](/songs/stu/Tom%20Petty%20and%20the%20Heartbreakers/Mary%20Janes%20Last%20Dance)
+* [Learning The Fly](Learning%20The%20Fly)
+* [Mary Janes Last Dance](Mary%20Janes%20Last%20Dance)

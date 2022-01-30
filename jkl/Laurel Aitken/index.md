@@ -1,1 +1,1 @@
-* [Skinhead](/songs/jkl/Laurel%20Aitken/Skinhead)
+* [Skinhead](Skinhead)

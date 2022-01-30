@@ -1,1 +1,1 @@
-* [Bad Time](/songs/ghi/Grand%20Funk/Bad%20Time)
+* [Bad Time](Bad%20Time)

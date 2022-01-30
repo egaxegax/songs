@@ -1,1 +1,1 @@
-* [Rambling Irishman](/songs/mno/Oysterband/Rambling%20Irishman)
+* [Rambling Irishman](Rambling%20Irishman)

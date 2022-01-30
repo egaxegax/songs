@@ -1,1 +1,1 @@
-* [You're beautiful](/songs/jkl/James%20Blunt/You're%20beautiful)
+* [You're beautiful](You're%20beautiful)

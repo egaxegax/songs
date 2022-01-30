@@ -1,1 +1,1 @@
-* [Homeboy](/songs/abc/Adorable/Homeboy)
+* [Homeboy](Homeboy)

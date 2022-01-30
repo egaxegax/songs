@@ -1,1 +1,1 @@
-* [Breath](/songs/stu/Ure%20Midge/Breath)
+* [Breath](Breath)

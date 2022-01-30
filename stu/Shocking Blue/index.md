@@ -1,1 +1,1 @@
-* [Venus](/songs/stu/Shocking%20Blue/Venus)
+* [Venus](Venus)

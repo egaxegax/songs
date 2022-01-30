@@ -1,5 +1,5 @@
-![](/songs/abc/Agnostic%20Front/agnostic_front.jpg)  
+![](agnostic_front.jpg)
 
 Американская хардкор-панк-группа из Нью-Йорка. Появилась в 1982 году.
 
-* [Crucified](/songs/abc/Agnostic%20Front/Crucified)
+* [Crucified](Crucified)

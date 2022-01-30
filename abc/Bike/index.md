@@ -1,1 +1,1 @@
-* [Take In The Sun](/songs/abc/Bike/Take%20In%20The%20Sun)
+* [Take In The Sun](Take%20In%20The%20Sun)

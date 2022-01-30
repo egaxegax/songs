@@ -1,6 +1,6 @@
-![](/songs/pqr/Richie%20Sambora/richie_sambora.jpg)  
+![](richie_sambora.jpg)
 
 Американский рок-музыкант. Бывший гитарист группы **Bon Jovi**.
 
-* [Ballad Of Youth](/songs/pqr/Richie%20Sambora/Ballad%20Of%20Youth)
-* [Rosie](/songs/pqr/Richie%20Sambora/Rosie)
+* [Ballad Of Youth](Ballad%20Of%20Youth)
+* [Rosie](Rosie)

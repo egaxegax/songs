@@ -1,1 +1,1 @@
-* [Belladonna](/songs/stu/UFO/Belladonna)
+* [Belladonna](Belladonna)

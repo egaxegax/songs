@@ -1,1 +1,1 @@
-* [Mean To Me](/songs/abc/Ahlert%20Fred/Mean%20To%20Me)
+* [Mean To Me](Mean%20To%20Me)

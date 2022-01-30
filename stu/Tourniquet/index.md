@@ -1,1 +1,1 @@
-* [Bearing Gresome Cargo](/songs/stu/Tourniquet/Bearing%20Gresome%20Cargo)
+* [Bearing Gresome Cargo](Bearing%20Gresome%20Cargo)
