@@ -1,3 +1,8 @@
+![](rolling_stones.jpg)
+
+Легендарная английская рок-группа, одна из основоположников жанра.
+
+
 * [19 Nervous Breakdown](19%20Nervous%20Breakdown)
 * [2000 Light Years From Here](2000%20Light%20Years%20From%20Here)
 * [2000 Light Years From Home](2000%20Light%20Years%20From%20Home)
