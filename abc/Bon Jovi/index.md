@@ -12,6 +12,7 @@
 * [Destination Anywhere](Destination%20Anywhere)
 * [Diamond Ring](Diamond%20Ring)
 * [Dirty Little Secret](Dirty%20Little%20Secret)
+* [Do What You Can](Do%20What%20You%20Can)
 * [Everyday](Everyday)
 * [I got the girl](I%20got%20the%20girl)
 * [I wish every day could](I%20wish%20every%20day%20could)
