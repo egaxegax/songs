@@ -44,6 +44,7 @@
 * [Rihanna](Rihanna)
 * [Ritchie Blackmore](Ritchie%20Blackmore)
 * [Robbie Williams](Robbie%20Williams)
+* [Robin Zander](Robin%20Zander)
 * [Robotech](Robotech)
 * [Rogers Stan](Rogers%20Stan)
 * [Rolling Stones](Rolling%20Stones)
