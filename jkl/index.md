@@ -22,6 +22,7 @@
 * [Kansas](Kansas)
 * [Kaplansky Lucy](Kaplansky%20Lucy)
 * [Kelly Paul](Kelly%20Paul)
+* [Kickboxer OST](Kickboxer%20OST)
 * [Killers](Killers)
 * [King Crimson](King%20Crimson)
 * [Kings Of Leon](Kings%20Of%20Leon)

@@ -1,5 +1,5 @@
 <!--2022-05-27 00:40:12-->
-*Stan Bush*  
+*Performed by Stan Bush*  
   
 My body's ready, my heart's on fire  
 I'm gonna push it over the wire  
