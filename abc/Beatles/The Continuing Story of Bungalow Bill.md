@@ -22,9 +22,9 @@ A Chorus: Hey bungalow bill  what did you kill bungalow bi
   
       ***Am              C                  F             G  Am***  
 A Verse: He went out tiger hunting with his elephant and gun  
-                 ***C           F***  
+    ***C           F***  
   In case of accidents he always took his mom  
-           ****Em             G      Am                  Fm*** (I think... maybe ***Cm***?)*  
+    ****Em             G      Am                  Fm*** (I think... maybe ***Cm***?)*  
   He's the all american bullet headed saxon mother's son  
   
 -  
@@ -38,7 +38,7 @@ CHORUS:  Hey bungalow bill  what did you kill bungalow bil
 VERSE:  He went out tiger hunting with his elephant and gun  
    ***Am             Am/C       F             G***  
   In case of accidents he always took his mom  
-            ***E             G            Am            Fm***  
+    ***E             G            Am            Fm***  
   He's the all american bullet headed Saxon mother's son  
   
   All the children sing...  

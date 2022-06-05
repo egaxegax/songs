@@ -13,11 +13,11 @@ Intro:  ***E***
   Now don't you try to turn me off  
   Cause it's gonna be hard to do  
   
-             ***A               B7***  
+    ***A               B7***  
   I've got a thing about you baby  
-        ***A             E***  
+    ***A             E***  
   Ain't nothing I can do  
-             ***A               E***  
+    ***A               E***  
   I've got a thing about you baby  
     ***B                  E***  
   A thing about lovin' you  

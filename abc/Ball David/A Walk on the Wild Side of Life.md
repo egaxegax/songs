@@ -2,30 +2,30 @@
 "Thinkin' Problem"  
   A Walk on the Wild Side of Life  
   
-              ***C            G***  
+    ***C            G***  
 C:  You're not gone, really gone  
-             ***C                G***  
+    ***C                G***  
   You'll be back, I know you will  
-               ***C        G***  
+    ***C        G***  
   You're just taking a walk  
-          ***D            C***  
+    ***D            C***  
   On the wild side of life  
   
-         ***G***  
+    ***G***  
 (1)  In my house are many heartaches  
-         ***C***  
+    ***C***  
   Loneliness is all around  
-             ***D***  
+    ***D***  
   Since you left for the life  
       ***G***  
   Of nights out on the town  
-            ***G***  
+    ***G***  
   I've got memories by the dozen  
-         ***C***  
+    ***C***  
   But I can't throw one away  
-         ***D***  
+    ***D***  
   Everything's just like you left it  
-        ***G***  
+    ***G***  
   And that's how it's gonna stay  
   
   *repeat chorus*  

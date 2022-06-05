@@ -5,9 +5,9 @@ Please Be With Me
   Oh my word what does it mean?  
   ***D     G             D***  
   Is it love or is it me  
-                  ***Em***  
+    ***Em***  
   That makes me change so suddenly  
-          ***Bm            G    D***  
+    ***Bm            G    D***  
   Looking out feeling free  
   
   Sit here lying in my bed  
@@ -17,9 +17,9 @@ Please Be With Me
   
   ***C              G              D          Em***  
 CHORUS:  So won't you please read my signs be a gypsy  
-           ***G              D           Em***  
+    ***G              D           Em***  
   Tell me what I hope to find deep within me  
-          ***G                  D              Bm      G D***  
+    ***G                  D              Bm      G D***  
   Because you can't know my mind please be with me  
   
   Of all the better things I've heard  

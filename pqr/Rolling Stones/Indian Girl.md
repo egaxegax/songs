@@ -42,9 +42,9 @@ G                  F
 Yes, I saw them today  
 G                     F  
 It`s a sight I would say  
-          C  
+    C  
 They`re shooting down planes  
-                          F  
+    F  
 With their M-16 and with laughter  
   
 VERSE:  

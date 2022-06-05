@@ -18,7 +18,7 @@
   A-tumbling and a-bumbling he will go  
   ***Em7/A                     F#m7/A***  
   All the king's horses and all the king's men  
-        ***Em7/A                     F#m7/A***  
+    ***Em7/A                     F#m7/A***  
   could never put a smile on that face  
   
   *(2)  follows the same pattern as (1)*  
@@ -35,7 +35,7 @@
      "...all to see at night"  
      "...you'd better watch out"  
      "...just a pool of tears"  
-                                                                        *(repeat)*  
+    *(repeat)*  
   ***D(no 3rd) G#o D7   D   G/D             D     A/D       G/D***  
   [-5-5-5-5---4---5-|---2---3-3---------|-2-3-2-0----5-0----|---3------------- ||  
   -3-3-3-3---3---3-|---3---3-3---------|-3-3-3-2----2-2--3-|---3--3---------- ||  
@@ -58,11 +58,11 @@
   Mirror mirror on the wall  
       ***Eb                              Bb           F***  
   his heart was broken long before he ever came to you  
-            ***Am7         Dm7      Dm7  Em7  Dm7  Em7***  
+    ***Am7         Dm7      Dm7  Em7  Dm7  Em7***  
   Stop your tears from falling  
       ***Eb                                 Bb            F***  
   The trail they leave is very clear for all to see at night  
-         ***Am7***  
+    ***Am7***  
   all to see at night  
   *(to "chorus")*  
   
@@ -99,14 +99,14 @@
   
   *Ending*  
   ***Bsus4  B                    F#m***  
-         All in all you are a very dying race  
+    All in all you are a very dying race  
   ***A                    E***  
   Placing trust upon a cruel world  
-                    ***B***  
+    ***B***  
   You never had the things you thought you should have had  
       ***F#m***  
   and you'll not get them now  
-               ***A                                    E             B***  
+    ***A                                    E             B***  
   and all the while in perfect time your tears are falling on the ground  
   
   *Where this goes from there, I'm not sure. I think there's a ***C#*** after the*  

@@ -5,7 +5,7 @@ Intro:  ***C G D C G D***
   
   ***D                                  G***  
   Tenkrat bylo veselo a dost malo se brecelo  
-                                            ***D***  
+    ***D***  
   kdo nas znal ten se smal prstem si klepal na celo  
   zivot bezel pozpatku a vsechno bylo v poradku  
   holky se nebaly ja je kousal do zadku  

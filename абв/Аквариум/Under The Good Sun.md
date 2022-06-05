@@ -4,7 +4,7 @@ Radio London (1990)
   
   ***D                              A***  
   They say it's always been the same  
-          ***G        A***  
+    ***G        A***  
   Throughout the years;  
   ***D                                F#m  G A***  
   They come they go they stay the same.  

@@ -4,17 +4,17 @@ Balance Of Power (1986)
   
   ***Gm***  
   I watch the cars move  
-                               ***F  Am  Dm***  
+    ***F  Am  Dm***  
   I watch the lights up on the window  
   ***Gm***  
   I walk along the street  
-                        ***F***  
+    ***F***  
   I'm only thinking of you  
   ***Gm                        F***  
   I watch the clock staring from the wall  
-             ***Bb***  
+    ***Bb***  
   It hardly moves at all  
-               ***C***  
+    ***C***  
   It's you I'm waiting for.  
   
   ***Am       Bb     Dm        C***  

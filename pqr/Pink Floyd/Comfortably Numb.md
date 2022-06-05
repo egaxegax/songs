@@ -4,9 +4,9 @@ The Wall (1979)
   
   ***Hm     A***  
   Hello (hello-hello) Is there anybody in there?  
-        ***G        G/F#  Em***  
+    ***G        G/F#  Em***  
   Just nod if you can hear me  
-             ***Hm***  
+    ***Hm***  
   Is there anyone home  
   
   Come on (come on come on) I hear you're feeling down  
@@ -23,7 +23,7 @@ The Wall (1979)
   A distant ship.  Smoke on the horizon.  
   ***C                               G***  
   You are only coming through in waves  
-        ***C                                      G***  
+    ***C                                      G***  
   Your lips move but I can't hear what you're saying.  
   ***D                            A***  
   When I was a child, I had a fever  
@@ -31,9 +31,9 @@ The Wall (1979)
   My hands felt just like two balloons  
   ***C                               G***  
   Now I've got that feeling once again  
-                         ***C***  
+    ***C***  
   I cannot put my finger on it now  
-                             ***G***  
+    ***G***  
   The child is grown.  The dream is gone  
   
 -  

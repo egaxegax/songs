@@ -1,48 +1,48 @@
 <!--2021-06-05 22:28:11-->
 ***C  D  Fmaj  Am  C  G  Dsus4 D***  
-       ***C  D  Fmaj  Am  C  D  Fmaj***  
+    ***C  D  Fmaj  Am  C  D  Fmaj***  
   
     There's a lady who's sure all that glitters is gold,  
-          ***Fmaj                 G/H Am***  
+    ***Fmaj                 G/H Am***  
     And she's buying a stairway to heaven.  
     When she gets there she knows if the stores are all closed,  
-          ***Fmaj                      G/H  Am***  
+    ***Fmaj                      G/H  Am***  
     With a word she can get what she came for.  
   
-          ***C         D   Fmaj  Am***  
-        Woe oh oh, oh oh oh.  
-          ***C        G           Dsus4 D***  
-        And she's buying a stairway to heaven.  
+    ***C         D   Fmaj  Am***  
+    Woe oh oh, oh oh oh.  
+    ***C        G           Dsus4 D***  
+    And she's buying a stairway to heaven.  
   
-         ***C           D             Fmaj        Am***  
+    ***C           D             Fmaj        Am***  
     There's a sign on the wall, but she wants to be sure,  
-          ***C              D              Fmaj***  
+    ***C              D              Fmaj***  
     'Cause you know sometimes words have two meanings.  
     In a tree by the brook, there's a songbird who sings,  
-         ***Fmaj                       G/H Am***  
+    ***Fmaj                       G/H Am***  
     Sometimes all of our thoughts are misgiven.  
   
-          ***G/H Am | Am | Am7 | Am7***  
+    ***G/H Am | Am | Am7 | Am7***  
   
-          ***Dsus4 D          Am7     Em/D D C/D D***  
-        Ooo, it makes me wonder.  
-          ***Am7 Dsus4 D      Am7  Em/D D C/D D***  
-        Ooo, makes me wonder.  
+    ***Dsus4 D          Am7     Em/D D C/D D***  
+    Ooo, it makes me wonder.  
+    ***Am7 Dsus4 D      Am7  Em/D D C/D D***  
+    Ooo, makes me wonder.  
   
   
-           ***C         G/H        Am***  
+    ***C         G/H        Am***  
     There's a feeling I get when I look to the west,  
-           ***C         G/H        Fmaj Am***  
+    ***C         G/H        Fmaj Am***  
     And my spirit is crying for leaving.  
-           ***C               G/H           Am***  
+    ***C               G/H           Am***  
     In my thoughts I have seen rings of smoke through the trees,  
-           ***C         G/H             Fmaj Am  C G/H Am7***  
+    ***C         G/H             Fmaj Am  C G/H Am7***  
     And the voices of those who stand looking.  
   
-          ***Dsus4 D                Am7 Em/D D C/D D***  
-        Ooo, it makes me wonder.  
-          ***Am7 Dsus4 D                     Am7 Em/D D C/D D***  
-        Ooo, it really makes me wonder.  
+    ***Dsus4 D                Am7 Em/D D C/D D***  
+    Ooo, it makes me wonder.  
+    ***Am7 Dsus4 D                     Am7 Em/D D C/D D***  
+    Ooo, it really makes me wonder.  
   
     And it's whispered that soon if we all call the tune,  
     Then the piper will lead us to reason.  
@@ -60,10 +60,10 @@
       ***C             G/H                Fmaj        Am  C G/H***  
     There's still time to change the road you're on.  
   
-         ***Am7 Dsus4 D          Am7     Em/D D C/D D***  
-        And it makes me wonder.  
-         ***Am7 Dsus4 D  Am7  Dsus4 D C/D D***  
-        Ahh.  
+    ***Am7 Dsus4 D          Am7     Em/D D C/D D***  
+    And it makes me wonder.  
+    ***Am7 Dsus4 D  Am7  Dsus4 D C/D D***  
+    Ahh.  
   
     Your head is humming and it won't go,  
     In case you don't know,  
@@ -91,4 +91,4 @@
       ***Am      G               Fmaj  Am C/G Fmaj***  
     To be a rock and not to roll.  
   
-         And she's buying a stairway to heaven...
+    And she's buying a stairway to heaven...

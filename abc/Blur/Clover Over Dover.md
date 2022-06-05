@@ -17,7 +17,7 @@
   On the white cliffs of Dover  
   And then I'd let you push me over  
   
-            ***C#m           B                 A     G#m         F#m(sus4) F#             B  C***  
+    ***C#m           B                 A     G#m         F#m(sus4) F#             B  C***  
   And if that is the fact then in actual fact it's not where it's at and it's over  
   *(Repeat)*  
   

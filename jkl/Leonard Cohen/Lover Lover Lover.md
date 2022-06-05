@@ -26,23 +26,23 @@
   
  Em (VII)        Am (V)  
      I asked my father,  
-                                Em (VII)  
+    Em (VII)  
      I said, "Father change my name."  
-                 Am (V)  
+    Am (V)  
      The one I?m using now it?s covered up  
-                                            Em (VII)  
+    Em (VII)  
      with fear and filth and cowardice and shame.  
   
-              C (III)  
+    C (III)  
      Yes and lover, lover, lover, lover, lover,  
-                        G (III)  
+    G (III)  
      lover, lover come back to me,  
-              C (III)  
+    C (III)  
      yes and lover, lover, lover, lover, lover,  
-                        G (III)  
+    G (III)  
      lover, lover come back to me.  
   
-                  Am (V)...  
+    Am (V)...  
      He said, "I locked you in this body,  
      I meant it as a kind of trial.  
      You can use it for a weapon,  

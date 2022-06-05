@@ -1,7 +1,7 @@
 <!--2020-09-05 03:53:39-->
 Intro  
 (the bass starts it up then the drums and the guitar come in.)  
-       He uses mostly octives.  
+    He uses mostly octives.  
 G|--------------------------------------- | I think you repeat  
 D|----2-------5-----7----2-------5-----7-*| it Four times then,  
 A|---------------------------------------*|  

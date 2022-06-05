@@ -15,7 +15,7 @@ Verse 1: You can dance, you can jive
   having the time of your life.  
       ***D              Bm7***  
   Oh, see that girl, watch that scene,  
-              ***A***  
+    ***A***  
   Diggin' the dancing queen.  
   ***A                                       D***  
   Friday night and the lights are low.  
@@ -25,7 +25,7 @@ Verse 1: You can dance, you can jive
   Where they play the right music  
   ***E              Esus4***  
   Getting in the swing.  
-                  ***E    F#m7***  
+    ***E    F#m7***  
   You've  come to look for a king.  
   ***A                     D***  
   Anybody could be that guy.  
@@ -35,12 +35,12 @@ Verse 1: You can dance, you can jive
   With a bit of rock music  
   ***E             Esus4***  
   Everything is fine,  
-                ***E    F#m7***  
+    ***E    F#m7***  
   You're in the mood for a dance.  
-                       ***Bm7     E***  
+    ***Bm7     E***  
   And when you get the chance...  
   
-              ***A              D                     A             D***  
+    ***A              D                     A             D***  
 Chorus:  You are the dancing queen, young and sweet, only seventeen.  
   ***A              D                      Amaj9 A***  
   Dancing queen, feel the beat from the tam - bourine.  
@@ -52,7 +52,7 @@ Chorus:  You are the dancing queen, young and sweet, only 
   having the time of your life.  
       ***D              Bm7***  
   Oh, see that girl, watch that scene,  
-              ***A***  
+    ***A***  
   Diggin' the dancing queen.  
   
 Verse 2: You're a tease, you turn 'em on.  

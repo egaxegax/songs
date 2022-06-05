@@ -23,7 +23,7 @@ Chorus:  Those were the days of our lives
   The bad things in life were so few  
    ***C   F/C  C   G/B  Am  G Bb  Fsus2  Bb   F/A***  
   Those days are all gone now, but     one thing is true  
-           ***C/G         G          F***  
+    ***C/G         G          F***  
   When I look, and I find I still love you  
   
 (2)  You cant turn back the clock, you cant turn back the tide  

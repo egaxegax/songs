@@ -4,12 +4,12 @@ I'll Follow the Sun
   
   ***A        G7          D            E7***  
   One day, you'll look, to see I've gone  
-        ***D          Bm    E7       A7         D***  
+    ***D          Bm    E7       A7         D***  
   For tomorrow may rain, so, I'll follow the sun  
   
   ***A         G7          D          E7***  
   Some day, you'll know, I was the one  
-        ***D          Bm     E7      A7         D***  
+    ***D          Bm     E7      A7         D***  
   But tomorrow may rain, so, I'll follow the sun  
   
    ***D  D7         G7                 Gm                D***  
@@ -21,7 +21,7 @@ I'll Follow the Sun
   
   ***A        G7           D           E7***  
   One day, you'll find, that I have gone  
-        ***D          Bm     E7     A7         D***  
+    ***D          Bm     E7     A7         D***  
   But tomorrow may rain so, I'll follow the sun  
   
 -  
@@ -42,14 +42,14 @@ I'll Follow the Sun
   ***G*** One day ***F7*** you'll find ***C*** that I have ***D7*** gone.  
   For to***C***morrow may ***Am/B*** rain so ***D7*** I'll ***G7*** follow the ***C*** sun. ***F C***  
   
-        ***G         F7        C         D7***  
+    ***G         F7        C         D7***  
   [(e) |----3----|----5----|-----8-7-|-10------|  
   (B) |-3-------|-4-------|---8-----|---------|  
   (G) |---------|---------|---------|---------|  
   (D) |---------|---------|---------|---------|  
   (A) |---------|---------|---------|---------|  
   (E) |---------|---------|---------|---------|]  
-        1 2 3 4   1 2 3 4   1 2 3 4   1 2 3 4  
+    1 2 3 4   1 2 3 4   1 2 3 4   1 2 3 4  
   
   Yes, to***C***morrow may ***Am/B*** rain, so ***D7*** I'll ***G7*** follow the ***C*** sun.  
   

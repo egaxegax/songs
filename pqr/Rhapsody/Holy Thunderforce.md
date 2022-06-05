@@ -18,17 +18,17 @@ Holy Thunderforce
    ***F      B       C***  
   Hit my golden shield  
   
-            ***F                 C***  
+    ***F                 C***  
   So we'll fight against the wind  
-            ***A           Dm***  
+    ***A           Dm***  
   For the glory of the kings  
-         ***B      F    C***  
+    ***B      F    C***  
   To defeat the evil enemies  
-             ***F             C***  
+    ***F             C***  
   And we'll ride with our lord  
-           ***A               Dm***  
+    ***A               Dm***  
   For the power and the throne  
-          ***B       F     C  A  Dm***  
+    ***B       F     C  A  Dm***  
   In the name of holy thunderforce  
   
   Arwald and Aresius with the nordic warrior  

@@ -5,8 +5,8 @@ Freak On A Leash
   
   *Tuning:*  
   *Seven String guitar tuned down one whole step*  
-                *(From Low To High)*  
-           *Standard    To Play This Song*  
+    *(From Low To High)*  
+    *Standard    To Play This Song*  
   *7 string    [B                A]*  
   *6 string    [E                D]*  
   *5 string    [A                G]*  
@@ -26,7 +26,7 @@ Freak On A Leash
   *Intro/Verse (Without Drums)*:*  
   
   *Riff A*  
-        *Munky           Head*  
+    *Munky           Head*  
   [D||--------19------||---------24----||  
   A||-17--------18---||-----22--------||  
   F||----------------||-21------------||  
@@ -51,16 +51,16 @@ Freak On A Leash
   D||-----------------||------------||  
   A||-----------------||------------||]  
      **-To get this note to*  
-       *sound like Munky does*  
-       *use a Flanger set to*  
-       *vibrato (I just turn all*  
-       *the way clock-wise.)*  
+    *sound like Munky does*  
+    *use a Flanger set to*  
+    *vibrato (I just turn all*  
+    *the way clock-wise.)*  
   **These Riffs are only done when David plays the verse with the band*  
   
   *Pre Chorus:*  
   
   *Riff C*  
-        *Munky & Head*  
+    *Munky & Head*  
   [D||----------------------------------------||  
   A||----------------------------------------||  
   F||-13/-14-13---13---13/-14-13---13--10--||  
@@ -70,7 +70,7 @@ Freak On A Leash
   A||----------------------------------------||]  
   
   *Riff D*  
-        *Munky & Head*  
+    *Munky & Head*  
   [D||-------------------||  
   A||-------------------||  
   F||-13/-14-13---13---||  
@@ -82,7 +82,7 @@ Freak On A Leash
   *Chorus:*  
   
   *Riff E*  
-        *Munky & Head*  
+    *Munky & Head*  
   [D||------------------------------||  
   A||------------------------------||  
   F||------------------------------||  
@@ -94,7 +94,7 @@ Freak On A Leash
   *Bridge:*  
   
   *Riff F*  
-        *Munky & Head*  
+    *Munky & Head*  
   [D||----------10-10------------10-10p9h10p9--||  
   A||-----------------------------------------||  
   F||-----------------------------------------||  
@@ -104,7 +104,7 @@ Freak On A Leash
   A||-----------------------------------------||]  
   
   *Riff G*  
-        *Munky or Head (One keeps playing Riff F)*  
+    *Munky or Head (One keeps playing Riff F)*  
   [D||----------10-10------------10-10p9h10p9--||  
   A||-----------------------------------------||  
   F||-----------------------------------------||  
@@ -112,12 +112,12 @@ Freak On A Leash
   G||-----------------------------------------||  
   D||----9--9-----------9--9------------------||  
   A||-----------------------------------------||]  
-                              *Play these notes*  
-                              *with the Flanger*  
-                              *the same way you*  
-                              *used it in Riff B.*  
+    *Play these notes*  
+    *with the Flanger*  
+    *the same way you*  
+    *used it in Riff B.*  
   *Riff H*  
-        *Munky & Head*  
+    *Munky & Head*  
   [D||----------------||  
   A||----------------||  
   F||----------------||  
@@ -127,7 +127,7 @@ Freak On A Leash
   A||-2-3-4-5--------||]  
   
   *Riff I*  
-        *Munky & Head*  
+    *Munky & Head*  
   [D||-------------||  
   A||-------------||  
   F||-------------||  
@@ -139,7 +139,7 @@ Freak On A Leash
   *Last Chorus:*  
   
   *Riff J*  
-        *Munky & Head*  
+    *Munky & Head*  
   [D||---------------------------||  
   A||---------------------------||  
   F||---------------------------||  
@@ -149,7 +149,7 @@ Freak On A Leash
   A||-------------------7--8-6--||]  
   
   *Riff K*  
-        *Munky or Head*  
+    *Munky or Head*  
   [D||--7---------/19----7--|---------8-----5--||  
   A||-----------------------|------------------||  
   F||-----------------------|------------------||  

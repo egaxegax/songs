@@ -9,7 +9,7 @@ The Spell
   Don't you know I know... what it is you're scheming  
     ***Bb***  
   Who'd you think gave you the right.. hidden by the dead of night  
-                                        ***D***  
+    ***D***  
   To take the world and turn it upside down... when it should be round  
    ***D       G/D     D7      G/D      D       G/D   D7       G/D***  
   Seems I made it just in time...to use my reason and my rhyme  
@@ -65,7 +65,7 @@ The Spell
   D|--------------------------------------------------------------|  
   A|--------------------------------------------------------------|  
   E|--------------------------------------------------------------|  
-       ***Eb       Abm          Db      Fm             G***  
+    ***Eb       Abm          Db      Fm             G***  
   E|-------------------------------------------------------15-15-|  
   B|-9-8-8-9-11-12-12-11-9-7-6-6-7-9--------------------/15------|  
   G|---------------------------------10-10----10-11-12-----------|  
@@ -79,7 +79,7 @@ The Spell
   D|--------------------------------------------------|  
   A|--------------------------------------------------|  
   E|--------------------------------------------------|  
-       ***Eb       Abm                Db           F***  
+    ***Eb       Abm                Db           F***  
   E|-----------------------------------------------------13-13--13-15--15-----------|  
   B|-9-8-8-9-11-1211/12-12-11-9-7-6/76-6-6----------/13-----13-----15---15-16-13-|  
   G|----------------------------------------10----10--------------------------------|  
@@ -87,11 +87,11 @@ The Spell
   A|--------------------------------------------------------------------------------|  
   E|--------------------------------------------------------------------------------|]  
   *(piano) [|Cm---|F---|Cm---|F---|Cm---|Ab---|Bb---|Eb---|Cm----|----|]*  
-        ***Cm              F            Cm                  F***  
+    ***Cm              F            Cm                  F***  
   But when the night is over... and daytime steals your cover  
-       ***Cm              Ab***  
+    ***Cm              Ab***  
   The goodness of the morning sun  
-        ***Bb             Eb                   Cm***  
+    ***Bb             Eb                   Cm***  
   Will warm away what you have done... and leave you cold  
   *(piano)[|Dm---|G---|Dm---|G---|Dm---|Bb---|C---|F---|]*  
   |Dm---|----|  
@@ -113,7 +113,7 @@ The Spell
   Brought from every corner of the world  
    ***D        G/D    D         G/D          D     G/D      D7       G/D***  
   You will never break the spell... I'll summon all the fires of hell  
-        ***D      G/D  D7        G/D      G***  
+    ***D      G/D  D7        G/D      G***  
   And this is my advice for what it's worth  
    ***C      Cm/Eb G          C        Cm/Eb  G***  
   Let us not begin...this fight we cannot win  

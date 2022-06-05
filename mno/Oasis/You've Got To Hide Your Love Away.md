@@ -8,7 +8,7 @@ You've Got To Hide Your Love Away
   *since I didn't want to shell out $30 for that import single.*  
   
   *Chords used:*  
-           [EADGBe]  
+    [EADGBe]  
   ****G*** ([3x0033])*  
   ****D/F#*** ([2x0232])*  
   ****F*** ([x33211])*  

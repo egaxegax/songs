@@ -42,15 +42,15 @@ I'm mad about you   I'm mad about you
   
 Cadd9                         E7aug  
 And I have never in my life  
-                    Asus4  
+    Asus4  
 Felt more alone than I do now  
 A#                               F  
 Although I claim dominions over all I see  
 C/E  
 It means nothing to me  
-              Dm7  
+    Dm7  
 There are no victories  
-           Adim7                E     E7  
+    Adim7                E     E7  
 In all our histories, without love  
   
 A stone's throw from Jerusalem  
@@ -68,7 +68,7 @@ Of everything I see
 With every prison blown to dust,  
     Adim7        E  
 My enemies walk free  
-       Fmaj7             Dm7  
+    Fmaj7             Dm7  
 Though all my kingdoms turn to sand  
     Adim7          E  
 And fall into the sea  

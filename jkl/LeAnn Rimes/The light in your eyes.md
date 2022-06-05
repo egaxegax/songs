@@ -31,7 +31,7 @@ The light in your eyes
   Don't lose faith and don't lose heart  
   ***F                   G                    F***  
   When you're crying just keep trying to remind yourself  
-                     ***G***  
+    ***G***  
   You're a shining star Yes, you are  
   
   ***C                                          G        C***  

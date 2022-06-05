@@ -13,15 +13,15 @@ But still my love for you will live forever.
 Refrain:  
 F                     Am  
 Hasta manana ?till we meet again.  
-           D                  Gm  
+    D                  Gm  
 Don?t know where, don?t know when.  
-                                 C  
+    C  
 Darling, our love was much too strong to die.  
 Gm                         C    C7  
 We?ll find a way to face a new tomorrow.  
 F                       Am  
 Hasta Manana, say we?ll meet again.  
-        D          Gm  
+    D          Gm  
 I can?t do without you.  
 B  
 Time to forget, send me a letter,  
@@ -41,7 +41,7 @@ Db7
   
 F#                      Bm  
 Hasta Manana, say we?ll meet again.  
-       Eb         Abm  
+    Eb         Abm  
 I can?t do without you.  
 H  
 Time to forget, send me a letter,  

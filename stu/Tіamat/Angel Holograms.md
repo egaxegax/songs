@@ -16,9 +16,9 @@ Angel Holograms
   
   ***H5***  
 Припев:  The face of God                       \  
-             ***E5                          \***  
+    ***E5                          \***  
   In velvet black                         } 2 раза  
-       ***G5               A5               /***  
+    ***G5               A5               /***  
   The skies are full of angel holograms /  
   
 (2)  The London Bridge is burning down  

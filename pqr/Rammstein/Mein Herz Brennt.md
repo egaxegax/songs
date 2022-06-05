@@ -13,7 +13,7 @@ Die Augenlider zu erpressen
 Ich singe bis der Tag erwacht  
 Ein heller Schein am Firmament  
   
-            Dm   Ddim  
+    Dm   Ddim  
 Mein Herz brennt  
   
 Sie kommen zu euch in der Nacht  

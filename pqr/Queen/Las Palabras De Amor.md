@@ -25,13 +25,13 @@ Hot Space 1982
   The special promises  
   ***D         A***  
   I want to hear  
-        ***D                G/B D/A***  
+    ***D                G/B D/A***  
   Las palabras de amor  
-         ***A                       G/B D/A***  
+    ***A                       G/B D/A***  
   Let me hear the words of love  
   ***D***  
   Despacito mi amor  
-            ***A      G/B A/C#***  
+    ***A      G/B A/C#***  
   Love me slow and gently  
   *(Repeat the same chords for the other verse)*  
   One foolish world,  
@@ -45,7 +45,7 @@ Hot Space 1982
   Las palabras de amor  
   Let me hear the words of love  
   Despacito mi amor  
-                    ***G/B   A/C# G/D D***  
+    ***G/B   A/C# G/D D***  
   Let me know, this night and  evermore  
   This room is bare  
   This night is cold  

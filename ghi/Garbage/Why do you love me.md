@@ -9,7 +9,7 @@ Intro:  ***E5 G5 E5 A5 | E5 G5 E5 A5 | E5*** } 2x
   And I am not as pretty as those girls in magazines  
   I am rotten to my core if they're to be believed  
   
-       ***C                                D***  
+    ***C                                D***  
   So what if I'm no baby bird hanging upon your every word?  
   Nothing ever smells of roses that rises out of mud  
   

@@ -13,9 +13,9 @@ Intro:  ***E5  B5  A5  B5***
   Yes I think you've seen me before  
   ***C#           B5              C#***  
   If you hear something late at night  
-                ***B5                  A5***  
+    ***B5                  A5***  
   Some kind of trouble, some kind of fight  
-                 ***B5***  
+    ***B5***  
   Just don't ask me what it was  
   ***A5          B5***  
      Just don't ask me what it was  
@@ -50,9 +50,9 @@ Intro:  ***E5  B5  A5  B5***
   Yes I think you've seen me before  
   ***C#           B5              C#***  
   If you hear something late at night  
-                ***B5                  A5***  
+    ***B5                  A5***  
   Some kind of trouble, some kind of fight  
-                 ***B5***  
+    ***B5***  
   Just don't ask me what it was  
   ***A5          B5***  
      Just don't ask me what it was  

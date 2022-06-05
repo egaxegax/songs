@@ -22,11 +22,11 @@ Just looking for a home
    E  
 In every place I see  
   
-                   Am Dm  
+    Am Dm  
 I?m the freedom man  
-       E           Am Dm  
+    E           Am Dm  
 I?m the freedom man  
-       E           Am Dm  
+    E           Am Dm  
 I?m the freedom man  
-          E           Am E  
+    E           Am E  
 That?s how lucky I am

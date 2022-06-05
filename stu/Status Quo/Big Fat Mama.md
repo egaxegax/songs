@@ -124,17 +124,17 @@
   And there is nobody else  
   ***A***  
   I'm gonna tell you woman better do as you're told  
-         ***D                    Db   C   B***  
+    ***D                    Db   C   B***  
   If you don't, I'm gonna bringing you down  
-             ***A***  
+    ***A***  
   I've got a big fat Mama  
-              ***C      D      A***  
+    ***C      D      A***  
   And there's no one else around  
-         ***A***  
+    ***A***  
   I said say you need me  
-              ***C***  
+    ***C***  
   Come on and say you need me  
-         ***D                 A***  
+    ***D                 A***  
   I said say you need me  
   
   [-----------------|----------------|  
@@ -146,9 +146,9 @@
   
   ***A***  
   Say you need me  
-              ***C***  
+    ***C***  
   Come on and say you need me  
-         ***D                A***  
+    ***D                A***  
   I said say you need me  
   
   *during Solo:*  

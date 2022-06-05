@@ -4,35 +4,35 @@ Was It Something I Said
   *chorus:*  
   ***G                   C***  
   Was it something I said,  
-                      ***G***  
+    ***G***  
   Or something you read?  
-                         ***D***  
+    ***D***  
   That's changing your mind,  
-                        ***G***  
+    ***G***  
   That's turning you around?  
-                  ***C***  
+    ***C***  
   Was somebody wrong,  
-                ***G***  
+    ***G***  
   Or somebody right?  
-                            ***D***  
+    ***D***  
   What was it made up your mind?  
-                          ***G***  
+    ***G***  
   What could change overnight?  
-                       ***C***  
+    ***C***  
   And if all of your friends  
-                   ***G***  
+    ***G***  
   That used to be mine  
-                       ***D***  
+    ***D***  
   Come down off the fence  
-                        ***G***  
+    ***G***  
   I'd swear that you'd find:  
-                     ***C***  
+    ***C***  
   I can hate you no more  
-                      ***G***  
+    ***G***  
   I can't even the score  
-                      ***D***  
+    ***D***  
   Almost half of my life  
-                            ***C***  
+    ***C***  
   Just fell right on the floor.  
   ***C                     D***  
   Don't you come 'round here no more  

@@ -3,7 +3,7 @@ My Fist Your Face
   
   [     MMMMMMMM   MMMMMMMM]  
   *[D5/E5E5E5E5E5/D5D5D5D5D5/   X4]       [M] - Palm Mute*  
-                                       *[/] - Slide*  
+    *[/] - Slide*  
   ***B A B A E   X2***  
   ***A E         X4***  
   *Riff A*  

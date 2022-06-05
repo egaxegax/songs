@@ -15,7 +15,7 @@ Intro:  [e||--------------------4------------------|
   
   ***Bm | F | Bm | F***  
   
-       ***Bm      Am           Dm          B***  
+    ***Bm      Am           Dm          B***  
   I'm very sure, this never happened to me before  
   ***Bm     F       B***  
   I met you and now I'm sure  

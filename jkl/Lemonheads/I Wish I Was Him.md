@@ -5,20 +5,20 @@ I Wish I Was Him
   
     ***D                                  A***  
 verse1:  i feel real stupid when i say it out loud  
-         ***D                              A***  
+    ***D                              A***  
   like i'm just jealous of a silver cloud  
-       ***D                                      A***  
+    ***D                                      A***  
   he looks real good, he drinks diet coke  
       ***D                                      A***  
   he gets his enemies sent by air not boat  
   
 chorus:  tacket          ***D                                           G***  
   i wish i was him,  gets the women at his feet  
-                             ***D                            G***  
+    ***D                            G***  
   with all his cool friends,  has no enemies  
-                       ***D                                       G***  
+    ***D                                       G***  
   i wish i was him ,  gets his records for free  
-                       ***D    A             G            } x4***  
+    ***D    A             G            } x4***  
   i wish i was him,  
   
   *2nd&3rd verse and chorus same chords*  

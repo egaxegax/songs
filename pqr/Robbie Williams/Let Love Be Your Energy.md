@@ -3,9 +3,9 @@ Let Love Be Your Energy
   
   ***Bb       Eb      Bb      Eb     Bb***  
   Out of a million seeds  
-           ***Db            Bb***  
+    ***Db            Bb***  
   Only the strongest one breathes  
-             ***Db***  
+    ***Db***  
   You made a miracle mother  
   ***Bb***  
   I'll make a man out of me  
@@ -13,15 +13,15 @@ Let Love Be Your Energy
   Daddy where's the sun gone from the sky?  
   ***F#             H                 Ab***  
   What did we do wrong, why did it die?  
-              ***H                                   Eb***  
+    ***H                                   Eb***  
   And all the grown ups say 'sorry kids we got no reply'  
-                       ***Ab         Db***  
+    ***Ab         Db***  
   If you're willing to change the world  
-                   ***Eb***  
+    ***Eb***  
   Let love be your energy  
-                       ***Ab***  
+    ***Ab***  
   I've got more than I need  
-       ***Db                    Eb***  
+    ***Db                    Eb***  
   When your love shines down on me  
   Every tear that you cry  
   Will be replaced when you die  
@@ -43,9 +43,9 @@ Let Love Be Your Energy
   People show me love  
   ***Ab***  
   Well if you want it come and make a stance  
-                       ***Db***  
+    ***Db***  
   So when it's in your hands  
-                  ***Eb***  
+    ***Eb***  
   People show me love  
   If you're willing to change the world  
   Let love be your energy  

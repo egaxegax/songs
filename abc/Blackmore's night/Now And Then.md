@@ -9,9 +9,9 @@ intro:  ***C C* G7 E Am Am/G F G***
   The past time so familiar  
       ***Dm                       Am***  
   But that's why you couldn't stay  
-           ***F***  
+    ***F***  
   Too many ghosts,  
-           ***C***  
+    ***C***  
   too many haunted dreams  
   ***Dm***  
   Beside you were built  
@@ -21,7 +21,7 @@ intro:  ***C C* G7 E Am Am/G F G***
   But after all these years,  
   ***E                         Am***  
   I thought we'd still hold on  
-             ***F***  
+    ***F***  
   But when I reach for you  
       ***C***  
   and search your eyes  
@@ -31,19 +31,19 @@ intro:  ***C C* G7 E Am Am/G F G***
   That's OK  
   ***G***  
   I'll be fine  
-       ***E                        Am***  
+    ***E                        Am***  
   I've got myself, I'll heal in time  
-               ***F***  
+    ***F***  
   But when you leave just  
   ***C                G***  
   remember what we had...  
-                   ***C             G***  
+    ***C             G***  
   There's more to life than just you  
   ***E                          Am***  
   I may cry but I'll make it through  
-        ***F             C              G***  
+    ***F             C              G***  
   And I know that the sun will shine again  
-                                    ***C***  
+    ***C***  
   Though I may think of you now and then...  
   ***C C* G7 E Am Am/G F G***  
   Can't do a thing with ashes  

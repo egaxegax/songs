@@ -5,7 +5,7 @@ Tapioca Tundra
 Intro:  (slow)  
   ***A        A+      F#m      Adim***  
   / / / /  / / / /  / / / /  / / / /  
-           One two  three four  five  
+    One two  three four  five  
   ***Bm       E        Bm       E***  
   / / / /  / / / /  / / / /  / / / /  
     Four   three    two one   zero  
@@ -19,9 +19,9 @@ Intro:  (slow)
 Verse 1: Reasoned verse, some prose or rhymes  
   ***F#m                Adim***  
   Lose themselves in other times  
-       ***Bm                 E***  
+    ***Bm                 E***  
   And waiting hopes cast silent spells  
-        ***Bm               E***  
+    ***Bm               E***  
   That speak in crowded clues  
      ***Bm           F***  
   It cannot be a part of me  
@@ -35,7 +35,7 @@ Verse 2: Careful plays on fields that seem to
   It cannot be a part of me  
   For now it's part of you  
   
-             ***C#***  
+    ***C#***  
 Bridge:  (2: Well) Sunshine, ragtime  
    ***F#m***  
   Blowing in the breeze  

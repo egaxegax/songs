@@ -27,9 +27,9 @@ Magic Touch
   E------------------------------------------------------------]  
   ***F***  
   I tried to ...  
-                ***G              E***  
+    ***G              E***  
   but ...  
-               ***Am    F***  
+    ***Am    F***  
   I need your magic touch  
    ***C         G***  
   ...  
@@ -50,7 +50,7 @@ Magic Touch
   til ..  
   ***C                     F***  
   I'm ...  
-                      ***G***  
+    ***G***  
   gonna ...  
   *Some of the solo at the end is just a variation of what the second*  
   *guitar plays in the intro.*

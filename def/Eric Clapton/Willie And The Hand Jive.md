@@ -5,7 +5,7 @@
   ***G***  
   I know a cat named Way Out Willie  
   Got a cool little chick named Rockin' Millie  
-          ***C***  
+    ***C***  
   He can walk and stroll and Suzy-Q  
    ***G***  
   Do the crazy hand jive too  
@@ -15,7 +15,7 @@
   Uncle gave sister a dime  
   Do the hand jive one more time  
   
-         ***C          G          D                  G***  
+    ***C          G          D                  G***  
 CHORUS:  Hand jive, hand jive, hand jive, do that crazy jive  
   
   Doctor, a lawyer and an Indian chief  

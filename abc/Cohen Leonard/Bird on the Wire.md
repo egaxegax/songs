@@ -10,11 +10,11 @@ J'ai cherche ma liberte")
 A.. ...|E.. ...|A.. ...|D.. ...|  
 A.. ...|E.. ...|A.. Asus4..|A.. ...|  
   
-        A           E  
+    A           E  
 Like a bird on the wire  
-         A                      D  
+    A                      D  
 Like a drunk in some midnight choir  
-         A          E          A.. Asus4..|A.. ...|  
+    A          E          A.. Asus4..|A.. ...|  
 I have tried in my way to be free  
   
 Like a worm on a hook  
@@ -27,7 +27,7 @@ If I, if I have been unkind
 I hope you can, I hope you can just let it all go by, go by  
 D                            A  
 And if I, if I have been untrue  
-                   Bm                                         E.Esus4..|E...|  
+    Bm                                         E.Esus4..|E...|  
 It's just that I thought a lover had to be some kind of liar too  
   
 Like a baby, stillborn  
@@ -47,7 +47,7 @@ Just a little more?"
   
 Like a bird on the wire  
 Like a drunk in some old midnight choir  
-         A          E          D  A  
+    A          E          D  A  
 I have tried in my way to be free  
   
   

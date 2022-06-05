@@ -18,7 +18,7 @@ Intro:  [E|----------------|----------------|----------------|--------------
   *Chorus:*  
       ***F   D           C***  
   But whe-re will you go  
-       ***F                G#            G***  
+    ***F                G#            G***  
   When no-one's left to save you from yourself  
   ***F         D***  
   You can't escape  
@@ -28,7 +28,7 @@ Intro:  [E|----------------|----------------|----------------|--------------
   *Chorus 2:*  
       ***F   D           C***  
   But whe-re will you go  
-       ***F                G#            G***  
+    ***F                G#            G***  
   When no-one's left to save you from yourself  
   ***F         D          c***  
   You can't escape the tru-th  
@@ -44,7 +44,7 @@ Intro:  [E|----------------|----------------|----------------|--------------
   *Chorus 3:*  
   ***B   Ab          F#***  
   whe-re will you go  
-       ***B                D             C#***  
+    ***B                D             C#***  
   When no-one's left to save you from yourself  
   ***B         Ab         F#***  
   You can't escape the tru-th  
@@ -294,9 +294,9 @@ Intro:  ***Cm G# Bb***
   ***Cm            G#***  
   You?re the one who cries when you?re alone  
   
-       ***Bb Cm         G#***  
+    ***Bb Cm         G#***  
   But where will you go  
-          ***Bb           B?               Cm***  
+    ***Bb           B?               Cm***  
   With no one left to save you from yourself  
   ***G#           G***  
   You can?t escape  
@@ -313,22 +313,22 @@ Intro:  ***Cm G# Bb***
   You can?t escape  
   You don?t want to escape  
   
-       ***E           B/D#               D           C#***  
+    ***E           B/D#               D           C#***  
   I?m so sick of speaking words that no one understands  
-          ***F#m              D                   F#m            D***  
+    ***F#m              D                   F#m            D***  
   Is it clear enough that you can?t live your whole life allalone  
-        ***F#m             D             F#m              D    G#***  
+    ***F#m             D             F#m              D    G#***  
   I can hear you in a whisper but you can?t even hear me screaming  
   
    ***E F#m          A***  
   where will you go  
-          ***E           F?                F#m***  
+    ***E           F?                F#m***  
   With no one left to save you from yourself  
   ***D          A/C# C#7(4) C#7***  
   You can?t escape  
   ***E F#m               A***  
   I realize you?re afraid  
-       ***E           F?            F#m***  
+    ***E           F?            F#m***  
   But you can?t reject the whole world  
   ***D          A/C#***  
   You can?t escape  
@@ -336,5 +336,5 @@ Intro:  ***Cm G# Bb***
   You won?t to escape  
   ***D          A/C#***  
   You can?t escape  
-       ***D         C#       F#m D E***  
+    ***D         C#       F#m D E***  
   You don?t want to escape

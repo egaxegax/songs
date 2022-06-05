@@ -10,11 +10,11 @@ Intro:  ***G***
 Verses:  I knew a girl and I like her still  
       ***G         D              D           D7    G***  
   she said she knew she would trust me and I her will...  
-          ***G  D             C           D7***  
+    ***G  D             C           D7***  
   I said: OK baby, tell me what you'll be  
-           ***G      D             A          D    D***  
+    ***G      D             A          D    D***  
   and I'll lay my head down and see what I see.  
-         ***G              D         C    D7***  
+    ***G              D         C    D7***  
   By the time she was back by her open eyes  
     ***G               D        C       D***  
   I knew that I was in for a big surprise.  

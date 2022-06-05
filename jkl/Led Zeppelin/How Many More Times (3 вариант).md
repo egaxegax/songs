@@ -5,7 +5,7 @@ How many more times treat me the way you wanna do?
 How many more times treat me the way you wanna do?  
   
 When I give you all my love  
-                        D  A  E7  
+    D  A  E7  
 Please, please be true.  
 E7  
 I'll give you all I got to give, rings, pearls and all.  
@@ -13,7 +13,7 @@ I'll give you all I got to give, rings, pearls and all.
 I'll give you all I've got to give, rings, pearls and all.  
   
 I've got to get you together baby,  
-          A7  
+    A7  
 I'm sure, sure you're gonna crawl.  
   
 Iwas a young man, I couldn't resist  

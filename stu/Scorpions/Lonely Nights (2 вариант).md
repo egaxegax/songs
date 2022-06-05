@@ -25,7 +25,7 @@ Bringin' it back all so clear
 Remember all of those days  
 Wishing you were here  
   
-           Am            F  
+    Am            F  
 All those lonely nights, lonely nights  
  Am              F  
 Lonely nights, lonely nights  

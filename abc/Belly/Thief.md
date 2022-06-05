@@ -10,7 +10,7 @@ Thief
   --0---1---1---3---3---2--]  
   *(Tom plays acoustic guitar by himself, Tanya sings)*  
   ***C F C***  
-                      ***C***  
+    ***C***  
   She wears her dress high  
      ***F                                  G***  
   As high as she pulls her hat down low  
@@ -19,39 +19,39 @@ Thief
   Those other people can't go  
   ***F    C       F C***  
   And hold her  
-                   ***C***  
+    ***C***  
   I'm touched by the sea (I'm touched by the sea)  
-        ***F                                            G***  
+    ***F                                            G***  
   She's walking on water when she walks in her sleep  
   She's dragging me through places  
   ***C       F            G    G' F# F'***  
   I didn't wanna be seen  
-           ***G     C***  
+    ***G     C***  
   She is a liar  
-           ***F      G' F# F'***  
+    ***F      G' F# F'***  
   As i am a thief  
-                     ***G***  
+    ***G***  
   (Be)cause of you I came  
-                      ***C     F C***  
+    ***C     F C***  
   (Be)cause of you i leave  
-              ***C               F***  
+    ***C               F***  
   I wanna know (I wanna know)  
-                                    ***G***  
+    ***G***  
   Why the monsters that hurt you so  
   Don't look like those things that  
   ***C          F       G    G' F# F'***  
   We battled so long ago  
-                   ***G***  
+    ***G***  
   And I thought I did my part  
-               ***C               F       C***  
+    ***C               F       C***  
   When I pulled you out of there  
-                      ***G    F     C  F  G    G' F# F'***  
+    ***G    F     C  F  G    G' F# F'***  
   That night you left boot-marks on my wall  
-            ***G***  
+    ***G***  
   You are my liar  
      ***C               F        G' F# F'***  
   So I will be your thief  
-                   ***G***  
+    ***G***  
   Because of you I came  
   (enter band)  
   ***C          F     G***  

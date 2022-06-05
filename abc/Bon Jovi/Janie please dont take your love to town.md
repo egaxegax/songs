@@ -2,25 +2,25 @@
 C         G            Am  
 Sitting here just watching you sleep,  
   
-             F               C  
+    F               C  
 Wish I could slip inside and be,  
   
-        F            C        G  
+    F            C        G  
 In some technicolour dream,  
   
 C                 G                      Am  
 But the air's too thick for one of us to breathe,  
   
-        F              C  
+    F              C  
 I'm not fool enough to think,  
   
-             F                 C      G  
+    F                 C      G  
 You couldn't live life without me,  
   
 F                  G                C  
 I didn't come this far to throw the towel in,  
   
-         F               G           C  
+    F               G           C  
 I didn't fight this hard to walk away,  
   
    Am              E       F  
@@ -42,13 +42,13 @@ Jaine don't take your love to town,
   
 Chorus:  
   
-                F         G       C  
+    F         G       C  
 Jaine don't you take your love to town,  
   
-                F         G       C  
+    F         G       C  
 Jaine don't you take your love to town,  
   
-               Am        E    F  
+    Am        E    F  
 If I've got to beg, I'll beg, just don't walk away  
   
 F               G         C  

@@ -11,7 +11,7 @@ Opel
   
   *INTRO TAB:*  
   *h means hammer on, [/] means slide*  
-                                            ***A***  
+    ***A***  
   [|-----------------------------------------0----------------------------|  
   |-----------------------------------------2----------------------------|  
   |-----------------------------------------2----------------------------|  
@@ -19,7 +19,7 @@ Opel
   |-4h5-4-------2h3-2-------0-h2-0----------0----------------------------|  
   |-0---0-5/2-0-0---0---0-2-----------------x----------------------------|]  
   
-       ***A              E***  
+    ***A              E***  
 VERSES:  On a distant shore, miles from land  
   ***G                                    D***  
   Stands the ebony totem in ebony sand,  
@@ -45,9 +45,9 @@ VERSES:  On a distant shore, miles from land
   Dry Tears.  
   ***A                         E***  
   Crisp flax squeaks.  Tall reeds  
-        ***G              D***  
+    ***G              D***  
   Make a circle of grey  
-       ***A***  
+    ***A***  
   In a summer way, around man  
   ***B        A***  
   so don't drown  
@@ -58,7 +58,7 @@ VERSES:  On a distant shore, miles from land
     *------  ------ ------*  
     ****G       C      D***      means a measure of ***G***, one of ***C*** and one of ***D***)*  
   *unusual chords used:*  
-       ****Cadd9***:  [x32030]*  
+    ****Cadd9***:  [x32030]*  
   *begin bridge:*  
     *------ ------ ------ ------ ------ ------ ------ ------ ------ ------*  
     ***Cadd9  C      Bb            Cadd9  C      Bb     F      Am***  

@@ -16,11 +16,11 @@
   OUT IN THE STREET IT'S SIX A.M. ANOTHER SLEEPLESS NIGHT  
    ***F#                         Bm***  
   THREE CUPS OF COFFEE BUT I CAN'T CLEAR MY HEAD  
-         ***A                  G***  
+    ***A                  G***  
   FROM WHAT WENT DOWN LAST NIGHT  
      ***F#                   Bm***  
   I KNOW WE BOTH HAVE OUR OWN LITTLE WAYS  
-       ***A                    G***  
+    ***A                    G***  
   BUT SOMEHOW WE KEEP IT TOGETHER  
   ***F#                              Bm***  
   YOU HEAR ME TALK BUT YOU DON'T HEAR WHAT I SAY  
@@ -37,17 +37,17 @@
   I'VE ALWAYS LISTENED TO YOUR POINT OF VIEW  
       ***A                  G***  
   MY WAYS I'VE TRIED TO MEND  
-       ***F#                 Bm***  
+    ***F#                 Bm***  
   AND I'VE ALWAYS BEEN A PATIENT MAN  
-          ***A                        G***  
+    ***A                        G***  
   BUT MY PATIENCE HAS REACHED IT'S END  
-       ***F#                          Bm***  
+    ***F#                          Bm***  
   YOU TELL ME YOU'RE LEAVIN'  YOU TELL ME GOODBYE  
-       ***A                    G***  
+    ***A                    G***  
   YOU SAY YOU MIGHT SEND A LETTER  
-              ***F#                       Bm***  
+    ***F#                       Bm***  
   WELL HONEY DON'T TELEPHONE 'CAUSE I WON'T BE ALONE  
-          ***A                       G     F#***  
+    ***A                       G     F#***  
   I NEED SOMEONE TO MAKE ME FEEL BETTER  
    ***Bm           G7        F#7                    Bm***  
   BLUE MORNING BLUE DAY  WON'T YOU SEE THINGS MY WAY  

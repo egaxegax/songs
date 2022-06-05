@@ -8,11 +8,11 @@ Lazy Days
   Come out to play  
   ***C***  
   The future lies with you  
-                    ***Dm     F***  
+    ***Dm     F***  
   Now you can be sure love is the cure  
-                             ***Dm***  
+    ***Dm***  
   What we're searching for  
-          ***Db                    F***  
+    ***Db                    F***  
   Is to have a jolly good time  
   Crazy days but you'll get me through  
   And here I'll stay holdin' on to you  

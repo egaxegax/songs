@@ -12,29 +12,29 @@ Ebm (6 6 8 8 7 6)
 Bb  (1 1 3 3 3 1)  
 Abm (4 6 6 4 4 4)  
   
-          Em  
+    Em  
 Little fifteen  
-                 B7  
+    B7  
 You help her forget  
      B5       Em  
 The world outside  
-                      B7  
+    B7  
 You?re not part of it yet  
     B5             Em  
 And if you could drive  
-                     B7  
+    B7  
 You could drive her away  
       B5       Em  
 To a happier place  
-              B7  
+    B7  
 To a happier day  
 B5                   Am  
 That exists in your mind  
-              B  
+    B  
 And in your smile  
-             Am  
+    Am  
 She could escape there  
-             B  
+    B  
 Just for a while  
   
 Little fifteen  
@@ -55,37 +55,37 @@ Little fifteen
   
 B5         C#m   G#7  
 Little fifteen  
-           Ebm  
+    Ebm  
 Little fifteen  
-                        Bb  
+    Bb  
 Why does she have to defend  
-                Ebm  
+    Ebm  
 Her feelings inside  
-        Bb  
+    Bb  
 Why pretend  
-                 Ebm  
+    Ebm  
 She?s not had a life  
-                Bb  
+    Bb  
 A life of near misses  
-                 Ebm  
+    Ebm  
 Now all that she wants  
-                 Bb  
+    Bb  
 Is three little wishes  
-                            Abm  
+    Abm  
 She wants to see with your eyes  
-                               Bb  
+    Bb  
 She wants to smile with your smile  
-                      Abm  
+    Abm  
 She wants a nice surprise  
-                  Bb  
+    Bb  
 Every once in a while  
-                            Abm  
+    Abm  
 She wants to see with your eyes  
-                               Bb  
+    Bb  
 She wants to smile with your smile  
-                      Abm  
+    Abm  
 She wants a nice surprise  
-                  Bb  
+    Bb  
 Every once in a while  
-           Eb  
+    Eb  
 Little fifteen

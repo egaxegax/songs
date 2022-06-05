@@ -2,9 +2,9 @@
 Am  
 When you walk through the garden  
 You'd better watch your back  
-                 Dm  
+    Dm  
 And I beg your pardon  
-                       Am  
+    Am  
 Walk the straight and narrow track  
   
 When you walk with Jesus  

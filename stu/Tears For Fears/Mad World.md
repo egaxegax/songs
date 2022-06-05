@@ -22,17 +22,17 @@ The Hurting (1983)
   
   ***Em                    A***  
   And I find it kind of funny,  
-                    ***Em***  
+    ***Em***  
   I find it kind of sad,  
-                          ***A***  
+    ***A***  
   The dreams in which I'm dying  
-                          ***Em***  
+    ***Em***  
   are the best I've every had.  
-                    ***A***  
+    ***A***  
   I find it hard to tell you,  
-                          ***Em***  
+    ***Em***  
   cause I find it hard to take,  
-                     ***A***  
+    ***A***  
   when people run in circles,  
   it's a very, very  
   ***Em   G  A    Em  G   A    Em G   A     Em G   A***  

@@ -17,8 +17,8 @@ Im Not Your Stepping Stone
   You're reading all them high fashion magazines  
   The cloths you're wearing lately causing public scenes  
   I said I I I I I'm not your stepping stone  
-         I I I I I'm not your stepping stone  
-         Not your stepping stone Not your stepping stone  
+    I I I I I'm not your stepping stone  
+    Not your stepping stone Not your stepping stone  
   When I first met you girl, you didn't have no shoes  
   But now your walkin' 'round like your front page news  
   You've been awful careful about the friends you choose  
@@ -26,7 +26,7 @@ Im Not Your Stepping Stone
    *-&gt; fade*  
   *********** The Chords ******************  
   *Disclaimer:  I don't have the recording or my guitar*  
-               *at the terminal with me, and my memory isn't flawless*  
+    *at the terminal with me, and my memory isn't flawless*  
   *The chords for this are fairly simple, making this a good song*  
   *for a beginning band.*  
   *The basic pattern is:*  

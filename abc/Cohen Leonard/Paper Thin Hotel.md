@@ -6,9 +6,9 @@ Fmaj7:    xx3210
 D7/f#:    200212  
   
 Intro: F . . . |F6 . . . |Fmaj7 . . . |F6 . . . |  
-       Gm . . . |C7 . . . |Gm . . . |C7 . . . |  
-       F . . . |F6 . . . |Fmaj7 . . . |F6 . . . |  
-       Gm . . . |C7 . . . |Gm . . . |C7 . . . |  
+    Gm . . . |C7 . . . |Gm . . . |C7 . . . |  
+    F . . . |F6 . . . |Fmaj7 . . . |F6 . . . |  
+    Gm . . . |C7 . . . |Gm . . . |C7 . . . |  
   
 F              D7/f#   Gm           C7  
 The walls of this hotel are paper-thin  
@@ -27,7 +27,7 @@ F                         Gm
 In fact a burden lifted from my soul  
 C7                            F  
 I heard that love was out of my control  
-                        Gm  
+    Gm  
 A heavy burden lifted from my soul  
 C7                              F . . . |F6 . . . |Fmaj7 . . . |F6 . . . |  
 I learned that love was out of my control  

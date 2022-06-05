@@ -13,19 +13,19 @@ Riff 1:       ***C***
   
       ***C***  
   Hey baby, I ain't askin' much of you  
-                          ***F7                           C***  
+    ***F7                           C***  
   No no no no no no no no baby, I ain't askin' much of you  
-         ***G7                  F7        C***  
+    ***G7                  F7        C***  
   Just a big-a big-a hunk o' love will do  
-             ****C***                 (Riff 1)*  
+    ****C***                 (Riff 1)*  
   Don't be a stingy little mama  
-                  ****C***                      (Riff 1)*  
+    ****C***                      (Riff 1)*  
   you're 'bout to starve me half to death,  
       ***C***  
   now you could spare a kiss or two and still have plenty left.  
-            ***F7                           C***  
+    ***F7                           C***  
   Oh no no, Baby, I ain't askin' much of you.  
-         ***G7                  F7        C***  
+    ***G7                  F7        C***  
   Just a big-a big-a hunk o' love will do.  
   *Piano solo:*  
   You're just a natural born beehive  

@@ -4,11 +4,11 @@ Time (1981)
   
   ***Bb***  
   Well, I came a long way to be here today  
-                                 ***Eb***  
+    ***Eb***  
   And I left you so long on this avenue  
-        ***F***  
+    ***F***  
   And here I stand in the strangest land  
-                      ***Bb***  
+    ***Bb***  
   Not knowing what to say or do  
   
   As I gaze around at these strangers in town  
@@ -28,7 +28,7 @@ Time (1981)
   
   ***Eb               F***  
   Too late, too late to cry  
-          ***Bb A  Dm***  
+    ***Bb A  Dm***  
   The people say  
   ***Bb              C                 F  F7***  
   Too late for you, too late for me  
@@ -39,9 +39,9 @@ Time (1981)
   
 Solo:  ***Bb Eb F Bb***  
   
-          ***F***  
+    ***F***  
   And I wonder (oh, I wonder), yes, I wonder (yes, I wonder)  
-                                   ***Bb***  
+    ***Bb***  
   Is this the way life's meant to be?  
   As I wander around this wreck of a town  
   Where people never speak aloud  
@@ -53,13 +53,13 @@ Solo:  ***Bb Eb F Bb***
   And I wonder (oh, I wonder), yes, I wonder (yes, I wonder)  
   Is this the way life's meant to be?  
   
-          ***C***  
+    ***C***  
   And I wonder (oh, I wonder), yes, I wonder, wonder, wonder, wonder  
-                                    ***F***  
+    ***F***  
   Is this the way life's meant to be?  
       ***C***  
   Ooohh, I wonder, oh, I wonder, wonder, wonder  
-                                    ***F***  
+    ***F***  
   Is this the way life's meant to be?  
   
    ***C                                    F***  

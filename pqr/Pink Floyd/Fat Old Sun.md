@@ -14,7 +14,7 @@ Distant bells, new mown grass smells so sweet
 G            D              F               C             G  
 By the river holding hands, roll me up and lay me down  
   
-          C (strum once)  
+    C (strum once)  
 And if you sit, don't make a sound.  
 Pick your feet up off the ground  
 And if you hear as the warm night falls  
@@ -32,7 +32,7 @@ Children's laughter in my ears
 F                  C           G  
 The last sunlight disappears  
   
-          C (strum once)  
+    C (strum once)  
 And if you sit, don't make a sound  
 Pick your feet up off the ground  
 And if you hear as the warm night falls  
@@ -187,7 +187,7 @@ G---------------------------------10-----10-----10---------
 D---7--5--------------------------10h12--10h12--10---------  
 A---------7\5-5--5--5h7b(8)-/-12---------------------------  
 E----------------------------------------------------------  
-                        slowly fade out...  
+    slowly fade out...  
 e----------------------------------------------------------  
 B--------------------------------------------16h13-16b(18)-  
 G---10-----10-----10---------------------------------------  

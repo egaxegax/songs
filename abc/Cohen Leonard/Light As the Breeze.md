@@ -8,17 +8,17 @@ Intro: C . . |/g . . |C . . |/g . . |  (x2)
   
       C  
 She stands before you naked  
-         Dm  
+    Dm  
 You can see it, you can taste it  
-         G               G7         C  
+    G               G7         C  
 And she comes to you light as the breeze  
-              C  
+    C  
 Now you can drink it or you can nurse it  
-          Dm  
+    Dm  
 It don't matter how you worship  
     G  
 As long as you're  
-               C  
+    C  
 Down on your knees  
   
 So I knelt there at the delta  
@@ -73,7 +73,7 @@ O baby I waited
 So long for your kiss  
 For something to happen  
 Oh something like this  
-                 G#dim  
+    G#dim  
 Something like this  
   
 There's blood on every bracelet  
@@ -84,15 +84,15 @@ But don't forget there's still a woman
 Beneath this  
 Resplendent chemise  
   
-       E7  
+    E7  
 So I knelt there at the delta  
-       Am  
+    Am  
 At the alpha and the omega  
     E7                        F  
 I knelt there like one who believes  
-          C  
+    C  
 And the blessings come from heaven  
-         G#dim  
+    G#dim  
 And for something like a second  
      Gsus4  
 I'm cured and my heart  

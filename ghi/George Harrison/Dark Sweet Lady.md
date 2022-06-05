@@ -13,7 +13,7 @@ intro:  ***D   F#m   C***
   
   ****D  F#m        C*** (or ***C7*** riff)      ***A****  
 verses:  my dark sweet lady  
-                ***D***  
+    ***D***  
   your heart so close to mine  
   ***D   F#m      C***  
   you shine so heavenly  
@@ -24,7 +24,7 @@ verses:  my dark sweet lady
 chorus:  you came and helped me through     when i'd let go  
   ***B             F#m             C***  
   you came from out the blue  
-                            ***A***  
+    ***A***  
   never have known what i'd done without you  
   
   *(repeat.....)*  

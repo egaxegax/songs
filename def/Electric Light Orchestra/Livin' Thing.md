@@ -36,17 +36,17 @@ Live at Wembley'78 (1988)
   Sailin' away on the crest of a wave, it's like magic  
    ***Ab                                              Fm***  
   Rollin' and ridin' and slippin' & slidin', it's magic  
-       ***Em                    Dm***  
+    ***Em                    Dm***  
   And you, and your sweet desire,  
-           ***Em   Dm       Em       F       G***  
+    ***Em   Dm       Em       F       G***  
   You took me, oh-oh, higher and higher, baby  
   ***C       Am              F***  
   It's a livin' thing,  
-          ***D7        G+       C***  
+    ***D7        G+       C***  
   It's a terrible thing to lose  
-          ***Am              F***  
+    ***Am              F***  
   It's a given thing  
-          ***D7        G+       C***  
+    ***D7        G+       C***  
   What a terrible thing to lose.  
   ***Bbm               F                 G***  
   (Taking a dive) (halt the slide)  

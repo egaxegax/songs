@@ -54,14 +54,14 @@ Intro:  ***Dm*** / ***C*** : ***G***
   
   ***Am                            Dm              Dm-C-Bb***  
   A mother and her baby in the college of war  
-                   ***C***  
+    ***C***  
   In the concrete grave  
   ***Dm                C                 Bb         F***  
   You never want to fight against the river law  
   ***Gm                Bb***  
   Nobody rules the waves  
   
-              ***C             A7           Dm***  
+    ***C             A7           Dm***  
   Yeah, on a night when the lazy wind is wailing  
   ***Bb                 C***  
   Around the cutting saw  
@@ -146,9 +146,9 @@ Intro:  ***Dm*** / ***C*** : ***G***
   -----------------------------------------------------1212&lt;10--------  
   ------------------------------------------------------------------12vv--  
   ------------------------------------------------------------------------]  
-          *I'm not sure about this ending...I have not found my CD*  
-          *Communique at home. This transcription may be not totally*  
-          *correct.*  
+    *I'm not sure about this ending...I have not found my CD*  
+    *Communique at home. This transcription may be not totally*  
+    *correct.*  
   
 -  
   
@@ -157,7 +157,7 @@ Intro:  ***Dm*** / ***C*** : ***G***
 Intro:  ***Dm / C : G*** } 2 times  
   
   ***Dm     C                  Bb           F***  
-         Two in the morning dry-dock town  
+    Two in the morning dry-dock town  
   ***Dm                C              Bb - F***  
   The river rolled away in the night  
   ***Dm                 C             Bb      F***  
@@ -172,13 +172,13 @@ Intro:  ***Dm / C : G*** } 2 times
   
   ***Am                            Dm             Dm-C-Bb***  
   A mother and her baby and the College of war  
-                      ***C***  
+    ***C***  
   And the concrete grave  
   ***Dm                C                 Bb         F***  
   You never want to fight against the river law  
   ***Gm                      Bb***  
   Nobody rules the waves  
-              ***C              A7           Dm***  
+    ***C              A7           Dm***  
   Yeah, on a night when the lazy wind is wailing  
   ***Bb                   C***  
   Around the _Cutty Sark_  

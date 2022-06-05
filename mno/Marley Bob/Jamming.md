@@ -3,7 +3,7 @@ Hm       Em
 We?re jamming  
 G          F#  
  I wanna jam it with you,  
-       Hm       Em  
+    Hm       Em  
 We?re jamming, jamming  
 G                   F#  
  And I hope you like jamming too  

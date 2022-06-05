@@ -4,36 +4,36 @@ Old Before I Die
   
   ***A***  
   She's taking me places  
-           ***A/F#m      A/G***  
+    ***A/F#m      A/G***  
   I should never have been  
   ***A***  
   She's showin' me faces  
-             ***F#m    G***  
+    ***F#m    G***  
   I should never have seen  
   ***A***  
   Well these are strange days  
-         ***F#m***  
+    ***F#m***  
   We're livin' in today  
   ***G***  
   C'est la vie I say  
-                ***A  F#m***  
+    ***A  F#m***  
   I hope I'm old  
-            ***D E***  
+    ***D E***  
   Before I die  
-              ***A       F#m***  
+    ***A       F#m***  
   I hope I live to relive  
-                ***D E***  
+    ***D E***  
   The days gone by  
-                ***A  F#m      Hm  D***  
+    ***A  F#m      Hm  D***  
   I hope I'm old before I die  
-         ***A***  
+    ***A***  
   But tonight I'm gonna  
   Live for today  
-                        ***Hm***  
+    ***Hm***  
   So come along for the ride  
-                ***D***  
+    ***D***  
   I hope I'm old  
-           ***A***  
+    ***A***  
   Before I die  
   She's not feeling stable  
   She's unable to breathe  

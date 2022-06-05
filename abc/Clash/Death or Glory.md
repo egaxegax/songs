@@ -10,7 +10,7 @@ Death or Glory
   *Not being British, I've substituted "boy" for "yob" in verse 2.*  
   
   *INTRO (quiet/acoustic): ***D A G D  D A G D****  
-        *(then loud/electric): ***G D A D  G D A D****  
+    *(then loud/electric): ***G D A D  G D A D****  
   
       ***D                          A***  
   Now every cheap hood strikes a bargain with the world  
@@ -45,7 +45,7 @@ CHORUS:  Death or glory becomes just another story
   
   *CHORUS*  
   
-              ****D       A                     G        D*** (throughout)*  
+    ****D       A                     G        D*** (throughout)*  
 BRIDGE:  We're gonna march a long way, we're gonna travel a long time  
   We're gonna travel over mountains, we're gonna travel over seas  
   We're gonna fight you brother, we're gonna fight 'til you lose  

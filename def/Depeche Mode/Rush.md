@@ -86,9 +86,9 @@ Riff 5:  (Nb: not quite what's on the record but close e
   Couldn't make any plans, to conceal me  
   ***Em***  
   Open your sensitive mouth, hold out your delicate hands  
-                                              ***Bm***  
+    ***Bm***  
   With such a sensitive mouth, I'm easy to see through  
-              ***A          G                Bm***  
+    ***A          G                Bm***  
   When I come up, when I rush, I rush for you  
   *(Following verse/chorus as above)*  
   Cry for you, seen the tears, roll down from my eyes for you  
@@ -107,6 +107,6 @@ Riff 5:  (Nb: not quite what's on the record but close e
   And because of the things, That I saw for you  
   ***Em            Bm                A          G                Bm***  
   I spiritually grew, when I come up, when I rush, I rush for you  
-              ***A          G                Bm***  
+    ***A          G                Bm***  
   when I come up, when I rush, I rush for you  
   *(Repeat to fade)*

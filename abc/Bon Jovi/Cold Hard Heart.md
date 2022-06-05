@@ -28,7 +28,7 @@ I can?t see you looking back as you walk out the door
   
       F  
   Cold, hard heart  
-       C  
+    C  
   Cold, cruel heart  
     G  
   What?s it gonna take  
@@ -44,7 +44,7 @@ I said I?d offer you protection, but you didn?t charge a f
   
      F  
   Cold, hard heart  
-       C  
+    C  
   Cold, cruel heart  
     G  
   What?s it gonna take  
@@ -52,7 +52,7 @@ I said I?d offer you protection, but you didn?t charge a f
   To break your cold hard heart  
       F  
   Cold, cold heart  
-           C  
+    C  
   You cold, cruel heart  
     G  
   What?s it gonna take  
@@ -84,7 +84,7 @@ Then you?d give yourself what you could give to me
  To break your cold hard heart  
      F  
  Cold, cold heart  
-          C  
+    C  
  You cold, cruel heart  
    G  
  What?s it gonna take  

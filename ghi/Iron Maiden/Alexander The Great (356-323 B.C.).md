@@ -1,13 +1,13 @@
 <!--2020-09-05 10:43:18-->
 Am  
 Near to the east  
-             G  
+    G  
 In a part of ancient Greece  
 Dm                            G---E  
 In an ancient land called Macedonia  
 Am  
 Was born a son  
-             G  
+    G  
 To Philip of Macedon  
 Dm                          G---E  
 The legend his name was Alexander  

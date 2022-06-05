@@ -3,13 +3,13 @@ D* - 000232 в перемежку с 000233 и чем-нибуд
   
  D*                 Em  
 Green light, Seven Eleven  
-         G                      D*  
+    G                      D*  
 You stop in for a pack of cigarettes  
-                             Em  
+    Em  
 You don't smoke, don't even want to  
    G                    D*  
 Hey now, check your change  
-                   Em  
+    Em  
 Dressed up like a car crash  
       G                           D*  
 The wheels are turning but you're upside down  
@@ -30,12 +30,12 @@ You could lip synch to the talk shows
   
  Em                              F#m  
 And if you look, you look through me  
-                            G  
+    G  
 And when you talk it's not to me  
-                                 A  
+    A  
 And when I touch you, you don't feel a thing  
   
-             G                Em                 D*  
+    G                Em                 D*  
 If I could stay... then the night would give you up  
   G              Em                D*  
 Stay, and the day would keep its trust  
@@ -52,7 +52,7 @@ And if you listen I can't call
 And if you jump, you just might fall  
 And if you shout I'll only hear you  
   
-             G                Em                 D*  
+    G                Em                 D*  
 If I could stay... then the night would give you up  
   G              Em                D*  
 Stay, and the day would keep its trust  

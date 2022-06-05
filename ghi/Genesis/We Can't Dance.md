@@ -39,11 +39,11 @@ We Can't Dance
   A:-3-3--5--5------|---3-/5-5----|--3-3--5-5---|--1-/--3-3-3h4p3--|  
   E:-3-3--3--3------|---1-/3-3----|--3-3--3-3---|--1-/--3-3--------|]  
       Hot sun    Beating           Burning  wal-  around  
-       down  my feet   king  
+    down  my feet   king  
   ***C C G G   F  G G***  
-        Hot sun        beating down  
+    Hot sun        beating down  
   ***C C G G      Bb       C***  
-        burning my feet just walking around.  
+    burning my feet just walking around.  
   *(Same thing:)*  
   Hot sun making me sweat  
   'Gators getting close, hasn't got me yet  
@@ -96,7 +96,7 @@ We Can't Dance
   
   *Bridge 2:*  
   *---------*  
-         ***Bb      F      C***  
+    ***Bb      F      C***  
   [e:--------------------------------------|  
   B:--------------------------------------|  
   G:--------------------------------------|  

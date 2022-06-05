@@ -24,7 +24,7 @@ Being Around
   If I was a booger, would you blow your nose?  
   ***C9                 Dsus***  
   Would you keep it? Would you eat it?  
-           ***C9              Asus     Em  C9    Dsus   G***  
+    ***C9              Asus     Em  C9    Dsus   G***  
   I'm just tryin to give myself a reason, for being around.  
   ***G                 G                      C9         C9***  
   If I was the front porch swing would you let me hang?  
@@ -34,9 +34,9 @@ Being Around
   If I was a rubber check would you let me bounce  
   ***G       Em               Dsus        Dsus***  
   Up and down inside your bank account?  
-           ***C9               Dsus***  
+    ***C9               Dsus***  
   Would ya trust me, not to break you?  
-           ***C9           Asus    Em        C9        Dsus   G***  
+    ***C9           Asus    Em        C9        Dsus   G***  
   I'm just tryin really hard to make you, notice me being around.  
   *(Musical Interlude, no solo, just strum the G chord hard a few times with a*  
   *strange rhythm)*  
@@ -48,11 +48,11 @@ Being Around
   If I was the carpet would ya wipe your feet,  
   ***G          Em           Dsus         Dsus***  
   In time to save me from mud off the street?  
-         ***C9              Dsus                   C9               Asus***  
+    ***C9              Dsus                   C9               Asus***  
   If you like me, if you love me, why don't you get down on your knees  
       ***Em***  
   and scrub me?  
-               ***Asus     Asus   C9***  
+    ***Asus     Asus   C9***  
   I'm a little grubby  
       ***Dsus     G***  
   From being around.  

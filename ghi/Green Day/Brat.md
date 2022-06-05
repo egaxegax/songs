@@ -3,7 +3,7 @@
   Brat  
   
 Verse:  Mom and Dad don't look so hot these days  
-          ***A G       C***  
+    ***A G       C***  
   they're getting over the hill,  
   ***C  D C A***  
   Death is closing in and catching up  
@@ -67,7 +67,7 @@ Chorus:  Now I want more because I'm getting bored
   
   *Note: Tune a half step down. All power chords.*  
   *Intro:*  
-             ***C G  D***  
+    ***C G  D***  
   [|%%%%|%%%%|////|////|]  
   *Part A:*  
     ***G C  G    C G  D***  
@@ -94,7 +94,7 @@ Chorus:  Now I want more because I'm getting bored
   ****D#*** ([x688xx])*  
   ****E***  ([022xxx])*  
   ****E(type 2)***  ([x799xx]) or ([0799xxx])  The second one I use it when I palm mute*  
-                                    *that chord, but using only the ([0xxxxx])*  
+    *that chord, but using only the ([0xxxxx])*  
   ****B(type 2)***  ([xx9-11-12-x])  or ([x-9-9-11-12-x])*  
   
 Intro:  ***C, G, D***  

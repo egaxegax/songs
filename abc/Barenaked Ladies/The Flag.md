@@ -28,11 +28,11 @@ Gordon (1992 Sire Warner Bros.)
   mean it, I was drunk, it was  
   ***C***  
   only a joke.  
-              ***F          C***  
+    ***F          C***  
   You should know that by now,  
-               ***Am       Gm***  
+    ***Am       Gm***  
   when the chequered flag comes down,  
-           ***Em add7         Dm***  
+    ***Em add7         Dm***  
   no one, no one, no one has won the race.  
   
   ***Dm***  
@@ -53,12 +53,12 @@ Gordon (1992 Sire Warner Bros.)
   quietly say Dear, you've  
   ***F  C***  
   never really known  
-          ***Am          Gm***  
+    ***Am          Gm***  
   that when the white flag is flown,  
-                    ***Em            Dm***  
+    ***Em            Dm***  
   no one, no one, no one has won the war.  
   
-          ***Dm***  
+    ***Dm***  
   They're complicated people leading  
   ***C***  
   complicated lives, and he  
@@ -66,7 +66,7 @@ Gordon (1992 Sire Warner Bros.)
   complicates their problems by telling  
   ***C***  
   complicated lies  
-        ***Dm***  
+    ***Dm***  
   He tells her he's sorry, she  
   ***C***  
   tells him it's over he  
@@ -76,9 +76,9 @@ Gordon (1992 Sire Warner Bros.)
   says over and over, You've  
   ***F  C***  
   never really known  
-         ***Am         Gm***  
+    ***Am         Gm***  
   that when the white flag is flown,  
-                    ***Em add7         Dm***  
+    ***Em add7         Dm***  
   no one, no one, no one has won the war.  
   
   ***E       A***  
@@ -97,5 +97,5 @@ Gordon (1992 Sire Warner Bros.)
   There goes a raven and there go  
   
   The ribbons the ribbons the ribbons  
-                         ***E***  
+    ***E***  
   The ribbons of the flag.

@@ -13,7 +13,7 @@ Intro
  G           D    Em  
  You know my name  
   
-             A7  
+    A7  
  Look up the number  
   
  D    F#m        G           A7  
@@ -30,7 +30,7 @@ Intro
  featuring Denis O`Bell"  
   
  D           A7  
-            Ah Ringo  
+    Ah Ringo  
   
  D  
  Let`s hear it for Denis  
@@ -69,10 +69,10 @@ Intro
   
  G              F#+  
  You know my name  
-                            Bm  
+    Bm  
  Ba Ba Ba Ba Ba Ba Ba Ba Ba Ba  
   
-             E7  
+    E7  
  Look up my number  
   
  G           D  
@@ -90,22 +90,22 @@ Intro
  D             Em               A7  
  You know, you know you know my name,  
   
-             G  
+    G  
  Huh huh huh huh  
   
-              F#+  
+    F#+  
  You know my name  
   
  F#       Bm  
  Ba ba ba pum  
   
-              E7  
+    E7  
  Look up the number  
   
  G             D     Em  
  You know my name  
   
-              A7  
+    A7  
  Look up the number  
   
  D                Em  
@@ -114,7 +114,7 @@ Intro
  A7    D               Em7          A13     D  
  Baby you-a, you know, you know my name  
   
-          Em7          A13  
+    Em7          A13  
  You know you know my name  
   
  D                     Em7    A13  
@@ -162,7 +162,7 @@ Intro
       D  
  You know my number three  
   
-       G             A7  
+    G             A7  
  You know my number four  
   
  D  

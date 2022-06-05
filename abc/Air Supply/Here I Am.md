@@ -5,32 +5,32 @@
 Intro:  ***C G F***  
   ***C G Dm Em F***  
   
-         ***C     Em***  
+    ***C     Em***  
   Here I am playing with those  
     ***Am        Em***  
   Memories again  
-       ***A7***  
+    ***A7***  
   And just when I thought time has  
-           ***Dm***  
+    ***Dm***  
   Set me free  
-                                    ***G***  
+    ***G***  
   Those thoughts of you keep taunting me  
-         ***C          Em        Am      Em***  
+    ***C          Em        Am      Em***  
   Holding you, a feeling I never outgrew  
-        ***A7                                Dm***  
+    ***A7                                Dm***  
   Though each and every part of me has tried  
-                                 ***G***  
+    ***G***  
   Only you can fill that space inside  
-       ***Dm                  G***  
+    ***Dm                  G***  
   So there's no sense pretending  
-       ***Dm              G***  
+    ***Dm              G***  
   My heart it's not mending  
   *Reff:*  
     ***C           Em          F        G***  
   Just when I though I was over you  
     ***C          Am               F***  
   Just when I though I could stand  
-        ***G***  
+    ***G***  
   On my own  
   ***C              Em***  
   Oh baby those memories come  
@@ -39,22 +39,22 @@ Intro:  ***C G F***
   ***E           Am    Dm   Em  F    C  G Dm Em  Em F***  
   And I just can't goon without you  
   
-         ***G           Em             Am          Em***  
+    ***G           Em             Am          Em***  
   On my own I've tried to make the best of it alone  
-        ***A7***  
+    ***A7***  
   I've done everything I can to ease  
-        ***Dm***  
+    ***Dm***  
   The Pain  
-                              ***G***  
+    ***G***  
   But only you can stop the rain  
-          ***Dm                 G***  
+    ***Dm                 G***  
   I just can't live without you  
-         ***Dm                G***  
+    ***Dm                G***  
   I miss everything about you  
   *Back to: Reff*  
   ***Dm    Em F***  
   Go on without  
-                ***Dm  Em  F    C  Em F***  
+    ***Dm  Em  F    C  Em F***  
   It's just no good without you  
     ***G       C Am F  G    C EmF    G    C  Am F G***  
   Without you, without you,  without you  

@@ -21,11 +21,11 @@ Four, Three, Two, One, Liftoff
   
   C                              Em  
 This is Ground Control to Major Tom  
-        E                F  
+    E                F  
 Youґve really made the grade  
-         Fm              C                    F  
+    Fm              C                    F  
 And the papers want to know whose shirts you wear  
-         Fm              C                 F  
+    Fm              C                 F  
 Now itґs time to leave the capsule if you dare  
   
     "This is Major Tom to Ground Control  
@@ -33,15 +33,15 @@ Now itґs time to leave the capsule if you dare
      And Iґm floating in a most peculiar way  
      And the stars look very different today  
   
-          F7  
+    F7  
      For here  
-           Em  
+    Em  
      Am I sitting in a tin can  
       F7            Em  
      Far above the world  
-       B               Am  
+    B               Am  
      Planet Earth is blue  
-                  G             F  
+    G             F  
      And thereґs nothing I can do  
   
 C F G A (2 times)  
@@ -56,11 +56,11 @@ F7 Em A C D E
 Ground Control to Major Tom  
       Am  
 Your circuitґs dead, thereґs something wrong  
-         D  
+    D  
 Can you hear me, Major Tom?  
-         C  
+    C  
 Can you hear me, Major Tom?  
-         G  
+    G  
 Can you hear me, Major Tom?  
 Can you....  
   

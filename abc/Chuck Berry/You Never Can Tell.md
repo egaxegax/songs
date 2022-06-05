@@ -1,12 +1,12 @@
 <!--2020-09-07 11:38:57-->
 You Never Can Tell  
   
-            ***C***  
+    ***C***  
   It was a teenage wedding and the old folks wished 'em well,  
-                                                        ***G7***  
+    ***G7***  
   You could see that Pierre did trully love the mademoiselle.  
   And now the young M'sieur and Madame have rung the chappel bell.  
-                                                                  ***C   G***  
+    ***C   G***  
   C'est la vie, say the old folks, they go to show you never can tell.  
   They furnished up an apartement with a two-room Roebuck sale  
   The Coolerator was crammed with TV dinners and ginger ale  

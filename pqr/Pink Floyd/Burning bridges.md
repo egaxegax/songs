@@ -21,7 +21,7 @@ The door that stands ajar, the walls that once were high.
 Beyond the gilded cage, beyond the reach of ties.  
    Ab  
 The moment is at hand.  
-                      G  
+    G  
 She breaks the golden band.  
   
 Ebmaj7  Dbmaj7  Ab  G

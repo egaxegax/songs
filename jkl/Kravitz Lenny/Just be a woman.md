@@ -11,23 +11,23 @@ Intro:  ***A A+ A9 A+***
   
      ***A***  
   U ask me  
-       ***A+***  
+    ***A+***  
   How should I B 2 U?  
      ***A9***  
   U ask me  
-             ***A+***  
+    ***A+***  
   2 tell U what 2 do  
      ***A***  
   U ask me  
-       ***A+***  
+    ***A+***  
   How can we make it through?  
      ***A9***  
   U want me  
-            ***A7sus***  
+    ***A7sus***  
   But don't know what 2 do  
-         ***D       Dm7 (V)   Dm7+ (V)***  
+    ***D       Dm7 (V)   Dm7+ (V)***  
   And I just want U 2  
-       ***A   E***  
+    ***A   E***  
   Be true  
   ***E A A+***  
   Just be a woman  

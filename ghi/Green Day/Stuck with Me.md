@@ -85,15 +85,15 @@ Chorus:  Cast out, buried in a hole.
   *(CHORUS)*  
   ***C***  
   Cast out  
-            ***Ab    Eb***  
+    ***Ab    Eb***  
   Buried in a hole  
   ***C***  
   Struck down  
-           ***Ab     Eb***  
+    ***Ab     Eb***  
   Forcing me to fall  
   ***C***  
   Destroyed  
-             ***Ab    Eb***  
+    ***Ab    Eb***  
   Giving up the fight  
      ****Ab         Bb       Eb*** (quick second of silence, first time only)*  
   I know I'm not all right  
@@ -144,7 +144,7 @@ Chorus:  Cast out, buried in a hole.
   ****D#*** ([x688xx])*  
   ****E***  ([022xxx])*  
   ****E(type 2)***  ([x799xx]) or ([0799xxx])  The second one I use it when I palm mute*  
-                                    *that chord, but using only the ([0xxxxx])*  
+    *that chord, but using only the ([0xxxxx])*  
   ****B(type 2)***  ([xx9-11-12-x])  or ([x-9-9-11-12-x])*  
   
 Intro:  ***E(type 2), C#, B, A***  

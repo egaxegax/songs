@@ -4,18 +4,18 @@ With A Little Help From My Friends
   
   ***E              B          F#m***  
 (1)  What would you think if I sang out of tune,  
-                         ***B           E***  
+    ***B           E***  
   Would you stand up and walk out in me.  
   ***E              B          F#m***  
   Lend me your ears and I'll sing you a song,  
-                         ***B           E***  
+    ***B           E***  
   And I'll try not to sing out of key.  
   
       ***D               A             E***  
 Chorus1: I get by with a little help from my friends,  
-       ***D                  A            E***  
+    ***D                  A            E***  
   I get high with a little help from my friends.  
-         ***D                  A            E      B***  
+    ***D                  A            E      B***  
   Gonna try with a little help from my friends.  
   
 (2)  What do I do when my love is away.  
@@ -27,11 +27,11 @@ Chorus1: I get by with a little help from my friends,
   
      ***C#m         F#***  
 Bridge1: Do you need anybody  
-         ***E         D      A***  
+    ***E         D      A***  
   I need somebody to love.  
-           ***C#m         F#***  
+    ***C#m         F#***  
   Could it be anybody  
-         ***E         D      A***  
+    ***E         D      A***  
   I want somebody to love.  
   
 (3)  Would you believe in a love at first sight,  
@@ -48,20 +48,20 @@ Bridge2: Do you need anybody,
   
   *Chorus*  
   
-               ***E/D                            E/C#***  
+    ***E/D                            E/C#***  
 Outro:  Yes, I get by with a little help from my friends,  
-                                 ***E/C         E/D     E***  
+    ***E/C         E/D     E***  
   With a little help from my friends  
   
 -  
   
 Verse 1: ***C              G       Dm***  
   What would you do if I sang out of tune would you  
-               ***G7          C***  
+    ***G7          C***  
   stand up and walk out on me?  
-               ***G             Dm***  
+    ***G             Dm***  
   Lend me your ears and I'll sing  you a song and I'll  
-             ***G7          C***  
+    ***G7          C***  
   try not to sing out of key. Oh..  
   
 Chorus:        ***Bb               F            C***  
@@ -94,25 +94,25 @@ Verse 3: Would youbelive in a love at first sight? Yes, I'
   
    ***E             B         F#m***  
   What would you do if I sang out of tune  
-                          ***B7          E***  
+    ***B7          E***  
   Would you stand up and walk out on me?  
-                ***B              F#m***  
+    ***B              F#m***  
   Lend me your ears and I'll sing you a song  
-                       ***B7          E***  
+    ***B7          E***  
   And I'll try not to sing out of key  
   
 CHORUS:            ***D                  A             E***  
   Oh, I get by with a little help from my friends  
-             ***D                  A             E***  
+    ***D                  A             E***  
   Mm, I get high with a little help from my friends  
-              ***A                               E    B7***  
+    ***A                               E    B7***  
   Mm, gonna try with a little help from my friends  
   
    ***E         B           F#m                              B7     E***  
   What do I do when my love is away (Does it worry you to be alone?)  
-            ***B           F#m***  
+    ***B           F#m***  
   How do I feel by the end of the day  
-                         ***B7            E***  
+    ***B7            E***  
   (Are you sad because you're on your own?)  
   
   No...  
@@ -121,7 +121,7 @@ CHORUS:            ***D           
   
 BRIDGE:  ***E        C#m       F#m7    E      D        A***  
   (Do you need anybody?) I need somebody to love  
-            ***C#m    F#m7     E       D        A***  
+    ***C#m    F#m7     E       D        A***  
   (Could it be anybody?) I want somebody to love  
   
   Would you believe in a love at first sight  
@@ -136,13 +136,13 @@ BRIDGE #2: (Do you need anybody?) I just need somebody to 
   
   ***A          D                A                E***  
   Oh, I get by with a little help from my friends  
-                 ***D                  A             E***  
+    ***D                  A             E***  
   Mm, I'm gonna try with a little help from my friends  
-              ***D                 A             E***  
+    ***D                 A             E***  
   Oh I get high with a little help from my friends  
-              ***D                                A***  
+    ***D                                A***  
   Yes, I get by with a little help from my friends  
-                               ***C/G  Am6  E***  
+    ***C/G  Am6  E***  
   With a little help from my friends  
   
   ****C/G***: [332010]   ***Am6***:  [x02212]*  

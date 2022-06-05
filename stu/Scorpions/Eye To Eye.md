@@ -35,7 +35,7 @@ C                      Am
 It?s now that I?d just wish so much,  
    Dm  
 to see you  
-       Am  
+    Am  
 Eye to eye  
   
 When you came home the war was over  
@@ -56,7 +56,7 @@ to see you
 Eye to eye  
   
 *тут можно C брать с баррэ на 8-м:  
-              8 8 9 10 10 8 (e-E),  
+    8 8 9 10 10 8 (e-E),  
  а G на 6-м:  7 8 7 6  6  x (e-E).  
 ==================================================  
   

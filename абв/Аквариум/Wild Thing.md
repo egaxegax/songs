@@ -4,9 +4,9 @@ Wild Thing
   
    ***F         B C***  
   Wild thing  
-       ***B       F        B C***  
+    ***B       F        B C***  
   You make my heart sing  
-       ***B   F         B***  
+    ***B   F         B***  
   You make everything  
      ***C B***  
   Groovy  

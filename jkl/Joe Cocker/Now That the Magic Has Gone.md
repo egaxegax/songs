@@ -15,31 +15,31 @@
     I've been tried and convicted  
     Of things I'm not guilty of.  
   
-          ***Am***  
-       I was locked in a prison  
-             ***Em***  
-       Till you came and set me free.  
-         ***Am                Am/G***  
-       So, how can you say,  
-       You're no good for me?  
+    ***Am***  
+    I was locked in a prison  
+    ***Em***  
+    Till you came and set me free.  
+    ***Am                Am/G***  
+    So, how can you say,  
+    You're no good for me?  
   
     Chorus:  
-            ***Em      D6     Am7   Am9***  
-         Now that the magic has gone,  
-             ***Dsus4            D***  
-         You just wanna walk away,  
-                 ***G***  
-         Nothing left to say  
-         Anyway.  
+    ***Em      D6     Am7   Am9***  
+    Now that the magic has gone,  
+    ***Dsus4            D***  
+    You just wanna walk away,  
+    ***G***  
+    Nothing left to say  
+    Anyway.  
   
-          ***Em      D6     Am7   Am9***  
-         Now that the magic has gone,  
-                 ***Cmaj***  
-         There's no sense in holding on.  
-         Baby now, now that the magic is gone.  
+    ***Em      D6     Am7   Am9***  
+    Now that the magic has gone,  
+    ***Cmaj***  
+    There's no sense in holding on.  
+    Baby now, now that the magic is gone.  
   
   
-        ***Em***  
+    ***Em***  
     You know love can be tender,  
       ***D6***  
     Love can be cruel,  
@@ -55,66 +55,66 @@
     And it stacks the dice against you  
     In a game you never can win.  
   
-           ***Am***  
-       Just when I was thinking  
-           ***Em***  
-       Lady Luck was here with me,  
-         ***Am                  Am/G***  
-       You tell me, it's over.  
-       Say, it's time for breaking free.  
+    ***Am***  
+    Just when I was thinking  
+    ***Em***  
+    Lady Luck was here with me,  
+    ***Am                  Am/G***  
+    You tell me, it's over.  
+    Say, it's time for breaking free.  
   
     Chorus:  
-           ***Em     D6      Am7   Am9***  
-         Now that the magic has gone,  
-            ***Dsus4            D***  
-         You just wanna walk away,  
-                 ***G***  
-         Nothing left to say  
-         Anyway, baby.  
+    ***Em     D6      Am7   Am9***  
+    Now that the magic has gone,  
+    ***Dsus4            D***  
+    You just wanna walk away,  
+    ***G***  
+    Nothing left to say  
+    Anyway, baby.  
   
-           ***Em        D6        Am7   Am9***  
-         Now that the magic has gone,  
-                 ***Cmaj***  
-         There's no sense in holding on.  
-         Baby now, now that the magic is gone.  
+    ***Em        D6        Am7   Am9***  
+    Now that the magic has gone,  
+    ***Cmaj***  
+    There's no sense in holding on.  
+    Baby now, now that the magic is gone.  
   
     Bridge:  
-           ***Em***  
-       I won't try to hold you down,  
-           ***Cmaj***  
-       My mind tells me, let go,  
-       But my heart keeps asking, how.  
+    ***Em***  
+    I won't try to hold you down,  
+    ***Cmaj***  
+    My mind tells me, let go,  
+    But my heart keeps asking, how.  
   
     Instrumental: ***Em | D6 | Cmaj | H7sus4 H7***  
   
-             ***Am***  
-       There's no prizes for the loser,  
-            ***Em***  
-       Only the winner takes the purse.  
-           ***Am                  Am/G***  
-       Some say that love's a blessing  
-       But to me it's just a curse.  
+    ***Am***  
+    There's no prizes for the loser,  
+    ***Em***  
+    Only the winner takes the purse.  
+    ***Am                  Am/G***  
+    Some say that love's a blessing  
+    But to me it's just a curse.  
   
     Chorus:  
-           ***Em     D6     Am7   Am9***  
-         Now that the magic has gone,  
-               ***Dsus4            D***  
-         You just wanna walk away,  
-                 ***G***  
-         Nothing left to say  
-         Anyway.  
+    ***Em     D6     Am7   Am9***  
+    Now that the magic has gone,  
+    ***Dsus4            D***  
+    You just wanna walk away,  
+    ***G***  
+    Nothing left to say  
+    Anyway.  
   
-           ***Em    D6      Am7   Am9***  
-         Now that the magic has gone,  
-                    Cmaj  
-         There's no sense in holding on.  
-         Baby, now that the magic has gone.  
+    ***Em    D6      Am7   Am9***  
+    Now that the magic has gone,  
+    Cmaj  
+    There's no sense in holding on.  
+    Baby, now that the magic has gone.  
   
-           ***Em    D6      Am7   Am9***  
-         Now that the magic has gone,  
-           ***Dsus4            D***  
-         You just wanna walk away,  
-         Nothing left to say.  
+    ***Em    D6      Am7   Am9***  
+    Now that the magic has gone,  
+    ***Dsus4            D***  
+    You just wanna walk away,  
+    Nothing left to say.  
   
-          ***Em      D6        Am7***  
-         Now that the magic has gone.
+    ***Em      D6        Am7***  
+    Now that the magic has gone.

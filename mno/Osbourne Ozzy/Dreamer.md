@@ -16,14 +16,14 @@ Dreamer
   And here we are still fighting for our lives  
   ***F                         Dm***  
   Watching all of history repeat itself  
-             ***G***  
+    ***G***  
   Time after time  
   
-             ***C***  
+    ***C***  
   I'm just a dreamer  
      ***Am            Em     G***  
   I dream my life away  
-             ***C***  
+    ***C***  
   I'm just a dreamer  
       ***Am               Em     G***  
   Who dreams of better days  
@@ -34,19 +34,19 @@ Dreamer
   I'm hoping that the dawn will bring a sign  
     ***F                                    Dm***  
   A better place for those who will come after us  
-       ***G***  
+    ***G***  
   This time  
   
-             ***C***  
+    ***C***  
   I'm just a dreamer  
     ***Am            Em       G***  
   I dream my life away (oh yeah)  
-             ***C***  
+    ***C***  
   I'm just a dreamer  
       ***Am               Em     G***  
   Who dreams of better days  
   
-       ***Dm                         G***  
+    ***Dm                         G***  
   Your higher power may be God or Jesus Christ  
       ***Dm                           G***  
   It doesn't really matter much to me  
@@ -64,21 +64,21 @@ Dreamer
      ***G***  
   Be gone?  
   
-             ***C***  
+    ***C***  
   I'm just a dreamer  
     ***Am            Em      G***  
   I dream my life away (today)  
-             ***C***  
+    ***C***  
   I'm just a dreamer  
-       ***Am              Em     G***  
+    ***Am              Em     G***  
   Who dreams of better days (okay)  
   
-             ***C***  
+    ***C***  
   I'm just a dreamer  
-        ***Am                Em    G***  
+    ***Am                Em    G***  
   Who's searching for the way today  
   
-             ***C***  
+    ***C***  
   I'm just a dreamer  
    ***Am               Em***  
   Dreaming of life away  

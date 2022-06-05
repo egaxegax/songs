@@ -15,15 +15,15 @@ Could You Be Loved?
   Don't let them fool you  
   ***Cm Cm          Cm        Cm Fm Fm***  
   or even try to school you,  
-         ***Fm Fm Cm Cm***  
+    ***Fm Fm Cm Cm***  
   Oh, no!  
-        ***Cm                Cm***  
+    ***Cm                Cm***  
   We've got a mind of our own  
      ***Ab   Cm        Fm   Fm***  
   So go to hell if what you're thinking is not right  
   ***Cm Cm Cm              Cm***  
   Love would never leave us alone.  
-         ***Ab       Gm  Bb    Bb***  
+    ***Ab       Gm  Bb    Bb***  
   In the darkness there must come out the light.  
   Could you be loved  
   and be loved?  

@@ -66,7 +66,7 @@ It's About Time
   Bite my tongue  
   ***Dmaj7                   GaddD***  
   and I won't say a word against anyone  
-        ***F#m                 Bm***  
+    ***F#m                 Bm***  
   but I don't wanna get my fingers wet  
     ***GaddD            Em***  
   unless it's an accident  
@@ -94,7 +94,7 @@ It's About Time
   enough about us  
   let's talk about me  
   if not about you  
-        ***A***  
+    ***A***  
   It's not about sunshine  
   It's about time  
   It's about time  
@@ -126,7 +126,7 @@ Chords:          [EADGBE]
   -0--0----0--0---0--0-0---|--0--0----0--0---0--0-0----------------  
   -x--x----x--x---x--x-x---|-------------2---2--2------------------  
   -x--x----x--x---x--x-x---|-------------3---3--3------------------]  
-                           But This is how Evan plays it on the "Two  
+    But This is how Evan plays it on the "Two  
   weeks in Australia video"  
   [-x--x--x--x-----  
   -x--x--x--x-----  

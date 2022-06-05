@@ -3,27 +3,27 @@ Fernando
   
   ***A***  
   Can you hear the drums Fernando?  
-        ***F#m***  
+    ***F#m***  
   I remember long ago another starry night like this  
      ***Bm***  
   In the firelight Fernando  
-              ***E***  
+    ***E***  
   You were humming to yourself and softly strumming your guitar  
   I could hear the distant drums and sounds  
-       ***A***  
+    ***A***  
   of bugle calls were coming from afar  
   
-       ***E***  
+    ***E***  
 Chorus:  There was something in the air that night  
       ***A***  
   The stars were bright, Fernando  
-          ***E    A***  
+    ***E    A***  
   They were shining there for you and me, for liberty, Fernando  
-       ***F#             B7***  
+    ***F#             B7***  
   Though we never thought that we could lose, there's no regret  
-        ***E      A***  
+    ***E      A***  
   If I had to do the same again, I would, my friend, Fernando  
-        ***E      A***  
+    ***E      A***  
   If I had to do the same again, I would, my friend, Fernando  
   
 Other verses: They were closer now Fernando  

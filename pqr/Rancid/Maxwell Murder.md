@@ -12,7 +12,7 @@ CHORDS USED:    ***C  D  A  G***
   
   
   ***D                                        D                            C***  
-                    ***D***  
+    ***D***  
 Verses:  Maxwell can't tell he's in hell  he just wants you to visit him there  
   same old game that he's playin          his rules are never fair  
   
@@ -23,11 +23,11 @@ PreChorus: nobody want to look back evrybody wanna get high 
   where's the felon the chargible felon the name of the crook who committed the  
   crime  
   
-        ***D             C                   G           D             C***  
-               ***G***  
+    ***D             C                   G           D             C***  
+    ***G***  
 CHORUS:  dial 999 if you really want the truth dial 999 if you can't see it through  
       ***D                           C                       G        D       A***  
-             ***C         G***  
+    ***C         G***  
   he ain't jack the ripper he's your ordinary crook calling maxwell murder for  
   you  
   

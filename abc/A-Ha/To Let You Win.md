@@ -6,18 +6,18 @@ To Let You Win (4:23)
   
   ***A                          E***  
 (1)  You know I always had the strength to fight  
-            ***D                     E***  
+    ***D                     E***  
   But I got tired of the wars at night  
   ***A                             E***  
   Thinking they would end if I gave in  
   ***D                   E Hm A***  
   But I wasn't strong enough  
   
-                ***A  E***  
+    ***A  E***  
 chorus:  ..To let you win  
-               ***D  E***  
+    ***D  E***  
   ..To let you win  
-             ***A  E  D  E***  
+    ***A  E  D  E***  
   ..Let you win  
   
   *the same chords*  
@@ -31,11 +31,11 @@ chorus:  ..To let you win
   
   ***F#m                            A***  
   It used to scare me to wake up wondering  
-          ***Hm                            E***  
+    ***Hm                            E***  
   If I'd forgotten what I was fighting for  
   ***F#m                                  A***  
   You know that you said that you were weak and I was strong  
-        ***Hm               E***  
+    ***Hm               E***  
   Well, I wasn't strong enough  
   
 chorus:  ..To let you win  

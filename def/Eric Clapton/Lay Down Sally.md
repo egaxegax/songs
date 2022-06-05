@@ -8,13 +8,13 @@ Lay Down Sally
   
   ***A***  
   There is nothing that is wrong  
-                                   ***D***  
+    ***D***  
   in wanting you to stay here with me.  
     ***A***  
   I know you've got somewhere to go  
-                                          ***D***  
+    ***D***  
   but won't you make yourself at home and stay with me?  
-                ***E***  
+    ***E***  
   And don't you ever leave.  
   
    ***A                   D***  
@@ -53,7 +53,7 @@ Lay Down Sally
   E ----2---0---2---|----2---3---2---|----2---0---2---|----------------|]  
     ^ . ^ . ^ . ^ .  ^ . ^ . ^ . ^ .  ^ . ^ . ^ . ^ .  ^ . ^ . ^ . ^ .  
   
-       ***A/F#                 A/G***  
+    ***A/F#                 A/G***  
       [------               ------  
       ||||||               ||||||  
       ------               ------  

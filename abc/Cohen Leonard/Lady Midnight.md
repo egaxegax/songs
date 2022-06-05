@@ -9,9 +9,9 @@ I was looking for someone who had lines in her face
 I found her there but she was past all concern  
   C             F      Dm  
 I asked her to hold me, I said, "Lady unfold me."  
-          C                 F  
+    C                 F  
 But she scorned me and she told me  
-       G  G7                    C  
+    G  G7                    C  
 I was dead and I could never return  
   
 Well, I argued all night like so many have before  

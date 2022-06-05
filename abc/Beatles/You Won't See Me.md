@@ -5,24 +5,24 @@ Rubber Soul (1965)
   
   ***D A***  
   
-         ***A        B7        D         A***  
+    ***A        B7        D         A***  
   When I call you up, your line's engaged.  
-         ***A     B7        D        A***  
+    ***A     B7        D        A***  
   I have had enough, so act your age!  
-           ***A7       D        Dm              A***  
+    ***A7       D        Dm              A***  
   We have lost the time that was so hard to find,  
-             ***A       B7       D   A***  
+    ***A       B7       D   A***  
   And I will lose my mind if you won't see me. (You won't see me)  
   ***D     A***  
   You won't see me. (You won't see me)  
   
-           ***A        B7         D       A***  
+    ***A        B7         D       A***  
   I don't know why you should want to hide  
-         ***A          B7         D         A***  
+    ***A          B7         D         A***  
   But I can't get through, my hands are tied.  
-           ***A7       D      Dm                 A***  
+    ***A7       D      Dm                 A***  
   I won't want to stay, I don't have much to say,  
-             ***A    B7        D   A***  
+    ***A    B7        D   A***  
   but I can turn away, and you won't see me. (You won't see me)  
    ***D    A***  
   You won't see me. (You won't see me)  
@@ -31,15 +31,15 @@ Rubber Soul (1965)
   Time after time you refuse to even listen.  
   ***B7                   E7sus4             E7***  
   I wouldn't mind if I knew what I was missing.  
-                      (No I wouldn't no I wouldn't)  
+    (No I wouldn't no I wouldn't)  
   
-              ***A        B7           D           A***  
+    ***A        B7           D           A***  
   Though the days are few they're filled with tears,  
-            ***A       B7      D         A***  
+    ***A       B7      D         A***  
   and since I lost you it feels like years.  
-           ***A7       D     Dm                     A***  
+    ***A7       D     Dm                     A***  
   Yes, it seems so long, girl since you've been gone,  
-              ***A       B7     D    A***  
+    ***A       B7     D    A***  
   and I just can't go on if you won't see me. (You won't see me)  
    ***D    A***  
   You won't see me. (You won't see me)  
@@ -48,15 +48,15 @@ Rubber Soul (1965)
   Time after time you refuse to even listen.  
   ***B7                   E7sus4             E7***  
   I wouldn't mind if I knew what I was missing.  
-                      (No I wouldn't no I wouldn't)  
+    (No I wouldn't no I wouldn't)  
   
-              ***A        B7           D           A***  
+    ***A        B7           D           A***  
   Though the days are few they're filled with tears,  
-            ***A       B7      D         A***  
+    ***A       B7      D         A***  
   and since I lost you it feels like years.  
-           ***A7        D     Dm                     A***  
+    ***A7        D     Dm                     A***  
   Yes, it seems so long, girl since you've been gone,  
-              ***A       B7     D    A***  
+    ***A       B7     D    A***  
   and I just can't go on if you won't see me. (You won't see me)  
    ***D    A***  
   You won't see me. (You won't see me)  
@@ -66,13 +66,13 @@ Rubber Soul (1965)
   
 -  
   
-         ***A        E        D         A***  
+    ***A        E        D         A***  
   When I call you up, your line's engaged.  
-         ***A     E        D        A***  
+    ***A     E        D        A***  
   I have had enough, so act your age!  
-          ***A7       D         Dm             A***  
+    ***A7       D         Dm             A***  
   We have lost the time that was so hard to find,  
-             ***A       E       E         A        A   Asus2 Am  A***  
+    ***A       E       E         A        A   Asus2 Am  A***  
   And I will lose my mind if you won't see me. (You won't see me)  
   ***E         A        A   Asus2 Am  A***  
   You won't see me. (You won't see me)  
@@ -87,7 +87,7 @@ BRIDGE:  ***E          E7         E 
   Time after time you refuse to even listen.  
   ***B7         B         E               E7***  
   I wouldn't mind if I knew what I was missin'.  
-                      (No I wouldn't no I wouldn't)  
+    (No I wouldn't no I wouldn't)  
   
   Though the days are few they're filled with tears,  
   and since I lost you it feels like years.  

@@ -25,16 +25,16 @@ I Feel Fine
   
 Verse 1:  ***G***  
   Baby's good to me   you know she's happy as can be  
-                ***D***  
+    ***D***  
   You know she said so  
-                    ***C              G***  
+    ***C              G***  
   I'm in love with her and I feel fine  
   
 Verse 2:  ***G***  
   Baby says she's mine   you know she tells me all the time  
-                ***D***  
+    ***D***  
   You know she said so  
-                    ***C              G***  
+    ***C              G***  
   I'm in love with her and I feel fine  
   
 Middle:   ***G      Bm          C               D7***  
@@ -44,9 +44,9 @@ Middle:   ***G      Bm          C   
   
 Verse 3:           ***G***  
   That her baby buys her things   you know he buys her diamond rings  
-                ***D7***  
+    ***D7***  
   You know she said so  
-                    ***C              G***  
+    ***C              G***  
   I'm in love with her and I feel fine  
   
 Solo:  [-|-------------------------------------------------  
@@ -75,17 +75,17 @@ Solo:  [-|-------------------------------------------------
   *[---7\5---]  play fret seven, slide down to fret five*  
   *[--7\5/7--]  play fret seven, slide down to fret five, slide back up*  
   *[--8b(9)--]  play fret eight, bend the string (at fret eight) to reach*  
-             *the pitch of fret nine*  
+    *the pitch of fret nine*  
   *[--b(9)8--]  play fret eight already bent to the pitch of fret nine,*  
-             *unbending until it reaches the normal pitch of fret eight*  
+    *unbending until it reaches the normal pitch of fret eight*  
   *[----h7---]  hammer-on to fret seven*  
   *[----p5---]  pull-off to fret five*  
   *[---/7----]  slide up to fret 7 (the starting fret of the slide is*  
-             *undefined, judge by ear)*  
+    *undefined, judge by ear)*  
   *[---15\---]  play fret 15, slide down (the ending fret of the slide is*  
-             *undefined, judge by ear)*  
+    *undefined, judge by ear)*  
   *[---0h3---]  play the open string and immediately hammer-on to fret*  
-             *three*  
+    *three*  
   *[---7p5---]  play fret seven and immediately pull-off to fret five*  
   
 -  

@@ -3,7 +3,7 @@
   I'll Be On My Way  
   *by John Lennon and Paul McCartney*  
   
-       ***A             E***  
+    ***A             E***  
   The sun is fading away  
     ***A                    D***  
   That's the end of the day.  
@@ -24,9 +24,9 @@
   ***A       D      A    E7***  
   I'll be on my way.  
   
-       ***B                     E***  
+    ***B                     E***  
   To where the winds don't blow  
-        ***B               B***  
+    ***B               B***  
   And northern rivers flow  
    ***F#7      B      E7***  
   This way will I go.  

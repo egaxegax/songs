@@ -10,7 +10,7 @@ Bb/F   F
 Was it you? Was it me?  
      Bb  
 Did I watch too much T.V.?  
-         C                            F     Bb/F  
+    C                            F     Bb/F  
 Is that a hint of accusation in your eyes?  
   
 F  
@@ -19,16 +19,16 @@ F7       Bb
 Being so good at building ships,  
    C                         C9       F  
 The yards would still be open on the Clyde.  
-                            F7  
+    F7  
 And it can't be much fun for them  
  Bb  
 Beneath the rising sun  
     C                         C7 F  
 With all their kids committing suicide.  
   
-            Bb                         F  
+    Bb                         F  
 What have we done, Maggie what have we done?  
-             Bb  
+    Bb  
 What have we done to England?  
   
 C         F                   A  

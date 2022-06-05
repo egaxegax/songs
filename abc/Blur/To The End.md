@@ -2,29 +2,29 @@
 1994 - Parklife, 2000 - The Best Of Blur  
   To The End  
   
-                            ***D***  
+    ***D***  
   All those dirty words  
-           ***Em***  
+    ***Em***  
   They make us look so dumb  
-           ***D***  
+    ***D***  
   Been drinking far too much  
-                   ***Em***  
+    ***Em***  
   And neither of us mean what we say  
   ***Gb   Ab***  
   You and I  
   ***Gb  Ab***  
   Collapsed in love  
-            ***Dsus4 D                              E***  
+    ***Dsus4 D                              E***  
   And it looks like we might have made it,  
-            ***G9                   A***  
+    ***G9                   A***  
   yes it looks like we made it to the end  
       ***D***  
   What happened to us  
-         ***Em***  
+    ***Em***  
   Soon it will be gone forever  
      ***D***  
   Infatuated only with ourselves  
-            ***Em***  
+    ***Em***  
   And neither of us can think straight anymore  
   
   *Chorus } X2*  

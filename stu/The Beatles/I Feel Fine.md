@@ -19,17 +19,17 @@ E|-3--------------------------3-------------------------|
 Verse 1:  
  G  
 Baby`s good to me   you know she`s happy as can be  
-              D  
+    D  
 You know she said so  
-                  C              G  
+    C              G  
 I`m in love with her and I feel fine  
   
 Verse 2:  
  G  
 Baby says she`s mine   you know she tells me all the time  
-              D  
+    D  
 You know she said so  
-                  C              G  
+    C              G  
 I`m in love with her and I feel fine  
   
 Middle:  
@@ -39,11 +39,11 @@ I`m so glad   that she`s my little girl
 She`s so glad    she`s telling all the world  
   
 Verse 3:  
-          G  
+    G  
 That her baby buys her things you know he buys her diamond rings  
-              D7  
+    D7  
 You know she said so  
-                  C              G  
+    C              G  
 I`m in love with her and I feel fine  
   
 Solo:  

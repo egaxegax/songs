@@ -3,14 +3,14 @@
   Room A Thousand Years Wide  
   
   *Tune donw 1/2 a step + dropped D tuning*  
-            *~~~~~~~~~~   ~~~~~~~~~~~~~~~~*  
+    *~~~~~~~~~~   ~~~~~~~~~~~~~~~~*  
   [e|--------------------------------------]  
   *[B|--------------------------------------]  this is repeated*  
   *[G|--------------------------------------]  through out the*  
   *[D|--------------------------------------]  whole song*  
   [A|-0---3---0--8-8-8-8-------------------]  
   [D|-0---3---0--8-8-8-8-0-0-0-0-0-0-------]  
-                        *^^^^^^^^^^^ light PM*  
+    *^^^^^^^^^^^ light PM*  
   
 Lyrics:  Listen, hear, he is inside  
   One who lives while others lie  

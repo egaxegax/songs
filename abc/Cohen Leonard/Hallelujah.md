@@ -1,7 +1,7 @@
 <!--2020-09-04 23:32:03-->
 Intro: C.. ...|G.. ...|  
   
-          C                 Am  
+    C                 Am  
 Now I've heard there was a secret chord  
       C                     Am  
 That David played, and it pleased the Lord  

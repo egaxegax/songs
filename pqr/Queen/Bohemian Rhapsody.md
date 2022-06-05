@@ -39,7 +39,7 @@ A Night At The Opera 1975, Live Killers 1977
   3------------------2--------1--|--0---------------------|--------------------|  
   -------------------------------|---------------4------3-|--------------------|]  
   
-            didn't  mean to make you  cry          if  I'm not back a-gain  this  
+    didn't  mean to make you  cry          if  I'm not back a-gain  this  
   ***Cmadd9            Fm           Fm/E Ab/Eb Dm7dim5                    &lt;bar cont.***  
   [-----------------|----------------------------------|--------------------------  
   -----------------|3------------2----1-----0---------|--__-- __-----------------  
@@ -67,7 +67,7 @@ A Night At The Opera 1975, Live Killers 1977
   -----------------------|---------------------------------|--------------------  
   -3---------------------|-8-------------------------------|-8------------------]  
   
-                    Goodbye, everybody,  I've got to go      got to leave you all  
+    Goodbye, everybody,  I've got to go      got to leave you all  
      ***___     ..     Bb6                       Gmadd9                Cm***  
   [10-   -10..sl..3-|-------------------------|---------------------|-------------  
   -----------------|-------------------------|---------------------|-------------  
@@ -100,7 +100,7 @@ A Night At The Opera 1975, Live Killers 1977
   6---6---6-6-5--5-5-5--5-|3----3--3-  -3--------|-----------------------|  
   ------------------------|----------------------|-----------------------|]  
   
-                                 I see..  of a man     scara-mouche, scara-mouche  
+    I see..  of a man     scara-mouche, scara-mouche  
   ***Db    Db/C Db/Cb Dm7dim5   A   D/A      A   D#dim/A  A       D       A     D***  
   [-------------------------|----|--------------------------|---------------------  
   -------------------------|-.--|--------------------------|---------------------  
@@ -135,7 +135,7 @@ A Night At The Opera 1975, Live Killers 1977
   6-------6------6-|------------------------------|-8--6--5----------|  
   -----------------|------------------------------|------------8--6--|]  
   
-                   Easy Come,  easy go  will you let me go?    Bis-  
+    Easy Come,  easy go  will you let me go?    Bis-  
   ***Adim/Gb Bb7sus4  Cb   Bb     A    Bb  Cb       Bb     A   NC***  
   [---------------|--------------------|---------------------------|  
   ---------------|--------------------|---------------------------|  
@@ -143,7 +143,7 @@ A Night At The Opera 1975, Live Killers 1977
   ---------------|--------------------|------------------------6--|]  
   
   mil  - lah. No    we will not let you   go.Let him go Bis - mil -ah.   We  
-              ***Eb    Bb    Eb/Bb Bb7 Eb/B7 Bb Eb***  
+    ***Eb    Bb    Eb/Bb Bb7 Eb/B7 Bb Eb***  
   [--------------------|-------------------------------|--------------------|  
   --------------------|-------------------------------|--------------------|  
   6-----------6-------|-------------------------------|--------6-----------|  
@@ -178,20 +178,20 @@ A Night At The Opera 1975, Live Killers 1977
   ------------------|---------------------|6-6-6-6-6-6-6-6-|6-6-6-6-6-6-6-6-|]  
   
   me__________  
-                      ***|T.S| Eb***  
+    ***|T.S| Eb***  
   [--------------------|---|-------------|----------------|---------------|  
   --------------------|12-|-------------|----------------|---------------|  
   |-tri|-tri-|-tri-|--|8--|-6--------5-6|-6----------5-6-|-6---------5-6-|  
   6-6-6-6-6-6-6-6-6-6-|---|---3-4-6-8---|---3-4--6-8-----|---3-4-6-8-----|]  
   
-                So you think you can stone me and spit in my eye._______  
+    So you think you can stone me and spit in my eye._______  
   ***F             Bb                                Eb***  
   [-------------|---------------------|----------------------|-------------------|  
   -------------|---------------------|----------------------|-------------------|  
   8------------|---------------------|-------6----6--6--6-6-|-------------------|  
   --5-6-8-10-8-|-6--6--6-6--6--6--6-6|-6--6----6------------|6-6-6-6-6-6-6-6-6-6|]  
   
-                     So you think you can love me and leave me to   die  
+    So you think you can love me and leave me to   die  
    ***T.S    Db    T.S.  Bb                             Eb             Ab       Gm***  
   [|---|--------|---|--------------------|-------------------------|------------|  
   |-6-|--------|12-|--------------------|-------------------------|------------|  
@@ -212,7 +212,7 @@ A Night At The Opera 1975, Live Killers 1977
   -------------------1---1--1--1-|---------------1---1--1--1-|6-----------5--6-|  
   1---1--1--1--1-----------------|1---1--1--1----------------|--3-4-6-8-6------|]  
   
-                   ***F                      Gb                        Ab***  
+    ***F                      Gb                        Ab***  
   [---------------|----------------------|----------------------------------|  
   ---------------|----------------------|----------------------------------|  
   6--------------|-8---------------7--8-|-9--11--13-11--13--15--13--15--16-|  
@@ -224,7 +224,7 @@ A Night At The Opera 1975, Live Killers 1977
   14---|-11---|--13--|-------|-4-|-6------6-5--5----5-|-3--3-----2-----3--|  
   -----|------|------|-------|---|--------------------|-------------------|]  
   
-                                                            Nothing really mat-  
+    Nothing really mat-  
   ***G7/B   Cm  Bb        Eb   D           Gm   Ab    Eb         Cm***  
   [------------------------|------7---------|----------------|--------------------  
   -----------8-6-5--------|----7---7----5--|-6--6-----------|--------------------  
@@ -260,7 +260,7 @@ A Night At The Opera 1975, Live Killers 1977
   Caught in a landslide, no escape from reality.  
   ***Gm***  
   Open your eyes  
-       ***Bb                    Eb***  
+    ***Bb                    Eb***  
   Look up to the skies and see  
   ***Cm(7)                 F***  
   I'm just a poor boy, I need no sympathy  
@@ -270,23 +270,23 @@ A Night At The Opera 1975, Live Killers 1977
   Any way the wind blows, doesn't realy matter to me     to me.  
   ***Bb                 Gm***  
   Mama   just killed a man  
-         ***Cm                              Cm7                F***  
+    ***Cm                              Cm7                F***  
   put a gun against his head, pulled my trigger, now he's dead  
   ***Bb               Gm              Cm               G+5/B   Eb/Bb    Adim***  
   Mama  life had just begun, but now I've gone and thrown it all away  
   ***Eb   Bb/D           Fm        C/E Ab/Eb Ddim    Bb          Bb6   Bb7***  
   Mama Oooo  didn't mean to make you cry, if I'm not back again this time  
-       ***Eb***  
+    ***Eb***  
   tomarrow,  
-        ***Bb/D    Cm             Abm          Eb       Ab/Eb  Eb  Cdim Bb7sus4b9 Bb***  
+    ***Bb/D    Cm             Abm          Eb       Ab/Eb  Eb  Cdim Bb7sus4b9 Bb***  
   Carry on, carry on as if nothing really matters.  
-                         ***Gm***  
+    ***Gm***  
   Too late, my time has come  
-        ***Cm                    Cm7                      F***  
+    ***Cm                    Cm7                      F***  
   Sent shivers down my spine, body's achin' all the time,  
   ***Bb                      Gm***  
   Goodbye everybody, I've got to go,  
-          ***Cm              G+5/B     Eb/Bb  Adim    Abmaj7   Eb/G***  
+    ***Cm              G+5/B     Eb/Bb  Adim    Abmaj7   Eb/G***  
   Gotta leave you all behind and face the truth.  
   ***Eb    Bb/D Cm  Fm       C/E Ab/Eb Ddim  Bb          Bb6          Bb7***  
   Mama Ooo     I don't want to die, I sometimes wish I'd never been born at all.  
@@ -340,7 +340,7 @@ A Night At The Opera 1975, Live Killers 1977
   Scarmouch  Scarmouch  will  you  do  the  fandango?  
   ***C#/G#    G#       C#/G#   G#      C/G         E7          A***  
   Thunder  bolts  and  lightening  very  very  frightening  me  
-                            ***N.C.***  
+    ***N.C.***  
   Galileo  Galileo Galileo Galileofigaro Mangnifico oh oh oh  
   ***B    Bb        A    Bb   B    Bb   A    Bb***  
   I'm  just  a  poor  boy  nobody  loves  me  

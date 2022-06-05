@@ -12,17 +12,17 @@ Jraaduss
   
   *It is easy and really sounds nice.*  
   
-           ***G                       Gmaj7***  
+    ***G                       Gmaj7***  
   Manchmol setz ich he roem un ich frooch mich, woroem  
-        ***G7                       Em***  
+    ***G7                       Em***  
   et su kumme moot, wie et kohm, wie et jetz ess  
-         ***C                          G                         D D4  D***  
+    ***C                          G                         D D4  D***  
   un ich saach mer, dat et irgendwo wiggerjonn muss, jraaduss.  
-       ***G                                          Gmaj7***  
+    ***G                                          Gmaj7***  
   Noch haeng ding Bild ahn der Wand un maeht mich rejelraesch krank  
-               ***G7                       Em***  
+    ***G7                       Em***  
   ich han ding Stemm noch em Uhr un ich froore mich nur  
-         ***C                      G                          D D4  D***  
+    ***C                      G                          D D4  D***  
   ob dat alles nix woor, en dae letzte paar Johr, met dir.  
   
   ***Em        C         D Eb0 Em            C             D***  

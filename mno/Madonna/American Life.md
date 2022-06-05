@@ -25,7 +25,7 @@
    I guess I did it wrong  
    C#                       Hm  
    Thatґs why I wrote this song  
-              F#m  
+    F#m  
 This type of modern life  
 F#m  
 Is it for me?  
@@ -45,14 +45,14 @@ Is not for me
 This type of modern life  
 Is not for free  
   
-         F#m      C#m  
+    F#m      C#m  
 Chorus: American life  
-        F#m          C#m  
-        I live the American dream  
-            Hm                       C#m  
-        You are the best thing Iґve seen  
-            Hm              C#m  
-        You are not just a dream  
+    F#m          C#m  
+    I live the American dream  
+    Hm                       C#m  
+    You are the best thing Iґve seen  
+    Hm              C#m  
+    You are not just a dream  
   
 2) I tried to stay ahead  
    I tried to stay on top  
@@ -72,9 +72,9 @@ Chorus: American life
    Am I gonna be a star?  
   
 Chorus: American life  
-        I live the American dream  
-        You are the best thing Iґve seen  
-        You are not just a dream  
+    I live the American dream  
+    You are the best thing Iґve seen  
+    You are not just a dream  
   
 3) F#m  
    I tried to be a boy  

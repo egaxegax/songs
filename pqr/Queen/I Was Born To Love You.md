@@ -19,13 +19,13 @@ Made In Heaven 1995
   You were made for me, you're my ecstacy  
   ***C***  
   If I was given every opportunity  
-                    ***Am***  
+    ***Am***  
   I'd kill for your love  
   (Then I start to need help for a bit...)  
   Middle bit  
   ***C***  
   I wanna love you  
-          ***G***  
+    ***G***  
   I love every little thing about you  
   ***C                            D***  
   I wanna love you, love you, love you  

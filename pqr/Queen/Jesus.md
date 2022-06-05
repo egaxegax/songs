@@ -12,7 +12,7 @@ Queen 1972
   The beggars shouted Him and the lepers called Him  
   ***HM***  
   The old man said nothing  
-            ***F#     Hm***  
+    ***F#     Hm***  
   He just stared about him  
   ***D    A     G   A   D       A    G A***  
   All going down to see the Lord Jesus \  

@@ -20,7 +20,7 @@ Intro:  ***Em   |   Cmaj***
   
    ***Em                                               Cmaj                Em***  
 Verse 1: Here in the universe, I find some things that are so hard to understand.  
-                                                    ***Cmaj***  
+    ***Cmaj***  
   The vastness of space just takes my breath away, I see___  through history.  
   ***F                                                         Am***  
   The years they come and go. The seconds that will shape my destiny.  
@@ -31,7 +31,7 @@ Verse 1: Here in the universe, I find some things that are
   
    ***Em            Cmaj   Em***  
 Verse 2: What is our place in here? What is the meaning of the pain that we feel?  
-                 ***Cmaj***  
+    ***Cmaj***  
   Where did all this come from? The galaxies, the moon the stars, oh I don't know.  
   ***F           Am***  
   I really want to know what is the meaning of evolu_____tion.  

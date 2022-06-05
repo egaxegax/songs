@@ -18,7 +18,7 @@ Switch-Blade Knaife (1990)
   I'll get heavy, I won't fly  
   ***C#m***  
   If I eat too much of it  
-         ***A***  
+    ***A***  
   Uncle Sam will make me shit.  
   
   Daddy made a mug of kvas  
@@ -33,7 +33,7 @@ Switch-Blade Knaife (1990)
   
   ***A***  
   Uncle Sam... Uncle Sam...  
-                  ***C***  
+    ***C***  
   Uncle Sam will make me shit...  
   
   I can't not dig what's that all about  

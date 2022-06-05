@@ -2,27 +2,27 @@
 Presence Of Love  
   *(MacDonald & Peters)*  
   
-                      ***A***  
+    ***A***  
   The first heaven is silver  
-                         ***F#m7***  
+    ***F#m7***  
   and you are silver you shine white light  
-                      ***A***  
+    ***A***  
   The second heaven's sacred,  
-                     ***F#m7***  
+    ***F#m7***  
   and you are sacred of pure soul  
-            ***E         D***  
+    ***E         D***  
   The third heaven is pearl  
-           ***E               F#m7***  
+    ***E               F#m7***  
   and your name is forever written  
   ***E              Bm7***  
   Oh don't walk away  
   ***E              D***  
   no don't walk away  
-                     ***A***  
+    ***A***  
   I'm walking in the presence of love  
-                     ***F#m7***  
+    ***F#m7***  
   I'm walking in the seventh heaven  
-        ***D                       C#m7***  
+    ***D                       C#m7***  
   I'm alive with the agony, the ecstasy  
   ***D                       C#m     F#m7***  
   Strive for the pleasure and the pain  

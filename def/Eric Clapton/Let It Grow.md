@@ -6,13 +6,13 @@ Let It Grow
 (1)  Standing at the crossroads  
   ***D                  E       G***  
   Trying to read the signs  
-             ***A***  
+    ***A***  
   To tell me which way I should  
   ***Bm             F#m***  
   Go to find the answer  
       ***D              E       G***  
   And all the time I know  
-             ***A               B***  
+    ***A               B***  
   Plant your love and let it grow  
   
   ***B      B/Bb         B/Ab         B/F#***  
@@ -84,7 +84,7 @@ CHORUS:  Let it grow, let it grow, let it blossom let it
   Standin' at the crossroads, tryin' to read the signs  
   ***G      A        Bm       F#7***  
   To tell me which way I should go to find the answer  
-       ***D      E***  
+    ***D      E***  
   And all the time I know,  
   ***G      A      B***  
   Plant your love and let it grow.  

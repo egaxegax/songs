@@ -15,11 +15,11 @@ Renaissance Faire
   Was the time that I held dear...  
   ***C                          Dm***  
   Gather ye lords and ladies fair,  
-             ***C        Dm/F         G***  
+    ***C        Dm/F         G***  
   Come with me to the Renaissance Faire  
   ***C***  
   Hurry now,  
-               ***Dm***  
+    ***Dm***  
   We're almost there...  
   ***C        F      G       C         C/Bm-C***  
   Fa, la, la, la, la, la, la, la, la, la...  

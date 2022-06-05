@@ -3,11 +3,11 @@ E(1)        H7
 Oh dear, what can I do?  
 A6 A7                       H7  
 Ba-by?s in black and I?m feeling blue,  
-             E(1) H7             E    A7  
+    E(1) H7             E    A7  
 Tell me, oh   what can I do?  
 E(1)                             E7           A  
 She thinks of him and so she dresses in black,  
-                                 E(1)  
+    E(1)  
 And though he?ll never come back,  
 H7                      E  
 She?s dressed in black.  
@@ -23,11 +23,11 @@ F#m7sus4      F#m7
 Oh, how long will it take,  
 A          H7(1)                      E(1)  
 Till she sees the mistake she has made?  
-         H7  
+    H7  
 Dear what can I do?  
 A6 A7                      H7  
 Baby?s in black and I?m feeling blue,  
-             E(1) H7             E    A7  
+    E(1) H7             E    A7  
 Tell me, oh  what can I do?  
   
 Oh, how long will it take,  

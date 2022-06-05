@@ -26,7 +26,7 @@ Handsome Man
   take a piece of me  
   ***D     G*~F#m*~Em****  
   If you drop me  
-                  ***Asus7***  
+    ***Asus7***  
   'II fall to pieces on ya  
   ***D                 G*~F#m*~Em****  
   If you don't see me  
@@ -34,11 +34,11 @@ Handsome Man
   I don't exist  
   ***D                    G*~F#m*~Em****  
   It's nice to meet you  
-             ***Asus7  C***  
+    ***Asus7  C***  
   Now let me go and wash my hands  
-                             ***A                  D***  
+    ***A                  D***  
   'Cause you just met the world's most handsome man  
-          ***G-A-D***  
+    ***G-A-D***  
   The world's most handsome man  
   Y'all know who I am  
   I'm still the boy next door  
@@ -59,11 +59,11 @@ Handsome Man
   most handsome man  
   ***Bb                                     C***  
   Can you make me laugh and sign this autograph  
-                       ***D***  
+    ***D***  
   (Though it's not for me)  
   ***Bb                   (Bb/A)***  
   Grip and grin, shake and fake, name and shame,  
-           ***C***  
+    ***C***  
   then I'm out of here  
   ***Ebm***  
   It's not very complicated  
@@ -72,17 +72,17 @@ Handsome Man
   *increase #*  
   ***Eb                  Ab       Ab~Gm~Fm***  
   Please don't drop me  
-                  ***Bb***  
+    ***Bb***  
   I'll fall to pieces on ya  
   ***Eb                  Ab       Ab~Gm~Fm***  
   If you don't need me  
-                  ***Bb***  
+    ***Bb***  
   I don't exist  
   ***Eb                  Ab       Ab~Gm~Fm***  
   It's nice to meet you  
-             ***Bb             Db***  
+    ***Bb             Db***  
   Now let me go and wash my hands  
-                      ***Bb***  
+    ***Bb***  
   Here before you stands  
   Please don't drop me  
   I'll fall to pieces on ya  

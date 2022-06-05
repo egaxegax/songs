@@ -6,31 +6,31 @@ Candle In The Wind
   Goodbye Norma Jean  
      ***A***  
   Though I never knew you at all  
-                            ***E/G#***  
+    ***E/G#***  
   You had the grace to hold yourself  
-         ***A           Asus4***  
+    ***A           Asus4***  
   While those around you crawled  
-            ***A         E***  
+    ***A         E***  
   They crawled out of the woodwork  
-                              ***A***  
+    ***A***  
   And they whispered into your brain  
-                      ***E/G#***  
+    ***E/G#***  
   They set you on the treadmill  
-            ***A      Asus4    A***  
+    ***A      Asus4    A***  
   And they made you change your name  
-             ***B***  
+    ***B***  
   And it seems to me you lived your life  
-         ***E  A***  
+    ***E  A***  
   Like a candle in the wind  
-        ***E                Esus4***  
+    ***E                Esus4***  
   Never knowing who to cling to  
   ***E B Bsus4***  
   When the rain set in  
-           ***A***  
+    ***A***  
   And I would have liked to have known you  
-                 ***C#m***  
+    ***C#m***  
   But I was just a kid  
-                               ***B***  
+    ***B***  
   Your candle burned out long before  
   ***A                E***  
   Your legend ever did  

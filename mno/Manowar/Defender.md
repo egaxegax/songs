@@ -29,12 +29,12 @@ Intro:  [e|---------------------------------|-------------------------------
   
   *Begin 2nd part:*  
   Father***A***, Father***A***  
-                          [e|-----------|  
-                          B|-----------|  
-                          G|---------5-|  
-                          D|-------5---|  
-                          A|-0-2-3-----|  
-                          E|-----------|]  
+    [e|-----------|  
+    B|-----------|  
+    G|---------5-|  
+    D|-------5---|  
+    A|-0-2-3-----|  
+    E|-----------|]  
   Father I look up to you  
   And so on.  
   
@@ -59,7 +59,7 @@ Intro:  [e|---------------------------------|-------------------------------
   Fight proud, my son  
   ***F                  G***  
   You're the defender  
-           ***D   DE***  
+    ***D   DE***  
   God has sent  
   Father, father, father  
   I look up to you and heed thy call  

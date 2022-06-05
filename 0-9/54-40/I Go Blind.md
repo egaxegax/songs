@@ -13,12 +13,12 @@ I Go Blind
   e---3-3-3---------------------------------twice]  
   ***G      C      B       A         G***  
   Every time I look at you I go blind  
-          ***C      B      A          G***  
+    ***C      B      A          G***  
   (every time I look at you I go blind)  
   *Repeat this twice....*  
   ***G        C     B     A     G   C      B     A          G***  
   In the morning I get up and I try to feel alive but I cant  
-           ***C     B      A          G***  
+    ***C     B      A          G***  
   (every time I look at you I go blind)  
    ***G     C     B      A   G        C      B        A         G***  
   I dont know what it is something in me just wont give it a chance  

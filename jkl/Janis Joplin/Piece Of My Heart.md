@@ -14,7 +14,7 @@ Piece Of My Heart
   *BRIDGE: ***C***, ***B2***,  ***D***,  ***B2***  Hold on to ***B2*** "... I want you to come on, come on, come on,*  
   *come on and TAKE IT! Take another little piece of my heart..."*  
   *CHORUS: From "TAKE IT!" ***E***,  ***A***,  ***B***,  Thoughout Chorus.*  
-                                         ***c         b    a     E***  
+    ***c         b    a     E***  
   "You know you got it, if it makes you feel good..."  
   *This transcription could be miles off or totally on the money, but this is*  
   *how I figured it out, and this is how I play it.*

@@ -4,35 +4,35 @@ Something Beautiful
   
   ***Bb                         Gm***  
   You can't manufacture a miracle  
-                   ***Dm               F***  
+    ***Dm               F***  
   The silence was pitiful - that day  
   ***Bb                          Gm***  
   And love is getting too cynical  
-                 ***Dm                    F***  
+    ***Dm                    F***  
   Passion s just physical - these days  
   ***Eb                    F#***  
   You analyse everyone you meet  
-             ***Bb                 Bb7***  
+    ***Bb                 Bb7***  
   But get no sign - the loving kind  
   ***Eb                      F#***  
   Every night you admit defeat  
-                     ***F***  
+    ***F***  
   And cry yourself blind  
-          ***Bb                      Dm***  
+    ***Bb                      Dm***  
   If you can't awake up in the morning  
-                ***Eb                 Bb***  
+    ***Eb                 Bb***  
   'Cause your bed lies vacant at night  
-             ***Bb    F      Eb       Bb***  
+    ***Bb    F      Eb       Bb***  
   If you're lost, hurt, tired or lonely  
-            ***C                     F***  
+    ***C                     F***  
   Can't control it - try as you might  
-                ***Bb                     D***  
+    ***Bb                     D***  
   May you find that love that won't leave you  
-               ***Cm                    Eb***  
+    ***Cm                    Eb***  
   May you find it by the end of the day  
-                ***Bb     F      Eb           Bb***  
+    ***Bb     F      Eb           Bb***  
   You won't be lost, hurt, tired and lonely  
-             ***Db Eb                   Bb***  
+    ***Db Eb                   Bb***  
   Something beautiful will come your way  
   The DJ said on the radio  
   Life should be stereo - each day  
@@ -54,18 +54,18 @@ Something Beautiful
   ***Bb***  
   (It'll come your way!  
   (It'll come your wavl Some kind of beautiful  
-                                             ***Db***  
+    ***Db***  
   (It'll come your way) Some kind of beautiful  
-                                        ***E***  
+    ***E***  
   (It'll come your way) Some kind of beautiful  
   (It'll come your way)  
   ***E                              G***  
   All your friends think you're satisfied  
-                          ***H             F#***  
+    ***H             F#***  
   But they can't see your soul, no, no, no  
   ***E                          Db***  
   Forgot the time feeling petrified  
-                   ***F#***  
+    ***F#***  
   When they lived alone  
   If you can't awake up in the morning  
   'Cause your bed lies vacant at night  

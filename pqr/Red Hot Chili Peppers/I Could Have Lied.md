@@ -282,10 +282,10 @@ I Could Have Lied
   *RIFF 2*  
   *The second riff is just the main riff but*  
   *with this change compared to the riff above:*  
-               [e|---]  
-               *[B|232]   (that is: you hammer on and pull off*  
-                        *Just change the  [0]  part in the main riff)*  
-                                        [2 2]  
+    [e|---]  
+    *[B|232]   (that is: you hammer on and pull off*  
+    *Just change the  [0]  part in the main riff)*  
+    [2 2]  
   *PRE-CHORUS*  
   *I think they use open chords here: ***B D A (B)****  
   *CHORUS*  
@@ -322,7 +322,7 @@ I Could Have Lied
   ||----|-*-|---|-*-|-*-|----------------------------------------  
   ||----|-*-|-*-|---|-*-|------------------------------------------  
   ||----|---|-*-|---|-*-|------------------------------------------  
-        *1   2   3   4   5*  
+    *1   2   3   4   5*  
   
   *so i just fool around in this scale patern (following the pattern down) and*  
   *you can play with the solo.*  

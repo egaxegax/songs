@@ -3,13 +3,13 @@ Marie's The Name of his latest flame
   
 Intro:  ***G  Em  G  Em***  
   
-                ***G  Em           G***  
+    ***G  Em           G***  
 (A)  A very old friend   came by today  
   ***Em           G          Em***  
   Cos' he was telling everyone in town  
   ***G                Em***  
   Of the love that he'd just found  
-                  ***C                   D***  
+    ***C                   D***  
   And Marie's the name of his latest flame.  
   
 (A)  He talked and talked and I heard him say  
@@ -23,7 +23,7 @@ Intro:  ***G  Em  G  Em***
   I wished him luck and then he said goodbye  
       ***D                C                    D      C***  
   And he was gone but still his words kept returning  
-       ***D                 C             G  Em  G  Em***  
+    ***D                 C             G  Em  G  Em***  
   What else was left for me to do but cry.  
   
 (A)  Would you believe that yesterday  

@@ -3,7 +3,7 @@
   Highway To Hell  
   
   *INTRO:*  
-              ***A                 D/f#  G      D/f#  G     D/F#  G     D/F#   A***  
+    ***A                 D/f#  G      D/f#  G     D/F#  G     D/F#   A***  
   [E------------------------------------------------------------------------------  
   B-----------2--2--2-----------3--3--3------3--3--3-----3--3--3------------2--2-  
   G-----------2--2--2-----------2--2--0------2--2--0-----2--2--0------2-----2--2-  
@@ -11,20 +11,20 @@
   A-----------0--0--0-------------------------------------------------------0--0-  
   E-----------------------------2--2--3------2--2--3-----2--2--3------2----------]  
   ***A A A***  
-                ***D D/F# G              D D/F# G***  
-       Livin' easy,        livin' free,  
+    ***D D/F# G              D D/F# G***  
+    Livin' easy,        livin' free,  
   ***D D/F# G       D/F#    A A***  
-       Season ticket on a one way ride  
+    Season ticket on a one way ride  
   ***A A A           D D/F# G             D D/F# G***  
-       Askin' nothin,      leave me be.  
+    Askin' nothin,      leave me be.  
     ***D D/F# G     D/F#   A A***  
-       Takin' ev'rythin' in my stride.  
-       Don't need reason, don't need rhyme,  
-       Ain't nothin' i'd rather do.  
-       goin' down, party time.        ***E5***  &lt;-----instead of an ***A***.  
-       my friends are gonna be there too.  
+    Takin' ev'rythin' in my stride.  
+    Don't need reason, don't need rhyme,  
+    Ain't nothin' i'd rather do.  
+    goin' down, party time.        ***E5***  &lt;-----instead of an ***A***.  
+    my friends are gonna be there too.  
   *Chorus*  
-               ***A    A  A   D/A      G   \***  
+    ***A    A  A   D/A      G   \***  
       i'm on a highway to hell           \ Repeat  
       ***D/F#     A    A  A   D/A      G    /***  
       on the   highway to hell          /  
@@ -109,7 +109,7 @@
   *distortion pedal ON . . .*  
   *start chords on UP-beat (and UP-pick):*  
   *count--(1 & 2 & 3)   &   4   &*  
-                               *UP DOWN UP*  
+    *UP DOWN UP*  
   
   *%PART V-1 (Intro, Verse)--              (**  
    ***A5              D/F# G5         D/F# G5  D/F# G5      A5***  
@@ -153,7 +153,7 @@
   ||o--2---2---2--2--0=|==0-0-0-0--0---0---o||-2-2-2--2-0=|===0===|==0-------||  
   ||---0---0---0--0----|--------------------||-0-0-0--0---|-------|----------||  
   ||-------------------|-----------3--------||------------|-------|----------||  
-       *1   2   3  4  &    1 & 2 &  3   4       1 2 3  4 &---1234----123*  
+    *1   2   3  4  &    1 & 2 &  3   4       1 2 3  4 &---1234----123*  
   
   *(*:: end of 2nd Chorus, go to PART C-2 from here...)*  
   *(**:: middle of 3th Chorus, go to Part C-3 from here...)*  
@@ -186,7 +186,7 @@
   |------------------|------------------|------------------|-----------------||  
   |--------3---------|------------------|--------3---------|----3--------3---||  
      *1 & 2 & 3 & 4---------1234            1 & 2 & 3 & 4&----1  &2&  3   4*  
-                        "--Don't stop now--"  
+    "--Don't stop now--"  
   
   ***LEAD TACIT (played over PART C-1)*  
   *(I woulda trancribed Angus's lead, but I thought, hell, YOU can do just*  

@@ -5,31 +5,31 @@ Cannot Hide
   Can you see me baby  
   ***A               Abm***  
   Standing in the light  
-                ***Dbm         E***  
+    ***Dbm         E***  
   I feel your cat's eyes on me  
   ***A              Ab***  
   Faster in the night  
   ***Dbm       H***  
   I move inside  
-            ***A***  
+    ***A***  
   Got those eyes  
   ***Abm***  
   Something's burning baby  
-             ***Dbm***  
+    ***Dbm***  
   That's alright  
-          ***H***  
+    ***H***  
   You and I  
-          ***A***  
+    ***A***  
   Here tonight  
   ***H                     F#m***  
   Meet me on the other side  
   ***A                    Dbm***  
   'Cause you can do me right  
-                         ***F#m***  
+    ***F#m***  
   Take me where I cannot hide  
   ***A                    Dbm***  
   'Cause you can do me right  
-                       ***F#m***  
+    ***F#m***  
   Meet me on the other side  
   You don't know me girl  
   I'm faceless in the crowd  

@@ -78,8 +78,8 @@ Verse 2: So take the photographs and stillframes in your min
   *Instrumental(Strum over Violins)*  
   *Chorus*  
   *End with Tab 1 and then [|---------|]*  
-                          [|---------|  
-                          |--2------|  
-                          |----0----|]  
-                          *[|------0--|]  and end on a ***G****  
-                          [|---------|]
+    [|---------|  
+    |--2------|  
+    |----0----|]  
+    *[|------0--|]  and end on a ***G****  
+    [|---------|]

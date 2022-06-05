@@ -14,7 +14,7 @@ The Offspring (1989)
   *There's a lot of cute little riffs in this song*  
   *Riff 1 - This is played halfway through each chorus*  
   *It isn't right either, but it sounds pretty close*  
-                 *)*  
+    *)*  
   |-9p7-9p7-9p7-10-|  
   |----------------|  
   |----------------|  
@@ -24,7 +24,7 @@ The Offspring (1989)
   *Riff 2 -- This is played after the first chorus*  
   *Play it fast, it's hard to tell the first part of it, but even if you ca*  
   *play it, mess around in an E blues scale, and it'll sound fine.*  
-                                         *)  )*  
+    *)  )*  
   |--------------------)--)-----)--)----15-15-15-12--)--)-----------------  
   |-------------------12-12----12-12----------------15-15-15-12-----------  
   |-------------------12-12----12-12----------------------------14p12-----  

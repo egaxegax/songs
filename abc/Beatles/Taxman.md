@@ -6,20 +6,20 @@ Taxman
 Verse:  Let me tell you how it will be  
       ***D7                              D7#9  D7***  
   There's one for you nineteen for me  
-                 ***C7              G7#9    D7***  
+    ***C7              G7#9    D7***  
   'Cos I'm the taxman   Yeah I'm the taxman  
   
 Verse:  Should five percent appear too small  
   Be thankful I don't take it all  
   'Cos I'm the taxman Yeah I'm the taxman  
   
-           ***D***  
+    ***D***  
 Middle:  If you drive a truck  I'll tax the street  
-                              ***C***  
+    ***C***  
   If you try to fix it  I'll tax your seat  
-          ***D***  
+    ***D***  
   If you get too cold  I'll tax the heat  
-                             ***C              D***  
+    ***C              D***  
   If you take a walk  I'll tax your feet TAXMAN!  
   
 Guitar Solo: [-|---------------------------------------------------10----------------  
@@ -43,7 +43,7 @@ Guitar Solo: [-|---------------------------------------------------10-------
   -|---------------------------------------------------------------------  
   -|---------------------------------------------------------------------]  
   
-                 ***C               G7#9    D***  
+    ***C               G7#9    D***  
   'Cos I'm the taxman   Yeah I'm the taxman  
   
 Verse:  Don't ask me what I want it for  (ah ah, Mr. Wilson)  
@@ -61,7 +61,7 @@ Verse:  Now my advice for those who die (TAXMAN!)
   'Cos I'm the taxman Yeah I'm the taxman  
   
       And you're working     for no one    but me  
-                   ***F                           D7***  
+    ***F                           D7***  
   -|--------------------------------------------------------------  
   -|--------------/6-----/6-----/6-----/6-------------------------  
   -|------------------5------5------5------5------7---------5--7-- (repeat  
@@ -103,17 +103,17 @@ Verse:  Now my advice for those who die (TAXMAN!)
   *[---5/7---]  play fret five, slide up to fret seven*  
   *[---7\5---]  play fret seven, slide down to fret five*  
   *[--8b(9)--]  play fret eight, bend the string (at fret eight) to reach*  
-               *the pitch of fret nine*  
+    *the pitch of fret nine*  
   *[--b(9)8--]  play fret eight already bent to the pitch of fret nine,*  
-               *unbending until it reaches the normal pitch of fret eight*  
+    *unbending until it reaches the normal pitch of fret eight*  
   *[----h7---]  hammer-on to fret seven*  
   *[----p5---]  pull-off to fret five*  
   *[---/7----]  slide up to fret 7 (the starting fret of the slide is*  
-               *undefined, judge by ear)*  
+    *undefined, judge by ear)*  
   *[---15\---]  play fret 15, slide down (the ending fret of the slide is*  
-               *undefined, judge by ear)*  
+    *undefined, judge by ear)*  
   *[---0h3---]  play the open string and immediately hammer-on to fret*  
-               *three*  
+    *three*  
   *[---7p5---]  play fret seven and immediately pull-off to fret five*  
   
 -  

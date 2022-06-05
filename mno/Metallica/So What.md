@@ -81,7 +81,7 @@ So What
   
   ***E          A         G#***  
   Who cares. Who cares what you do.  
-       ***E          A         G#    F#   F#   G#  F#   G#  F#   G#  F#   G#***  
+    ***E          A         G#    F#   F#   G#  F#   G#  F#   G#  F#   G#***  
   Yeah Who cares, Who cares about you,      you,     you,     you,     you.  
   
   Well I've fucked a queen.  

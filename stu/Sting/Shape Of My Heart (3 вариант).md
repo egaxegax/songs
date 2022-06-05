@@ -8,7 +8,7 @@ D--2--2-----------|--0--0-----------|-----------------|-----------|--------|--
 A-----------------|-----------------|--0--0-----------|--0--0-----|--2-----|--  
 E-----------------|-----------------|-----------------|-----------|--------|--  
   
-       C/E                Hm                 Am                       H  
+    C/E                Hm                 Am                       H  
       3102x0            20x0xx             01220x                  23332x  
 e--3--------3-----|--2--------2-----|--0--------0-----|--0-----0--|--------|--  
 B--------1-----1--|--------0-----0--|-----------------|-----------|--4-----|--  
@@ -17,8 +17,8 @@ D--2--2-----------|--0--0-----------|-----------------|-----------|--------|--
 A-----------------|-----------------|--0--0-----------|--0--0-----|--2-----|--  
 E-----------------|-----------------|-----------------|-----------|--------|--  
   
-           C                                H7          C        B7 ?   Em  
-         35553x                           24242x      35553x   00212x 00220  
+    C                                H7          C        B7 ?   Em  
+    35553x                           24242x      35553x   00212x 00220  
 e---------------3--------|-------------|-----------|-----------|--0--|--0--|-  
 B---------5--------5-----|-------1--0--|--------4--|--5--5--5--|--0--|--0--|-  
 G---------------------5--|-------0--0--|--------2--|--5--5--5--|--2--|--0--|-  
@@ -53,7 +53,7 @@ I know that diamonds mean money for this art
 But that?s not the shape of my heart  
   
 Em  Em7  C              B7  
-         That?s not the shape    The shape of my heart  
+    That?s not the shape    The shape of my heart  
   
 And if I told you that I loved you  
 You?d maybe think there?s something wrong  
@@ -71,9 +71,9 @@ I know that diamonds mean money for this art
 But that?s not the shape of my heart  
   
 Em  Em7  C               B7         Em  
-         That?s not the shape of my heart  
+    That?s not the shape of my heart  
     Em7  C              B7  
-         That?s not the shape   The shape of my heart  
+    That?s not the shape   The shape of my heart  
   
 e----12--|--  
 B---12---|--  

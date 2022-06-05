@@ -3,17 +3,17 @@ Behind The Wheel
   
   ****Bm Dm Gm Bb*** - repeated the whole song*  
   
-            ***Bm***  
+    ***Bm***  
   My little girl  
-           ***Dm***  
+    ***Dm***  
   Drive anywhere  
-              ***Gm***  
+    ***Gm***  
   Do what you want  
   ***Bb***  
   I don't care  
     ***Bm                        Dm***  
   Tonight I'm in the hands of fate  
-           ***Gm***  
+    ***Gm***  
   I hand myself  
   ***Bb***  
   Over on a plate  

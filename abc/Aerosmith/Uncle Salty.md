@@ -30,9 +30,9 @@ D|----7/-----------7/----------7/--------------------|
 A|-0------------0------------0---------0------0------|  
 E|---------------------------------------------------|  
   
-            G  
+    G  
 But when she cried  at night  
-          A  
+    A  
 no one came      (fill 1)  
   
 The chords are similar for the rest of the song changing only  

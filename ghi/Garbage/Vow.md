@@ -116,11 +116,11 @@ Vow
   ***F                C***  
   ***C                  D7sus2***  
   ***D7sus2              G                    F***  
-                   tear your little world apart....  
+    tear your little world apart....  
   ***F                C***  
   ***C                  D7sus2***  
   ***D7sus2              G                    F***  
-                   tear your little world apart....  
+    tear your little world apart....  
   ***F***  
   and break your soul apart  
   *Outro: (with fill 6 repeated)*  
@@ -137,17 +137,17 @@ Vow
   and I can't stop when it comes to you  
       ***Am                  C             F***  
   You burn me out but I'm back at your door  
-       ***Am                 C            F***  
+    ***Am                 C            F***  
   Like Joan of Arc coming back for more  
   ****Dm       Bb       Am        E          Dm      Bb***   (not too sure)*  
   I nearly died      I nearly died       I nearly died  
   ***F                 C                      Dm***  
   I came to cut you up I came to knock you down  
-                   ***Bb                        F***  
+    ***Bb                        F***  
   I came around to tear your little world apart  
   ***F                  C                     Dm***  
   I came to shut you up I came to drag you down  
-                   ***C                       F***  
+    ***C                       F***  
   I came around to tear your little world apart  
   and break your soul apart.  
   ****Am     F       Am       Am***  (with riff)*  

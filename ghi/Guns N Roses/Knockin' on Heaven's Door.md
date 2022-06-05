@@ -48,9 +48,9 @@ Knockin' on Heaven's Door
   ***G5             D                       C***  
   Feels like I'm knockin' on heaven's door  
   *Chorus (if you're really concerned about playing it like the*  
-          *CD, listen to it for rhythm. But this song has been done by so*  
-          *many people so differently that you might as well give it your own*  
-          *feel.)*  
+    *CD, listen to it for rhythm. But this song has been done by so*  
+    *many people so differently that you might as well give it your own*  
+    *feel.)*  
   ***G5            D5                     C5***  
   Knock, knock, knockin' on heaven's door,  
   ***C5***  

@@ -5,10 +5,10 @@ Switch-Blade Knaife (1990)
   
       ***H***  
   I know somebody'll grin about my being strange  
-            ***F#                          H***  
+    ***F#                          H***  
   But I've got a surprise for them - a world to rearrange  
   'Cause when I get much older, older than today  
-        ***F#                        H***  
+    ***F#                        H***  
   I'll never need nobodys help in any bloody way  
   
   ***E                             H***  
@@ -42,10 +42,10 @@ Switch-Blade Knaife (1990)
   
       ***C#***  
   I know somebody'll grin about my being strange  
-            ***G#                          C#***  
+    ***G#                          C#***  
   But I've got a surprise for them - a world to rearrange  
   'Cause when I get much older, older than today  
-        ***G#                        C#***  
+    ***G#                        C#***  
   I'll never need nobodys help in any bloody way  
   
   ***F#                            C#***  

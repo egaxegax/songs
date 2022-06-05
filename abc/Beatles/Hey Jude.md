@@ -4,71 +4,71 @@ Hey Jude
   
   *Past Masters Vol. 2*  
   
-        ***F                C***  
+    ***F                C***  
   Hey Jude dont make it bad  
-       ***F  C7   C7sus4      C7       F***  
+    ***F  C7   C7sus4      C7       F***  
   take a  sad   song  and make it better  
    ***Bb                           F***  
   Remember to let her into your heart  
-                     ***C               F***  
+    ***C               F***  
   and then you can start to make it better  
   
-        ***F              C***  
+    ***F              C***  
   Hey Jude dont be afraid  
-        ***F   C7   C7sus4      C7      F***  
+    ***F   C7   C7sus4      C7      F***  
   you were made    to  go   out and get her  
-       ***Bb                            F***  
+    ***Bb                            F***  
   The minute you let her under your skin  
-             ***C                F   Fmaj7 F7***  
+    ***C                F   Fmaj7 F7***  
   then you begin to make it better  
   
-                            ***Bb      Bb/A   Gm***  
+    ***Bb      Bb/A   Gm***  
   And anytime you feel the pain hey jude refrain  
-        ***Gm7       C/E   C            F    Fmaj7 F7***  
+    ***Gm7       C/E   C            F    Fmaj7 F7***  
   dont carry the world upon your shoulders  
-                                ***Bb      Bb/A      Gm***  
+    ***Bb      Bb/A      Gm***  
   For well you know that its a fool who plays it cool  
-       ***Gm7       C/E       C      F***  
+    ***Gm7       C/E       C      F***  
   by making his world  a little colder  
   
-        ***F6 F7      C  Csus4  CaddG       C  F  C7***  
+    ***F6 F7      C  Csus4  CaddG       C  F  C7***  
   Da da da da da   Da   da    da    da  
   
-        ***F               C***  
+    ***F               C***  
   Hey Jude dont let me down  
-       ***F     C7  C7sus4    C7      F***  
+    ***F     C7  C7sus4    C7      F***  
   You have found  her  now go and get her  
      ***Bb                         F***  
   Remember to let her into you heart  
-                 ***C                F   Fmaj7  F7***  
+    ***C                F   Fmaj7  F7***  
   then you can start to make it better  
   
-                           ***Bb     Bb/A   Gm***  
+    ***Bb     Bb/A   Gm***  
   So let it out and let it in hey Jude begin  
-        ***Gm7         C/E    C     F         Fmaj7  F7***  
+    ***Gm7         C/E    C     F         Fmaj7  F7***  
   your waiting for someone to perform with  
-                                  ***Bb      Bb/A        Gm***  
+    ***Bb      Bb/A        Gm***  
   And dont you know that its just you hey jude you'll do  
-        ***Gm7         C/E     C         F***  
+    ***Gm7         C/E     C         F***  
   The movement you need is on your shoulders  
   
-        ***F6 F7      C  Csus4 CaddG    C  F  C7***  
+    ***F6 F7      C  Csus4 CaddG    C  F  C7***  
   Da da da da da   da  da   da    da  
   
-       ***F                C***  
+    ***F                C***  
   Hey Jude dont make it bad  
-       ***F  C7   C7sus4      C7      F***  
+    ***F  C7   C7sus4      C7      F***  
   take a  sad   song  and make it better  
     ***Bb                            F***  
   Remember to let her under your skin  
-                    ***C                F***  
+    ***C                F***  
   and then you'll begin to make it better  
   
   ***F        Eb***  
   Na na na na na na na  
   ***Bb***  
   Na na na na  
-       ***F***  
+    ***F***  
   Hey Jude (Repeat and fade)  
   
   ***C7    C7sus4   Fmaj7   F7    Bb/A   Gm7   C/E   F6    Csus4   CaddG***  
@@ -98,7 +98,7 @@ Hey Jude
   ***F***  
   For now you know that its a fool who plays it cool by making his world  a  
   little colder  
-           ***F7      C7***  
+    ***F7      C7***  
   Da da da da   Da da da da  Da  
   
   Hey Jude dont let me down You have found her now go and get her  

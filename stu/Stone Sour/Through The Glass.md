@@ -144,52 +144,52 @@ Through The Glass
   
   *Here you go:*  
   
-                               ***C***  
+    ***C***  
 Verse:  I'm looking at you through the glass  
-                                ***D7***  
+    ***D7***  
   Don't know how much time has passed  
-                          ***Em***  
+    ***Em***  
   Oh, God it feels like forever  
-              ***Em***  
+    ***Em***  
   But, no one ever tells you  
   ***C***  
   That forever feels like home  
   ***D7                                              Em***  
   Sitting all alone inside your head  
   
-                        ***C***  
+    ***C***  
   How do you feel?  
-                         ***D7***  
+    ***D7***  
   That is the question  
-                     ***Em***  
+    ***Em***  
   But, I forget  
-                                       ***Em***  
+    ***Em***  
   You don't expect an easy answer  
   
-                     ***C***  
+    ***C***  
   When something is like a soul  
-                    ***D7***  
+    ***D7***  
   Becomes initialized  
-            ***Em***  
+    ***Em***  
   And folded up like paper dolls and little notes  
-           ***Em***  
+    ***Em***  
   You can't expect the bitter folks  
-         ***C***  
+    ***C***  
   And while your outside looking in  
-       ***D7***  
+    ***D7***  
   Describing what you see  
-        ***Em                                             Em***  
+    ***Em                                             Em***  
   Remember what your staring at is me  
   
-                                          ***C***  
+    ***C***  
   Cause I'm looking at you through the glass  
-                                      ***D7***  
+    ***D7***  
   Don't know how much time has past  
-                                    ***Em***  
+    ***Em***  
   All I know is that it feels like forever  
-                ***Em***  
+    ***Em***  
   And no one ever tells you  
-             ***C***  
+    ***C***  
   That forever feels like home  
   ***D7                                             Em***  
   Sitting all alone inside your head  
@@ -221,9 +221,9 @@ Chorus:  I'm looking at you through the glass
   That forever feels like home  
   Sitting all alone inside your head  
   
-                      ***C                D7             Em           Em***  
+    ***C                D7             Em           Em***  
   And it's the stars...the stars...that shine for you  
-                      ***C                D7             Em           Em***  
+    ***C                D7             Em           Em***  
   And it's the stars...the stars...that lie to you  
   
 Chorus:  I'm looking at you through the glass  

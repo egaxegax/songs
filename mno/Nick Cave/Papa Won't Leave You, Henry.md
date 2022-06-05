@@ -41,11 +41,11 @@ A bloody halo, like a think-bubble
 Circling his head  
 And I bellowed at the firmament  
   
-                                 C  
+    C  
 Looks like the rains are hear to stay  
 And the rain pissed down upon me  
   
-           Bb G#  G   Fm  
+    Bb G#  G   Fm  
 And washed me all a - way  
 Saying  
   
@@ -57,11 +57,11 @@ Papa won't leave you, Boy
 Well, the road is long  
 And the road is hard  
   
-                     C  
+    C  
 And many fall by the side  
 But Papa won't leave you, Henry  
   
-          C    Bb  G#  G  Fm  
+    C    Bb  G#  G  Fm  
 So there ain't no need to cry  
   
 Fm  

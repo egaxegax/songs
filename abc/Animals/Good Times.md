@@ -8,7 +8,7 @@ intro
 ---------------------------------------------------------|  
   
 verses 1,2  
-                         C                    D                G  
+    C                    D                G  
 when I think of all the good times that ive wasted having good times  
 when I think of all the good times thats been wasted having good times  
   

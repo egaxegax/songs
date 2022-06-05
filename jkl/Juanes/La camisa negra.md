@@ -7,11 +7,11 @@ Intro:  ***F#m | F#m | F#m | C#7 | F#m | Hm C#7***
   
   ***F#m             C#7***  
   Tengo la camisa negra  
-                      ***F#m***  
+    ***F#m***  
   Hoy mi amor esta de luto.  
-                           ***Hm***  
+    ***Hm***  
   Hoy tengo en el alma una pena  
-           ***C#7            F#m***  
+    ***C#7            F#m***  
   Y es por culpa de tu embrujo.  
   
   Hoy se que tu ya no me quieres  
@@ -19,20 +19,20 @@ Intro:  ***F#m | F#m | F#m | C#7 | F#m | Hm C#7***
   Que tengo la camisa negra  
   Y una pena que me duele.  
   
-                            ***C#7***  
+    ***C#7***  
   Mal parece que solo me quede,  
-                          ***F#m***  
+    ***F#m***  
   Y fue pura todita tu mentira  
-                             ***Hm***  
+    ***Hm***  
   Que maldita mala suerte la mia  
-            ***C#7          F#***  
+    ***C#7          F#***  
   Que aquel dia te encontre.  
   
-        ***G#m      A#m    H           F#***  
+    ***G#m      A#m    H           F#***  
   Por beber del veneno malevo de tu amor,  
   Yo quede moribundo y lleno de dolor,  
   Respire de ese humo amargo de tu adios,  
-          ***G#m        A#m      H***  
+    ***G#m        A#m      H***  
   Y desde que tu te fuiste, yo solo...  
   
   Tengo, tengo la camisa negra,  

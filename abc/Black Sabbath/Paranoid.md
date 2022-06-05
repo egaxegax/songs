@@ -3,7 +3,7 @@ Paranoid (1970)
   Paranoid  
   
   *INTRODUCTION:*  
-         *w 4     Q Q q   e e e e e e e e 2*  
+    *w 4     Q Q q   e e e e e e e e 2*  
   [+---+-----+----------+-----7-9-----7-9--+  
   |4:-|*-R-*|*---------|-7-9-----7-9-----*|  
   |4:-|*---*|*-2/7-7-7-|-----------------*|  
@@ -80,7 +80,7 @@ Paranoid (1970)
   Think I'll lose my mind if I don't find something to pacify  
   ***E#                       D#                      E#***  
   Can you help me occupy my brain?  
-          ***D#***  
+    ***D#***  
   Oh yeah  
   *Verse*  
   I need someone to show me the things in life that I can't find  

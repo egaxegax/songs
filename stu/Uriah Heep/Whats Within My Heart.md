@@ -7,13 +7,13 @@ Intro:  ***E***
   
   ***E***  
 (1)  Will I never see again  
-                          ***E7***  
+    ***E7***  
   The smiling faces of my friends  
   ***A***  
   Could it be they've gone completely  
   ***Am***  
   And though thoughts will linger  
-                  ***E***  
+    ***E***  
   Sweetly in my heart  
   
   ***D  A***  
@@ -25,7 +25,7 @@ Intro:  ***E***
   
   ***F#***  
   The one who doesn't give a damn  
-             ***Cm7     Cm***  
+    ***Cm7     Cm***  
   For what I seem to be  
   ***A***  
   And really cares for what I am and  

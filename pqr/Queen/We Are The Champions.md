@@ -30,38 +30,38 @@ Chords used: ***Ab6***       -
   ***Gm7***       - [353333]  
   ***Gm7/F***     - [xx3333]  
   
-                                 ***Cm***  
+    ***Cm***  
   |                            |                             |  
-                 I've paid my_  dues,__________  
+    I've paid my_  dues,__________  
   
    ***Cm11                         Cm***  
   |                            |                             |  
-                time af-ter time,______________  
+    time af-ter time,______________  
   
    ***Cm11                         Cm***  
   |                            |                             |  
-                  I've done my___ sen-tence,  
+    I've done my___ sen-tence,  
   
    ***Cm11                         Cm***  
   |                            |                             |  
-         but com-mit-ted no__   crime._________  
+    but com-mit-ted no__   crime._________  
   
    ***Cm11                         Eb***  
   |                            |                             |  
-                   And bad mis- takes,  
+    And bad mis- takes,  
   
    ***Abadd9/Eb                    Eb***  
   |                            |                             |  
-               I've made a few,____________  
+    I've made a few,____________  
   
    ***Abadd9/Eb                    Eb           Bb/D***  
   |                            |                             |  
-                  I've had my_ share of sand kicked in my_  
+    I've had my_ share of sand kicked in my_  
   
    ***Cm7/G             F          Bb***  
   |                            |                             |  
    face,        but I've come____   through.  
-                                          (And I need to go  
+    (And I need to go  
   
    ***Bb11       Bbm9dim5          Bb9            C7***  
   |                            |                             |  
@@ -102,7 +102,7 @@ Chords used: ***Ab6***       -
   
    ***Cm11                         Fm***  
   |                            |                             |  
-                     of the world.___________________________  
+    of the world.___________________________  
   
    ***Gm7/F                        Fm***  
   |                            |                             |  
@@ -113,15 +113,15 @@ Chords used: ***Ab6***       -
   
    ***Gm7/F                        Cm***  
   |                            |                             |  
-               I've ta-ken my__ bows,  
+    I've ta-ken my__ bows,  
   
    ***Cm11                         Cm***  
   |                            |                             |  
-         and my__ cur-tain calls,_  
+    and my__ cur-tain calls,_  
   
    ***Cm11                         Cm***  
   |                            |                                  |  
-                 you brought me fame and for-tune and ev-'ry-thing  
+    you brought me fame and for-tune and ev-'ry-thing  
   
    ***Cm11                           Cm***  
   |                              |                           |  
@@ -129,24 +129,24 @@ Chords used: ***Ab6***       -
   
    ***Cm11                         Eb***  
   |                            |                             |  
-        But it's been no bed of ro-  ses,________  
+    But it's been no bed of ro-  ses,________  
   
    ***Abadd9/Eb                    Eb***  
   |                            |                             |  
-                  no plea-sure   cruise,______  
+    no plea-sure   cruise,______  
   
    ***Abadd9/Eb                    Eb                Bb/D***  
   |                            |                                   |  
-             I con-si-der it a  chal-lenge be-fore the whole hu-man  
+    I con-si-der it a  chal-lenge be-fore the whole hu-man  
   
    ***Cm7/G         F              Bb***  
   |                            |                             |  
    race      and I ain't gon-na lose.________  
-                                            (And I need to go  
+    (And I need to go  
   
    ***Bb11           Bbm9dim5      Bb9       C7***  
   |                            |                             |  
-                                                       We_____  
+    We_____  
    on      and      on    and   on   and  on.)  
   
    ***F                            Am***  
@@ -183,8 +183,8 @@ Chords used: ***Ab6***       -
   
    ***Cm11                         F***  
   |                            |                             |  
-                          We________________   are     the  
-                   (of the world.___________)  
+    We________________   are     the  
+    (of the world.___________)  
   
    ***Am                           Dm***  
   |                            |                             |  
@@ -192,7 +192,7 @@ Chords used: ***Ab6***       -
   
    ***Bb            C              F***  
   |                            |                             |  
-                           and  we'll_____      keep    on  
+    and  we'll_____      keep    on  
   
    ***Am                           Bb***  
   |                            |                             |  
@@ -200,8 +200,8 @@ Chords used: ***Ab6***       -
   
    ***F#dim        D7b9/F#         Gm7***  
   |                            |                             |  
-               Ah,              we         are       the  
-                               (we         are       the  
+    Ah,              we         are       the  
+    (we         are       the  
   
    ***C7/G                         Bbm6***  
   |                            |                             |  

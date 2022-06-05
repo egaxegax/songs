@@ -13,7 +13,7 @@ Dirty Frank
   d-------5-----|------------------------------|  
   a--7------7--|---7---5-----5--7--5-------|  
   e--------------|-----------7-----------------|]  
-                       *[/\] this part gets varied by Ament.*  
-                           *start it off on any E and play it the same*  
-                            *as it is there.*  
+    *[/\] this part gets varied by Ament.*  
+    *start it off on any E and play it the same*  
+    *as it is there.*  
   *There more little things to this song, but im too lazy to figure them out.*

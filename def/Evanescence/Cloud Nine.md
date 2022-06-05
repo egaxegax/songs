@@ -27,7 +27,7 @@ Cloud Nine
   If you want to live, then live  
   ***Em                      B7***  
   if you want to go, just go  
-                        ***Em          Am               Em    (B7)***  
+    ***Em          Am               Em    (B7)***  
   I'm never gonna be your sweet, sweet surrender  
   
   ***Am                B7            Em   (C  D)***  

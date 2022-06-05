@@ -21,7 +21,7 @@ Livin' on the Edge
   there's something wrong with the world today, I don't know what it is  
   ***Bm                                                A5***  
   something's wrong with our eyes  
-        ****D5*** (w/Intro pattern)*  
+    ****D5*** (w/Intro pattern)*  
   we're seeing things in a different way, and God knows it ain't His  
      ***Bm***  
   it sure ain't no surprise           (yeah!)  
@@ -37,13 +37,13 @@ Livin' on the Edge
   |---------------------------------|---------------------------------|  
   *(or something like that... ): -)*  
   
-                      ****D5*** (w/chorus pattern)*  
+    ****D5*** (w/chorus pattern)*  
   we're Livin' On The Edge  
   
   Livin' On The Edge  
-                ***A#           G/B***  
+    ***A#           G/B***  
   Livin' On The Edge  
-                ***D5***  
+    ***D5***  
   Livin' On The Edge  
   
   *_VERSE 2_____________________________________________________________*  
@@ -57,13 +57,13 @@ Livin' on the Edge
   
   *_CHORUS_______________________________________________________________*  
   
-                ****D5*** (w/chorus pattern)*  
+    ****D5*** (w/chorus pattern)*  
   Livin' On The Edge     (you can't help yourself from falling)  
   
   Livin' On The Edge     (you can't help yourself at all)  
-                ***A#                                     G/B***  
+    ***A#                                     G/B***  
   Livin' On The Edge     (you can't stop yourself from falling)  
-                ***D5***  
+    ***D5***  
   Livin' On The Edge  
   
   *_BRIDGE_______________________________________________________________*  
@@ -95,9 +95,9 @@ Livin' on the Edge
   |-4---4-------4---2-3-4-------4-2-|-4---4-------4---2-3-4-------4---|  
   if Chicken Little tells you that the sky is fallin, even if it wasn't  
   
-                                ***G5***  
+    ***G5***  
   would you still come crawling back again?  
-            ***A5***  
+    ***A5***  
   I bet you would, my friend  
    ***A#***  
   again and again and again and again and again  
@@ -135,11 +135,11 @@ Livin' on the Edge
   
   *_OUTRO_____________________________________________________________*  
   
-                ***A#            A5***  
+    ***A#            A5***  
   Livin' On The Edge  
-                ***G5            F5***  
+    ***G5            F5***  
   Livin' On The Edge  
-                ***E5            D#5***  
+    ***E5            D#5***  
   Livin' On The Edge  
   
   yeah, yeah, yeah...  
@@ -154,25 +154,25 @@ Livin' on the Edge
   |---------------------------------|  
   |---------------------------------|  
   
-                ***A#                                 G5                     F5***  
+    ***A#                                 G5                     F5***  
   Livin' On The Edge (you can't help yourself from falling)  
-                ***D5***  
+    ***D5***  
   Livin' On The Edge (you can't help yourself at all)  
-                ***A#                                 G/B                    F5***  
+    ***A#                                 G/B                    F5***  
   Livin' On The Edge (you can't stop yourself from falling)  
-                ***D5***  
+    ***D5***  
   Livin' On The Edge  
-                ***A#                                 G/B                    F5***  
+    ***A#                                 G/B                    F5***  
   Livin' On The Edge (you can't help yourself)        (you can't help yourself)  
-                ***D5***  
+    ***D5***  
   Livin' On The Edge (you can't help yourself at all)  
-                ***A#                                 A5***  
+    ***A#                                 A5***  
   Livin' On The Edge (you can't help yourself)        (you can't help yourself)  
-                ***G5                                 F5***  
+    ***G5                                 F5***  
   Livin' On The Edge (you can't help yourself)        (you can't help yourself)  
-                ***E5                                 D#5***  
+    ***E5                                 D#5***  
   Livin' On The Edge (you can't help yourself from falling)  
-                            ***D5***  
+    ***D5***  
   Livin' On The Edge, yeah, yeah...  
   
   |-----6-----------|-----5-----------|  

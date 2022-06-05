@@ -3,49 +3,49 @@ Dernier sourire
   
   ***Am          G***  
   Sentir ton corps,  
-           ***c           Gm***  
+    ***c           Gm***  
   Tout ton etre qui se tord  
       ***A           Dm***  
   Souriant de douleur  
-              ***G***  
+    ***G***  
   Sentir ton heure  
-              ***C***  
+    ***C***  
   Poindre au coeur  
-          ***Gm         A             Dm***  
+    ***Gm         A             Dm***  
   D'une chambre qui bannit le mot tendre  
-             ***G***  
+    ***G***  
   Sentir ta foi  
-            ***C***  
+    ***C***  
   Qui se derobe  
-            ***Gm      A              Dm***  
+    ***Gm      A              Dm***  
   A chaque fois que tu sembles comprendre  
-               ***G***  
+    ***G***  
   Parles moi encore  
-            ***C***  
+    ***C***  
   Si tu t'endort  
-                  ***Gm***  
+    ***Gm***  
   Si c'est ton souhait  
       ***A             Dm***  
   Je peux t'accompagner  
   ***Am         G***  
   Qui te condamne  
-             ***C***  
+    ***C***  
   Au nom de qui  
-               ***Gm***  
+    ***Gm***  
   Mais qui s'acharne  
      ***A              Dm***  
   A souffler tes bougies  
-                ***G***  
+    ***G***  
   Est-ce te mentir?  
-                ***C***  
+    ***C***  
   Est-ce te trahir?  
-             ***Gm         A               Dm***  
+    ***Gm         A               Dm***  
   Si je t'inventes des lendemains qui chantent  
-              ***G             C***  
+    ***G             C***  
   Vois-tu le noir de ce tunnel?  
-               ***Gm         A            Dm***  
+    ***Gm         A            Dm***  
   Sais-tu l'espoir quand jaillit la lumiere  
-           ***G                 C***  
+    ***G                 C***  
   Ton souvenir ne cessera jamais  
-         ***Gm        A              Dm***  
+    ***Gm        A              Dm***  
   De remuer la couteau dans mon plaie

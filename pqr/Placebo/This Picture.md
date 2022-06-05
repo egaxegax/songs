@@ -1,24 +1,24 @@
 <!--2020-09-05 04:40:00-->
 D                      Hm  
   Farewell the ashtray girl  
-                D  
+    D  
 Forbidden snowflake  
-                      Hm  
+    Hm  
 Beware this troubled world  
-                     G  
+    G  
 Watch out for earthquakes  
-                 D  
+    D  
 Goodbye to open sores  
-                   G  
+    G  
 To broken centre floor  
-                     D  
+    D  
 We know we miss her  
 We miss her picture  
 G                       D  
   Sometimes it?s faded  
      F#m      Hm  
    Disintegrated  
-                     D  
+    D  
 For fear of growing old  
 Sometimes it?s faded  
 Assassinated  

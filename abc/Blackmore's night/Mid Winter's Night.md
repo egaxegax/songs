@@ -3,19 +3,19 @@ Mid Winter's Night
   
   ***D                   g***  
   Maire, let campagno gansaion  
-           ***A           D***  
+    ***A           D***  
   A questo nue, balin-balan,  
-       ***D              G***  
+    ***D              G***  
   Leis ave, lei fedo sounaion.  
-          ***A          D***  
+    ***A          D***  
   D`ounte ven ageu sagan?  
       ***D***  
   Lou gat sauto dins la paniero,  
-                  ***G         A***  
+    ***G         A***  
   Medor gingouelo dins lei champ,  
-          ***Em  G       A***  
+    ***Em  G       A***  
   E lei garri dins ta feniero,  
-            ***A Asus7   D***  
+    ***A Asus7   D***  
   Barruelon coume de bregand!  
       ***A     Em     Hm***  
   The bells are ringing  

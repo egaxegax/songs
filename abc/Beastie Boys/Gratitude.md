@@ -5,7 +5,7 @@
   *Listen the the album for timing*  
   *w/ distortion (really?) & flange?*  
   *Part A*  
-         *___This is the main part____*  
+    *___This is the main part____*  
   [G-----|----------------------------|---  
   D-----|--5-------------------------|---  
   A-5-5-|7---7-7-xx-5-6-7-7-xx-------|---]  

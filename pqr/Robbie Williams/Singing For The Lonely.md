@@ -19,7 +19,7 @@ Singing For The Lonely
   Cause the more I sleep the less I have to say  
   ***C                                      Am***  
   Scared of you always thinking that I'm boring  
-           ***Gm             C***  
+    ***Gm             C***  
   Stop me yawning my life away  
   Tender young confusion  
   Send black mariah for blue delusions  
@@ -31,7 +31,7 @@ Singing For The Lonely
   Leaves me tired all the time  
   ***Bb                              Dm***  
   If your home's full of useless aggravation  
-       ***Gm                C***  
+    ***Gm                C***  
   Then don't bring it to mine  
   I seem to spend my life  
   Just waiting for the chorus  

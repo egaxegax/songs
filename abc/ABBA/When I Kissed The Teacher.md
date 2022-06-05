@@ -9,44 +9,44 @@ Verse:
 G                                D                                          G  
 Everybody   screamed,   when  I  kissed  the  teacher  
   
-                                      D  
+    D  
 And  the  must  have  thought  they  dreamed  
   
-                                      G                                           A  
+    G                                           A  
 When  I  kissed  the  teacher.  All  my  friends  at  school  
   
-                                            F#m  
+    F#m  
 They  had  never  seen  the  teacher  blush  
   
-        Bm                         Em                   A  
+    Bm                         Em                   A  
 He  looked  like  a   fool,     nearly  petrified  cause  he  
   
-                                      D                                        G  
+    D                                        G  
 Was  taken  by  surprise …  When  I  kissed  the  teacher  
   
-                              D                                                           G  
+    D                                                           G  
 Couldn't  quite  believe  his  eyes,  when  I  kissed  the  teacher  
   
-                                     A  
+    A  
 My  whole  class  went  wild,   as  I  held  my  breath  
   
-        F#m                              Bm                    Em  
+    F#m                              Bm                    Em  
 The  world  stood  still  but  then  he  just  smiled,  I  was  in  
   
-               A                                                       D        Db   D  
+    A                                                       D        Db   D  
 The  seventh  heaven  when  I  kissed  the  teacher.  
   
   
-                                Bm  A  Bm             G  
+    Bm  A  Bm             G  
 One  of  these  days                            gonna  tell  him  
   
       A                                          D  Dmaj7  Db7  
 I  dream  of  him  every  night  
   
-                         A7                             Bm                 Bb  
+    A7                             Bm                 Bb  
 One  of  these  days                gonna  show  him  I  care  
   
-             Bm                  E/Ab       Ab7  
+    Bm                  E/Ab       Ab7  
 Gonna  teach  him  a   lesson  alright.  
   
   

@@ -2,7 +2,7 @@
 A  
 I think I'm gonna be sad  
 I think it's to day, yeh.  
-                                            Bm E  
+    Bm E  
 The girl that's driving me mad is going away.  
 F#m                       D  
 She's got a ticket to ride,  
@@ -17,10 +17,10 @@ when I was around.
    D7  
 I don't know why she's riding so high,  
 she ought to think twice,  
-                         E  
+    E  
 she ought to do right by me.  
 D7                               D7  
 Before she gets to saying good-bye  
 she ought to think twice,  
-                         E  
+    E  
 she ought to do right by me.

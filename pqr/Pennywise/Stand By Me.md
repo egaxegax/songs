@@ -6,12 +6,12 @@ Wildcard/A Word From The Wise
   When the night has come  
   ***F#m***  
   And the land is dark  
-              ***D         E                 A***  
+    ***D         E                 A***  
   And the moon is the only light we'll see  
   No, I won't be afraid,  
-        ***Fm***  
+    ***Fm***  
   No, I won't be afraid  
-              ***D            E             A***  
+    ***D            E             A***  
   Just as long as you stand, stand by me.  
   
 Chorus:  So, darling, darling, stand by me,  
@@ -45,7 +45,7 @@ Chorus:  So, darling, darling, stand by me,
   *If not you'll get the picture. For those of you that don't know chord*  
   *names here they are:*  
       ****A       F#M        D        E***        Don't forget to give*  
-                                           *and not just take.*  
+    *and not just take.*  
   *[|--O--|   |--2--|   |--2--|   |--O--|]    give some PW tabs. They aren't*  
   *[|--2--|   |--2--|   |--3--|   |--O--|]    hard.*  
   |--2--|   |--2--|   |--2--|   |--1--|  

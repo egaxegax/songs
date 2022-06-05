@@ -1,17 +1,17 @@
 <!--2020-09-04 23:27:15-->
 Intro: B  
   
-       B                 F#  
+    B                 F#  
 I was never any good at loving you  
-                                  B  
+    B  
 I was never any good at coming through for you  
-        E  
+    E  
 You're going to feel much better  
-       Em  
+    Em  
 When you cut me loose forever  
-       B  
+    B  
 I was never any good  
-       G#  
+    G#  
 I was never any good  
  C#                F#  
 Never any good at loving you  
@@ -24,7 +24,7 @@ I was never any good
 Never any good  
 I was never any good at loving you  
   
-        D#  
+    D#  
 I was pretty good at taking out the garbage  
   G#m  
 Pretty good at holding up the wall  
@@ -72,17 +72,17 @@ A/e:      xx2220  or  002220
   
 Intro: A  
   
-       A                 E  
+    A                 E  
 I was never any good at loving you  
-                                  A  
+    A  
 I was never any good at coming through for you  
-        D  
+    D  
 You're going to feel much better  
-       Dm  
+    Dm  
 When you cut me loose forever  
-       A  
+    A  
 I was never any good  
-       F#  
+    F#  
 I was never any good  
  B                 E  
 Never any good at loving you  
@@ -95,7 +95,7 @@ I was never any good
 Never any good  
 I was never any good at loving you  
   
-        C#  
+    C#  
 I was pretty good at taking out the garbage  
   F#m  
 Pretty good at holding up the wall  

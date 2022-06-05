@@ -13,13 +13,13 @@
   *gerald*  
   ***Em                           Am***  
   Au 22 bar on dansait, on dansait  
-                    ***Bm***  
+    ***Bm***  
   C'etait plutot inhabituel  
   ***Am                     Bm***  
   Alors bien sur j'en profitais  
   ***Em                                    Am***  
   De bras en bras les gens passaient, s'arretaient (ca n'etait????)  
-                             ***Bm***  
+    ***Bm***  
   Qu'un temps court pour se relancer  
   ***Am                       Bm***  
   Et puis se remettre  a danser  

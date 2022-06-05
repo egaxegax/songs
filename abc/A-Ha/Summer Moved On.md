@@ -3,39 +3,39 @@ Summer Moved On
   
   ***Em           D***  
   Summer moved on  
-           ***A***  
+    ***A***  
   And the way it goes  
-       ***G          A***  
+    ***G          A***  
   You can't tag along  
   ***Em           D***  
   Honey moved out  
-           ***A***  
+    ***A***  
   And the way it went  
    ***G         A***  
   Leaves no doubt  
   
   ***Hm          Gmaj7***  
   Moments will pass  
-         ***F#m***  
+    ***F#m***  
   In the morning light  
   ***A***  
   I found out  
    ***Hm          Gmaj7***  
   Seasons can't last  
-              ***F#m***  
+    ***F#m***  
   And there's just one thing  
    ***A***  
   Left to ask  
   
-       ***Hm***  
+    ***Hm***  
   Stay  
   ***F#m             Gmaj7***  
   Don't just walk away  
-       ***F#7                 Hm***  
+    ***F#7                 Hm***  
   And leave me another day  
     ***F#m            Gmaj7***  
   A day just like today  
-       ***F#7           Hm***  
+    ***F#7           Hm***  
   With nobody else around  
   Friendships move on  
   And until the day  
@@ -64,7 +64,7 @@ Interlude: ***Em  D  A  G  A***
   
    ***Hm          Gmaj7***  
   Seasons can't last  
-            ***F#m***  
+    ***F#m***  
   And there's just one thing  
   ***A       Hm  F#m  Gmaj7  F#7  Hm  F#m  Gmaj7  F#7***  
   Left to ask  
@@ -79,7 +79,7 @@ Interlude: ***Em  D  A  G  A***
   
   ***Hm  A  G  F#m***  
   ***Hm  A  G  F#m         Hm***  
-            Summer moved on  
+    Summer moved on  
   
 -  
   

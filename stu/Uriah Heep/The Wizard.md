@@ -17,7 +17,7 @@ DEMONS AND WIZARDS (1972)
   C|-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0--| first verse)  
   G|-3-3-3-3-2-2-2-2-3-3-3-3-2-2-2-2-2--|  
   C|------------------------------------|]  
-           *THE WIZARD  (Hensley/Clarke)*  
+    *THE WIZARD  (Hensley/Clarke)*  
   *Accoustic guitar opening:*  
   [D|--2---2---3p2----0h2-------------------|  
   A|---3---3-----3------3------3----3------|  
@@ -58,32 +58,32 @@ DEMONS AND WIZARDS (1972)
       ***Bb-F     C***  
   And eyes of fire  
   And as he spoke  
-            ***Bb-F   C***  
+    ***Bb-F   C***  
   I felt a deep desire  
   ***Bb           F***  
   To free the world  
-          ***Bb       Am***  
+    ***Bb       Am***  
   Of its fear and pain  
   ***C***  
   And help the people  
-            ***Bb-F  C***  
+    ***Bb-F  C***  
   To feel free again  
   *bridge:*  
   ***G***  
   Why don't we listen to  
-                     ***F***  
+    ***F***  
   The voices in our hearts  
   ***G***  
   'Cause then I know we'd find  
-                     ***F***  
+    ***F***  
   We're not so far apart  
   ***G***  
   Everybody's got to be happy  
-                   ***F***  
+    ***F***  
   Everyone should sing  
   ***G***  
   For we know the joy of life  
-                            ***F***  
+    ***F***  
   The peace that love can bring  
   *verse (play like 1st verse):*  
   So spoke the wizard  
@@ -137,7 +137,7 @@ DEMONS AND WIZARDS (1972)
   |----------------|----------------|-------------|----------------|  
   |----------------|-3---3---3---3--|-1--1--------|-3--3--3--(3)---|  
   |--------------3-|---3---3---3----|-------1--1--|--------------3-|  
-                ***Csus4 C    CsusC   C5   Bb     F/A      C***  
+    ***Csus4 C    CsusC   C5   Bb     F/A      C***  
     *Q.   E Q.   E   E +Q   E E +E  Q    Q.   E Q.   E   E E E E Q  Q*  
   |--------5------|-5-(5)----5-(5)----|---------------|---------------||  
   |------5------5-|--------5-------5--|---------------|---------------||  
@@ -150,8 +150,8 @@ DEMONS AND WIZARDS (1972)
   ||o-----------------|---------------|---------------|-----------------|  
   ||o-----------------|--------1-3----|---------------|-----------------|  
   ||--1-3--1-3----(0)-|-1-3--1-----1--|-1-3--1-3----3-|-1----1-1-1-1-1--|  
-                       *Verse 3*  
-                        ***C         Csus4 C     Csus2 C C5   Bb     F/A***  
+    *Verse 3*  
+    ***C         Csus4 C     Csus2 C C5   Bb     F/A***  
     *E E E E E E E E  4x H    Q.   E   E E a E +E  E E Q    E E Q  Q.   E*  
   |------------------||-------------|-5---5s7-(7)-5------|---------------|  
   |-----------------o||-----------5-|---5-----------7-5--|---------------|  
@@ -175,7 +175,7 @@ DEMONS AND WIZARDS (1972)
   |-3---3---3---3---|---------------|----------------|---------------|  
   |-----------------|-3-------(3)---|-3---3h5-3h5-3--|-1----1--------|  
   |---1---1---1---1-|-------------3-|---3------------|--------1----1-|  
-                      *Outro*  
+    *Outro*  
     ***C                                   CsusC   CsCs2     Bb      F/A***  
     *E E E E E E E E    Q  Q  Q  +E  E   E E E E E E Q     E E E E Q.   E*  
   |-----------------||----------------|-----------------|----------------|  

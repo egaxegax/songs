@@ -1,10 +1,10 @@
 <!--2020-09-06 05:16:27-->
 INTRO: 3x`s  
-                *             *  
-            F   F   F     F   F   F /  G    G  C  G  
+    *             *  
+    F   F   F     F   F   F /  G    G  C  G  
   
 NOTE: ALL CHORDS ARE BARRE CHORDS. BARRE THE  F  FIRST FRET,  
-                                             *  
+    *  
     AND LIFT UP INDEX FINGER ON THIS CHORD - F -  ON 2nd BEAT.  
   
 CHORUS:  
@@ -13,13 +13,13 @@ CHORUS:
 Baby break it down  
  F  
 Baby break it down  
-                        G   C  G  
+    G   C  G  
 We`ve got a long way to go  
  Bb  
 Baby break it down  
  F  
 Baby break it down  
-                        G   C  
+    G   C  
 We`ve got a long way to go  
   
   
@@ -31,7 +31,7 @@ C               G
 I`m standing on mine  
 C              G  
 It only needs one step  
-                    D  
+    D  
 And you could be crossing the line  
 G  
 There`s nothing between us  
@@ -80,7 +80,7 @@ C              G
 That we can`t cross  
 C               G  
 Does one or the other of us  
-         D  
+    D  
 Have to be the boss  
   
 CHORUS:  

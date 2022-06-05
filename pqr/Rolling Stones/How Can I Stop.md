@@ -1,6 +1,6 @@
 <!--2020-09-06 05:15:24-->
 INTRO:  PLAY THIS -- 2x`s   NOTE: *-means slide to but don`t  
-                                          strike the note.  
+    strike the note.  
 E|-------------------------------------------------------------|  
 B|-------------------------------------------------------------|  
 G|-----------------10--12/14*/12*--10--10h12--12/14*--14-------|  
@@ -22,7 +22,7 @@ VERSE:
   
       A         D  
       You offer me  
-                E             A  
+    E             A  
       All your love and sympathy  
       A        D  
       Sweet affection baby  
@@ -46,13 +46,13 @@ VERSE:
   
 CHORUS:  
   
-       E         A                 D              E  
+    E         A                 D              E  
       (How could I stop) How could I stop once I start  
-       E         A       D  E  
+    E         A       D  E  
       (How could I stop)  
-       E  
+    E  
       Yeah yeah  
-       A        D               E    A  
+    A        D               E    A  
       How could I stop once I start  
   
 VERSE:  
@@ -68,47 +68,47 @@ VERSE:
   
 CHORUS:  
   
-       E            A  
+    E            A  
       But how could I stop  
-       D                E  
+    D                E  
       Baby how could I stop  
      E          A  
       How could I stop  
-                        D   E  
+    D   E  
       Stop it, stop it  
   
 BREAK:  
   
       E      F         G                C  
       If I could, I`d take you all the way  
-       C     F  G               C  
+    C     F  G               C  
       Baby, baby listen what I say  
       C      F  
       Ah aha ah  
       G      C  
       Ah aha ah  
-       C            F  
+    C            F  
       There`s even some things  
-           G                 C  
+    G                 C  
       That I just would not pay  
   
 *BREAK 2:  
   
-       C               G  
+    C               G  
       `Cause how could I stop  
      F       G  
       If I start babe  
-                 C                 G             F  
+    C                 G             F  
       (How could I stop) How could I stop if I start  
      G  
       Start with you  
-       C         G  
+    C         G  
       (How could I stop)  
-             F      G  
+    F      G  
       If I start baby  
-                 C                 G  
+    C                 G  
       (How could I stop) How could I stop  
-             F         G   A  
+    F         G   A  
       If I start with you babe  
   
 INSTRUMENTAL:   A  E -- 4x`s  

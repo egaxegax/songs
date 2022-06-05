@@ -7,7 +7,7 @@ Rubber Soul in 1965
 Verse 1: I've got a word or two      to say about the things that you do  
   ***Am            D                 Bb***  
   Your telling all those lies  
-             ***C                  G          Am***  
+    ***C                  G          Am***  
   About the good things we can have if we close our eyes  
   
   ***C7***  

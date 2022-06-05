@@ -20,7 +20,7 @@ Innocent Greed
   *use the same rhythm right after.*  
   
   *--- VERSE ---*  
-                  Your ground      is deep  
+    Your ground      is deep  
   [G -------------------------------------------------------------  
   D -------------------------------------------------------------  
   A ---6-----------4---6-----------4---6-----------4---6---6---4-  
@@ -32,7 +32,7 @@ Innocent Greed
   D ----------------20----------------------------20-------------  
   A --18---------------------------------------------------------  
   E -------------------------------------------------------------]  
-                   my  greed       is deeper  
+    my  greed       is deeper  
   [G -------------------------------------------------------------  
   D -------------------------------------------------------------  
   A ---6-----------4---6-----------4---6-----------4---6---6---4-  
@@ -57,7 +57,7 @@ Innocent Greed
   
   *Then, the distorsion is applied again to the guitar, which*  
   *follows the same pattern as the bass:*  
-                                   You hate!! (I will see it through your eyes)  
+    You hate!! (I will see it through your eyes)  
   [E -------------------------------------------------------------  
   B -------------------------------------------------------------  
   G -------------------------------------------------------------  
@@ -74,7 +74,7 @@ Innocent Greed
   *Then it's powerchord time:*  
   
   *--- CHORUS ---*  
-        *Rage        I feel ashamed now         'cos I can see deep in me nothing*  
+    *Rage        I feel ashamed now         'cos I can see deep in me nothing*  
   ***D#7   F7    D#7   F7                     B7   A#7           C#7        C#7***  
   [--x- --x-   --x- --x-                    --x- --x-          --x-       --x-  
   --x- --x-   --x- --x-                    --x- --x-          --x-       --x-  
@@ -83,7 +83,7 @@ Innocent Greed
   --6- --8-   --6- --8-                    -14- -13-          -16-       -16-  
   --6- --8-   --6- --8-                    -14- -13-          -16-       -16-]  
   *You can also do it like this:*  
-        Rage        I feel ashamed now         'cos I can see deep in me nothing  
+    Rage        I feel ashamed now         'cos I can see deep in me nothing  
   ***D#7   F7    D#7   F7                     B7   A#7           C#7        C#7***  
   [--x- --x-   --x- --x-                    --7- --6-          --9-       --9-  
   --x- --x-   --x- --x-                    --7- --6-          --9-       --9-  
@@ -123,7 +123,7 @@ Innocent Greed
   *separately but you can easily play them all with one guitar)*  
   
   *--- BRIDGE ---*  
-                                                                                     I do...  
+    I do...  
   ***D#7***  
   [--x--------------------------------------------------------------------------------------  
   --x--------------------------------------------------------------------------------------  

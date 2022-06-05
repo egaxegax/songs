@@ -5,7 +5,7 @@ D7                       G
 Molly is the singer in a band.  
 G                             C  
 Desmond says to Molly, girl I like your face  
-          G                D7               G  
+    G                D7               G  
 and Molly says this as she takes him by the hand.  
   
 Chorus:  
@@ -20,7 +20,7 @@ D7                         G
 buys a twenty carat golden ring.  
 G                               C  
 Takes it back to Molly, waiting at the door  
-          G               D7            G  
+    G               D7            G  
 and as he gives it to her she begins to sing.  
   
 {c: chorus}  
@@ -37,7 +37,7 @@ D7                          
 Desmond lets the children lend a hand.  
 G                                C  
 Molly stays at home and does her pretty face  
-           G                 D7                G  
+    G                 D7                G  
 and in the evening she still sings it with the band.  
   
 {c: chorus}  
@@ -55,7 +55,7 @@ D7                          
 Molly lets the children lend a hand.  
 G                                  C  
 Desmond stays at home and does his pretty face  
-           G                 D7                G  
+    G                 D7                G  
 and in the evening  he still sings it with the band.  
   
 {c: chorus}  

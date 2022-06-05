@@ -8,13 +8,13 @@ Should've Listened
   D|-4-   D|-2-  
   A|-2-   A|-2-  
   E|-x-   E|-0-]  
-                               ***Hm(/11)***  
+    ***Hm(/11)***  
   There's clothes all over the floor  
-                                   ***D***  
+    ***D***  
   I don't remember them being here before  
-                            ***G                          A***  
+    ***G                          A***  
   Smell of perfume isn't here, why's lipstick on the mirror?  
-                    ***E(/7)***  
+    ***E(/7)***  
   And still I don't understand  
   No pictures left in the hall, there's three new holes in my wall  
   Where the hells my credit cards, why's my wallet in the yard  

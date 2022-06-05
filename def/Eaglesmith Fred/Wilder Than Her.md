@@ -12,7 +12,7 @@ Intro:  ***E  Esus4 A  B***
   She's a house of fire, she's got all those charms  
   ***A                           E          B***  
   I'm a house of fire too but I got four alarms  
-          ***E                           B***  
+    ***E                           B***  
   And I'm wilder than her, drives her out of her mind  
     ***A                         E        B***  
   I guess she thought she was one of a kind  
@@ -30,7 +30,7 @@ Intro:  ***E  Esus4 A  B***
   She says it's 'cause I'm crazy - she's probably right  
       ***A                               E            B***  
   But I think that the reason is that I'm twice as wild  
-          ***E                           B***  
+    ***E                           B***  
   Because I'm wilder than her, drives her out of her mind  
     ***A                              E        B***  
   I guess she thought she was just one of a kind  
@@ -52,7 +52,7 @@ Intro:  ***E  Esus4 A  B***
   She takes the distance and breaks it into miles  
       ***A               E           B***  
   She makes my life a little less wild  
-          ***E                           B***  
+    ***E                           B***  
   Because I'm wilder than her, drives her out of her mind  
     ***A                                   E        B***  
   I guess she thought that she was just one of a kind  

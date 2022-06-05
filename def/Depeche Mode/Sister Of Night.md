@@ -12,13 +12,13 @@ Am7   (x 0 2 2 1 3)
   
 Em         C     Em  
 Sister of night  
-         Am         C     Em  
+    Am         C     Em  
 When the hunger descends  
-         Am        C      Em  
+    Am        C      Em  
 And your body?s a fire  
       Am          C           Dsus4  
 An inferno that never ends  
-             D  
+    D  
 An eternal flame  
       B7  
 That burns in desire?s name  
@@ -32,15 +32,15 @@ To move in for the kill
   
 Am7        Em           B7  
 Oh sister, come for me  
-              G        Am7  
+    G        Am7  
 Embrace me, assure me  
-            Em          B7  
+    Em          B7  
 Hey sister, I feel it too  
 Am7           Em            B7  
 Sweet sister, just feel me  
-               G            Am7  
+    G            Am7  
 I?m trembling, you heal me  
-            Em          B7  
+    Em          B7  
 Hey sister, I feel it too  
   
 Sister of night  

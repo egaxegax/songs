@@ -13,25 +13,25 @@ Chords:  [E--------------------------------7----9---|
   I've got a friend inside my head but I can't convince the  
   ***A           D***  
   Rest of the World } 4x  
-          ***E                        F#        A       E***  
+    ***E                        F#        A       E***  
   And the rest of the world can go screw themselves, just like  
-             ***F#  A    E                        F#***  
+    ***F#  A    E                        F#***  
   I will any day. The rest of the world can go screw  
       ***A           D           D       D         D     A***  
   themselves, just like I will, just like I will any day.  
-              ***D                E         D***  
+    ***D                E         D***  
   I know that hate and war are bad but I can't convince the  
   ***A           D***  
   Rest of the World } 4x  
-          ***E                        F#        A       E***  
+    ***E                        F#        A       E***  
   And the rest of the world can go screw themselves, just like  
-             ***F#  A    E                        F#***  
+    ***F#  A    E                        F#***  
   I will any day. The rest of the world can go screw  
       ***A           D           D       D         D     A D E D***  
   themselves, just like I will, just like I will any day.  
       ***Bm                        F#m                   Bm***  
   The rest of the world watches too much T.V. and the rest of  
-                    ***F#m                   Bm***  
+    ***F#m                   Bm***  
   the world doesn't care about me and the rest of the world is  
      ***F#m               Eii         D         C#       B***  
   an unfamiliar place. NO ONE DOWN HERE RECOGNIZES MY FACE!  

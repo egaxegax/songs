@@ -9,17 +9,17 @@ Running to Paradise (1996)
   I went out to the hazel wood,  
      ***G                      Am***  
   Because a fire was in my head,  
-       ***Am               F***  
+    ***Am               F***  
   And cut and peeled a hazel wand,  
-        ***G              Am***  
+    ***G              Am***  
   And hooked a berry to a thread;  
-       ***G                    C***  
+    ***G                    C***  
   And when white moths were on the wing,  
-        ***F                     Dm***  
+    ***F                     Dm***  
   And moths-like stars were flickering our,  
-       ***Am        E    G      F***  
+    ***Am        E    G      F***  
   I dropped the berry in a stream  
-        ***Em              Am***  
+    ***Em              Am***  
   And caught a little silver trout.  
   
   When I had laid it on the floor  
@@ -35,11 +35,11 @@ Running to Paradise (1996)
   Through hollow lands and hilly lands,  
   I will find out where she has gone,  
   And kiss her lips and take her hands;  
-       ***G                C***  
+    ***G                C***  
   And walk among long dappled grass,  
-        ***F                   Dm          D***  
+    ***F                   Dm          D***  
   And pluck till time and times are done  
-       ***Am     E     G        D  F***  
+    ***Am     E     G        D  F***  
   The silver apples of the moon,  
-       ***Em           Am***  
+    ***Em           Am***  
   The golden apples of the sun.

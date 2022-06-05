@@ -11,8 +11,8 @@ C    G       C     Fm         
      Am              C                  F             G  Am  
  He went out tiger hunting with his elephant and gun  
   
-                C           F  
+    C           F  
  In case of accidents he always took his mom  
   
-          Em             G      Am                  Fm (I think... maybe Cm?)  
+    Em             G      Am                  Fm (I think... maybe Cm?)  
  He`s the all american bullet headed saxon mother`s son

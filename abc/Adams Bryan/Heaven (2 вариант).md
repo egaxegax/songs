@@ -1,17 +1,17 @@
 <!--2020-09-05 01:01:54-->
 G   Em                       D  
 Oh, thinkin' about all our younger years,  
-          Am            Em  
+    Am            Em  
 there was only you and me,  
-       Am                 D  
+    Am                 D  
 we were young and wild and free.  
 G     Em                       D  
 Now nothin' can take you away from me,  
   
-           Am               Em                     Am  
+    Am               Em                     Am  
 we've been down that road before, but that's over now,  
   
-            D  
+    D  
 you keep me comin' back for more.  
   
 Chorus  
@@ -44,5 +44,5 @@ but just hold me now,   cause our love will light the 
 Now our dreams are comin'   true,  
   
 Through the good times and the bad,  
-              DDDDDD  
+    DDDDDD  
 Ya, I'll be standin' there by you.

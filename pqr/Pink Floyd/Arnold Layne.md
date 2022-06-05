@@ -3,13 +3,13 @@ The First 3 Singles (1967), Relics (1971), Works (1968-1973) (
   ARNOLD LAYNE  
   *(words & music by Syd Barrett)*  
   
-             ***Bb              Fm6  G      F#***  
+    ***Bb              Fm6  G      F#***  
   Arnold Layne    had a strange   hobby  
   ***F7                 Bb          Ab      Eb     F***  
   collecting clothes moon shine washing line  
-         ***Eb  Db        Bb***  
+    ***Eb  Db        Bb***  
   they suit him fine  
-                          ***Fm6   G        F#***  
+    ***Fm6   G        F#***  
   on the wall   hung a tall    mirror  
   ***F7               Bb           Ab   Eb       F***  
   distorted view   see through  baby blue  
@@ -19,7 +19,7 @@ The First 3 Singles (1967), Relics (1971), Works (1968-1973) (
   Oh  Arnold Layne it's not the same  
   ***Db    Ab     Eb     F             Ab       Ab7***  
   takes two to know   two to know   two to know  
-                    ***Eb  Ab  F  Bb***  
+    ***Eb  Ab  F  Bb***  
   why can't you see  
   ***(Bb)                    (sus4)  Bb***  
   Arnold Layne   Arnold Layne        Arnold Layne Arnold Layne  

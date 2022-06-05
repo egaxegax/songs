@@ -6,7 +6,7 @@ Lucy in the Sky with Diamonds
   Picture yourself in a boat on a river  
   With tangerine trees and marmalade skies  
   Somebody calls you, you answer quite slowly  
-                            ****Fmaj7***   (***Dm7 C7sus***) (optional chords)*  
+    ****Fmaj7***   (***Dm7 C7sus***) (optional chords)*  
   A girl with caleidoscope eyes  
    ***Bb                      C***  
   Cellophane flowers of yellow and green  
@@ -66,7 +66,7 @@ MAIN RIFF: [E -----0---0-------0---------------0---0-------0-------------
   
     ***A         A-7       D         D/F***  
   Picture yourself in a boat on a river  
-         ***A       A-7        D        D/F ---&gt;  G***  
+    ***A       A-7        D        D/F ---&gt;  G***  
   With tangerine trees and marmalade skies  
      ***A      A-7           D            D/F***  
   Somebody calls you, you answer quite slowly  
@@ -75,7 +75,7 @@ MAIN RIFF: [E -----0---0-------0---------------0---0-------0-------------
   
 PRECHORUS:     ***Bb                      C                   F                  Bb***  
      Cellophane  flowers  of  yellow and green    towering over your head  
-                              *(slow bend)*  
+    *(slow bend)*  
   [e|-------------------------------------------|----------------------------|  
   b|-------------------------------------------|----------------------------|  
   g|--5^w-5^w-5^w-5^w-5^w-5^w---5^1/2--5^w-5^w-|-5^w-5^w-5^w-5^w-5^w-5^w-5\3|]  

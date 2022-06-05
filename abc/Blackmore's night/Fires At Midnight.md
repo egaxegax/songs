@@ -3,11 +3,11 @@ Fires At Midnight
   
   ***Hm***  
   I stood out here once before  
-                   ***F#m-G  Hm***  
+    ***F#m-G  Hm***  
   With my head held in my hands  
   ***Hm***  
   For all that I had known of this place  
-                   ***F#m-G  Hm***  
+    ***F#m-G  Hm***  
   I could never understand…  
   ***F#m    A         E               F#m***  
   On the hills the fires burned at midnight  

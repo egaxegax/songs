@@ -10,80 +10,80 @@ Intro:  ***G C G D G***
   dae andre nur en schwazz  
   ***G                   Em***  
   dae eine schloeoef em Wasserbett  
-           ***A              D***  
+    ***A              D***  
   dae andre op ner Luffmatraz  
   ***G***  
   dae ein drink leever Wasser  
-        ***C***  
+    ***C***  
   un dae andre leever Wing  
   ***G                     Em***  
   die miehste stonn op Zaertlichkeit  
-        ***A             D***  
+    ***A             D***  
   Masochiste stonn op Ping  
   ***C                     D***  
   dae ein freut sich op Weihnachte  
-        ***G              Em***  
+    ***G              Em***  
   un dae andre op Karneval  
-        ***C***  
+    ***C***  
   daemm ein sing Uehl  
-           ***D                   G***  
+    ***D                   G***  
   ess daemm andere sing Naachtijall  
   ***G***  
   Dae eine faehrt op Techno aff  
      ***C***  
   dae andre op Rock 'n Roll  
-             ***G                Em***  
+    ***G                Em***  
   waehrend dae ein sich voellig sicher ess  
-                 ***A             D***  
+    ***A             D***  
   froeoeht sich dae andre wat dat soll  
   ***G***  
   manch einer jlaeuv ahn Buddha  
-            ***C***  
+    ***C***  
   ming Oma nimmp dae Paps fuer voll  
-                  ***G                Em***  
+    ***G                Em***  
   trotz allem schwoert dae Will noch op Karl Marx  
-             ***A                    D***  
+    ***A                    D***  
   ich kenne Lueck die waehle Helmut Kohl  
   ***C                   D***  
   dae eine zeich jaehn vill Jefoehl  
-        ***G                  Em***  
+    ***G                  Em***  
   un dae andre blieht jaehn kalt  
-        ***C***  
+    ***C***  
   daemm ein sing Uehl  
-            ***D                 G***  
+    ***D                 G***  
   ess daemm andere sing Nachtijall  
   
   ***G C G D G***  
   
   ***G***  
   Dae eine ess Zweckpessimist  
-        ***C***  
+    ***C***  
   un dae andere nonchalant  
-               ***G                Em***  
+    ***G                Em***  
   waehrend ich miehstens saare: "Jeht schon klar"  
-            ***A                 D***  
+    ***A                 D***  
   mohls du jaehn Dueuevel ahn de Wand  
-                  ***G***  
+    ***G***  
   't Salz en der Zupp sinn Jaejesaetz  
-              ***C***  
+    ***C***  
   der Zauberwoot heiss "Toleranz"  
-              ***G             Em***  
+    ***G             Em***  
   om eezte Schild vom Roosemondaachszoch steht  
     ***A                 D***  
   "Jeck, loss Jeck e lans"  
-                ***C                   D***  
+    ***C                   D***  
   un noch ne Sproch, ess bald ald, widder neu,  
-               ***G            Em***  
+    ***G            Em***  
   ich kenn en sick 'ner Ewigkeit  
-                 ***C***  
+    ***C***  
   "Et jitt kei jroesser Leid  
-               ***D                     G***  
+    ***D                     G***  
   als wat der Minsch sich selvs ahndeit"  
-                ***C                    D***  
+    ***C                    D***  
   un noch ne Sproch, ess bald ald, widder neu,  
-               ***G             Em***  
+    ***G             Em***  
   ich kenn en sick 'ner Ewigkeit  
-                 ***C***  
+    ***C***  
   "Et jitt kei jroesser Leid  
-               ***D                     G***  
+    ***D                     G***  
   als wat der Minsch sich selvs ahndeit"

@@ -3,7 +3,7 @@ G D G      D           G      
 I      should have known better with a girl like you  
   D           G          D              Em  
 that I would love everything that you do  
-       C             D            G D G D  
+    C             D            G D G D  
 And I do   Hey hey hey    And I do.  
 I - never realised what a kiss could be,  
 This could only happen to me  

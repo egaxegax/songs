@@ -3,13 +3,13 @@ Running to Paradise (1996)
   The Host of the Air  
   *(W. B. Yeats)*  
   
-        ***Dm          C(Am)   Dm***  
+    ***Dm          C(Am)   Dm***  
 a:  O'Driscoll drove with a song  
       ***Dm         C(Am)    Dm***  
   The wild duck and the drake  
-            ***Dm           C      Dm***  
+    ***Dm           C      Dm***  
   From the tall and the tufted reeds  
-            ***G   Am   Dm***  
+    ***G   Am   Dm***  
   Of the drear Hart Lake.  
   
 a:  And he saw how the reeds grew dark  
@@ -17,13 +17,13 @@ a:  And he saw how the reeds grew dark
   And dreamed of the long dim hair  
   Of Bridget his bride.  
   
-       ***Gm                      C***  
+    ***Gm                      C***  
 b:  He heard while he sang and dreamed  
       ***Gm           C***  
   A piper piping away,  
-        ***F                  G***  
+    ***F                  G***  
   And never was piping so sad,  
-        ***Am                  Dm***  
+    ***Am                  Dm***  
   And never was piping so gay.  
   
   ***Dm C Dm C***  
@@ -65,38 +65,38 @@ a:  O'Driscoll scattered the cards
   
 b:  But he heard high up in the air  
   A piper piping away,  
-        ***F    C   G***  
+    ***F    C   G***  
   And never was piping so sad,  
-        ***Am             Dm***  
+    ***Am             Dm***  
   And never was piping so gay.  
   
 -  
   
       ***Dm            Am     Dm***  
   O'Driscoll drove with a song  
-                ***Am        Dm***  
+    ***Am        Dm***  
   The wild duck and the drake  
-                         ***C      Dm***  
+    ***C      Dm***  
   From the tall and the tufted reeds  
-            ***G   Am   Dm***  
+    ***G   Am   Dm***  
   Of the drear Hart Lake.  
   
-       ***Dm             C          Dm***  
+    ***Dm             C          Dm***  
   And he saw how the reeds grew dark  
-                ***C         Dm***  
+    ***C         Dm***  
   At the coming of night-tide,  
-                      ***C        Dm***  
+    ***C        Dm***  
   And dreamed of the long dim hair  
-       ***G      Am   Dm***  
+    ***G      Am   Dm***  
   Of Bridget his bride.  
   
-       ***Gm                      C***  
+    ***Gm                      C***  
   He heard while he sang and dreamed  
      ***Gm            C***  
   A piper piping away,  
-       ***F                G***  
+    ***F                G***  
   And never was piping so sad,  
-       ***Am                  Dm  C Dm C***  
+    ***Am                  Dm  C Dm C***  
   And never was piping so gay.  
   
   And he saw young men and young girls  
@@ -134,11 +134,11 @@ b:  But he heard high up in the air
   Old men and young men and young girls  
   Were gone like a drifting smoke;  
   
-       ***Gm                      C***  
+    ***Gm                      C***  
   But he heard high up in the air  
      ***Gm            C***  
   A piper piping away,  
-       ***F     C   G***  
+    ***F     C   G***  
   And never was piping so sad,  
-       ***Am               Dm***  
+    ***Am               Dm***  
   And never was piping so gay.

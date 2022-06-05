@@ -17,7 +17,7 @@ CHORUS:  Stand back, take a look at you
   You keep saying it's gonna change  
   ***C                       Eb***  
   But every time it comes back again  
-          ***Gm***  
+    ***Gm***  
   It's a merry-go-round.  
   ***Ab       Bb        Ab      Eb***  
   Endless lies shine in your eyes.  

@@ -20,11 +20,11 @@ Swing Low Sweet Chariot
   -----------11--9---------------------------------------------------------  
   -------------------------------------------------------------------------  
   -------------------------------------------------------------------------]  
-         ***E           A***  
+    ***E           A***  
   Swing low, sweet chariot  
   ***E                      B***  
   Comin' for to carry me home...  
-        ***E            A    E***  
+    ***E            A    E***  
   Swing low, sweet chariot  
   ***E      /      B     /    E***  
   Comin' for to carry me home.  
@@ -34,7 +34,7 @@ Swing Low Sweet Chariot
   I looked over Jordan and what did I see...  
   ***E                      B***  
   Comin' for to carry me home...  
-          ***E              A        /      E     /***  
+    ***E              A        /      E     /***  
   I saw a band of angels, coming after me...  
   ***E      /      B     /     E     /***  
   Comin' for to carry me home  

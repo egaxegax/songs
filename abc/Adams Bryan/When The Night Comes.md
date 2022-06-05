@@ -33,9 +33,9 @@ When The Night Comes
   Just take my hand we'll run away.  
   ***Dm                             F***  
   Pick up all the pieces of this shattered dream.  
-              ***C***  
+    ***C***  
   We're gonna make it all someday.  
-                   ***G                                 C***  
+    ***G                                 C***  
   Cause when we're coming back, we're coming back to stay.  
   
   Oh, when the night comes (repeat with original chord pattern)

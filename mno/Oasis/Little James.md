@@ -13,7 +13,7 @@ Standing On The Shoulder Of Giants (2000)
   but we werent meant to be grown ups  
   ***C***  
   thank you for your smile  
-                                 ***G***  
+    ***G***  
   you make it all worthwhile to us  
   you live for your toys even though they make noise  
   have you ever played with plastercine  

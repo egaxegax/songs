@@ -1,16 +1,16 @@
 <!--2020-09-06 04:12:15-->
 D           G   D                  G  
 I have a lover, a lover like no other  
-        D                        G  
+    D                        G  
 She got soul, soul, soul, sweet soul  
-        D                   G  
+    D                   G  
 And she teach me how to sing  
   
   Bm                            G  
 Shows me colours when there?s none to see  
   Bm                  G  
 Gives me hope when I can?t believe that  
-         D        G        D  
+    D        G        D  
 For the first time I feel love  
   
   

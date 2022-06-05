@@ -13,7 +13,7 @@ Kingdom Come
   Fan the sparks of will  
       ***B                 C***  
   For all of us waiting  
-                    ***G***  
+    ***G***  
   Your kingdom will come  
   ***G***  
   Rays of power shining  
@@ -25,9 +25,9 @@ Kingdom Come
   That speaks within us all  
       ***B                  C***  
   For all of us waiting  
-                    ***G      G   A   B   B C***  
+    ***G      G   A   B   B C***  
   Your kingdom will come  
-          ***G        G   A   B   B C***  
+    ***G        G   A   B   B C***  
   Kingdom come  
   ***G ........***  
   Fear the white lights  

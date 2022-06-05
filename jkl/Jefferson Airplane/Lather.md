@@ -5,11 +5,11 @@ Lather
   Lather was 30 years old today, they took away all of his toys.  
       ***Cm           Eb       Bb***  
   His mother sent newspaper clippings to him  
-            ***Gm                F         Cm***  
+    ***Gm                F         Cm***  
   About his old friends who'd stopped being boys (paper dolls!).  
-           ***Gm       F             Ab***  
+    ***Gm       F             Ab***  
   There was Howard C. Green, just turned 33 -  
-       ***Eb          Bb           F***  
+    ***Eb          Bb           F***  
   His leather chair waits at the bank.  
       ***Gm           F        Ab***  
   And Sergeant Dow Jones, 27 years old -  
@@ -21,17 +21,17 @@ Lather
      ***F               Gm***  
   About nude in the sand  
   
-            ***Eb        F                          Gm***  
+    ***Eb        F                          Gm***  
   Making pictures of mountains that looked like bumps  
   ***F                               Cm***  
   And thrashing the air with his hands.  
-        ***C                    Bb***  
+    ***C                    Bb***  
   But wait, old Lather’s productive, you know -  
-       ***C             Bb          C***  
+    ***C             Bb          C***  
   - he produces the finest of sounds.  
-        ***C                      Bb***  
+    ***C                      Bb***  
   Putting drumsticks on either side of his nose,  
-       ***C         Bb          C***  
+    ***C         Bb          C***  
   Snorting the best licks in town.  
   
 Проигрыш: ***Cm | Eb | Bb | Cm***  
@@ -46,16 +46,16 @@ Lather
   And the children call him famous -  
   What the old men call insane.  
   
-       ***Gm        F          Ab***  
+    ***Gm        F          Ab***  
   And sometimes he’s so nameless,  
       ***Eb          Bb           F***  
   He hardly knows what game to play,  
-          ***Cm***  
+    ***Cm***  
   What words to say.  
-           ***Eb         F        Gm***  
+    ***Eb         F        Gm***  
   And I should have told him, "No, you're not old."  
   
-         ***Eb         F        Gm***  
+    ***Eb         F        Gm***  
   And I should have let him go on-  
       ***F       Gm***  
   - smiling very wide.  

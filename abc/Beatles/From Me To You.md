@@ -4,14 +4,14 @@ From Me To You
   
 Intro:        ***C                Am***  
   Da da da da da dum dum da  
-        ***C                Am***  
+    ***C                Am***  
   Da da da da da dum dum da  
   
 Verse 1:            ***C                  Am***  
   If there's anything that you want,  
-             ***C                G7***  
+    ***C                G7***  
   If there's anyhting I can do,  
-        ***F7                  Am                 C        G7     C***  
+    ***F7                  Am                 C        G7     C***  
   Just call on me and I'll send it along with love from me to you  
   
 Verse 2: (Same Chords as Verse 1)  
@@ -21,28 +21,28 @@ Verse 2: (Same Chords as Verse 1)
   
 Bridge:         ***Gm                 C7***  
   I got arms that long to hold you  
-       ***F***  
+    ***F***  
   and keep you by my side.  
-         ***D7***  
+    ***D7***  
   I got lips that long to kiss you  
-       ***G             G+***  
+    ***G             G+***  
   And keep you satisfied  
   
   *(Repeat Verse 1)*  
   
   *Harmonica/Guitar Solo:*  
   ***C                 Am***  
-                        From me  
+    From me  
   ***C***  
-                        To you.  
-        ***F                   Am                  C         G G7     C C7***  
+    To you.  
+    ***F                   Am                  C         G G7     C C7***  
   Just call on me and I'll send it along with love, from me  to you.  
   
   *(Bridge, Verse 1)*  
   
   *Chords as used in this song:*  
   
-       *EADGBE*  
+    *EADGBE*  
   ***C***-   [X32010]  
   ***Am***-  [X02210]  
   ***G7***-  [320001]  

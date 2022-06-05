@@ -111,7 +111,7 @@ Lacrimosa Live (Original from "Alles Luge" 1993 EP)
   |-33-3-22-2-00-0-00-0--33-3-22-2-00-0-00-0-|   |  
   |------------------------------------------|   |  
     PM   ..   ..   ..    ..   ..   ..   ..       |FIG2  
-               |  
+    |  
   |----------------------------------------|     |X1  
   |----------------------------------------|     |  
   |----------------------------------------|-----|  
@@ -170,7 +170,7 @@ Lacrimosa Live (Original from "Alles Luge" 1993 EP)
   |-0-------3----------------------0-----------------------------------------2-|  
   |-----------------0----------------------------------------------------------|  
   |----------------------------------------1--------0--------------------------|  
-                                   alles, alles, Luge, Luge, Luge, Luge  
+    alles, alles, Luge, Luge, Luge, Luge  
   
   *-Then:*  
   *|Guitar1: FIG1 X1*  
@@ -189,7 +189,7 @@ Lacrimosa Live (Original from "Alles Luge" 1993 EP)
   *SOLOS:*  
   *|GUITAR1: FIG2 X2   ---|*  
   *|GUITAR2: solo         |Solos are based on an A major pentatonic*  
-                         *|scale, with its variations and arragements*  
+    *|scale, with its variations and arragements*  
   *then...                |that are difficult to tab exactly the same...*  
   *|GUITAR1: solo         |hear the song!*  
   *|GUITAR2: FIG2 X2   ---|*  

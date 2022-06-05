@@ -2,7 +2,7 @@
 Bottle of Fur  
   
   *intro:*  
-                               You can't be too sure..  
+    You can't be too sure..  
    ***D  Am  D  Am  D  Am  D  Am  D  Am  D  Am***  
   |---5------5------5------5------5------5--|  
   |7--5---7--5---7--5---7--5---7--5---7--5--|  
@@ -11,13 +11,13 @@ Bottle of Fur
   |-----------------------------------------|  
   |-----------------------------------------|           __Fill 1____  
   [                                                     |            |  
-                     |---------------------------------|3-----------|  
-                     |---------------------------------|3---3-------|  
-                     |---------------------------------|--5---5-3---| } play twice  
-                     |-7-9-7-9-7-7-9-7-7-9-------------|----------5-|  
-                     |-5-5-5-5-5-5-5-5-5-5-8-10-8-7-6-5|------------|  
-                     |---------------------6--6-6-5-4-3|------------|  
-                                                      __________________________  
+    |---------------------------------|3-----------|  
+    |---------------------------------|3---3-------|  
+    |---------------------------------|--5---5-3---| } play twice  
+    |-7-9-7-9-7-7-9-7-7-9-------------|----------5-|  
+    |-5-5-5-5-5-5-5-5-5-5-8-10-8-7-6-5|------------|  
+    |---------------------6--6-6-5-4-3|------------|  
+    __________________________  
    _Fill 2_                                         |  ___Fill 3____           |  
   |        |                                        | |             |          |  
   |--------|                                        | |-6-----------|          |  
@@ -26,12 +26,12 @@ Bottle of Fur
   |-10-9-7-|                                        | |-----------8-|          |  
   |--------|                                        | |-------------|          |  
   |--------|                                        | |-------------|          |  
-                                                    |__________________________|]  
+    |__________________________|]  
   
   *verse:*  
   ***D                                  A#    A G# G (fill 1)***  
   Sail away on a crystal ship with a bottle  
-        ***D                     C          G    G# A A# (fill3)***  
+    ***D                     C          G    G# A A# (fill3)***  
   Gonna say goodbye to all my friends on shore  
   ***F                       F/E***  
   Maybe she's giving me a second chance  
@@ -39,20 +39,20 @@ Bottle of Fur
   You can't be too sure  
   
   *chorus:*  
-                  ***Dm Am A#                   F***  
+    ***Dm Am A#                   F***  
   Like a bottle of fur, missing the smell of her } x2  
-           ****Dm Am           A# A G# G*** (fill 1)*  
+    ****Dm Am           A# A G# G*** (fill 1)*  
   Bottle of fur, bottle of fur yeah  
   
   *verse 2:*  
   *(play intro line 3)*  
-           ****D                                  A#   A G# G*** (fill 1)*  
+    ****D                                  A#   A G# G*** (fill 1)*  
   If I was a king and ya danced for me like a genie  
-                 ***D                           C             G   G G# A A# C C# D***  
+    ***D                           C             G   G G# A A# C C# D***  
   Then you'd get back in your lamp leavin me here with the gold  
   ****D                                                 A# A G# G*** (fill 1)*  
   Ooh bread of wickedness, both sides buttered with war  
-           ****D                                  C    G      G# A A#*** (fill 3)*  
+    ****D                                  C    G      G# A A#*** (fill 3)*  
   But your load ship brings it by to love and loss anymore  no more  
   ****F***(hold and sustain)*  
   Maybe she's giving me a second chance  
@@ -70,14 +70,14 @@ Bottle of Fur
   |------|  
   
   *chorus:*  
-                  ***Dm Am A#                   F***  
+    ***Dm Am A#                   F***  
   Like a bottle of fur, missing the smell of her } x2  
-           ***Dm Am C                    F***  
+    ***Dm Am C                    F***  
   Bottle of fur, missing the smell of her  
   ***C                    F***  
   Missing the smell of her  
   *(acoustic)*  
-                ***C                   F***  
+    ***C                   F***  
   Like when I'd hold you in the night  
   ***C                       F***  
   We used to make it till daylight  

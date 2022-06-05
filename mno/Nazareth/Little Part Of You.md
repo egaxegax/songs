@@ -16,11 +16,11 @@ Only want a little part of you
   
 D  
 I know that the world  
-          Hm  
+    Hm  
 All it?s diamonds and it?s pearls  
-            G  
+    G  
 Could never buy you  
-                  A  
+    A  
 Could never even try to  
   
 Wouldn?t ever bring you sadness  

@@ -19,13 +19,13 @@ F#m      E       D  D
 chorus:  
      A   E  
    maria  
-       F#m    D  
+    F#m    D  
    ... see her  
       A          E      D    D  
    go insane .......... mind  
      A   E  
    latina  
-         F#m  
+    F#m  
    ... maria  
      A          E      D     D  
    a million... one... lights  

@@ -19,7 +19,7 @@
   *(P = palm mute briefly before changing chord)*  
   *( x = left hand mute and strike strings)*  
   *note: 9-P means play 9th position, hold and then mute*  
-        *9P mean play 9th position and then mute*  
+    *9P mean play 9th position and then mute*  
   [E|------------------------------------------|  
   B|------------------------------------------|  
   G|-xx-9P-7-P-xx-7P-6-P-xx-6P-4-P-xx-7P-6-P--|  

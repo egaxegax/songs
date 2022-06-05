@@ -9,7 +9,7 @@ Pretending
   How many times must we fall?  
   ***A/E***  
   Living in lost memory  
-             ***E5***  
+    ***E5***  
   You just recalled (lick 1, guitar only)  
   Working on the sound of the band (2 part harmony)  
   Trying to get the music right  

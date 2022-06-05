@@ -70,13 +70,13 @@ Rock and Roll is Dead
   *fill#1  rth.fig 1.*  
   Runnin' round with diamond rings and coke spoons that are  
   overflowin'  
-                     *Rythfig.1 end on ***E****  
+    *Rythfig.1 end on ***E****  
   Rock and Roll is dead  
   ***E                                                 fill#1***  
   *Rtyhfig 1.*  
   All the money in the world can't buy you from the place you're  
   going to  
-                                  *Ryth.fig.1 end on ***D****  
+    *Ryth.fig.1 end on ***D****  
   Oooh Yeah   Rock and Roll is dead (3x)  
   ***D                                         fill#1***  
   *R.fig1.end on ***D****  
@@ -85,7 +85,7 @@ Rock and Roll is Dead
   ***D                                            fill#1.***  
   *rtyfig1.*  
   You're living for an image so you've got 500 women in your bed  
-                                 *Ryth.fig.1. end on ***E****  
+    *Ryth.fig.1. end on ***E****  
   Ooh Yeah,   Rock and Roll is dead  
   ***E***  
   ***fill#1***  

@@ -6,9 +6,9 @@ Intro:  ***A D / A E***
   
   ***A                D   E                A***  
   Oh Denis doo-be-do, I'm in love with you  
-                ***D    E               A***  
+    ***D    E               A***  
   Denis doo-be-do, I'm in love with you  
-                ***D    E               A***  
+    ***D    E               A***  
   Denis doo-be-do, I'm in love with you  
   ***A            D            E***  
   Denis Denis, oh with your eyes so blue..  
@@ -22,9 +22,9 @@ Intro:  ***A D / A E***
   and when we talk it seems like paradise.  
    ***A           D         E            A  D  A***  
   Denis Denis I'm so in love with you.  
-             ***D                            A***  
+    ***D                            A***  
   You're my king and I'm in heaven every time I look at you!  
-             ***D***  
+    ***D***  
   When you smile it's like a dream...  
   ***B                          E                F#***  
   And I'm so lucky 'cause I found a boy like you!  
@@ -42,16 +42,16 @@ Intro:  ***A D / A E***
   Denis Denis, un grand baiser d'eternite. (One deep kiss that will last all night.)  
   ***A#               D#   F                A#***  
   Oh Denis doo-be-do, I'm in love with you  
-                ***D#    F               A#***  
+    ***D#    F               A#***  
   Denis doo-be-do, I'm in love with you  
-                ***D#    F               A#***  
+    ***D#    F               A#***  
   Denis doo-be-do, I'm in love with you  
   
   ***A# D# A# F A# D# A# F***  
   
   ***A#               D#   F                A#***  
   Oh Denis doo-be-do, I'm in love with you  
-                ***D#    F               A#***  
+    ***D#    F               A#***  
   Denis doo-be-do, I'm in love with you  
-                ***D#    F               A#***  
+    ***D#    F               A#***  
   Denis doo-be-do, I'm in love with you

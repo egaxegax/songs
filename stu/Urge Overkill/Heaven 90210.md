@@ -68,7 +68,7 @@ Chorus:  When she comes to me and takes my hand
   Nothin' to do just-a look at the man upon the moon  
   ***Bb             G#m                  F#                   E***  
   Look into his eyes and the sad blue glow, and it ain't surprisin', no  
-           ***G#m       F#      B                           F#***  
+    ***G#m       F#      B                           F#***  
   To see a blind man lookin' twice before he crosses the road, yeah.  
   ***B          A5 E  G#m                     F#***  
   Califor-ni-a,        don't fall into the sea on me.  

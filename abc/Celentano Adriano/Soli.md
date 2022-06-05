@@ -5,7 +5,7 @@ Soli
   
 Вcтyплeнимo: ***Gm Gm**** } 2 paзa  
   
-       ***Gm             D                     Gm   Gm****  
+    ***Gm             D                     Gm   Gm****  
   E? inutile suonare qui non vi aprira? nessuno  
       ***Gm                     G                 Cm***  
   il mondo l?abbiam chiuso fuori con il suo casino  
@@ -27,7 +27,7 @@ file/Пpипeвo: Soli la pelle come un vestito
   soli le briciole nel letto  
    ***Am        D               G***  
   soli ma stretti un po? di piu?  
-       ***D        Gm***  
+    ***D        Gm***  
   solo io solo tu  
   
   Il mondo dietro ai vetri sembra un film senza sonoro  

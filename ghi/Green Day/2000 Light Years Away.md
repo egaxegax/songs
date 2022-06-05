@@ -71,7 +71,7 @@ CHORUS:  i hold my breath and close my eyes and
   
   *(bass only)*  
   i sit alone in my bedroom starin at the wall  
-               *(rake low E)*  
+    *(rake low E)*  
   i've been up all damn night long  
   my pulse is speedin, my love is yearnin  
   

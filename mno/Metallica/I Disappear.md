@@ -3,17 +3,17 @@ I Disappear
   
   ***Am            C                                Am***  
   Hey hey hey, here I go now, here I go into new days.  
-                 ***C                               G***  
+    ***C                               G***  
   Hey Hey Hey, here I go now, here I go into new days.  
-               ***E        Am***  
+    ***E        Am***  
   I'm pain, I'm hope, I'm suffer!  
   ***Dm                             C            Am***  
   Yeah, hey hey, hey yeah, here I go into new days!  
   ***Am            C                                Am***  
   Hey hey hey, ain't no mercy, ain't no mercy there for me.  
-                 ***C                               G***  
+    ***C                               G***  
   Hey hey hey, ain't no mercy. ain't no mercy there for me.  
-                ***E        Am***  
+    ***E        Am***  
   I'm pain, I'm hope, I'm suffer!  
   ***Dm                             C            Am***  
   Yeah, yeah, hey, ain't no mercy, ain't no mercy there for me!  
@@ -23,9 +23,9 @@ I Disappear
   Just as soon as I belong, then it's time I disapp...ear!  
   ***Am            C                                Am***  
   Hey hey hey, and I went on, and I went on down that road.  
-                 ***C                               G***  
+    ***C                               G***  
   Hey hey hey, and I went on, and I went on down that road.  
-                   ***E        Am***  
+    ***E        Am***  
   I'm pain, I'm hope, I'm suffer.  
   ***Dm                             C            Am***  
   Hey hey hey, yeah, and I went on, and I went on down that road!  

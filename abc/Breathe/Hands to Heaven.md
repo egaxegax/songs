@@ -13,7 +13,7 @@ Hands to Heaven
   God give me strength when I am leaving,  
   ***B             Eb                   Cm***  
   So raise your hands to Heaven, and pray  
-                ***Eb                B***  
+    ***Eb                B***  
   That we'll be back together someday, hey!  
      ***Eb               Bm***  
   Tonight I need your sweet caress  

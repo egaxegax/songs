@@ -29,7 +29,7 @@ I Can't Hold Out
    |--------9----(6)--|-0---------------|-------2-----4---|-------2-----4---||  
    |--7---------------|-----------------|-0---------------|-0---------------||  
   
-         ***E***  
+    ***E***  
 (1)  I just talked to my baby on the  
   ***E***  
   Telephone, she said  
@@ -37,9 +37,9 @@ I Can't Hold Out
   Stop what you're doing and baby  
   ***E                     A***  
   Come on home 'cause I can't hold out  
-                      ***E***  
+    ***E***  
   I can't hold out no longer  
-          ***B***  
+    ***B***  
   I get a real good feeling  
   ***A                     E***  
   Talking to you on the phone  

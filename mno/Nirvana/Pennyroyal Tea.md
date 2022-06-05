@@ -31,7 +31,7 @@ In Utero (1993), MTV Unplugged In New York (1994)
   
   *End on ***Am****  
   
-       *E A D G B e*  
+    *E A D G B e*  
   ***Am***   [x 0 2 2 1 0]  
   ***G***    [3 2 0 0 0 3]  
   ***C***    [x 3 5 5 5 3]  

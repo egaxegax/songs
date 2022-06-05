@@ -12,20 +12,20 @@ Intro:  [--------3-------------------------------------0--------------------
   
   *Verse One:*  
   ***FMaj7                              Ab***  
-        I Believe that when the hurting and the pain has gone  
-                   ***Gm7                             EbMaj7             Gm***  
+    I Believe that when the hurting and the pain has gone  
+    ***Gm7                             EbMaj7             Gm***  
   We will be strong, oh yes we will be strong  
   ***FMaj7                             Ab***  
-       And I believe that if I'm crying while I write these words  
-            ***Gm7                    EbMaj7              Gm***  
+    And I believe that if I'm crying while I write these words  
+    ***Gm7                    EbMaj7              Gm***  
   Is it absurd or am I being real?  
   ***FMaj7                        Ab***  
-       I believe that if you knew just what these tears were for  
-                          ***Gm7                         EbMaj7***  
+    I believe that if you knew just what these tears were for  
+    ***Gm7                         EbMaj7***  
   They would just pour like every drop of rain  
-                       ***Gm/C      Ab/D   AbMaj7   Ab***  
+    ***Gm/C      Ab/D   AbMaj7   Ab***  
   
-                        *(Intro)*  
+    *(Intro)*  
   That's why I believe it is too      late             for anyone to believe  
   
   *Verse Two:*  

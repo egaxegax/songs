@@ -22,7 +22,7 @@ verses:  (riff 1)
      ***A                                    C            D          A***  
   (1)We had a lot of luck on Venus     We always had a ball on Mars  
   (2)Remember when we did the moonshot And Pony Trekker led the way  
-                                         ***C            D               A***  
+    ***C            D               A***  
   Meeting all the groovey people       We've rocked the Milky Way so far  
   We'd move to the Canaveral moonstop  And everynaut would dance and sway  
      ***D                  A                D                                E     E7***  
@@ -40,9 +40,9 @@ verses:  (riff 1)
   ---7-6-5-------- ---2-1-0-------- ---------  
   -5--------8-7-6- -0--------3-2-1- -0-1-2-3-]  
   
-       ***A(w/riff 2)***  
+    ***A(w/riff 2)***  
   Come on Come on Come on let's go Space Truckin'  
-       ***E(w/riff 3)***  
+    ***E(w/riff 3)***  
   Come on Come on Come on Space Truckin'  
   
   *(riff 4)*  
@@ -56,11 +56,11 @@ verses:  (riff 1)
   
      ***Am7(w/riff 4)***  
   (3)The fireball that we rode was moving But now we've got a new machine  
-                                          ***C5             D5***  
+    ***C5             D5***  
   Yeah Yeah Yeah Yeah the freaks said Man those cats can really swing  
      ***Am7***  
   They got music in their solar system They've rocked around the Milky Way  
-                                          ***C5             D5        E***  
+    ***C5             D5        E***  
   They dance around the Borealice They're Space Truckin' everyday  
   
 solo:   ***A***  

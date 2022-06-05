@@ -77,7 +77,7 @@
   ***C                G***  
   (Birthday)  Dance  
   ***E***  
-       instrumental  
+    instrumental  
   
   ***A***  
   You say it's your birthday  

@@ -10,33 +10,33 @@ Heathen Chemistry (2002)
   
 Intro:  ***Hm***  
   
-       ***Hm***  
+    ***Hm***  
 Verse:  Hold up  
-       ***D***  
+    ***D***  
   Hold on  
-             ***E7***  
+    ***E7***  
   Don't be scared  
-                              ***G***  
+    ***G***  
   You'll never change what's been and gone  
   
-             ***Hm***  
+    ***Hm***  
   May your smile (may your smile)  
-        ***D***  
+    ***D***  
   Shine on (shine on)  
-             ***E7***  
+    ***E7***  
   Don't be scared (don't be scared)  
-                    ***G             A***  
+    ***G             A***  
   Your destiny may keep you warm  
   
-                    ***D                A***  
+    ***D                A***  
 Chorus:  'Cos all of the stars are fading away  
-                   ***Em7***  
+    ***Em7***  
   Just try not to worry  
-                       ***G***  
+    ***G***  
   You'll see them someday  
-                 ***D                   E7***  
+    ***D                   E7***  
   Take what you need and be on your way  
-                        ***G        A***  
+    ***G        A***  
   And stop crying your heart out  
   
       ****Hm***...(aккopды кyплeтa)*  
@@ -56,32 +56,32 @@ Chorus:  'Cos all of the stars are fading away
   ***D A Em7      G   (A)***  
 Пpoигpыш:     Ahh ahh ahh  
   ***D E7  G           (A)***  
-        Ahh ahh ahh  
+    Ahh ahh ahh  
   
-                    ***D                A***  
+    ***D                A***  
 Chorus:  'Cos all of the stars are fading away  
-                   ***Em7***  
+    ***Em7***  
   Just try not to worry  
-                       ***G***  
+    ***G***  
   You'll see them someday  
-                 ***D                   A***  
+    ***D                   A***  
   Take what you need and be on your way  
-                         ***Em7     G***  
+    ***Em7     G***  
   And stop crying your heart out  
   
-                    ***D***  
+    ***D***  
 Chorus": We're all of us stars  
-                 ***A***  
+    ***A***  
   We're fading away  
-                   ***Em7***  
+    ***Em7***  
   Just try not to worry  
-                     ***G***  
+    ***G***  
   You'll see us someday  
-                      ***D                   A***  
+    ***D                   A***  
   Just take what you need and be on your way  
-                        ***Em7        G***  
+    ***Em7        G***  
   And stop crying your heart out  
-                    ***Em7      G \***  
+    ***Em7      G \***  
   Stop crying your heart out    \ 3 times  
   
 outro:        ***Em7                               G***              \  

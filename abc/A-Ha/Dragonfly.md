@@ -7,11 +7,11 @@ Dragonfly
   I will always be around  
   ***Am                       Em***  
   In the time we are here  
-                  ***F           G***  
+    ***F           G***  
   We'll see love disappear  
-          ***Am***  
+    ***Am***  
   Don't ask how  
-          ***Em***  
+    ***Em***  
   Don't ask why  
      ***F     G***  
   Just fly, dragonfly  

@@ -37,33 +37,33 @@ Our dreams, our pride
   
 PrГ©-refrГЈo 1:  
   
-          F                 G   -Am  
+    F                 G   -Am  
 My heart beats like a drum (all night)  
-           F                         G -Am  
+    F                         G -Am  
 Flesh to flesh, one to one (and it's alright)  
-          F  
+    F  
 And I'll never let go  
-               Am                      E   E  
+    Am                      E   E  
 Cause there's something I know deep inside  
   
   
 RefrГЈo 1:  
   
-          Am            F  
+    Am            F  
 You were born to be my baby  
-                G               C  
+    G               C  
 And baby I was made to be your man  
 -G      Am             F  
 We got something to believe in  
-                   G             Am  
+    G             Am  
 Even if we don't know where to stand  
       F                  C  
 Only God would know the reasons  
-       Am                      G  
+    Am                      G  
 But I bet he must have had a plan  
-                 Am            F  
+    Am            F  
 Cause your were born to be my baby  
-                G               C  C  
+    G               C  C  
 And baby I was made to be your man  
   
   
@@ -93,33 +93,33 @@ Our world, our fight
   
 PrГ©-refrГЈo 2:  
   
-        F                 G   -Am  
+    F                 G   -Am  
 If we stand side by side (all night)  
-            F                           G -Am  
+    F                           G -Am  
 There's a chance we'll get by (and it's alright)  
-           F  
+    F  
 And I'll know that you'll live  
-       Am                        E   E  
+    Am                        E   E  
 In my heart till the day that I die  
   
   
 RefrГЈo 2:  
   
-                Am            F  
+    Am            F  
 Cause you were born to be my baby  
-                G               C  
+    G               C  
 And baby I was made to be your man  
 -G      Am             F  
 We got something to believe in  
-                   G             Am  
+    G             Am  
 Even if we don't know where to stand  
       F                  C  
 Only God would know the reasons  
-       Am                      G  
+    Am                      G  
 But I bet he must have had a plan  
-                 Am            F  
+    Am            F  
 Cause your were born to be my baby  
-                G               C  C  
+    G               C  C  
 And baby I was made to be your man  
   
   
@@ -128,37 +128,37 @@ And baby I was made to be your man
   
 PrГ©-refrГЈo 3:  
   
-          F                 G   -Am  
+    F                 G   -Am  
 My heart beats like a drum (all night)  
-           F                         G -Am  
+    F                         G -Am  
 Flesh to flesh, one to one (and it's alright)  
-          F  
+    F  
 And I'll never let go  
-               Am                      E   E  
+    Am                      E   E  
 Cause there's something I know deep inside  
   
   
 RefrГЈo 3:  
   
-          Am            F  
+    Am            F  
 You were born to be my baby  
-                G               C  
+    G               C  
 And baby I was made to be your man  
 -G      Am             F  
 We got something to believe in  
-                   G             Am  
+    G             Am  
 Even if we don't know where to stand  
       F                  C  
 Only God would know the reasons  
-       Am                      G  
+    Am                      G  
 But I bet he must have had a plan  
-                 Am            F  
+    Am            F  
 Cause your were born to be my baby  
-                G               C  
+    G               C  
 And baby I was made to be your man  
 -G        Am            F  
 You were born to be my baby  
-                G  
+    G  
 And baby I was maaaaade  
 G             Am*(JГЎ Г© o Am do Final)  
   To be your man... Ah-ah Ha-ah...  
@@ -191,21 +191,21 @@ Intro: F#m D E A-E F#m D E E
 Verso: F#m F#m D D E E Asus4-A Asus4-A  
   
 PrГ©-refrГЈo: F G-Am (2x)  
-            F Am E E  
+    F Am E E  
   
 RefrГЈo: Am F G C-G  
-        Am F G Am  
-        F C-G Am G  
-        Am F G C C  
+    Am F G Am  
+    F C-G Am G  
+    Am F G C C  
   
 Solo: Am F G C-G (3x)  
       Am G G G  
   
 Гљltimo refrГЈo: Am F G C-G  
-               Am F G Am  
-               F C-G Am G  
-               Am F G C-G  
-               Am F G G  
+    Am F G Am  
+    F C-G Am G  
+    Am F G C-G  
+    Am F G G  
   
 Final: Am F G C-G  
   

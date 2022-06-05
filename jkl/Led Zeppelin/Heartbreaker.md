@@ -40,7 +40,7 @@ Heartbreaker
   E:|-5--Let-ring--/-/-/-/-/-/-/-/--8-------5------------------------------|]  
       Hey fellas have you heard the news      you know the ?'s back in town  
       A woman came 'long just to watch an' see all the fellas lay their  
-            money down  
+    money down  
       The ?style? is new but the pay's the same as it was so long ago  
       But from her eyes a different smile (can't understand this at all)  
   *Now, play this 3x:*  
@@ -138,11 +138,11 @@ Heartbreaker
   D:|---------------------------------------7-7-|  
   A:|-7--Let-ring--/-/-/-/-/-/-/-/-10-------5-7-|]  
   *[E:|-5--Let-ring--/-/-/-/-/-/-/-/--8---------5-|]bass hits a chord at*  
-                                                 *same time as guitar*  
+    *same time as guitar*  
   
       Hey fellas have you heard the news      you know annie's back in town  
       Won't take 'long just watch an' see all the fellas lay their  
-            money down  
+    money down  
       Her style is new but the pay's the same as it was so long ago  
       But from her eyes a different smile like that of one who knows  
   *Now, play this 3x:*  
@@ -197,7 +197,7 @@ Heartbreaker
   A:|-------------------------------|  
   E:|-------------------------------|]  
   *Then ***E***-chord in 7-th position*  
-          *SOLO INTRO:*  
+    *SOLO INTRO:*  
     *(JUST FAKE IT)*  
   *play a twice, then just whatever*  
   [-------------------------------  
@@ -279,7 +279,7 @@ Heartbreaker
   D:-----------  
   A:-----------  
   E:-----------]  
-       *^--that bend right there.. my pinky IS NOT strong enough to bend*  
+    *^--that bend right there.. my pinky IS NOT strong enough to bend*  
    *from 5 to 9  I doubt there are many in the world who's pinkies could*  
   *do that nicely.. Eighther way, I don't believe Pagey had the miracle*  
   *pinky.. :)*  

@@ -10,17 +10,17 @@ But ya never know what might be comin? round your way
 Dsus4   D  
 Ya ya ya  
   
-        Am  
+    Am  
 On a day like today  
-        C  
+    C  
 The whole world could change  
-        Em  
+    Em  
 The sun?s gonna shine  
      D  
 Shine thru the rain  
-        Am                     C  
+    Am                     C  
 On a day like today  
-                                G (3 лад) С (3лад) G (3лад)  
+    G (3 лад) С (3лад) G (3лад)  
 Ya never wanna see the sun go-o down  
 С                               G (3 лад) С (3лад) G (3лад) F#  
 Ya never wanna see the sun go-o down  

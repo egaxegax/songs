@@ -14,70 +14,70 @@ King of Pain
   ***D9/F#***  
   [2X021X]  
   
-            ***Bm           A               Bm    A     Bm A  Bm A***  
+    ***Bm           A               Bm    A     Bm A  Bm A***  
   There's a little black spot on the sun    to-day  
-           ***G         A           G         A   C#sus  C#m  Gmaj7***  
+    ***G         A           G         A   C#sus  C#m  Gmaj7***  
   It's the same old thing as yes - ter - day  
-            ***Bm         A                 Bm      A   Bm A  Bm A***  
+    ***Bm         A                 Bm      A   Bm A  Bm A***  
   There's a black hat caught in the high   tree top  
-            ***G         A               G      A   C#sus C#m Gmaj7***  
+    ***G         A               G      A   C#sus C#m Gmaj7***  
   There's a flagpole rag and the wind  won't stop  
-         ***A/D           G6             D/F#     G***  
+    ***A/D           G6             D/F#     G***  
   I have stood here before inside the pouring rain  
-           ***A/D              G6             D/F#      G***  
+    ***A/D              G6             D/F#      G***  
   with the world turning cir-cles running 'round my brain.  
-          ***A/D           G6               D/F#       G***  
+    ***A/D           G6               D/F#       G***  
   I guess I'm always hop-ing that you'll end  this reign  
-           ***A/D      G6           D/F#     G***  
+    ***A/D      G6           D/F#     G***  
   but it's my  destiny to be the king of pain.  
   
-             ***Bm***  
+    ***Bm***  
   There's a  little black spot on the sun today  
   
   that's my soul up there  
   
-           ***A/G***  
+    ***A/G***  
   It's the same old thing as yesterday  
   ***F#m                       G***  
   that's my soul up there  
-            ***Bm***  
+    ***Bm***  
   There's a black hat caught in a high tree top  
   that's my soul up there  
-            ***A/G***  
+    ***A/G***  
   There's a flagpole rag and the wind won't stop  
   ***F#m                       G***  
   that's my soul up there  
-         ***D                                    G***  
+    ***D                                    G***  
   I have stood here before inside the pouring rain  
-           ***D                                        G***  
+    ***D                                        G***  
   with the world turning circles running 'round my brain.  
-          ***D                                         G***  
+    ***D                                         G***  
   I guess I'm always hoping that you'll end this reign  
-           ***D                             G***  
+    ***D                             G***  
   But it's my destiny to be the king of pain.  
-             ***Bm***  
+    ***Bm***  
   There's a fossil that's trapped in a high cliff wall  
   that's my soul up there  
-             ***A***  
+    ***A***  
   There's a dead salmon frozen in a water fall  
   ***F#m                        G***  
   that's my soul up there  
-            ***Bm***  
+    ***Bm***  
   There's a blue whale beached by a springtide's ebb  
   that's my soul up there  
-            ***A/G***  
+    ***A/G***  
   There's a butterfly trapped in a spider's web  
   ***F#m                       G***  
   that's my soul up there  
-          ***D                                    G***  
+    ***D                                    G***  
   I have stood here before inside the pouring rain  
-             ***D                                      G***  
+    ***D                                      G***  
   with the world turning circles running 'round my brain  
-           ***D                                       G***  
+    ***D                                       G***  
   I guess I'm always hoping that you'll end this reign  
-           ***D                              G***  
+    ***D                              G***  
   but it's my destiny tro be the king of pain.  
-                     ***G***  
+    ***G***  
   There's a king of pain.  
   ***A                                        G***  
   There's a king on a throne with his eyes   torn out  
@@ -88,25 +88,25 @@ King of Pain
   ***A                               D/G       Bm***  
   There's a skeleton choking on a crust of bread.  
   *guitar solo*  
-                ***Bm***  
+    ***Bm***  
   There's a red fox torn by a huntsmen's pack  
   that's my soul up there  
-            ***A/G***  
+    ***A/G***  
   There's a black winged gull with a broken back  
   ***F#m                    G***  
   that's my soul up there  
-             ***F#m7        Fmaj7           E7  Eb***  
+    ***F#m7        Fmaj7           E7  Eb***  
   There's a little black spot  on the sun  today  
-           ***F#m7      Fmaj7      Eb7      D9    D9/F#***  
+    ***F#m7      Fmaj7      Eb7      D9    D9/F#***  
   It's the same old thing  as yes - ter - day  
-          ***D                                    G***  
+    ***D                                    G***  
   I have stood here before inside the pouring rain  
-            ***D                                       G***  
+    ***D                                       G***  
   with the world turning circles running 'round my brain  
-          ***D                                        G***  
+    ***D                                        G***  
   I guess I'm always hoping that you'll end this reign  
-           ***D                             G      D***  
+    ***D                             G      D***  
   but it's my destiny to be the king of pain  
   ***G                D***  
      King of pain        (fade out throwing in  
-                         "I will always be..")
+    "I will always be..")

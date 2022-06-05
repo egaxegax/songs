@@ -17,24 +17,24 @@ The bits in {} are bass bits for bass guitar!)
   
 Gm                   {G    F#    F    D    G (lo)}  
 I set out on Monday the night was cold and vast  
-                    (Guit Riff 1)  
+    (Guit Riff 1)  
 and my brother slept  
 Gm  
 and though i left quite quietly  
-          { G F# F D F(lo)}                 (guit Riff 1)  
+    { G F# F D F(lo)}                 (guit Riff 1)  
 my father raged and raged and my mother wept  
 Gm  
 now, my life was like a river all sucked into the ground  
-             G#                         Gm  
+    G#                         Gm  
 and then the hammer came down, Lord the hammer came down  
   
 Repeat  until:  
   
 Gm  
 Then I came upon a river and I laid my saddle down  
-             G#                          Gm  
+    G#                          Gm  
 and then the hammer came down, lord, the hammer came down  
-              F                         Eb  
+    F                         Eb  
 it knocked me to the ground and I said "please please,  
-                 G#                      Gm  
+    G#                      Gm  
 take me back to my home town", Lord, the hammer came down

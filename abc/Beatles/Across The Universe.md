@@ -32,11 +32,11 @@ Intro:  |--2-----/10-----9--7--5--------------------------------------------
   
   ***D      Bm             F#m                   Em7***  
   Images of broken light which dance before me like a million eyes  
-              ***A           A7***  
+    ***A           A7***  
   They call me on and on across the Universe.  
   ***D         Bm         F#m***  
   Thoughts meander like a restless wind inside a letterbox  
-       ***Em7                   A                 A7***  
+    ***Em7                   A                 A7***  
   They tumble blindly as they make their way across the Universe.  
   
   ***D               A7sus4***  
@@ -56,7 +56,7 @@ Intro:  |--2-----/10-----9--7--5--------------------------------------------
   Inciting and inviting me.  
   ***D         Bm              F#m                  Em7***  
   Limitless, undying love which shines around me like a million suns  
-              ***A         A7***  
+    ***A         A7***  
   And calls me on and on across the Universe.  
   
   ***D             A7sus4***  
@@ -84,7 +84,7 @@ Intro:  [-|--0-----/8-----7--5--3-------------------------------------------
   
     ***C               Am                Em***  
 Verse1:  Words are flowing out like endless rain into a paper cup  
-          ***Dm                                 G***  
+    ***Dm                                 G***  
   They slither as they fall they make their way across the universe  
     ***C              Am                Em***  
   Pools of sorrow waves of joy are drifting through my open mind  
@@ -109,24 +109,24 @@ Chorus:  Jai Guru Da La  Om
   *[---5/7---] play fret five, slide up to fret seven*  
   *[---7\5---] play fret seven, slide down to fret five*  
   *[--8b(9)--] play fret eight, bend the string (at fret eight) to reach*  
-            *the pitch of fret nine*  
+    *the pitch of fret nine*  
   *[--b(9)8--] play fret eight already bent to the pitch of fret nine,*  
-            *unbending until it reaches the normal pitch of fret eight*  
+    *unbending until it reaches the normal pitch of fret eight*  
   *[----h7---] hammer-on to fret seven*  
   *[----p5---] pull-off to fret five*  
   *[---/7----] slide up to fret 7 (the starting fret of the slide is*  
-            *undefined, judge by ear)*  
+    *undefined, judge by ear)*  
   *[---15\---] play fret 15, slide down (the ending fret of the slide is*  
-            *undefined, judge by ear)*  
+    *undefined, judge by ear)*  
   *[---0h3---] play the open string and immediately hammer-on to fret*  
-            *three*  
+    *three*  
   *[---7p5---] play fret seven and immediately pull-off to fret five*  
   
 -  
   
   ***D                                  F#m***  
   Words are flowing out like endless rain into a paper cup  
-       ***Em7                                A                 A7***  
+    ***Em7                                A                 A7***  
   They slither while they pass they slip away across the Universe.  
   ***D                                 F#m***  
   Pools of sorrow, waves of joy are drifting through my opened mind  
@@ -168,7 +168,7 @@ Chorus:  Nothing's gonna change my world,
   ***D Dmaj7 A***  
   ***D                 Dmaj7              F#m***  
   Words are flowing out like endless rain into a paper cup  
-       ***Em7                                 A                 A7***  
+    ***Em7                                 A                 A7***  
   They slither while they pass, they slip away across the universe  
   ***D                 Dmaj7             F#m***  
   Pools of sorrow, waves of joy are drifting through my opened mind  
@@ -192,7 +192,7 @@ CHORUS:  Jai Guru Deva Om
   They call me on and on across the universe  
      ***D              Dmaj7           F#m***  
   Thoughts meander like a restless wind inside a letterbox  
-         ***Em7                              A              A7***  
+    ***Em7                              A              A7***  
   They tumble blindly as they make their way across the universe  
   
   *CHORUS*  
@@ -203,7 +203,7 @@ CHORUS:  Jai Guru Deva Om
   Inciting and inviting me  
     ***D          Dmaj7             F#m                            Em7***  
   Limitless undying love which shines around me like a million suns  
-                           ***A          A7***  
+    ***A          A7***  
   And calls me on and on across the universe  
   
   *CHORUS*  

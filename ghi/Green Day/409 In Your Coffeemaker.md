@@ -9,24 +9,24 @@ Intro:  ***C C C F G*** } 4X
   
     ***G                     F***  
 Verse 1: I sit in the state of a daydream  
-       ***G                        F***  
+    ***G                        F***  
   With all of your words flying over my head  
   ***G                   F***  
   Even more time gets wasted  
-       ***G   F***  
+    ***G   F***  
   In a daze  
      ***G                   F***  
   It should seem obvious to you  
-       ***G                       F***  
+    ***G                       F***  
   Your screams and cries are never going to work  
   ***G               F***  
   And all of your time gets wasted  
-        ***G   F***  
+    ***G   F***  
   In my daze  
   
-          ***C            G***  
+    ***C            G***  
 Chorus:  And I'm looking back now  
-           ***C           G***  
+    ***C           G***  
   At where I have gone wrong  
       ***C           G           C    D***  
   And why I could not seem to get along  
@@ -35,7 +35,7 @@ Chorus:  And I'm looking back now
   My interests are longing  
      ***C                   G***  
   To break through these chains  
-        ***C              G***  
+    ***C              G***  
   These chains that control  
      ***C        D         C C C F G } 4x***  
   My future's aim  

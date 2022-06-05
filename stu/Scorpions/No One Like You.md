@@ -1,23 +1,23 @@
 <!--2020-09-06 04:55:00-->
 Am                F              G            Am  
 Girl, it?s been a long time that we?ve been apart  
-         F          G             Am  
+    F          G             Am  
 Much too long for a man who needs love  
   C                        E  
 I miss you since I?ve been away  
 Am              F         G         Am  
 Babe, it wasn?t easy to leave you alone  
-             F           G           Am  
+    F           G           Am  
 It?s getting harder each time that I go  
    C                         E  
 If I had the choice, I would stay  
-                    Am  
+    Am  
 There?s no one like you  
-        F            G           Am  
+    F            G           Am  
 I can?t wait for the nights with you  
   F           G            Am  
 I imagine the things we?ll do  
-       F        G        C   E  
+    F        G        C   E  
 I just wanna be loved by yo-ou  
   
 No one like you  

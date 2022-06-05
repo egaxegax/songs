@@ -25,16 +25,16 @@ You Like Me Too Much
   *coжaлeнию нeльзя нaпиcaть пapтию El.piano. Пoпpoбyю пoзжe cдeлaть*  
   *тpaнcкpипцию для гитapы и пpиcлaть. Вcтyплeниe oднaкo yжe гoтoвo.*  
   
-                    ***oG                     o|Bb o|D7       oG***  
+    ***oG                     o|Bb o|D7       oG***  
   [e--------------|---_____--------------|---------------|------o|3------|  
   B--------------|--|0--/0--/1--|0--|1--|--o|3--|3--|1--|--/0--o|3------|  
   G--/0--/2--/3--|---_____--------------|---------------|------o|4------|  
   D--------------|--|0--/0--/2--|0--|2--|--o|4--|4--|2--|--/0-------|/--|  
   A--/2--/3--/4--|----------------------|---------------|---------------|  
   E--------------|----------------------|---------------|---------------|]  
-                                                             (Though you're)  
+    (Though you're)  
   
-                ***Am                                 C             G***  
+    ***Am                                 C             G***  
 (1)  Though you're gone away this morning you'll be back again tonight  
   ***G         Am                               C                    G***  
   Telling me there'll be no next time if I just don't treat you right  
@@ -45,9 +45,9 @@ You Like Me Too Much
   
   ***D7     Am                                   C              G***  
 (2)  You've tried before to leave me but you haven't got the nerve  
-            ***Am                               C             G***  
+    ***Am                               C             G***  
   To walk out and make me lonely which is  all that I deserve  
-         ***Bm7                                  D7***  
+    ***Bm7                                  D7***  
   You'll never leave me and you know it's true  
   ***D7         G             C                D7***  
   'Cause you like me too much and I like you  

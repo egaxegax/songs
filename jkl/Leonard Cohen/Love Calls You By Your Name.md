@@ -19,21 +19,21 @@
   
   Bb                                  Am  
      You thought that it could never happen  
-        Bb                        Am  
+    Bb                        Am  
      to all the people that you became,  
    Bb                   Gm     Bb                    Gm  
      your body lost in legend,    the beast so very tame.  
-          Em  
+    Em  
      But here, right here,  
-                  Am                 G  
+    Am                 G  
      between the birthmark and the stain,  
-                  Am                  G  
+    Am                  G  
      between the ocean and your open vein,  
-                   Am             G  
+    Am             G  
      between the snowman and the rain,  
-            F    D        F  
+    F    D        F  
      once again,   once again,  
-        C           G          C  
+    C           G          C  
      love calls you   by your name.  
   
      The women in your scrapbook  

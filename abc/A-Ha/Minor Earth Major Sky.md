@@ -4,19 +4,19 @@ Minor Earth | Major Sky (5:24)
   
   ***Em   C***  
   I can't see me in this empty place  
-             ***A       Em***  
+    ***A       Em***  
   Just another lonely face  
   ***Em   C***  
   I can't see me here in outer space  
    ***A                 Em***  
   It's so hard to leave a trace  
-           ***C                      A***  
+    ***C                      A***  
   And I try and I try and I try  
-           ***G                      E***  
+    ***G                      E***  
   But it never comes out right  
-          ***C   A***  
+    ***C   A***  
   Yes I try and I try and I try  
-             ***G   Em***  
+    ***G   Em***  
   But I never get it right  
   ***Em***  
   It's a  
@@ -24,21 +24,21 @@ Minor Earth | Major Sky (5:24)
   Minor Earth Major Sky  
   ***Em                     C***  
   I can't see me in this lonely town  
-        ***A             Em***  
+    ***A             Em***  
   Not a friendly face around  
   ***Em                     C***  
   Can you hear me when I speak out loud  
-          ***A               Em***  
+    ***A               Em***  
   Hear my voice above the crowd  
   ***C                         A***  
   And I try and I try and I try  
-         ***G               E***  
+    ***G               E***  
   But it never comes out right  
   ***C                         A***  
   Yes I try and I try and I try  
-        ***G             Em***  
+    ***G             Em***  
   But I never get it right  
-        ***Em***  
+    ***Em***  
   It's a  
   ***D     Am          C   Em***  
   Minor Earth Major Sky  

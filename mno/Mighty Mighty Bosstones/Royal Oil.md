@@ -26,7 +26,7 @@ Royal Oil
   
   ***A                  Bm                          A***  
   Royal Oil, come on bubble and boil Stabs like dagger,  
-                          ***Bm***  
+    ***Bm***  
   make you stagger On the hot tin foil  
   ***A                         Bm***  
   Mind your mind or it will surely spoil  
@@ -40,7 +40,7 @@ Royal Oil
   A#-------------------------  
   F--------------------------]  
   
-          ***D          C#m       Bm***  
+    ***D          C#m       Bm***  
   Then you sleep down in the soil  
   ***D                  C#m            Bm***  
   Nothing comes from nothing come on Royal Oil  
@@ -48,9 +48,9 @@ Royal Oil
   *Verse:*  
   ***A                          Bm                  A             Bm***  
   When you smoke or poke the poison You lose the chance to be tomorrow  
-             ***A                               Bm***  
+    ***A                               Bm***  
   your gonna lose the chance Look out on the horizon And see  
-       ***A                       Bm                  A***  
+    ***A                       Bm                  A***  
   the sadness, the pain and the sorrow I can't say enough about  
   ***Bm***  
   Or what it has in store  

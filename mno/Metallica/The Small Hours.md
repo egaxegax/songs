@@ -101,7 +101,7 @@ The Small Hours
   *At one point in the same section of every Verse, there is a different bass fill each time.*  
   *They are at the bottom of the tabs (all six fills).*  
   */--------------------------------------Verse------------------------------------------------*  
-              *Bass Part 1                                  where*  
+    *Bass Part 1                                  where*  
      *[/]-----------------------------                  [/]-fill goes- [/]--Part 1*  
   [F|------------------------|-------|-------|-------|--------------|----------|-----|  
   C|------------------------|---%---|---%---|---%---|--------------|----------|--%--|  
@@ -113,12 +113,12 @@ The Small Hours
   G|-o----------------5---------------|--------------5-------7---7h8p7--o-|  
   D|----0-0-0---5-7-----7-5-7--5-3----|--0-0-0---5-7----7-5---------------|]  
   *After these, there's a break and then a speeded up riff which serves as a guitar solo??.*  
-                  *4 times,  then*  
+    *4 times,  then*  
   [F|----------------|-------|  
   C|----------------|-------|  
   G|----------------|-------|  
   D|--0-----1---2-1-|-(0)---|]  
-        *(this is the speeded up riff)*  
+    *(this is the speeded up riff)*  
   [F|------------------------------|--------------------------------|  
   C|------------------------------|--------------------------------|  
   G|------------------------------|--------------------------------|  
@@ -139,7 +139,7 @@ The Small Hours
   G|---------------------------------|  
   D|--0-000-000-000-000-0012--0-012--|[  
   *Then back to the verse, chorus and then closing riff, which is directly below:*  
-                *3 times,   then*  
+    *3 times,   then*  
   [F|--------------------|---------------------------|  
   C|--------------------|---------------------------|  
   G|--------------------|----------------------1----|  
@@ -224,7 +224,7 @@ The Small Hours
   0___0___2^3^2^3___0__0__3__||__bridge:__1__1______1____1_______  
   0___0___2^3^2^3___0__0__3__||___________1__1______1___ 1_______  
   0___0___2^3^2^3___0__0__3__||___________1__1______1____1_______]  
-                 *hammer on*  
+    *hammer on*  
   *Play three times and then bridge.*  
   *The verse is played with main riff (obviously without bridge)*  
   *INSTEAD of bridge during verse:*  

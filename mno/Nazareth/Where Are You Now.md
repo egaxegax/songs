@@ -5,15 +5,15 @@ Every single day
 I think of the times  
      D  
 When you were still mine  
-         A  
+    A  
 And I'm blue  
-             A  
+    A  
 Got to get away  
-        G  
+    G  
 Get you out of my mind  
      D  
 I'm caught up in time  
-         A  
+    A  
 And I'm blue  
 F#m                  E  
 I don't miss all the fun that we had  
@@ -23,9 +23,9 @@ You were always around me
 F#m   D       E  
 Where are you now  
 I need you now  
-              E  
+    E  
 If you were around  
-              F#m  
+    F#m  
 It would be alright  
   
 Living on my own  

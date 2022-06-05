@@ -2,7 +2,7 @@
 Who Wrote Holden Caulfield?  
   
   *CHORDS USED:*  
-          ***D       C          A       G***  
+    ***D       C          A       G***  
   1|------------------------------------  
   2|------------------------------------  
   3|-----7--------5---------------------  
@@ -12,14 +12,14 @@ Who Wrote Holden Caulfield?
   
   *Verse(PMed):*  
   ***D                                      C                             A***  
-                              ***G***  
+    ***G***  
   A thought burst in my head and i need to tell you it's some news that i  
   forthought  
   Or was it just a dream      that happened long ago i think i just forgot  
   
   *PreChorus:*  
   ***A                              D                      A***  
-                        ***D***  
+    ***D***  
   well it hasn't been the first time, and it sure does drive me mad  
   
   *CHORUS:*  

@@ -3,9 +3,9 @@ Album Reckless (1983)
   
 Intro ***F G F G F G Am***  
   
-        ***F       G                    F             G***  
+    ***F       G                    F             G***  
 I've  been lookin' for someone, between the fire and the flame,  
-         ***F          G             Am***  
+    ***F          G             Am***  
 we're all lookin' for somethin' to ease the pain.  
     ***F          G              F        G***  
 Now, who can you turn to, when it's all black and white,  

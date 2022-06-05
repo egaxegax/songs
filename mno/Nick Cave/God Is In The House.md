@@ -1,27 +1,27 @@
 <!--2020-09-05 02:22:00-->
 Intro: C F Dm G C  
   
-         C  
+    C  
   We?ve laid the cables and the wires  
   We?ve split the wood and stoked the fires  
-                                  F  
+    F  
   We?ve lit our town so there is no  
   Place for crime to hide  
-               Dm  
+    Dm  
   Our little church is painted white  
-              G  
+    G  
   And in the safety of the night  
   We all go quiet as a mouse  
   For the word is out  
    C  
   God is in the house  
-                  F  
+    F  
   God is in the house  
-                 Dm  
+    Dm  
   God is in the house  
-                      G  
+    G  
   No cause for worry now  
-                  C  
+    C  
   God is in the house  
   
 Moral sneaks in the White House  

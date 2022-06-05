@@ -9,7 +9,7 @@ F#m    C#m  F#m
 Nancy was alone  
 A                 Bm  
 Looking at the Late Late show  
-         A       E        A  
+    A       E        A  
 Through a semi-precious stone  
 C#               F#m  
 In the House of Honesty  
@@ -17,9 +17,9 @@ In the House of Honesty
 Her father was on trial  
 E                F#m  
 In the House of Mystery  
-       C#           D  
+    C#           D  
 There was no one at all  
-            A      E      F#m  
+    A      E      F#m  
 There was no one there at all  
   
 It seems so long ago  

@@ -10,13 +10,13 @@ From many a thorn, from many a thicket
      E     D        C#m     Bm           A  
 Her fingers like a weaver's, quick and cool  
   
-         C#m        F#m      C#m  
+    C#m        F#m      C#m  
 And the light came from her body  
-         F#m                    C#m  
+    F#m                    C#m  
 And the night went through her grace  
 D                            A  
 All summer long she touched me  
-        E      D   C#m    Bm        A  
+    E      D   C#m    Bm        A  
 And I knew her, I knew her face to face  
   
 And her dress was blue and silver  

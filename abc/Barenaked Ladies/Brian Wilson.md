@@ -5,7 +5,7 @@ Brian Wilson
   
   ***G     D               Am7                     G***  
   Drove downtown in the rain, 9:30 on a Tuesday night  
-          ***D                        Bm7    Am7***  
+    ***D                        Bm7    Am7***  
   Just to check out the late night record shop  
   ***G         D                   Am7***  
   Call it impulsive, call it compulsive, call it insane  
@@ -21,7 +21,7 @@ Brian Wilson
   
   ***G        D             Am7***  
 CHORUS:  Lying in bed just like Brian Wilson did  
-           ***G         D                   Em         Em/C     Em/C#    Em/C***  
+    ***G         D                   Em         Em/C     Em/C#    Em/C***  
   Well I'm, lying in bed just like Brian Wilson did  
   
   *(Progression for the verse is the same as intro. Just listen to the song*  
@@ -38,7 +38,7 @@ CHORUS:  Lying in bed just like Brian Wilson did
   And if you wanna find me I'll be   out in the sandbox  
   ***Am7            D                      G        F      Am7***  
   Just wondering where the hell all the love has gah-ah-ahn  
-                ***D                F              Em             Am7***  
+    ***D                F              Em             Am7***  
   Playing my guitar and building castles in the sun, whoa-whoa-oh-oh  
       ***D                 G***  
   And singing fun, fun, fun  
@@ -66,9 +66,9 @@ CHORUS:  Lying in bed just like Brian Wilson did
   
   ***G     D                      Am7                    G***  
   Drove downtown in the ray-ee-ain, 9:30 on a Tuesday night  
-          ***D                        Bm7    Am7                     G***  
+    ***D                        Bm7    Am7                     G***  
   Just to check out the late night record shop (late night record shop)  
-            ***D                   Am7***  
+    ***D                   Am7***  
   Call it impulsive, call it compulsive, or call it insane (whoa-oh)  
   ***G                  D                    Bm7        Cmaj7***  
   'Cause when I'm surrounded I just can't stah-ah-ah-p  

@@ -4,19 +4,19 @@ Being for the Benefit of Mr. Kite!
   
   ***Bb A7 Dm G***  
   
-            ***Cm          G***  
+    ***Cm          G***  
   For the benefit of Mr. Kite  
    ***Bb              Dm                 G***  
   There will be a show tonight on trampoline  
-         ***Cm           G***  
+    ***Cm           G***  
   The Hendersons will all be there  
    ***Bb              Dm           A***  
   Late of Pablo Fanques Fair- what a scene!  
-       ***Dm              Dm/C***  
+    ***Dm              Dm/C***  
   Over man and horses hoops and garters  
    ***Bb                  A7            Dm***  
   Lastly through a hogshead of real fire!  
-           ***Bb      A                     Dm    Gm  A7  Dm  G***  
+    ***Bb      A                     Dm    Gm  A7  Dm  G***  
   In this way Mr. K. will challenge the world!  
   
   The celebrated Mr. K.  
@@ -25,7 +25,7 @@ Being for the Benefit of Mr. Kite!
   As Mr. Kite flies through the ring- don't be late!  
   Messrs. K. and H. assure the public  
   Their production will be second to none  
-           ***Bb               A               Dm    F+  C  A***  
+    ***Bb               A               Dm    F+  C  A***  
   And of course Henry The Horse dances the waltz!  
   
    ***Dm F+  C  B  Em           G***  

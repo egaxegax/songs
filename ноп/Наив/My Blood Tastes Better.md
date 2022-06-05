@@ -7,7 +7,7 @@
   Don't bite the hand,  
   ***G       B      D***  
   The hand that feeds  
-              ***F     C***  
+    ***F     C***  
   Gonna bite yours,  
    ***G                A***  
   Yours - till it bleeds!  

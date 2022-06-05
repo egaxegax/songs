@@ -1,29 +1,29 @@
 <!--2020-09-05 01:07:18-->
 C  
 I don't wanna talk  
-                        G  
+    G  
 About the things we've gone through  
-                     Dm  
+    Dm  
 Though it's hurting me  
-               G  
+    G  
 Now it's history  
-                    C  
+    C  
 I've played all my cards  
-                        G  
+    G  
 And that's what you've done too  
-                 Dm  
+    Dm  
 Nothing more to say  
-                 G  
+    G  
 No more ace to play  
   
 Chorus:  
-                    C  
+    C  
 The winner takes it all  
-                     Am  
+    Am  
 The loser standing small  
-                 Dm  
+    Dm  
 Beside the victory  
-                 G  
+    G  
 That's her destiny  
   
 I was in your arms  
@@ -73,7 +73,7 @@ If it makes you feel bad
 Seeing me so tense  
 No self-confidence  
 But you see  
-                    C   Am  
+    C   Am  
 The winner takes it all  
-                    Dm  G  
+    Dm  G  
 The winner takes it all...

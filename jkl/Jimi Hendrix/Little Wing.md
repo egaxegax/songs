@@ -48,28 +48,28 @@ Little Wing
 -  
   
   *(SLOWLY = 60  WITH SWING 16THs FEEL)*  
-             ***Em                         G***  
+    ***Em                         G***  
   WELL SHE'S WALKIN' THROUGH THE CLOUDS  
-         ***Am                              Em7(VII)***  
+    ***Am                              Em7(VII)***  
   WITH A CIRCUS MIND THAT'S RUNNING WILD.  
   ***Bm                         Bb       Am                   G***  
   BUTTERFLIES AND ZEBRAS AND MOONBEAMS  AND, UH FAIRY TALES.  
   *(SPOKEN)*  
-         ***Fadd9                      C               D       D***  
+    ***Fadd9                      C               D       D***  
   THAT'S ALL SHE EVER THINKS ABOUT, RIDING WITH THE WIND.  
-           ***Em                  G***  
+    ***Em                  G***  
   WHEN I'M SAD, SHE COMES TO ME  
-          ***Am                             Em7(VII)***  
+    ***Am                             Em7(VII)***  
   WITH A THOUSAND SMILES SHE GIVES TO ME        FREE.  
   ***Bm                         Bb       Am***  
   IT'S ALRIGHT, SHE SAYS IT'S ALRIGHT,  
-       ***C                G***  
+    ***C                G***  
   TAKE ANYTHING YOU WANT FROM ME                              .  
   *(SPOKEN)*  
   ***Fadd9    C   D        D***  
   ANYTHING     ANYTHING  
   ***Em    G                  Am7***  
-        FLY ON LITTLE WING  
+    FLY ON LITTLE WING  
   ***Em7(VII)   Bm7   Bb   Am   C    G   Fadd9   C   D   D***  
   ***Em                    G***  
      YEA, YEA, YEA, YEA   LITTLE BABY  

@@ -2,22 +2,22 @@
 Bridgit O`Malley  
   *(Ирландская народная песня)*  
   
-       ***D        F#m            G              Hm***  
+    ***D        F#m            G              Hm***  
   Oh Bridgit O'Malley. You've left my heart shaken  
-          ***G            F#m         Hm           G***  
+    ***G            F#m         Hm           G***  
   With a hopeless desolation, I'd have you to know  
-                           ***F#m         Hm             G***  
+    ***F#m         Hm             G***  
   It's the wonders of admiration your quiet face has taken  
-                        ***F#m         G    A  D***  
+    ***F#m         G    A  D***  
   And your beauty will haunt me wherever I go.  
   
-        ***D                   F#m             Hm                    G***  
+    ***D                   F#m             Hm                    G***  
   The white moon above the pale sands, the pale stars above the thorn tree  
-       ***Hm             F#m             Hm          G***  
+    ***Hm             F#m             Hm          G***  
   Are cold beside my darling, but no purer than she  
-                   ***F#m                 Hm                     G***  
+    ***F#m                 Hm                     G***  
   I gaze upon the cold moon till the stars drown in the warm sea  
-            ***G                F#m         G    A   D***  
+    ***G                F#m         G    A   D***  
   And the bright eyes of my darling are never on me.  
   
   My Sunday it is weary, my Sunday it is grey now  

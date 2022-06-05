@@ -10,7 +10,7 @@ Sehnsucht (Japan) 1997, Das Modell 1997
   *get a basic idea about the riffs played in the song.*  
   
   *Main riff } play 4 times*  
-          PM  PM     PM  PM     PM  PM     PM  
+    PM  PM     PM  PM     PM  PM     PM  
   |-------------------------------------------------------|  
   |-------------------------------------------------------|  
   |-------------------------------------------------------|  

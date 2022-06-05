@@ -43,7 +43,7 @@ Friggin In The Riggin
   By Christ ya shouldda seen us.  
    ***C                F***  
   The figurehead was a whore in bed,  
-       ***G              C***  
+    ***G              C***  
   And the mast a mammoth penis.  
   ***C                    G***  
   The captain of this starker  
@@ -60,5 +60,5 @@ Chorus:  Friggin' in the riggin'
   Figgin' in the riggin'  
    ***C               F***  
   Friggin' in the riggin'  
-         ***G                C***  
+    ***G                C***  
   There was *** all else to do.

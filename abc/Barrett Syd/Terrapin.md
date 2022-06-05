@@ -6,7 +6,7 @@
 VERSE 1: I really love you, and I mean you  
   ***E                   G       A***  
   The star above you, crystal blue  
-        ***D           E                   A***  
+    ***D           E                   A***  
   Well, oh baby, my hair's on end about you  
   
 TRANSITION: ***C G***  
@@ -26,7 +26,7 @@ TRANSITION: ***C G G# A***
   Fangs all 'round the clown is dark  
   ***A***  
   Below the boulders hiding  
-         ***C                   G  E***  
+    ***C                   G  E***  
   All the sunlight's good for us  
   
 VERSE 3: Cause we're the fishes and all we do  
@@ -34,16 +34,16 @@ VERSE 3: Cause we're the fishes and all we do
   Well, oh baby, my hair's on end about you  
   
   *SOLO 1 (Played over the verse chords, using the same kinds*  
-          *of transitions as shown above to lead in)*  
+    *of transitions as shown above to lead in)*  
   
   *REPEAT BRIDGE*  
   
   *SOLO 2 (Played over the verse chords, using the same kinds*  
-          *of transitions as shown above to lead in)*  
+    *of transitions as shown above to lead in)*  
   
   *REPEAT VERSE 1*  
   
   *END*  
   
   *Notes: I basically use all ***E*** and ***A*** shape barre chords for this, which*  
-         *makes it an easy and fun song to play.*
+    *makes it an easy and fun song to play.*

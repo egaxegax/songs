@@ -12,7 +12,7 @@ Sha La La
   -----------------|-----------------  
   -----------------|-----------------  
   -----------------|-----------------]  
-                                 *^ omit before bridge*  
+    *^ omit before bridge*  
   
    ***F           Bb***  
 Chorus 1: Sha-la-la la-la-la-la  

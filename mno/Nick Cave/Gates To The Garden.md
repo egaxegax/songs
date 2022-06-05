@@ -9,7 +9,7 @@ G*
   
  Am  
    Past the ivy-covered windows of  
-             (G*)  
+    (G*)  
    The Angel  
  Am                              Dm     G (G*)  
    Down Athenaeum Lane to the cathedral  
@@ -17,35 +17,35 @@ G*
    Through the churchyard I wandered  
  Am                          Dm         G  
    Sat for a spell there and I pondered  
-                   F    G  
+    F    G  
    My back to the gates  
-                   F    G  
+    F    G  
    My back to the gates  
-                   F    G          C       (G*) Am  
+    F    G          C       (G*) Am  
    My back to the gates    of the garden  
   
  Am  
    Fugitive fathers, sickly infants, decent mothers  
-                          Dm    G  
+    Dm    G  
    Runaways and suicidal lovers  
  Am                                 (G*)  
    Assorted boxes of ordinary bones  
  Am                                       Dm   G  
    Of aborted plans and sudden shattered hopes  
-               F   G  
+    F   G  
    In unlucky rows  
-               F   G  
+    F   G  
    ln unhappy rows  
-               F               G            C      F G  
+    F               G            C      F G  
    In unlucky rows, up to the gates of the garden  
   
-             C              G  
+    C              G  
   Won?t you meet me at the gates  
-             C              G  
+    C              G  
   Won?t you meet me at the gates  
-             C              G  
+    C              G  
   Won?t you meet me at the gates  
-          C  
+    C  
   To the garden  
   
 Beneath the creeping shadow of the tower  

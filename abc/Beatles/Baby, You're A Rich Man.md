@@ -9,14 +9,14 @@ Baby, You're A Rich Man
   ***G7                                                F               G7***  
   people     Now that you know___ who you are__     what do you want to be  
   ***C           G7                                    F             G7***  
-              And have you traveled very far__      Far as the eye can see  
+    And have you traveled very far__      Far as the eye can see  
   
   How does it feel to be one of the beautiful people  
   How often have you been there   often enough to know  
   What did you see when you were there   nothing that doesn't show  
   
 CHORUS:  ***C              G                       C***  
-                 Baby you're a rich man, baby you're a rich man  
+    Baby you're a rich man, baby you're a rich man  
   ***G                      C             Bbdim         G7/B***  
   Baby you're a rich man too       You keep all your money in a  
   ***C                        G7                        C***  

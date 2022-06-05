@@ -1,9 +1,9 @@
 <!--2020-09-07 00:10:00-->
 Safe European Home  
   
-         ***E                                            A          B***  
+    ***E                                            A          B***  
   Well I just got back and I wish I never leave now  (Where'd ya go?)  
-          ***E                                          A  B***  
+    ***E                                          A  B***  
   Who dat Martian arrival over at the airport, yeah?  
       ***E          A  B***  
   How many local dollars for a local anesthetic?  
@@ -12,11 +12,11 @@ Safe European Home
   
     ***F#m                     C#***  
 Chorus:  I went to the place where every white face  
-        ***A                  B***  
+    ***A                  B***  
   is an invitation to robbery  
       ***F#m                C#            A***  
   An' sitting here in my safe european home  
-        ***B                    E***  
+    ***B                    E***  
   Don't wanna go back there again  
   
   *(with above verse progression)*  
@@ -28,7 +28,7 @@ Chorus:  I went to the place where every white face
   *Chorus again*  
   
   *1st break:  ***G#m  A  E  F#m  B  A  B  A  G#m  A (B) E****  
-                              Oh-oh Oh-oh Oooh-Oh  
+    Oh-oh Oh-oh Oooh-Oh  
   
   *(verse progression again)*  
   They got the sun, they got the palm trees  

@@ -4,15 +4,15 @@ Skinhead Girl
     ***A           D                    A          D***  
   There she goes swinging down the high street yea  
   Hair cut short. Boots on her feet, whoa yeah  
-       ***E***  
+    ***E***  
   She looked at me and smiled  
       ***F#m                 D***  
   I knew that smiles for me  
-           ***A                   E***  
+    ***A                   E***  
   She was my height my weight my size  
-             ***D              A***  
+    ***D              A***  
   She wore braces and blue jeans  
-           ***A            D***  
+    ***A            D***  
   She was my Skinhead Girl  
   She was my Skinhead Girl  
   She was my Skinhead Girl  

@@ -3,21 +3,21 @@ It Doesn't Matter Two - Black Celebration
   
 Intro:  ***Em D# Ami***  
   
-       ***Em***  
+    ***Em***  
   As I lay here with you  
       ***D#***  
   The shame lies with us  
      ***Am***  
   We talk of love and trust  
-                   ***Em***  
+    ***Em***  
   That doesn't matter  
-            ***Em***  
+    ***Em***  
   Though we may be the last in the world  
      ***D#***  
   We feel like pioneers  
   ***Am***  
   Telling hopes and fears  
-              ***Em***  
+    ***Em***  
   To one another  
       ***Am***  
   And oh what a feeling  

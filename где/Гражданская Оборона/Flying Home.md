@@ -3,9 +3,9 @@ Am
 Who are you? Who am I?  
       F                  C  
 Is it real to touch the sky?  
-            Dm           Am  
+    Dm           Am  
 Nothing?s real for the sky, -  
-            E            Am  
+    E            Am  
 Said the birds of paradise.  
   
 I?am afraid, can?t you see?!  
@@ -16,11 +16,11 @@ Said the birds of paradise.
 Припев:  
       F  
 Flying home, flying home  
-                                  C  
+    C  
 To the land that you once had known,  
-                              Dm  
+    Dm  
 To the peace that once was true  
-         E              Am  
+    E              Am  
 For a little girl like you.  
   
 Flying home, flying home  

@@ -26,7 +26,7 @@ Verse:  Smell of you baby, my senses, my senses be praised
   Nothing, Nothing  
    ***B***  
   Nothing will stop you  
-                        ***A       C#m    F#m  C#m  F#m***  
+    ***A       C#m    F#m  C#m  F#m***  
   And nothing will stand in your way  
    *(***C#m*** or the chords of the Intro over these Verse):*  
   No one will harm you  

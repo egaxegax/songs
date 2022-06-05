@@ -5,7 +5,7 @@ Definitely Maybe (1994), Familiar To Millions (2000)
   *(verse)*  
   ***G                D***  
   Maybe, I don't really wanna know  
-            ***Am7***  
+    ***Am7***  
   How your garden grows  
     ***C          D***  
   I just wanna fly  
@@ -16,17 +16,17 @@ Definitely Maybe (1994), Familiar To Millions (2000)
   *(chorus)*  
   ***Em                 D***  
   Maybe I just wanna fly  
-                         ***Am7***  
+    ***Am7***  
   wanna live don't wanna die  
-                      ***C***  
+    ***C***  
   Maybe I just wanna breathe  
-                        ***Em***  
+    ***Em***  
   Maybe I just don't believe  
-                           ***D***  
+    ***D***  
   Maybe you're the same as me  
-                              ***Am7***  
+    ***Am7***  
   We see things they'll never see  
-                       ***Cadd9***  
+    ***Cadd9***  
   You and I gonna live forever  
   *(verse)*  
   Maybe I don't really want to know  

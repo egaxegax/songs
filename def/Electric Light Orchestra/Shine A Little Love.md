@@ -9,7 +9,7 @@ Shine A Little Love
   You see I gotta make you understand.  
   ***C                          D***  
   I know it sounds a foolish thing to say.  
-          ***G                      D***  
+    ***G                      D***  
   But it don't matter baby 'cos' today's another day.  
   
   ***Hm                             C***  

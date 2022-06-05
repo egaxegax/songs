@@ -1,10 +1,10 @@
 <!--2020-09-04 23:01:54-->
 Chorus:  
-            A          F#m     E  
+    A          F#m     E  
   There's a hole in the world tonight,  
-            A        F#m       E  
+    A        F#m       E  
   There's a cloud of fear and sorrow,  
-            A         F#m      E  
+    A         F#m      E  
   There's a hole in the world tonight,  
   C#m                 F#m         E     A  
   Don't let there be a hole in the world tomorrow.  
@@ -23,7 +23,7 @@ Verse1:
   
 Chorus:  
   
-             A          F#m     E  
+    A          F#m     E  
   There's a hole in the world tonight,  
    D         A        F#m       E  
   There's a cloud of fear and sorrow,  
@@ -69,7 +69,7 @@ Chorus:
 Chorus: (no music)1x  
   
 Chorus:  
-              B          AЃуm     F#  
+    B          AЃуm     F#  
   There's a hole in the world tonight,  
    E         B        AЃуm       F#  
   There's a cloud of fear and sorrow,  

@@ -12,13 +12,13 @@ Soldier side
   ***A                     A E  C#m***  
   Maybe you're a joker, maybe you deserve to die  
   
-             ***F#m***  
+    ***F#m***  
   They were crying when their sons left  
    ***C#m***  
   God is wearing black  
       ***G***  
   He's gone so far to find no hope  
-       ***C#m***  
+    ***C#m***  
   He's never coming back  
   
   They were crying when their sons left  

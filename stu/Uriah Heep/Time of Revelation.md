@@ -14,14 +14,14 @@ Time of Revelation
   
   ***Am***  
 verse:  Won't you take a chance my brother  
-                              ***F  - G-E***  
+    ***F  - G-E***  
   Follow me to a time of revelation  
    ***Am***  
   Can't you see that destiny will take a turn  
-                       ***F       G-E               Am***  
+    ***F       G-E               Am***  
   And show there's no need to fight - 'cos you know it's right  
   
-         ***Dm                    C  - G***  
+    ***Dm                    C  - G***  
 chorus:  And I finally see where I'm going  
      ***Dm                     C   - G***  
   I finally know what I'm knowing  
@@ -41,11 +41,11 @@ chorus:  'Cos I finally see where I'm going
   
   ***Am***  
 bridge:  Over the bridge where you start to believe  
-                           ***D - G***  
+    ***D - G***  
   Down at the edge of the rainbow  
    ***Am***  
   Dark is the night though it's in another time  
-                             ***D-E***  
+    ***D-E***  
   Follow the light of your shadow  
   
 Guitar solo:    ***Bm        E        Bm        F#       G          E       Bm***  

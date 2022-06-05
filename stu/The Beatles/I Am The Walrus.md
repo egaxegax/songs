@@ -29,7 +29,7 @@ Element`ry penguin singing Hare Krishna. Man
 you should have seen them kicking Edgar Allan Poe  
   
 CHORUS  
-         C                     D                 E  
+    C                     D                 E  
 I am the egg-man, they are the egg-men, I am the Walrus  
 Goo goo g` joob  
   
@@ -50,7 +50,7 @@ F
 If the sun don`t come  
 B7  
  you get a tan from standing in the English rain  
-         C  
+    C  
 I am the egg-man...  
   
 CHORUS

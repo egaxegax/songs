@@ -1,25 +1,25 @@
 <!--2020-09-06 14:31:36-->
 Remember  
   
-        ***A***  
+    ***A***  
   Oh, remember the mocking bird, my baby bun.  
-             ***E7***  
+    ***E7***  
   He used to sing for his supper baby,  
-                 ***D7***  
+    ***D7***  
   Yes he used to sing for his supper, babe.  
-             ***A***  
+    ***A***  
   He used to sing so sweet,  
   ***E7                                               A***  
   since my baby left me he ain't sang for two long days.  
-       ***A***  
+    ***A***  
   Oh remember the blue-birds and the honey bees,  
-               ***E7***  
+    ***E7***  
   they used to sing for sunshine.  
-                   ***D7***  
+    ***D7***  
   Yes they used to sing for the flowers.  
-               ***A***  
+    ***A***  
   They used to sing so sweet,  
-         ***E7                                                A***  
+    ***E7                                                A***  
   But ah since my baby left me they ain't sang in two long days.  
   ***E7***  
   Hey pretty baby, come on back to me.  
@@ -28,9 +28,9 @@ Remember
   So baby, if you'll please come home again you know I'll  
   ***E7                                    D7***  
   kiss you for my supper, you know I'll kiss you for my dinner yeah!  
-          ***A7                                  E7***  
+    ***A7                                  E7***  
   But ah if you don't come back you know I'll have to starve to death  
-                                  ***A***  
+    ***A***  
   'cos I ain't had one kiss all day now.  
   ***Bb              F7                          Eb***  
   Please remember,        you got to remember,   you got to remember our love.  

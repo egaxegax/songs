@@ -7,13 +7,13 @@ Em                          
  why am i seething with this animosity?  
       G                        D            D+ D  
  hey god, i think you owe me a great big apology  
-          Em            C  
+    Em            C  
  terrible lie  
-          G             D   D+ D  
+    G             D   D+ D  
  terrible lie  
-          Em            C  
+    Em            C  
  terrible lie  
-          G             D   D+  D  
+    G             D   D+  D  
  terrible lie  
   
  hey god, i really don?t know what you mean  
@@ -50,7 +50,7 @@ Em                          
  Hey god  
   
   
-                   D+  
+    D+  
 E|-----------|-----------|-----0-----|  
 H|-----------|-----------|-----0-----|  
 G|-----------|-----0-----|-----------|  

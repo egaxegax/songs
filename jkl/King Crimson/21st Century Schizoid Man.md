@@ -7,8 +7,8 @@
    *(also the same version originally released on "USA")*  
    *3) Live: My *Alltime Favourite* version from "Earthbound"*  
   *NOTES: 1) Standard bar chords unless otherwise noted*  
-         *2) This transcription isn't rigidly Beginning -&gt; End. I'll write it by*  
-            *section then assume knowledge of repeating parts...*  
+    *2) This transcription isn't rigidly Beginning -&gt; End. I'll write it by*  
+    *section then assume knowledge of repeating parts...*  
   *First the chords:*  
   *The main chordal riff in 4/4:*  
   *1   2       3     4|1  2  3  4*  
@@ -16,11 +16,11 @@
   *Alternate used before vox:*  
   *1   2       3     4  1  2    3 4*  
   ***C   A# C D# F   G***   [|13---14---15-|]  
-                      *[|16*--17*--18*|] *Bend each 1 whole step*  
-                      [|-------------|  
-                      |-------------|  
-                      |-------------|  
-                      |-------------|]  
+    *[|16*--17*--18*|] *Bend each 1 whole step*  
+    [|-------------|  
+    |-------------|  
+    |-------------|  
+    |-------------|]  
   *Vocal Section Chord from hell:*  
   *Interpretations of this chord are legendary, this one sounded best to me:*  
   [x  

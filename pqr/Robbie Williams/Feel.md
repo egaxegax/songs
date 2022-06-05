@@ -4,63 +4,63 @@ Feel
   
   ***C* [032030]***  
   
-                  ***Dm***  
+    ***Dm***  
   Come and hold my hand  
   ****C*             A***            (swiftly ***G***-***A***)*  
   I wanna contact the living  
-           ***Gm***  
+    ***Gm***  
   Not sure i understand  
   ****F                     A***  (swiftly ***G***-***A***)*  
   This role i've been given  
-                    ***Dm***  
+    ***Dm***  
   I sit and talk to God  
   ****C*                       A***    (swiftly ***G***-***A***)*  
   And he just laughs at my plans  
-                   ***Gm***  
+    ***Gm***  
   My head speaks a language  
   ****F            A***   (swiftly ***G***-***A***)*  
   I don't understand  
-                 ***Bb             F***  
+    ***Bb             F***  
   I just want to feel real love  
-                  ***C***  
+    ***C***  
   Feel the home that live in  
-                      ***Bb***  
+    ***Bb***  
   'Cause i got too much life  
-                    ***F***  
+    ***F***  
   Running through my veins  
-          ***C***  
+    ***C***  
   Going to waste  
-                  ***Dm***  
+    ***Dm***  
   I don't want to die  
   ****C*                         A***    (swiftly ***G***-***A***)*  
   But i ain't keen on living either  
-                   ***Gm***  
+    ***Gm***  
   Before i fall in love  
   ****F                 A***       (swiftly ***G***-***A***)*  
   I'm preparing to leave her  
-                    ***Dm***  
+    ***Dm***  
   I scare myself to death  
   ****C*                   A***     (swiftly ***G***-***A***)*  
   That's why i keep on running  
-              ***Gm***  
+    ***Gm***  
   Before i've arrived  
   ****F                A***     (swiftly ***G***-***A***)*  
   I can see myself coming  
-                 ***Bb         F***  
+    ***Bb         F***  
   I just want to feel real love  
-                       ***C***  
+    ***C***  
   Feel the home that i live in  
-                        ***Bb***  
+    ***Bb***  
   'Cause i got too much life  
-                     ***F***  
+    ***F***  
   Running through my veins  
-           ***C***  
+    ***C***  
   Going to waste  
-                ***Bb        F***  
+    ***Bb        F***  
   And i need to feel real love  
-                  ***C***  
+    ***C***  
   And a life ever after  
-                   ***Dm***  
+    ***Dm***  
   I cannot give it up  
   I just want to feel real love  
   Feel the home that live in  

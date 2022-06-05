@@ -44,7 +44,7 @@
 -  
   
   *Special chords for the middle part:*  
-            [EAdgbe]  
+    [EAdgbe]  
   ***B(VII)***    [799877]  \  you should stress the bass strings (E-d)  
   ***D/A***       [557775]   \  and preferably omit the discant ones  
   ***E/G#***      [476454]   /  which allows you to cope with the fingering  
@@ -73,15 +73,15 @@
   The blend of colors in the air  
   All cities, mountains disappear from view  
   All truth and beauty near to me and you  
-        ***B(VII) D/A        E/G#  G(III)  (A)***  
+    ***B(VII) D/A        E/G#  G(III)  (A)***  
   With you     through the fields  
   With you     through the fields  
   With you     through the fields,  the fields of joy  
   *SOLO (by Slash) (TABs at bottom)*  
   
-       ***B                 D                E         G     (A)***  
+    ***B                 D                E         G     (A)***  
   Lets wander slowly     through      the fields  
-       Slowly,           slowly through the fields  
+    Slowly,           slowly through the fields  
     I know our love will ne-   ver        die  
   Just you and I            through the fields of joy  
   Through fie-e-e-e-e-elds o-o-o-o-of joooooooooooy  
@@ -108,10 +108,10 @@
   e|-------------7---------------|--------------------|------7------7------  
   B|-------12-10--10p7-10p7--7---|-7h10--7h10--7h10p7-|7-10--7-10p7-7-10p7-  
   G|14(16)-11--------------9--9p7|9-----9-----7-------|--------------------]  
-                               *seven times*  
+    *seven times*  
   [e|-7------7------7------7------7-----------|10-7h9h10-7h9h10-7h9h10-7h9h10  
   B|-7-10p7-7-10p7-7-10p7-7-10p7-7-10p7-10p7-|------------------------------]  
-                                                            *thirteen*  
+    *thirteen*  
   [e|-7h9h10-7h9h10-7h9h10-7h9h10-7h9h10-7h9h10-7h9h10-7h9h10-7h9h10-7h9-|7h9h10-  
   
   e|9-10p7---7------------7------------------------|------7-7-------7-7-  
@@ -122,7 +122,7 @@
   e|------7-7-------7-7-|------7-------7-------7-------7---------|----5------5-  
   B|------7-7-------7-7-|------7-------7-------7-------7---------|6h7-6--6-7-6-  
   G|9(11)-----9(11)-----|9(11)---9(11)---9(11)---9(11)---(11)9-9-|-------------]  
-                                       *eight*  
+    *eight*  
   [e|----5------5------5------5------5------5-5------------|--------------------7  
   B|6h7-6--6h7-6--6h7-6--6h7-6--6h7-6--6h7-6----7-5-7-5---|---------------7-10--  
   G|----------------------------------------------------4-|9(11)-7--9-7---------  
@@ -147,10 +147,10 @@
   *[----5~---]  play fret five with vibrato*  
   *[---7\5---]  play fret seven, slide down to fret five*  
   *[---8(9)--]  play fret eight, bend the string (at fret eight) to reach*  
-               *the pitch of fret nine*  
+    *the pitch of fret nine*  
   *[---(9)8--]  play fret eight already bent to the pitch of fret nine,*  
-               *unbending until it reaches the normal pitch of fret eight*  
+    *unbending until it reaches the normal pitch of fret eight*  
   *[----h7---]  hammer-on to fret seven*  
   *[----p5---]  pull-off to fret five*  
   *[---/12---]  slide up to fret 12 (the starting fret of the slide is*  
-               *undefined, judge by ear)*
+    *undefined, judge by ear)*

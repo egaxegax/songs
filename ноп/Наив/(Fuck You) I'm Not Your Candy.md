@@ -7,9 +7,9 @@ Switch-Blade Knaife (1990)
   She used look good (yeah!) to me  
     ***C***  
   Trying to watch top of the pops  
-        ***B***  
+    ***B***  
   But then I kissed her and run away  
-           ***F           C***  
+    ***F           C***  
   Leaving her a lolly-pop  
   
   Marlin Monroe and her perfumed air  

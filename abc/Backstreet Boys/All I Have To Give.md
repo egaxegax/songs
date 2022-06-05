@@ -4,18 +4,18 @@
   
 Intro:  ***G A Bm*** } 2x  
   
-          ***G            A                Bm       G                A         Bm***  
+    ***G            A                Bm       G                A         Bm***  
   I dont know what he does to make you cry, but I'll be there to make you smile  
-          ***G      A   Bm     D              G       A        D***  
+    ***G      A   Bm     D              G       A        D***  
   I dont have fancy cars to get to you, I walk a thousand miles  
-          ***G           A              Bm               G           A        Bm***  
+    ***G           A              Bm               G           A        Bm***  
   I dont care if he buy's you nice thing's, does his gift's come from the heart?  
-          ***G      A                Bm        G                   A         D***  
+    ***G      A                Bm        G                   A         D***  
   I dont know but if you were my girl, I'll make it sure we'll never be apart  
   
-                  ***G     A       Bm                  G         A      Bm***  
+    ***G     A       Bm                  G         A      Bm***  
 CHORUS:  But my love is all I have to give, without you I dont think I can live  
-                  ***G         A       D         G              A       Bm***  
+    ***G         A       D         G              A       Bm***  
   I wish I could give the world to you, but  love is all I have to give  
   
   When he talks does it seem like his not, been listening to a word you say  

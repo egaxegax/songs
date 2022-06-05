@@ -8,23 +8,23 @@ A:------------------------------------------------------------------------------
 E:-------------------------------------------------------------------------------I  
   
 Verse 1:  
-                                   Em       G  
+    Em       G  
 I guess this time you're really leaving  
-                             D            D  
+    D            D  
 I heard your suitcase say goodbye  
-                               Em         G  
+    Em         G  
 And as my broken heart lies bleeding  
-                        D            *STOP*  
+    D            *STOP*  
 You say true love is suicide  
-                                  Em        G  
+    Em        G  
 You say you've cried a thousand rivers  
-                                 D        Hm  
+    D        Hm  
 And now you're swimming for the shore  
-                            Em        G  
+    Em        G  
 You left me drowning in my tears  
-                         D             *STOP*  
+    D             *STOP*  
 And you won't save me anymore  
-                                                           D  
+    D  
 I'm praying to God you'll give me one more chance, girl  
   
 Chorus:  
@@ -32,11 +32,11 @@ Chorus:
 I'll be there for you  
  Hm  
 These five words I swear to you  
-           G  
+    G  
 When you breathe I want to be the air for you  
 A         C    G   D  
 I'll be there for you  
-                              Hm  
+    Hm  
 I'd live and I'd die for you  
   
 Steal the sun from the sky for you  
@@ -68,13 +68,13 @@ Chorus
 Solo: Play Chorus Chords Twice  
   
 Verse 3:  
-                                   Em         G  
+    Em         G  
 And I wasn't there when you were happy  
-                             D  Hm  
+    D  Hm  
 I wasn't there when you were down  
-                             Em               G  
+    Em               G  
 I didn't mean to miss your birthday, baby  
-                                        D        *Scream*  
+    D        *Scream*  
 I wish I'd seen you blow those candles out  
   
 Chorus  

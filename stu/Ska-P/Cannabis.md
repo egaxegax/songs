@@ -29,9 +29,9 @@ Cannabis
   *[RE--------------]                          |*  
   *[LA----5--3------]                          |*  
   *[MI--3-----------]                          |*  
-                                            *|*  
+    *|*  
   *REPETIR PERO RAPIDO                       |*  
-                                            *|*  
+    *|*  
   *PUNTEO DE LAS INTRO DE LA PACHANGA   &lt;----|*  
   
   [SOL|--------------------------|  

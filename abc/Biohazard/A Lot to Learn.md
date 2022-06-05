@@ -27,12 +27,12 @@ RIFF 3:  e-----------------------------------------------------------
   
   *STRUCTURE:*  
   *Intro:   Riff 1   x4*  
-           *Riff 2   x2   "You walk around, always screaming..."*  
+    *Riff 2   x2   "You walk around, always screaming..."*  
   *Chorus:  Riff 1   x4   "Because you, you got a lot to learn..."*  
-           *Riff 2   x2   "All you do is bitch about the....."*  
+    *Riff 2   x2   "All you do is bitch about the....."*  
   *Chorus:  Riff 1   x4   "Because you, you got a lot to learn..."*  
   *Solo:    Riff 3   x3    (played with solo)*  
-           *Riff 3   x4   "You live inside your fucked-up world.."*  
+    *Riff 3   x4   "You live inside your fucked-up world.."*  
   *Chorus:  Riff 1   x4   "Because you, you got a lot to learn..."*  
   
   *I know little bits are missing, or incorrect. If you find*  

@@ -16,18 +16,18 @@ Verse 1: Loving you madly will be forever
 Chorus 1: Hold me closer to your dreams  
   ***Bb                    Dm***  
   Closer to your fears  
-       ***Bb                         C***  
+    ***Bb                         C***  
   Close to hear your laughter  
   ***F       C   Bb                          A***  
   Hold me when your close to tears.  
   
   ***Dm                    Bb                A***  
 Verse 2: Time passes by seconds into minutes  
-          ***Bb       A                       Bb                      A***  
+    ***Bb       A                       Bb                      A***  
   Every field and flower fades but love is infinite  
-          ***Dm                                   Bb                A***  
+    ***Dm                                   Bb                A***  
   There are no boundaries, there are no limits  
-          ***Bb                          F        C***  
+    ***Bb                          F        C***  
   My hearts a bigger place now that your in it  
   
   ***F       C    Bb                   A***  
@@ -47,7 +47,7 @@ Chorus 2: Hold me closer to your dreams
 Bridge:  How tight can you hold me?  
   ***Dm                  C                Dm***  
   How long can we stay awake?  
-                      ***C***  
+    ***C***  
   How hard can we laugh?  
    ***F                                   C***  
   How much love can we make?  

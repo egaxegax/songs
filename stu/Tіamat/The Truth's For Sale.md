@@ -27,7 +27,7 @@ The Truth's For Sale
   
 Проигрыш 2: |***F5***|***F5***:***G#5 A#5***|***A#5***:***G#5 G#5***| } 4 раза  
   
-                     ***F5         C#5 A#5***  
+    ***F5         C#5 A#5***  
 Концовка: Yeah, that's how I want it to be      \  
       ***C5                                 } 5 раз***  
   And that's how I like it              /  

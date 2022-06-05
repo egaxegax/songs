@@ -5,28 +5,28 @@ Am
 but you canґt see his blood  
 F  
 itґs nothing but some feelings  
-           G  
+    G  
 that this old dog kicked up  
   
 C  
 itґs been raining since you left me  
-          Am  
+    Am  
 now Iґm drowning in the flood  
 F  
 you see Iґve always been a fighter  
-       G  
+    G  
 but without you I give up  
   
 Am  
 now I canґt sing a love song  
-          G  
+    G  
 like the way itґs meant to be  
 F  
 well, I guess Iґm not that good anymore  
      G  
 but baby, thatґs just me  
   
-                     Chorus  
+    Chorus  
      C       G  
 And, I will love you  
 F      C     G  
@@ -37,13 +37,13 @@ C   G
 Always  
 C  
 Iґll be there till the stars donґt shine  
-             G  
+    G  
 till the heavens burst and  
   
 the words donґt rhyme  
-            F  
+    F  
 and I know when I die, youґll be on my mind  
-          G  
+    G  
 and Iґll love you  
       Am  
 Always  
@@ -88,13 +88,13 @@ D                  G
 if you told me to cry for you  
 A     D  
 I could  
-                   G         A  
+    G         A  
 if you told me to die for you  
     D  
 I would  
-                    G  
+    G  
 take a look at my face  
-                           A  
+    A  
 thereґs no price I wonґt pay  
   
 to say these words to you  

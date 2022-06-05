@@ -21,15 +21,15 @@ Chorus:  So here I go still scratching around the same old
   My body feels young but my mind is very old  
   ***Am   (Aadd9)        C***  
   So what do you say?  
-            ***E7                          Am   (Aadd9)***  
+    ***E7                          Am   (Aadd9)***  
   You can't give me the dreams that are mine anyway  
-         ***F***  
+    ***F***  
   You're half the world away  
   ***Fm***  
   Half the world away  
   ***C        Em    Am***  
   Half the world away  
-            ***D              Dsus4       D          F***  
+    ***D              Dsus4       D          F***  
   I've been lost I've been found but I don't feel down.  
   
   *same as Chorus chords:*  

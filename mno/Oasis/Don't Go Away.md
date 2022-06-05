@@ -14,11 +14,11 @@ Intro:  ***Am***-***G***-***Fmaj7***-***G*** } x2
   
    ***Am                                             G***  
 Verse 1: A cold and frosty morning there's not a lot to say  
-                   ***Fmaj7                       G***  
+    ***Fmaj7                       G***  
   About the things caught in my mind  
   ***Am                                          G***  
   As the day was dawning my plain flew away  
-                      ***Fmaj7                      G***  
+    ***Fmaj7                      G***  
   With all the things caught in my mind  
   
   ***F                                                               Am***  
@@ -26,22 +26,22 @@ Bridge:  And I don't wanna be there when you're coming dow
   ***F                                                            G***  
   And I don't wanna be there when you hit the ground  
   
-                         ***C                          G***  
+    ***C                          G***  
 Chorus:  So don't go away, say what you say  
       ***ґ                          Am                       G***  
   But say that you'll stay, forever and a day  
-                               ***F                                G***  
+    ***F                                G***  
   In the time of my life, cause I need more time  
-                              ***Am             G                  F***  
+    ***Am             G                  F***  
   Yes I need more time just to make things right  
   
   ***Am                                      G***  
 Verse 2: Damn my situation and the games I have to play  
-                      ***Fmaj7                     G***  
+    ***Fmaj7                     G***  
   With all the things caught in my mind  
   ***Am                                       G***  
   Damn my education I can't find the words to say  
-                   ***Fmaj7                      G***  
+    ***Fmaj7                      G***  
   About the things caught in my mind  
   
   ***F                                                               Am***  
@@ -49,37 +49,37 @@ Bridge:  And I don't wanna be there when you're coming dow
   ***F                                                            G***  
   And I don't wanna be there when you hit the ground  
   
-                         ***C                          G***  
+    ***C                          G***  
 Chorus:  So don't go away, say what you say  
       ***ґ                          Am                       G***  
   But say that you'll stay, forever and a day  
-                               ***F                                G***  
+    ***F                                G***  
   In the time of my life cause I need more time  
-                              ***Am             G                  F       Fm***  
+    ***Am             G                  F       Fm***  
   Yes I need more time just to make things right  
-                                           ***C   -   G  -  Am***  
+    ***C   -   G  -  Am***  
   Me and you what's going on  
   ***F                                                Fm***  
   All we seem to know is how to show the feelings  
-                   ***C   -  G  -  Am  -  G  -  F  -  G***  
+    ***C   -  G  -  Am  -  G  -  F  -  G***  
   that are wrong  
   
   *Chorus: (x2)*  
-                         ***C                          G***  
+    ***C                          G***  
   So don't go away, say what you say  
       ***ґ                          Am                       G***  
   But say that you'll stay, forever and a day  
-                               ***F                                G***  
+    ***F                                G***  
   In the time of my life cause I need more time  
-                              ***Am             G                  F***  
+    ***Am             G                  F***  
   Yes I need more time just to make things right  
-                              ***Am             G                 F***  
+    ***Am             G                 F***  
   Yes I need more time just to make things right  
-                              ***Am             G                 F***  
+    ***Am             G                 F***  
   Yes I need more time just to make things right  
-                              ***Am             G                 F        Fm***  
+    ***Am             G                 F        Fm***  
   Yes I need more time just to make things right  
-                          ***C***  
+    ***C***  
   So, don't go away  
   
   *(The end part -with strings- play it with the same chords  used in Chorus)*  
@@ -87,7 +87,7 @@ Chorus:  So don't go away, say what you say
 -  
   
   *Chords Used:*  
-            [EADGBe]  
+    [EADGBe]  
   ***Am7       [x02213]***  
   ***G         [3x0033]***  
   ***FaddG     [xx3213]***  
@@ -99,26 +99,26 @@ Chorus:  So don't go away, say what you say
   
   *Tab Key:*  
   *b = bend (7b8 means bend the string at the 7th fret to make the note the*  
-          *string would make if played at the 8th fret with no bend)*  
+    *string would make if played at the 8th fret with no bend)*  
   *r= release bend*  
   *h = hammer on*  
   *p = pull off*  
   *s = slide, sounds like one note*  
   */ = a slower slide, sounds like 2 different notes*  
   *~~~ = vibrato (alternate bending string slightly and releasing making a*  
-                  *wavy sound)*  
+    *wavy sound)*  
   *() = harmonics, (7) means have your finger lightly touching the string*  
-          *just slightly above the 7th fret, then pick the string*  
+    *just slightly above the 7th fret, then pick the string*  
   
   *Intro*  
-         ***Am7    G                  FaddG           D5      FaddG   Am7      G***  
+    ***Am7    G                  FaddG           D5      FaddG   Am7      G***  
   [e------------------------------------------------------------------------------  
   B------------------------------------------------------------------------------  
   G------5h7~~~~~--7b8.5--7--5--7--5b5.5-----------------------------5h7~~~~b8.5-  
   D--5h7----------------------------------7--(7)(7)----------7---5h7-------------  
   A------------------------------------------------5b6r5--0----------------------  
   E------------------------------------------------------------------------------  
-                   ***FaddG              D5     FaddG***  
+    ***FaddG              D5     FaddG***  
   e----------------------------------------------------------  
   B----------------------------------------------------------  
   G-b8.5r-7--5--7--5b5.5------------------------------5------  
@@ -129,11 +129,11 @@ Chorus:  So don't go away, say what you say
   *Verse 1*  
     ***Am7                              G***  
   A cold and frosty morning, there's not alot to say  
-            ***FaddG               Dsus4 FaddG***  
+    ***FaddG               Dsus4 FaddG***  
   'bout the things caught in my mind  
       ***Am7                       G***  
   And as the day was dawning my plane flew away  
-               ***FaddG               Dsus4 FaddG***  
+    ***FaddG               Dsus4 FaddG***  
   With all the things caught in my mind  
   
   *Pre-Chorus:*  
@@ -157,11 +157,11 @@ Chorus:  So don't go away, say what you say
   *Chorus*  
      ***G        C                 C/B***  
   So don't go away saying what you say  
-                  ***Am                 G***  
+    ***Am                 G***  
   Say that you'll stay forever and a day  
-                    ***FaddG                  G***  
+    ***FaddG                  G***  
   In the time of my life, 'cos I need more time  
-                   ***Am           G           FaddG***  
+    ***Am           G           FaddG***  
   Said I need more time just to make things right  
   [e---------------------------------------------------------------------------  
   B---------------------------------------------------------------------------  
@@ -184,7 +184,7 @@ Chorus:  So don't go away, say what you say
   So don't go away saying what you say  
   Say that you'll stay forever and a day  
   In the time of my life 'cos I need more time  
-                  ***Am           G           FaddG    Fm***  
+    ***Am           G           FaddG    Fm***  
   Yes I need more time just to make things right  
   Me and you: what's going on  
     ***C                C/B             Am7***  
@@ -203,8 +203,8 @@ Chorus:  So don't go away, say what you say
   D----5h7---------------------7-------------------------------------------  
   A------------------------------------------------------------------------  
   E------------------------------------------------------------------------]  
-                        ***G***  
-                                             So don't  
+    ***G***  
+    So don't  
   [e-------8-8h10-8------8--------8--8--------8--8h10--8--  
   B--8h10----------8h10----8h10--------8h10--------------  
   G------------------------------------------------------  
@@ -216,9 +216,9 @@ Chorus:  So don't go away, say what you say
   *All instruments except 3 acoustic guitars fade out:*  
   *It's tough to hear which guitar is playing what, but here's the whole part*  
   *simplified:*  
-          *1)Guitar #1 is playing the chords above the tab*  
-          *2)Guitar #2 is playing a little riff similar to Riff #1 repeatedly*  
-          *3)Guitar #3 is playing the tabbed part below Riff #2*  
+    *1)Guitar #1 is playing the chords above the tab*  
+    *2)Guitar #2 is playing a little riff similar to Riff #1 repeatedly*  
+    *3)Guitar #3 is playing the tabbed part below Riff #2*  
   
   *Riff #2 (played by guitar #2)*  
   [e------3--------3-----------------------------------------------------------  

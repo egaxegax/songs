@@ -15,7 +15,7 @@ GYERMEKJA'TE'KOK
   Ege'sz ma's, ege'sz ma's ez a ja'te'k  
   ***C***     _         _     _  ***C7***  
   Ha bea'llsz a ko~rbe e's va'llalod,  
-       ***F***    _               ***fm***  
+    ***F***    _               ***fm***  
   Hogy nem e'r a neved, nem la'thatod,  
   ***C***  _     _   ***G***  _     _        ***F***_  _         ***C***  
   Ege'sz ma's, ege'sz ma's ez a ja'te'k, ez a ja'te'k.  
@@ -25,7 +25,7 @@ GYERMEKJA'TE'KOK
   Sohasem kellet kihi'vni a mento"t s a rendo"rt  
     ***C***      _    _       /_      _           /               ***G_7***  
   A szomsze'd la'ny se te'ged ke'rt meg, ha akart egy kisbaba't,  
-       ***G7***  _         /            / _                ***C***  
+    ***G7***  _         /            / _                ***C***  
   S ha Kara'csonyra megkapta, nem no"tte ki a babaruha't.  
   ***C***  _     _   /  _     _        ***F***_  _  /  
   Ege'sz ma's, ege'sz ma's ez a ja'te'k  
@@ -33,13 +33,13 @@ GYERMEKJA'TE'KOK
   Ege'sz ma's, ege'sz ma's ez a ja'te'k  
   ***C***     _         _     _  ***C7***  
   Ha bea'llsz a ko~rbe e's va'llalod,  
-       ***F***    _               ***fm***  
+    ***F***    _               ***fm***  
   Hogy nem e'r a neved, nem la'thatod,  
   ***C***  _     _   ***G***  _     _        ***F***_  _         ***C***  
   Ege'sz ma's, ege'sz ma's ez a ja'te'k, ez a ja'te'k.  
   ***C***     _         _     _  ***C7***  
   Ha bea'llsz a ko~rbe e's va'llalod,  
-       ***F***    _               ***fm***  
+    ***F***    _               ***fm***  
   Hogy nem e'r a neved, nem la'thatod,  
   ***C***  _     _   ***G***  _     _        ***F***_  _         ***C***  
   Ege'sz ma's, ege'sz ma's ez a ja'te'k, ez a ja'te'k.  

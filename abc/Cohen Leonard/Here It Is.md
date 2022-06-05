@@ -19,11 +19,11 @@ And your cardboard and piss
 And here is your love  
 For all of this  
   
-              Abm  
+    Abm  
 May everyone live  
 Bbm7          Ebm  
 May everyone die  
-        Abm  
+    Abm  
 Hello, my love  
 Bb7               Ebm  
 And my love, Goodbye  
@@ -135,11 +135,11 @@ And your cardboard and piss
 And here is your love  
 For all of this  
   
-              Am  
+    Am  
 May everyone live  
 Bm7           Em  
 May everyone die  
-        Am  
+    Am  
 Hello, my love  
 B7                Em  
 And my love, Goodbye  

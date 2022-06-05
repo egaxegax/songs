@@ -39,7 +39,7 @@ E|--------9-9-9-5-5-5-4-4-4-|--------9-9-9-5-5-5-4-4-4-|
       Hier commt die sonne  
       Hier commt die sonne  
      Sie ist der hellste stern von allen  
-       Hier commt die sonne  
+    Hier commt die sonne  
     Die sonne scheint mir aus den handen  
    Kann verbrenden kann euch blenden  
    Wenn sie aus den fausten bricht  

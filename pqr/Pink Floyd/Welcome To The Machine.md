@@ -57,7 +57,7 @@ Wish You Were Here (1975)
   You bought a guitar to punish your ma  
   ***Emadd9***  
   And you didn't like school, and you know you're nobody's fool  
-       ***C   Cmaj7            Emadd9   Cmaj7  Em/F#***  
+    ***C   Cmaj7            Emadd9   Cmaj7  Em/F#***  
   So welcome to the machine  
   ***Em Em/F# Em/G Em/A C/G Esus2***  
   ***Em Em/F# Em/G Em/A C/G Esus2***  

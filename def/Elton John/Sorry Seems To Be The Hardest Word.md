@@ -36,7 +36,7 @@ Gm           Cm
 why cant we talk it over?  
 Eb             Cm  
 oh it seems to me,  
-       Eb           D               Gm  
+    Eb           D               Gm  
 that sorry seems to be the hardest word,  
   
 verse 2 again  

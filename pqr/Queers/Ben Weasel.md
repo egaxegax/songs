@@ -25,7 +25,7 @@
   He don't like Nirvana  
     ***C                  D***  
   I know he don't like Prong  
-           ***C         D             C               D***  
+    ***C         D             C               D***  
   And I'll bet you 5 bucks that he don't like this song  
   ***A            C***  
   Ben Weasel - "He's an asshole"  
@@ -50,7 +50,7 @@
   *Play the riff 4 times again.*  
   ***A                     D***  
   He drinks his mud, he smokes his butts  
-       ***C              D***  
+    ***C              D***  
   He's glued to his T.V.  
       ***A              D       C         D***  
   But when I drink a brew he frowns on me  
@@ -62,7 +62,7 @@
   He don't like Nirvana  
     ***C                  D***  
   I know he don't like Prong  
-           ***C         D             C               D***  
+    ***C         D             C               D***  
   And I'll bet you 5 bucks that he don't like this song  
   ***A            C***  
   Ben Weasel - "He's an asshole"  

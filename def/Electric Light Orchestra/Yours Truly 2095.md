@@ -8,7 +8,7 @@ Time (1981)
   
   ***Am                      Em***  
   I sent a message to another time  
-          ***Dm            Em                 Am***  
+    ***Dm            Em                 Am***  
   But as the days unwind, this I just can't believe  
   I sent a note across another plane  
   Maybe it's all a game, but this I just can't conceive.  
@@ -46,11 +46,11 @@ Time (1981)
   
      ***C      G                          C***  
 Chorus:  Is that what you want? (Is it what you want?)  
-         ***G                           C***  
+    ***G                           C***  
   Is it what you really want? (Is it what you really want?)  
       ***G                         C***  
   Is that what you want? (Is it what you want?)  
-              ***G***  
+    ***G***  
   Is it what you really want?  
   
   I realize that it must seem so strange  

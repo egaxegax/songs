@@ -25,11 +25,11 @@ Man Machine
   Shooting laser beams  
       ***Am             Em***  
   The dog has ate my homework today  
-           ***C             G***  
+    ***C             G***  
   It's not done, it aint done  
   ***Am                   Em***  
   I have heard they're not very well  
-         ***C***  
+    ***C***  
   In the sun  
   'Cos I'm a man machine  
   I'm a queen's dream  

@@ -10,11 +10,11 @@ Close To The Flame
   ***Em        Hm       Am          D***  
   In this world so cold and strong  
   
-         ***Em            Hm***  
+    ***Em            Hm***  
 Chorus:  So close to the flame  
   ***C         D***  
   Burning brightly  
-         ***Em            Hm***  
+    ***Em            Hm***  
   It won't fade away  
   ***C             D***  
   And leave us lonely  

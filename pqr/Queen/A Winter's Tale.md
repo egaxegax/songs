@@ -6,7 +6,7 @@ Made In Heaven 1995
   
   ***Db             F#***  
      It's winter-fall  
-                        ***Ebm***  
+    ***Ebm***  
   Red skies are gleaming - oh -  
   ***Abm***  
   Sea gulls are flying over  
@@ -14,13 +14,13 @@ Made In Heaven 1995
   Swans are floatin' by  
   ***H***  
   Smoking chimney-tops  
-           ***F#m***  
+    ***F#m***  
   Am I dreaming  
-             ***A                 Db***  
+    ***A                 Db***  
   Am I dreaming ...?  
   ***Db                   F#***  
   The nights draw in  
-                        ***Ebm***  
+    ***Ebm***  
   There's silky moon up in the sky - yeah -  
   ***Abm***  
   Children are fantisising  
@@ -28,9 +28,9 @@ Made In Heaven 1995
   Grown-ups are standin' by  
   ***F#m***  
   What a super feeling  
-           ***A***  
+    ***A***  
   Am I dreaming  
-            ***H***  
+    ***H***  
   Am I dreaming ...?  
   woh-woh-woh-woh  
   ***E***  
@@ -46,7 +46,7 @@ Made In Heaven 1995
   A breathtaking scene  
   ***H***  
   With the dreams of the world  
-           ***Abm            Db    F#***  
+    ***Abm            Db    F#***  
   In the palm of your hand  
   [E|-------------------6------6-7-9-----7-6-7-----6-----------------------------------------------------7--9---11-|  
   B|--9-7----6-7--------9----------------------9--7--9-------------------7-7------------5-7-9-4--------7--7--7----|  
@@ -61,29 +61,29 @@ Made In Heaven 1995
   Sound of merry laughter skippin' by  
   Gentle rain beatin' on my face  
   What an extraordinary place!  
-                  ***H***  
+    ***H***  
   And the dream of the child  
-                ***Eb             E       Eb***  
+    ***Eb             E       Eb***  
   Is the hope of the man  
   ***Eb           Ab***  
   It's all so beautiful  
-                             ***Fm***  
+    ***Fm***  
   Like a landscape painting in the sky - yeah -  
   ***Bbm***  
   Mountains are zoomin' higher - mm -  
   ***Bbm7/A***  
   Little girls scream an' cry  
-                      ***Ab***  
+    ***Ab***  
   My world is spinnin' and spinnin' and spinnin'  
-             ***Ebm***  
+    ***Ebm***  
   It's unbelievable  
-                    ***H***  
+    ***H***  
   Sends me reeling  
-              ***Abm***  
+    ***Abm***  
   Am I dreaming...  
-            ***H               Eb***  
+    ***H               Eb***  
   Am I dreaming...?  
-                  ***F#***  
+    ***F#***  
   Oooh - it' a bliss.  
   
 -  

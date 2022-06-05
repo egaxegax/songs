@@ -20,16 +20,16 @@ This is a Call
   *Intro:*  
   ***F***  
   Visiting is pretty, Visiting is good,  
-             ***Ab***  
+    ***Ab***  
   Seems that all they ever wanted  
-        ***F          Ab5***  
+    ***F          Ab5***  
   Was a brother.   //  
   *Verse 1:*  
   ***F + F5***  
   This'll be a secret, We can keep it good,  
-       ***Ab + Ab5***  
+    ***Ab + Ab5***  
   Even all he ever wanted  
-        ***F + F5***  
+    ***F + F5***  
   Had a problem.  
   *Chorus 1:*  
   ***G + G5    Bb + Bb5***  
@@ -38,20 +38,20 @@ This is a Call
   Past resignations.  
   ***Bb + Bb5  A + A5***  
   This is a call  
-           ***Ab5 (root) Ab5***  
+    ***Ab5 (root) Ab5***  
   To all.      /       /  
   *Verse 2:*  
   ***F+F5***  
   Finger nails are pretty, Finger nails are good,  
-             ***Ab + Ab5***  
+    ***Ab + Ab5***  
   Seems that all they ever wanted  
-        ***F + F5    Ab5 (root) Ab5***  
+    ***F + F5    Ab5 (root) Ab5***  
   Was a market.       /       /  
   ***F + F5***  
   Their ballons are pretty, Big and say they should,  
-       ***Ab + Ab***  
+    ***Ab + Ab***  
   Ever fall around,  
-                 ***F + F5***  
+    ***F + F5***  
   Call him magic marker.  
   *Chorus 2:*  
   ***G + G5    Bb + Bb5***  
@@ -98,7 +98,7 @@ This is a Call
 **  
   *Normal tuning.*  
   *Intro: touch your jack with this rythm(/), then plug it(+):*  
-         / // / +  
+    / // / +  
   *Verse:*  
   ***E                                                G***  
   Visiting is pretty, visiting is good, seems that all they ever  
@@ -158,7 +158,7 @@ This is a Call
   *Standard tuning: [E-A-D-G-B-E]*  
   ***E                                                G***  
   Visiting is pretty, visiting is good, seems that all  
-            ***A            E        A***  
+    ***A            E        A***  
   they ever wanted was a brother   ....  
   ***F#        A              E          F#***  
   This is a call to all my past resignations  

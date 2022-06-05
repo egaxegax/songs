@@ -99,9 +99,9 @@ Live At Gorbunov's Palace Of Culture (Moscow, 24.08.2001)
 CHORUS:  I wish for this night-time  
       ***B          F***  
   to last for a lifetime  
-       ***Gm        Dm***  
+    ***Gm        Dm***  
   The darkness around me  
-         ***B           F   C***  
+    ***B           F   C***  
   Shores of a solar sea  
   ***Dm                   B             F***  
   Oh how I wish to go down with the sun  

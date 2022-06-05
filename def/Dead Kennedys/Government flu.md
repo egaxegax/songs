@@ -12,7 +12,7 @@ Government flu
   D-|-7-                           G-|--9-  
   A-|---                           D-|--7-  
   E-|---                           A-|----  
-                                   E-|----]  
+    E-|----]  
   *so just remember... when ever a power chord crosses onto the "B"*  
   *string... move the note one fret higher on the "B" string*  
   

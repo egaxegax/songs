@@ -4,19 +4,19 @@
   
     ***G           D***  
   Layin' on my back  
-                      ***A***  
+    ***A***  
   In the newly mown grass  
    ***G               D***  
   Rain is coming down  
-                               ***A***  
+    ***A***  
   But I know the clouds will pass  
    ***D***  
   You bring me tea  
-                        ***A***  
+    ***A***  
   Say "the babe's a-sleepin'"  
   ***C          G***  
   Lay down beside me  
-                    ***A     G  A***  
+    ***A     G  A***  
   Love ain't for keeping  
   Black ash from the foundry  
   Hangs like a hood  
@@ -28,7 +28,7 @@
   Love ain't for keeping  
     ***C         G***  
   Lay down beside me  
-                   ***A     G  A***  
+    ***A     G  A***  
   Love ain't for keeping  
   Lay down beside me  
   Love ain't for keeping  

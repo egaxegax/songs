@@ -1,13 +1,13 @@
 <!--2020-09-06 19:52:18-->
 His Latest Flame  
   
-               ***F  Dm           F  Dm***  
+    ***F  Dm           F  Dm***  
   A very old friend came by today  
-         ***F          Dm***  
+    ***F          Dm***  
   'Cos he was telling everyone in town  
   ***F           Dm***  
   About the love that he just found  
-             ***Bb C7     Dm***  
+    ***Bb C7     Dm***  
   And Marie's the name  of his latest flame  
   
   ***C7       Bb      C7 Bb***  
@@ -16,7 +16,7 @@ Chorus:  Though I smiled the tears inside were a-burning
   I wished him luck and then he said goodbye  
   ***C7   Bb          C7 Bb***  
   He was gone but still his words kept returning  
-        ***C7  Bb  F***  
+    ***C7  Bb  F***  
   What else was there for me to do but cry  
   
 Other verses: He talked and talked and I heard him say  

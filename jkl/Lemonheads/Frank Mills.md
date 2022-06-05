@@ -5,17 +5,17 @@ Frank Mills
   I met a boy called Frank Mills, on September 12th right here  
   ***F               C              F           G                       C***  
   in front of the Waverly, but unfortunately,   I lost his address.  
-                                      ***G***  
+    ***G***  
   He was last seen with his friend,  
-                 ***Am                        F***  
+    ***Am                        F***  
   a drummer he resembles George Harrison of the Beatles,  
-         ***C                   F          G      C***  
+    ***C                   F          G      C***  
   but he wears his hair tied in a small bow at the back.  
     ***Gm                 F                                               C***  
   I love him, but it embarrasses me to walk down the street with him.  
   ***Em          Am       Em          Am                           G***  
   He lives in Brooklyn somewhere,  and he wears his white crash helmet.  
-         ***C***  
+    ***C***  
   He has golden chains on his leather jacket,  
       ***F                C                 F        Am             F***  
   and on the back, are written the names Mary and Mom and Hell's   Angels.  
@@ -23,7 +23,7 @@ Frank Mills
   I would gratefully appreciate it if you see him, tell him  
   ***C                        F             G                 C          G***  
   I am in the park with my girlfriend, and please tell him Angela and I  
-                 ***Am          F     G    C***  
+    ***Am          F     G    C***  
   don't want the two dollars back, just him.  
   
 -  

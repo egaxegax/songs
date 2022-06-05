@@ -6,7 +6,7 @@ Burning From the Inside
   
   *Here's the main riff for the first time he plays it:*  
   *Let all ring throughout*  
-         ***F#              F               F#              F***  
+    ***F#              F               F#              F***  
   [E&gt;---------------|--------------|----------------|--------------|  
   B&gt;---------------|--------------|----------------|--------------|  
   G&gt;---------3-3---|---------2----|----------3-3---|---------2----|  
@@ -18,7 +18,7 @@ Burning From the Inside
   *get to it, not just slide to it.*  
   
   *Once you learn that part, loosen on it, add notes like this:*  
-         ***F#                F                   F#                F***  
+    ***F#                F                   F#                F***  
   [E&gt;-----------------|------------------|------------------|-----------------|  
   B&gt;-----------------|------------------|------------------|-----------------|  
   G&gt;---------3---3---|---------2---(2)--|----------3---3---|---------2---(2)-|  
@@ -42,7 +42,7 @@ Burning From the Inside
   
   *chord: [XXX886]  Vary it if you like, minor or suspended*  
   *run: [A&gt;-(7)--(7)--]*  
-       *[E&gt;--3----4--]strums*  
+    *[E&gt;--3----4--]strums*  
   
   *The basline is easy:  [E&gt;-5-----5------5-5--] repeat  (in chorus)*  
   

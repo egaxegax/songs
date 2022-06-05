@@ -4,13 +4,13 @@ Comme J'ai Mal
   
   ***N.C.            Em  C***  
 (1)  Je bascule a l'horizontal  
-                  ***Am     Bm***  
+    ***Am     Bm***  
   Demissionne ma vie verticale  
-                ***Em    C***  
+    ***Em    C***  
   Ma pensee se fige animale  
-              ***Am***  
+    ***Am***  
   Abandon du moi  
-           ***Bm***  
+    ***Bm***  
   Plus d'emoi  
       ***Em                  C***  
   Je ressens ce qui nous separe  
@@ -18,16 +18,16 @@ Comme J'ai Mal
   Me confie au gre du hasard  
       ***Em                 C***  
   Je vis hors de moi et je pars  
-              ***Am           Bm***  
+    ***Am           Bm***  
   A mille saisons, mille etoiles  
   
    ***Em     Bm Am***  
 Припев:  Comme j'ai mal  
-                    ***Em     Bm Am***  
+    ***Em     Bm Am***  
   Je n'verrai plus comme j'ai mal  
-                    ***Em     Bm Am***  
+    ***Em     Bm Am***  
   Je n'saurai plus comme j'ai mal  
-                  ***Em Bm Am***  
+    ***Em Bm Am***  
   Je serai l'eau des nuaaages  
   ***Em                          Am***  
   Je te laisse parce que je t'aime  
@@ -35,7 +35,7 @@ Comme J'ai Mal
   Je m'abime d'etre moi meme  
   ***Em                      Am***  
   Avant que le vent nous seme  
-                     ***Em         Am      Em***  
+    ***Em         Am      Em***  
   A tous vents, je prends un nouveau depart  
   
   ***Em...***  

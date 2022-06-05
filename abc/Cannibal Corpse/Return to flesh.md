@@ -13,30 +13,30 @@
   
   *Song Structure*  
     *Intro         Intro   4 times*  
-                  *Riff A  2 times*  
-                  *Intro   3 times } with*  
-                    *+Transition 1 } riff A without harmonizations*  
-                  *Riff B  4 times*  
+    *Riff A  2 times*  
+    *Intro   3 times } with*  
+    *+Transition 1 } riff A without harmonizations*  
+    *Riff B  4 times*  
     *1st verse     Riff C  4 times (verse)*  
-                  *Riff B  4 times*  
-                  *Riff C  4 times (verse) (in fact 3,9 times)*  
-                    *+Transition 1*  
-                  *Riff D  2 times*  
-                  *Riff E  8 times (pre-chorus)*  
-                  *Riff F  4 times (chorus) (in fact 3,9 times)*  
-                    *+Transition 2*  
+    *Riff B  4 times*  
+    *Riff C  4 times (verse) (in fact 3,9 times)*  
+    *+Transition 1*  
+    *Riff D  2 times*  
+    *Riff E  8 times (pre-chorus)*  
+    *Riff F  4 times (chorus) (in fact 3,9 times)*  
+    *+Transition 2*  
     *Solos         Riff C  4 times (on first solo)*  
-                  *Riff B  4 times (between the solos)*  
-                  *Riff C  4 times (on 2nd solo)(in fact 3,9 times)*  
-                    *+Transition 1*  
+    *Riff B  4 times (between the solos)*  
+    *Riff C  4 times (on 2nd solo)(in fact 3,9 times)*  
+    *+Transition 1*  
     *2nd verse     Riff G  1 times (bridge)*  
-                  *Riff E  8 times (pre-chorus)*  
-                  *Riff F  4 times (chorus)*  
+    *Riff E  8 times (pre-chorus)*  
+    *Riff F  4 times (chorus)*  
     *outro         Riff H  8 times (outro riff)(in fact 7,9 times)*  
-                    *+Transition 1*  
-                  *Riff G  1/2 times (just the 2nd half of the*  
-                                     *bridge: the harmonized part)*  
-                  *Conclusion riff 1 time*  
+    *+Transition 1*  
+    *Riff G  1/2 times (just the 2nd half of the*  
+    *bridge: the harmonized part)*  
+    *Conclusion riff 1 time*  
   
   *TUNING DOWN 1/2 STEPS*  
   
@@ -50,7 +50,7 @@
    *. . .          . . .*  
   
   *Riff A*  
-          *1________________ 2_____________*  
+    *1________________ 2_____________*  
   [-------|------------------|------------------||  
   -------|------------------|------------------||  
   -------|------------------|-----------------.||  
@@ -86,10 +86,10 @@
   -5-----0------------------------0-----5-4-4-|-----------||  
   -3-0-0---0-0-0-0-0----------0-0---0-0-------|4p3h4p3-3--||]  
      *. .   . . . . .          . .   . .               .*  
-          *on the 4th time go directly to riff D*  
+    *on the 4th time go directly to riff D*  
   
   *RIFF D  (mix between Intro Riff & Riff A)*  
-                                  *1_______________________*  
+    *1_______________________*  
   [-------------------------------|------------------------|  
   -------------------------------|------------------------|  
   -------------------------------|------------------------|  
@@ -117,7 +117,7 @@
    *. . !!   . . .       !!*  
   
   *RIFF F  (chorus)*  
-        *1,2,3___*  
+    *1,2,3___*  
   *[-------------------|-------------|--------||] On 4th time*  
   *[-------------------|-------------|--------||] replace by*  
   *[-------------------|-------------|--------||] Transition 2*  

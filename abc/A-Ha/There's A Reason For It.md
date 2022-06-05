@@ -9,9 +9,9 @@ There's A Reason For It
   Don't know why it took a sudden turn  
    ***Bm   A***  
   Didn't seem to be a big concern  
-          ***G   D***  
+    ***G   D***  
   And everything is all too much  
-          ***Bm         D(E)***  
+    ***Bm         D(E)***  
   Hot and bothered, you're cool to the touch  
    ***G  D***  
   And everyone is worlds apart  
@@ -19,13 +19,13 @@ There's A Reason For It
   It must have been this way from the start  
     ***D  Bm                            G***  
   When there's nothing here to save the day  
-             ***G~Em***  
+    ***G~Em***  
   Then we have to say  
    ***A     D***  
   There's a reason for it  
     ***D  Bm`  G***  
   When there's nothing left for us to do  
-                          ***G~Em***  
+    ***G~Em***  
   You're left without a clue  
   ***A               D***  
   There's a reason for it  

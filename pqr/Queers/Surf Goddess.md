@@ -10,17 +10,17 @@ Surf Goddess EP
   -------------------------------------]  
       ***D                 G***  
   I'm making it cool, I hope you know it  
-       ***D               A         G***  
+    ***D               A         G***  
   This song is for you just from me  
   ***D                    G             A***  
   Don't you forget I'm always hoping that  
-         ***G                       A***  
+    ***G                       A***  
   If one thing comes true it's a wish  
-               ***G                    A***  
+    ***G                    A***  
   To be on the business end of your kiss  
-             ***G                      A***  
+    ***G                      A***  
   You listen up you kook and you'll hear  
-           ***G                           A***  
+    ***G                           A***  
   a stupid love song straight from Joe Queer  
       ***D                     G***  
   Now there's no doubt your just about  
@@ -28,7 +28,7 @@ Surf Goddess EP
   the pretiest girl that I've seen  
       ***D                    G***  
   You look so cool hanging by the pool  
-                ***D            A***  
+    ***D            A***  
   yeah your the only one for me  
   ***D            G      A***  
   Surf Goddess I'm in love with you  
@@ -36,29 +36,29 @@ Surf Goddess EP
   Surf Goddess I'm in love with you  
   ***D            G      A         D***  
   Surf Goddess I'm in love with you  
-              ***G A       D***  
+    ***G A       D***  
   Well I'm in love with you  
-              ***G A       D***  
+    ***G A       D***  
   Well I'm in love with you  
-              ***G A       D***  
+    ***G A       D***  
   Well I'm in love with you  
-              ***G A       D***  
+    ***G A       D***  
   Well I'm in love with you  
   *The guitar strums an A while the*  
   *bass plays the little part again.*  
       ***D                 G***  
   I'm making it cool, I hope you know it  
-       ***D               A         G***  
+    ***D               A         G***  
   This song is for you just from me  
   ***D                    G             A***  
   Don't you forget I'm always hoping that  
-         ***G                       A***  
+    ***G                       A***  
   If one thing comes true it's a wish  
-               ***G                    A***  
+    ***G                    A***  
   To be on the business end of your kiss  
-             ***G                      A***  
+    ***G                      A***  
   You listen up you kook and you'll hear  
-           ***G                           A***  
+    ***G                           A***  
   a stupid love song straight from Joe Queer  
   ***D            G      A***  
   Surf Goddess I'm in love with you  

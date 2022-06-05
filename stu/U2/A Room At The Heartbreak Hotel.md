@@ -9,11 +9,11 @@ A Room At The Heartbreak Hotel
   
   ***Eb***  
   I can see through you  
-                    ***Ab***  
+    ***Ab***  
   And well ya said pretty woman  
-              ***Eb***  
+    ***Eb***  
   "I know it got to you"  
-          ***Ab***  
+    ***Ab***  
   I see the stars in your eyes  
   ***Eb***  
   I want the truth but you want the lies  
@@ -25,27 +25,27 @@ A Room At The Heartbreak Hotel
   Stay, we're on the dark side of love  
   ***Eb     Ab***  
   You've got everything you wanted  
-             ***Eb***  
+    ***Eb***  
   But what you needed you gave away  
      ***Ab***  
   For primitive love  
-                ***Eb***  
+    ***Eb***  
   And we're riding the mystery train  
       ***Ab***  
   For primitive love  
-                ***Eb       Ab***  
+    ***Eb       Ab***  
   A room at the heart  
-         ***B***  
+    ***B***  
   Hearbreak hotel  
      ***Ab***  
   A room at the heartbreak  
-         ***Eb***  
+    ***Eb***  
   Heartbreak hotel  
-             ***Ab***  
+    ***Ab***  
   A room at the heartbreak  
-                ***Eb***  
+    ***Eb***  
   Heartbreak hotel  
-             ***Ab***  
+    ***Ab***  
   (Rest of song continues as above)  
   You say it's love, it's not the money  
   You let them suck your life out like honey  

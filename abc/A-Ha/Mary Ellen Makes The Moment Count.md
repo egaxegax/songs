@@ -10,11 +10,11 @@ Mary Ellen Makes The Moment Count (4:53)
   Down the street and it's the short way home  
   ***Dm           Dm/C                   G***  
   Feeling special cause she's so alone  
-                ***Bb     F***  
+    ***Bb     F***  
   But we know:  
   ***C   Dm***  
   (The world's full of lonely people)  
-               ***Bb     F***  
+    ***Bb     F***  
   And it shows  
   ***C   Dm***  
   (The world's full of lonely people)  
@@ -26,15 +26,15 @@ Mary Ellen Makes The Moment Count (4:53)
   (The world's full of lonely people)  
   And it shows  
   (The world's full of lonely people)  
-       ***Dm***  
+    ***Dm***  
   But when we she wanted me to go  
-                ***Asus7           G  Bb A***  
+    ***Asus7           G  Bb A***  
   She just had to let it show  
-                                        ***Dm***  
+    ***Dm***  
   To bring me down if she wanted me to leave  
-                 ***Asus7     G  Bb A***  
+    ***Asus7     G  Bb A***  
   She just wore it on her sleeve  
-              ***A                  Dm  Dm/C G***  
+    ***A                  Dm  Dm/C G***  
   But at least, I was around  
   But when we she wanted me to go  
   She just had to let it show  

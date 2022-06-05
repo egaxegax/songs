@@ -4,15 +4,15 @@ Radio London (1990)
   
   ***B***  
   Eloise  
-                   ***F***  
+    ***F***  
   Standing in the rain outside  
-            ***Gm       F                D#         F***  
+    ***Gm       F                D#         F***  
   Wondering if the sky is really made out of air  
     ***B                           F***  
   There she is, always looking right at me  
-           ***D#                 Gm***  
+    ***D#                 Gm***  
   But is she? I can't really tell  
-         ***F            B***  
+    ***F            B***  
   And I don't really care  
   
   Eloise  

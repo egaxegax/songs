@@ -39,7 +39,7 @@ Don't Tell Me
   Calf down on its knees  
   ***D    Am C                G***  
   Tell me love isn't true  
-            ***D         Am       C    G***  
+    ***D         Am       C    G***  
   It's just something that we do.  
   ***D    Am C              G***  
   Tell me everythung I'm not  
@@ -85,11 +85,11 @@ Verse 2: Tell me love ian't true,
   Tell the rain not to drop  
   ***D         A            C  G***  
   Tell the wind not to blow  
-              ***D    A  C  G***  
+    ***D    A  C  G***  
   Cause you said so  Mm Mm  
   ***D         A           C  G***  
   Tell the sun not to shine  
-        ***D      A       C    G***  
+    ***D      A       C    G***  
   Not to get up this time, no no  
   ***D       A           C  G***  
   Let it fall by the way, but don't  
@@ -100,39 +100,39 @@ Verse 2: Tell me love ian't true,
   
   ***D    A    C         G***  
   Tell me love isn't true  
-             ***D         A       C  G***  
+    ***D         A       C  G***  
   It's just something that we do  
   ***D    A  C               G***  
   Tell me everything I'm not  
-        ***D           A           C  G***  
+    ***D           A           C  G***  
   But please don't tell me to stop  
    ***D        A              C  G***  
   Tell the leaves not to turn  
-             ***D     A           C    G***  
+    ***D     A           C    G***  
   But don't ever tell me I'll learn, no no  
    ***D         A           C   G***  
   Take the black off a crow  
-             ***D          A      C  G***  
+    ***D          A      C  G***  
   But don't tell me I have to go  
    ***D        A          C  G***  
   Tell the bed not to lay  
-            ***D     A          C      G***  
+    ***D     A          C      G***  
   Like the open mouth of a grave, yeah  
   ***D        A         C  G***  
   Not to stare up at me  
-           ***D        A       C  G***  
+    ***D        A       C  G***  
   Like a calf down on its knees  
   Tell me love isn't true  
   It's just something that we do  
   ***D    A  C               G***  
   Tell me everything I'm not  
-       ***D          A           C  G***  
+    ***D          A           C  G***  
   But don't ever tell me to stop  
-                  ***D    A  C           G***  
+    ***D    A  C           G***  
   Don't you ever tell me love isn't true  
-             ***D         A       C  G***  
+    ***D         A       C  G***  
   It's just something that we do  
   ***D    A  C               G***  
   Tell me everything I'm not  
-       ***D          A           C  G***  
+    ***D          A           C  G***  
   But don't ever tell me to stop

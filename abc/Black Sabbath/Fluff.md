@@ -4,13 +4,13 @@ Sabbath, Bloody Sabbath (1974)
   
   *This is as complete as I could get it.*  
   *Recipe: 3 guitars*  
-          *1 piano/synth*  
-          *1 harpsichord/synth*  
-          *Detune guitars slightly (flat)*  
-          *Mix and serve.*  
+    *1 piano/synth*  
+    *1 harpsichord/synth*  
+    *Detune guitars slightly (flat)*  
+    *Mix and serve.*  
   *Key: {#} = grace note (really short)   . (below #) = staccato*  
-       *(#) = ghost note   [/] or [\] = slide      p = pull-off   h = hammer-on*  
-        *R = rest    |*---*| = repeat section*  
+    *(#) = ghost note   [/] or [\] = slide      p = pull-off   h = hammer-on*  
+    *R = rest    |*---*| = repeat section*  
   
   *Background guitar (slowly):*  
   [-----------2------------------2-------|----------2-----------------2--------|  

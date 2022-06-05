@@ -4,13 +4,13 @@ Feel
   
       ***G***  
   You feel me  
-               ***D      A     Bm***  
+    ***D      A     Bm***  
   away far too empty, oh so alone! I want to go home  
-                                       ***Em***  
+    ***Em***  
   Oh find me inside of a nocturn - the blonde  
   ***D7(+4)***  
   how I love you to be by my side  
-       ***G***  
+    ***G***  
   they wail...  
       ***E***  
   the crowd on her side  

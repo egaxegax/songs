@@ -5,7 +5,7 @@ Who knows how long I`ve loved you?
 You know I love you still.  
  G7     C      D      Em       Am  G  
 Will I wait a lonely lifetime?  
-        C       D    G    Em  Am  D  
+    C       D    G    Em  Am  D  
 If you want me to I will.  
   
     C          D     Em  

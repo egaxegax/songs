@@ -11,7 +11,7 @@ Michelle
   I love you, I love you, I love you, that's all I want to say  
   ***C7                     Fm***  
   until I find a way  
-         ***Fm     Fmmaj7 Fm7    Fm6       Bbm/F       C***  
+    ***Fm     Fmmaj7 Fm7    Fm6       Bbm/F       C***  
   I will say the only words I know that you'll understand.  
   
   *Chorus*  
@@ -28,5 +28,5 @@ Michelle
   
   ***F         Bbm7     Eb6               D0        G7-9    C      G7-9        C***  
   Michelle, ma belle sont les mots qui vont tres bien ensemble, tres bien ensemble  
-         ***F                              Bbm7       C      Fm  C  F***  
+    ***F                              Bbm7       C      Fm  C  F***  
   I will say the only words I know that you'll understand, my Michelle

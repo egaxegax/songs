@@ -17,7 +17,7 @@
   Mamas in the kitchen, Daddies on the phone  
   ***Am       Am\g  Am\f#      E7***  
   Nobody knows what's going on  
-                    ***Am             Am\g***  
+    ***Am             Am\g***  
   But I've got them. So long I'll see you  
       ***Am\f#      E7            Am  Am\g Am\f# E7***  
   My Buick's outside waiting blues  

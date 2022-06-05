@@ -45,22 +45,22 @@ Chords used:
    three.  
    of the sea"  
   
-         C5  
+    C5  
  And the music plays on as the bride passes by.  
   
  D5                                  Riff B             D5  E5  
  Caught by his spell and the mariner tells his tale.  
   
-                                                                     Riff B  
+    Riff B  
  Driven south the the land of the snow and ice to a place where nobody`s been.  
   
  E5                                          C5  
  Through the snow fog flies on the albatross hailed in God`s name,  
   
-             Riff B           E5  
+    Riff B           E5  
  hoping good luck it brings.  
   
-         C5  
+    C5  
  And the ship sails on, back to the north.  
   
  D5                                        Riff B  
@@ -146,7 +146,7 @@ Chords used:
  E5  
  And makes themselves a part of the crime.  
   
-         C5            D5  
+    C5            D5  
  Sailing on and on and on across the  
   
   
@@ -169,7 +169,7 @@ Chords used:
  E -------------------------------------------------  
    sea...                                         Sailing on and on and on...  
   
-              (Shanty B)  
+    (Shanty B)  
  `till all is calm.  
   
  E5                                          Riff B  
@@ -178,7 +178,7 @@ Chords used:
  His shipmates blame bad luck on the mariner.  
  Around his neck the dead bird is hung.  
   
-         C5                D5                  Shanty B  
+    C5                D5                  Shanty B  
  And the curse goes on and on and on at sea.  
  And the curse goes on and on for them and me.  
   

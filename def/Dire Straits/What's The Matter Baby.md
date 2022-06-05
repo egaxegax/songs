@@ -16,9 +16,9 @@ What's The Matter Baby?
   There's a shadow hanging over the valley  
   ***A#       C***  
   Total eclipse of the moon  
-                              ***A#***  
+    ***A#***  
   Closing up the gates of the city  
-                   ***Gm    A7***  
+    ***Gm    A7***  
   The wind plays a wild tune  
   
   *Verse 2:*  
@@ -26,9 +26,9 @@ What's The Matter Baby?
   Don't you put the lock upon the window  
   ***A#                C***  
   Don't you put the bar on the door  
-                        ***A#***  
+    ***A#***  
   Don't you cry for the rain in the sky  
-                  ***Gm      A7***  
+    ***Gm      A7***  
   You've seen the storm before  
   
   *(Repeat Intro.)*  
@@ -38,9 +38,9 @@ What's The Matter Baby?
   Well, what's the matter with you baby  
   ***A#               C***  
   Baby, what's the matter now  
-                                 ***A#***  
+    ***A#***  
   Tell me what's the matter your running in the shadows  
-                          ***Gm       A7***  
+    ***Gm       A7***  
   Every time you hear the wild man howl  
   
   *(Repeat chorus, intro, then chorus twice while solo is being played,*  
@@ -51,9 +51,9 @@ What's The Matter Baby?
   Lightning gonna strike at midnight  
   ***A#            C***  
   Thunder gonna shake the ground  
-                   ***A#***  
+    ***A#***  
   Don't you flinch don't give an inch  
-               ***Gm         A7***  
+    ***Gm         A7***  
   Just let the flood come down  
   
   *(Repeat chorus twice, then intro.)*  

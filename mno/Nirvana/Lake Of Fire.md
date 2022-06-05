@@ -4,7 +4,7 @@ MTV Unplugged In New York (1994)
   
   ***Gm                  F            B***  
   Where do bad folks go when they die?  
-        ***Gm                          Cm       B***  
+    ***Gm                          Cm       B***  
   They don't go to heaven where the angels fly  
     ***Gm                         F         B***  
   They go down to the lake of fire and fry  
@@ -15,7 +15,7 @@ MTV Unplugged In New York (1994)
   I knew a lady who came from duluth  
       ***Dm                       A***  
   She got bit by a dog with a rabid tooth  
-       ***Dm                       B***  
+    ***Dm                       B***  
   She went to her grave just a little too soon  
   ***C                                 Dm         Dsus2***  
   And she flew away howling on the yellow moon  

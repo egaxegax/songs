@@ -7,29 +7,29 @@ D|-0-|-2-|--0--|
 A|-x-|-2-|--x--|  
 E|-x-|-0-|--x--|  
   
-                                D*  
+    D*  
 I thought I?d take a walk today  
-                                Em  
+    Em  
 It?s a mistake I sometimes make  
-                          Em7 D  
+    Em7 D  
 The kids lay asleep in be-ed  
-                     D6* Em  
+    D6* Em  
 My wife lay wide-awake  
-                                Em7 D  
+    Em7 D  
 I kissed her softly on the bro-ow  
-                          D6* Em  
+    D6* Em  
 I tried not to make a sound  
-                                   Em7 D  
+    Em7 D  
 But with stony eyes she looked at me  
-                          D6* Em  
+    D6* Em  
 And gently squeezed my hand  
-                 (Em7) D                    (D6*) Em  
+    (Em7) D                    (D6*) Em  
 Call it a premonition,   call it a crazy vision  
-             (Em7) D                                (D6*) Em  
+    (Em7) D                                (D6*) Em  
 Call it intuitio-o-on, something learned from mother  
-                          Em7 D                   (D6*) Em  
+    Em7 D                   (D6*) Em  
 But when she looked up at me,     I could clearly see  
-                  Em7 D                   (D6*) Em  
+    Em7 D                   (D6*) Em  
 The Sword of Damocles   hanging directly above her  
     D          Em  
 Oh Lord Oh my Lord  
@@ -41,7 +41,7 @@ How have I offended thee?
 Wrap your tender arms around me  
     G       D  
 Oh Lord Oh Lord  
-       Em    D    Em  
+    Em    D    Em  
 Oh My Lo-o-o-ord  
   
 They called at me through the fence  

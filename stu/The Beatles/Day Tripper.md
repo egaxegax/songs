@@ -16,12 +16,12 @@ Got a good reason
      E7  
 For taking the easy way out now  
   
-           F#  
+    F#  
 She was a day____ tripper  
 A one way ticket yeah  
-           A7      G#7         C#  
+    A7      G#7         C#  
 It took me so____ long to find out  
-            B  
+    B  
 But I found out  
   
 She?s a big teaser  

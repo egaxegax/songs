@@ -5,20 +5,20 @@ Be mine tonight
   
    ***C  Em     F***  
   Be mine tonight,  
-          ***G                     C***  
+    ***G                     C***  
   We'll travel through all our memories,  
-         ***Am           D7       G***  
+    ***Am           D7       G***  
   In our own little space in time,  
-         ***Am D7        G***  
+    ***Am D7        G***  
   You've always been mine...  
   
      ***C     Em  F***  
   Through the years,  
   ***G                   C***  
   I feel your love beside me  
-               ***Am      D7       G***  
+    ***Am      D7       G***  
   Through the laughter and the tears,  
-          ***Am        D7      G***  
+    ***Am        D7      G***  
   You've conquered all my fears...  
   
   ***F         G***  

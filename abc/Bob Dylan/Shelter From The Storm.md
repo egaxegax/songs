@@ -46,7 +46,7 @@ I [E]bargained for sal[B]vation an' they[A] gave me a lethal�
 I[E] offered up my [B]innocence and[A] got repaid with scorn.  
 "Come[E] in," she said, "I'll[B] give you [A]shelter from the[E] storm."  
   
-        [E]                 [B]             [A]                [E]  
+    [E]                 [B]             [A]                [E]  
 Well, I'm livin' in a foreign country but I'm bound to cross the line  
 [E]Beauty walks a[B] razor's edge, some[A]day I'll make it mine.  
 If I could[E] only turn[B] back the clock to when[A] God and her were born.  

@@ -28,7 +28,7 @@ Chorus:  Words that never were true
   Spoken to help nobody but you  
    ***F#         B      F#***  
   Words with lies inside  
-        ***B              F#             B            D#***  
+    ***B              F#             B            D#***  
   But small enough to hide 'til your playing was through  
   
   *repeat intro riff, 1X*  

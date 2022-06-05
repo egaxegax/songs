@@ -5,24 +5,24 @@ Intro: C
   
      C          G            F        C  
 I remember you well in the Chelsea Hotel  
-                      G            Am  
+    G            Am  
 You were talking so brave and so sweet  
  C         G          F       C  
 Giving me head on the unmade bed  
-           F                        G  
+    F                        G  
 While the limousines wait in the street  
   Am                         F  
 Those were the reasons and that was New York  
-         C               E/b            Am  
+    C               E/b            Am  
 We were running for the money and the flesh  
       F                           C  
 And that was called love for the workers in song  
-           F                         G  
+    F                         G  
 Probably still is for those of them left  
   
-        F             C  
+    F             C  
 Ah but you got away, didn't you babe  
-                      E/b          Am  
+    E/b          Am  
 You just turned your back on the crowd  
  F                          C  
 You got away, I never once heard you say  
@@ -49,13 +49,13 @@ I need you, I don't need you
 I need you, I don't need you  
 And all of that jiving around  
   
-         C          G                      F      C  
+    C          G                      F      C  
 I don't mean to suggest that I loved you the best  
-                      G            Am  
+    G            Am  
 I can't keep track of each fallen robin  
      C          G            F        C  
 I remember you well in the Chelsea Hotel  
-       F                                   G  
+    F                                   G  
 That's all, I don't even think of you that often  
   
   

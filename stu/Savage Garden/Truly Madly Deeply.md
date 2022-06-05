@@ -16,13 +16,13 @@ Truly Madly Deeply
   A reason for living.  
   ***F                   G***  
   A deeper meaning.  
-            ***C                   G***  
+    ***C                   G***  
   I want to stand with you on a mountain.  
-            ***F                     G***  
+    ***F                     G***  
   I want to bathe with you in the sea.  
-            ***C             G***  
+    ***C             G***  
   I want to lay like this forever.  
-            ***F                 G***  
+    ***F                 G***  
   Until the sky falls down on me...  
   ***C                                 G***  
   And when the stars are shining brightly in the velvet sky,  
@@ -46,7 +46,7 @@ Truly Madly Deeply
   ***F          G***  
   All that you need will surely come...  
   
-                ***C           G            F             G                                   C***  
+    ***C           G            F             G                                   C***  
   [e|-----7-8-10-|12-12-12--7|8-7--------|-----8-------|---------------5-5--7--8--7--8-10|-10/12|  
   B|8-10--------|-----------|----10-8-8-|-6-8---------|8-6-5----5-6-8---8---------------|------|  
   G|------------|-----------|-----------|--------5----|------7-7------------------------|------|  
@@ -83,13 +83,13 @@ Verse 1: I'll be your dream I'll be your wish I'll be yo
   ***F                   G***  
   A deeper meaning  
   
-            ***C                     G***  
+    ***C                     G***  
 Chorus:  I want to stand with you on a mountain  
-            ***F                      G***  
+    ***F                      G***  
   I want to bathe with you in the sea  
-            ***C               G***  
+    ***C               G***  
   I want to lay like this forever  
-            ***F                  G***  
+    ***F                  G***  
   Until the sky falls down on me  
   
 Verse 2: And when the stars are shining brightly in the velvet sky,  
@@ -175,7 +175,7 @@ Solo 1:  [e|---------7-8-10--10/12-12-12-12-----7-8-7h8p7-----------------
   ||--2---0----3----0---------  
   ||--0---2----x----2---------  
   ||------3----1----3---------  
-               *|-Let Ring  |-             |-           |-*  
+    *|-Let Ring  |-             |-           |-*  
   ||-----------3--------------------------3----------------------  
   ||-----------1-----------3--------------1------------3---------  
   ||-------0---------------0-----------2---------------0---------  

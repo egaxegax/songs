@@ -1,7 +1,7 @@
 <!--2020-09-05 04:20:12-->
 Dm  
 A heart that?s full up like a landfill  
-                  A#  
+    A#  
 A job that slowly kills you  
 C  
 Bruises that won?t heal  

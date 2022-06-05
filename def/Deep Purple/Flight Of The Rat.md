@@ -17,11 +17,11 @@
   She didn't want to know  
   She wouldn't see the show  
   ****E     E    E     E   D   A***     Chord Prograssion 2 (CP2)*  
-                 What a fright  
+    What a fright  
   ***E     E    E     E       D     A***  
-                 I couldn't do it right  
+    I couldn't do it right  
   ***E     E    E     E     D    A***  
-                 Oh what a night  
+    Oh what a night  
   
 Riff A:  [e----------------------------------------------------------------------------  
   b-----------------------------3-2h3h4/5--------------------------------------  

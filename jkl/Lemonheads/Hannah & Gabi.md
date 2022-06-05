@@ -4,7 +4,7 @@
   
   *The "***D Am G***"-parts are probably played like this:*  
   *(NB! This representation does not reflect the rhythm of the strokes)*  
-       ***D                 Am                G***  
+    ***D                 Am                G***  
   [E--0-----5---0--0--0---0----7---0--0--0--3-  
   B--3/7---7---7--7--7---0----0---0--0--0--0-  
   G--3/7---7---7--7--7---5----5---5--5--5--0- ....  
@@ -34,7 +34,7 @@
   I'm out wandering around  
   ***D      Am                 G***  
   kinda hoped you wouldn't blame me  
-                    ***D    Am               G***  
+    ***D    Am               G***  
   I can't wake up every day and find the same me  
   ***D        Am                   G***  
   you can scream but I'll just dream how you might disappear  
@@ -119,7 +119,7 @@
   
 -  
   
-       ***D                 Am               G***  
+    ***D                 Am               G***  
   [E--0-----5---0--0--0---0---7---0--0--0--3-  
   B--3/7---7---7--7--7---0---0---0--0--0--0-  
   G--3/7---7---7--7--7---5---5---5--5--5--0-  

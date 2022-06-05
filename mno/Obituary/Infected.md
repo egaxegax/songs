@@ -35,7 +35,7 @@
   D:-4-------------------4/5---------------6--|  
   A:-2-------------4/5---2/3---5\4---------4--|  
   E:---0-0-0-0-0-0-2/3-0-----0-3\2-0-0-0-0----|]  
-       *x x x x x x     x     x     x x x x*  
+    *x x x x x x     x     x     x x x x*  
   *Riff D:*  
   [e:-------------------------------------------------------|  
   b:-------------------------------------------------------|  
@@ -70,7 +70,7 @@
   D:-4--5------------------3--4-----------------|  
   A:-2--3------3-------4---1--2------3-------4--|  
   E:-------0-0-1---0-0-2---------0-0-1---0-0-2--|]  
-           *x x     x x           x x     x x*  
+    *x x     x x           x x     x x*  
   
   *INFECTED - Structure:*  
   *** Introduction:*  
@@ -95,7 +95,7 @@
   *Riff E x 2*  
   *Riff G x 4 (Sorry!  8(  )*  
   *Riff H x Lots!  (Keep playing until end.. Fade out)*  
-                  *(Lead break starts after the first 8)*  
+    *(Lead break starts after the first 8)*  
   
   *Thats it!! Sorry about Riff G, but I don't have a Guitar or an overly musical*  
   *ear to transcribe it.. Besides it sounds pretty simple..*  
@@ -111,24 +111,24 @@
   *** First Verse:*  
   I believe below  ("Rhye believe below??")  (Who knows!)  
   we're getting the destiny  
-                  /My rotting soul  
+    /My rotting soul  
   we pray it hides the soul  
   Living life will fall.  
-                  /Aaaarrggghhhh!!  
+    /Aaaarrggghhhh!!  
   The killing is anylee (?)  
   We're checking out to die  
-                  /The other side  
+    /The other side  
   We pray it hides the world  
-                  /Aaarrggghhhhhh!!! (Again!)  
+    /Aaarrggghhhhhh!!! (Again!)  
   Living is only.. Live...  
   
   *** Second Verse:*  
   You love the soul  
   we're giving one to say  
-                  /I love the soul  
+    /I love the soul  
   we're dying now in pain  
   we're giving the soul  
-                  /Aaaaarrrrggghhhh!!  
+    /Aaaaarrrrggghhhh!!  
   
   *** Chorus: (This was Easy!!)*  
   Kil-ling  
@@ -144,7 +144,7 @@
   Peal-ling  
   Rid you of your skin  
   Infected  
-          /Infected  
+    /Infected  
   Com-ing  
   Soon the end of life  
   Dy-ing  

@@ -3,15 +3,15 @@ The day before you came
   
     ***Em                                                 B7***  
   I must have left my house at eight because I always do  
-                                                           ***Em***  
+    ***Em***  
   My train I'm certain left the station just when it was due  
-                                                 ***D***  
+    ***D***  
   I must have read the morning paper going into town  
-                                                                  ***G***  
+    ***G***  
   And having gotten through the editorial no doubt I must have frowned  
-                                                   ***D7***  
+    ***D7***  
   I must have made my desk around a quarter after nine  
-                                                              ***G***  
+    ***G***  
   With letters to be read and heaps of papers waiting to be signed  
      ***C***  
   I must have gone to lunch  
@@ -19,7 +19,7 @@ The day before you came
   at half past twelve or so The usual place the usual bunch  
       ***Am7                                                B7***  
   And still on top of this I'm pretty sure it must have rained  
-                      ***Em***  
+    ***Em***  
   The day before you came  
   I must have lit my seventh cigarette at half past two  
   And at the time I never even noticed I was blue  
@@ -49,8 +49,8 @@ The day before you came
   ***E Cdim Adim B7_ E Edim Em B7 Em  x2 (*)***  
   
   *(*) Use these chords:*  
-        [E  A  D  G  B  E]  
-       [-----------------]  
+    [E  A  D  G  B  E]  
+    [-----------------]  
   ***Cdim [|8  9 10  8 11  8]***  
   ***Adim [|5  6  7  5  8  5]***  
   ***Edim [|0  1  2  0  3  0]***  

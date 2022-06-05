@@ -29,7 +29,7 @@
   *Verse 2: this is a stretch but it was as close as I came*  
    ***Em                     D***  
   So I started writing you this song  
-              ***G***  
+    ***G***  
   But the words came out all wrong  
      ***C#m          Bm***  
   Yeah, but it's alright  

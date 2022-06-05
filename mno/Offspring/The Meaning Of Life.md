@@ -46,7 +46,7 @@ Ixnay On The Hombre (1997)
   D-----------------------------------------------------  
   A--5*--------8888-8---------------8------8-----8  
   E-----6*--8*----------8---6*-8*------8------8]  
-                                         *("thanks but no thanks" part)*  
+    *("thanks but no thanks" part)*  
   *Back to intro*  
   *Verse*  
   *Chorus*  

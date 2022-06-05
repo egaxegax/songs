@@ -3,13 +3,13 @@ Bell Bottom Blues
   
   ***(B C D) C E7 Am C F G F G***  
   
-              ***C         E7      Am  C***  
+    ***C         E7      Am  C***  
   Bell Bottom Blues you made me cry  
-                ***F                 G F G***  
+    ***F                 G F G***  
   I don't wanna lose this feeling  
-                 ***C        E7       Am  C***  
+    ***C        E7       Am  C***  
   And if I could choose a place to die  
-              ***F            G***  
+    ***F            G***  
   It would be in your arms  
   
   ***A                   Am7              F#m           D E***  
@@ -21,26 +21,26 @@ CHORUS:  Do you wanna see me crawl across the floor to y
   ***A               Am7   A7   D               E            F G***  
   I don't want to fade away, in your heart I long to stay  
   
-           ***C          E7       Am     C***  
+    ***C          E7       Am     C***  
   It's all wrong, but it's all right  
-                   ***F             G F G***  
+    ***F             G F G***  
   The way that you treat me baby  
-             ***C             E7       Am      C***  
+    ***C             E7       Am      C***  
   Once I was strong, but I lost the fight  
-                   ***F             G***  
+    ***F             G***  
   You won't find a better loser  
   
   *CHORUS*  
   *LEAD*  
   *CHORUS*  
   
-              ***C           E7       Am   C***  
+    ***C           E7       Am   C***  
   Bell Bottom Blues don't say good-bye  
-                     ***F           G F G***  
+    ***F           G F G***  
   We're surely gonna meet again  
-            ***C         E7    Am      C***  
+    ***C         E7    Am      C***  
   And if we do, don't be surprised  
-                       ***F            G***  
+    ***F            G***  
   If you find me with another lover  
   
   *CHORUS*  

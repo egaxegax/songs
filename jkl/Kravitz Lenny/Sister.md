@@ -47,14 +47,14 @@
   *At the end of the second verse, the ***E***-***A***-***B*** to ***G*** continues*  
   *through that long instrumental part, until you get to the*  
   *Bridge:*  
-            ****F***----------------***C***-----------------***G***-------See Below*  
+    ****F***----------------***C***-----------------***G***-------See Below*  
   If they   Knock on your    Door...    You    Already gave  
-                                    :*) Trust me--&gt;)  [|--0  
-                                                      |--3  
-                                                      |--4  
-                                                      |--5  
-                                                      |---  
-                                                      |---]  
+    :*) Trust me--&gt;)  [|--0  
+    |--3  
+    |--4  
+    |--5  
+    |---  
+    |---]  
       ****F***-------------***C***--------------***G***---------------STAY ON ***G****  
   You Don't need no more of what's ailing ya'  
   *(Repeat for next part of bridge)*  
@@ -87,7 +87,7 @@
   America....  
   Sister, sister,sister,sister... It's just a test of faith  
   Your heart is pure, so the devil's in your face  
-             .....I'll see you soon  
+    .....I'll see you soon  
   Cause they haven't got a case  
   And you'll be free, in a beautiful place  
   In a beautiful place....  

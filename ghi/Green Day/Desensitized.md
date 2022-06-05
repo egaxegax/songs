@@ -8,21 +8,21 @@ Desensitized
   ***G C G } x6***  
   
   *(Verse)*  
-                          ***G C G***  
+    ***G C G***  
   Clenching my teeth tight  
-                          ***G C G***  
+    ***G C G***  
   My head is like a sponge  
-                          ***G C G***  
+    ***G C G***  
   Give it to me free  
   
   *(Pre-Chorus)*  
-                     ***E***  
+    ***E***  
   I wanna get ripped off  
       ***G***  
   And drown in the airwaves  
-                  ***E***  
+    ***E***  
   Another fatal wreck  
-         ***G***  
+    ***G***  
   On the Information highway  
   
   *(Chorus)*  
@@ -32,9 +32,9 @@ Desensitized
   It all amuses me  
       ***C                 G***  
   For I'll be damned to spend  
-       ***F***  
+    ***F***  
   My life in hell  
-                       ***G C G***  
+    ***G C G***  
   Another wise ingrate  
   
   Bring me blood and pain  

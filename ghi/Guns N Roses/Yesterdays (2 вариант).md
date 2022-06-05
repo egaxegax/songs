@@ -9,7 +9,7 @@ A|----------------------------------3----------------------|
 E|---------------------------------------------------------|  
   
 Chords:  Cadd2=> x32030 and  
-            G5=> 3x0033  
+    G5=> 3x0033  
   
 The song goes like this  
 2x Rhythm Figure A  
@@ -31,7 +31,7 @@ Time just fades the pages in my book of memories.
 (Insert Verse 2)  
   
 Chorus (underline indicates drag out the word,  
-        C5 is just power chord on 3rd fret):  
+    C5 is just power chord on 3rd fret):  
   
 A               B   C5                              G5  
 Ooh,____________yesterday`s_ got nothin` for me._______  

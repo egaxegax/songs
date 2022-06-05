@@ -22,11 +22,11 @@ Definitely Maybe (1994)
   
   ***A                    C#m              D                E***  
 Verse/Chorus: What a life it would be, If you could come to mine for tea,  
-                ***Dsus2           E7               D7     A  Asus4  A***  
+    ***Dsus2           E7               D7     A  Asus4  A***  
   I'll pick you up at half past three we'll have lasaaaagne.  
   ***A                    C#m              D                E***  
   I'll Treat you like a queen, feed you strawberries and cream,  
-            ***Dsus2               E7              D7   A  Asus4  A***  
+    ***Dsus2               E7              D7   A  Asus4  A***  
   Then your friends will all go green from my lasaaaagne.  
   *Bridge*  
   ***F#                                  A     Asus4   A  Asus4   A***  
@@ -111,11 +111,11 @@ Verse/Chorus: What a life it would be, If you could come t
   *Verse*  
   ***A2       C#7       D         E***  
   What a life it would be, if you could come to mine for tea  
-                ***Dsus2       E7           D7    A***  
+    ***Dsus2       E7           D7    A***  
   I'll pick you up at half past three, we'll have lasagne  
   ***A2        C#7   D      E***  
   I'll treat you like a queen, I'd feed you strawb'ries and cream,  
-         ***Dsus2    E7          D7  A***  
+    ***Dsus2    E7          D7  A***  
   And then your friends will all go green for my lasagne  
   
   *Chorus*  
@@ -127,7 +127,7 @@ Verse/Chorus: What a life it would be, If you could come t
       D---2-----------4--2--4--2---  
       A---0--------0--0--0--0--0---  
       E----------------------------]  
-        ***Bm     C#7***  
+    ***Bm     C#7***  
   But I don't think we've been livin' very wise  
   She said oh no no  
   *REPEAT VERSE*  
@@ -193,7 +193,7 @@ Intro:  ***Ab Cm? D E Dsus2 E7 D7 A A?***
   
   ***Ab         Cm?  D  E***  
   What a life it would be, if you could come to mine for tea,  
-         ***Dsus2  E7    D7     A A?***  
+    ***Dsus2  E7    D7     A A?***  
   I'll pick you up at half past three, we'll have lasagne,  
   ***Ab         Cm?   D      E***  
   I'll treat you like a queen,  I'd feed you strawberrys and cream,  
@@ -206,7 +206,7 @@ Intro:  ***Ab Cm? D E Dsus2 E7 D7 A A?***
   She said oh no no no,  
   ***Ab   Cm?           D   E***  
   What a life it would be, if you could come to mine for tea,  
-         ***Dsus2  E7     D7     A A?***  
+    ***Dsus2  E7     D7     A A?***  
   I'll pick you up at half past three, we'll have lasagne,  
   ***Ab   Cm? D       E***  
   I'll treat you like a queen,  I'd feed you strawberrys and cream,  

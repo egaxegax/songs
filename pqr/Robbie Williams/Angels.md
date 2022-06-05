@@ -18,15 +18,15 @@
   
 Intro:  ***E|E***  
   
-             ***|E             |             |A     C#m***  
+    ***|E             |             |A     C#m***  
 (1)  I sit and wait. Does an angel contemplate my fate.  
   ***|B              |E            |                            |A C#m|***  
   And do they know the places where we go when we're grey and old.  
   ***|B              |A                 |           |C#m         |A***  
   Cuz I have been told that salvation lets their wings unfold.  
-               ***|D***  
+    ***|D***  
   So when I'm lying in my bed,  
-           ***|A***  
+    ***|A***  
   thoughts running through my head,  
       ***|E***  
   and I feel that love is dead.  
@@ -35,13 +35,13 @@ Intro:  ***E|E***
   
   ***(E)            |B                    |C#m***  
 Chorus:  And through it all she offers me protection, a lot of  
-              ***|A                              |E***  
+    ***|A                              |E***  
   love and affection, whether I'm right or wrong.  
-                  ***|B                       |C#m***  
+    ***|B                       |C#m***  
   And down the waterfall wherever it may take me,  
-                        ***|A***  
+    ***|A***  
   I know that life won't break me.  
-                 ***|G#m                |F#m***  
+    ***|G#m                |F#m***  
   When I come to call, she won't forsake me.  
   ***|D           A      |E   |NC    |***  
   I'm loving angels instead.  
@@ -52,7 +52,7 @@ Chorus:  And through it all she offers me protection, a lo
   I look above and I know I'll always be blessed with love.  
   ***|B     |D                    |A***  
   And as the feeling grows she breathes flesh to my bones  
-           ***|E            |D        A        |E       |E      |***  
+    ***|E            |D        A        |E       |E      |***  
   and when love is dead, I'm loving angels instead.  
   
   *Chorus*  

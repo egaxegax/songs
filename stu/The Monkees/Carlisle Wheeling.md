@@ -11,11 +11,11 @@ Carlisle Wheeling
   When I poured through the files taken off my mental shelf  
     ***F               Fm          C***  
   I dusted off some memories of you  
-         ***Em                          Am***  
+    ***Em                          Am***  
   Then I thought about the time when our affair was green  
-          ***Em                        Am***  
+    ***Em                        Am***  
   How the phoenix of our love first flapped its silken wings  
-          ***F           G               C       Em     A***  
+    ***F           G               C       Em     A***  
   All the urgency and passion of each new day as it happened  
       ***F          G              C***  
   And how it all mellowed as it grew

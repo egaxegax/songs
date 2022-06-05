@@ -32,10 +32,10 @@ July Morning
   A-------------I------------------I-------------I-------------------I  
   E-------------I------------------I-------------I-------------------I]  
   
-                                           *I- bend this note one tone up*  
-                                           *I  and graduly return to its normal*  
-                                           *I  pitch (***A***--&gt;***G***) - fast downstrokes*  
-                                           *V*  
+    *I- bend this note one tone up*  
+    *I  and graduly return to its normal*  
+    *I  pitch (***A***--&gt;***G***) - fast downstrokes*  
+    *V*  
   [E----11---11----11---11-I---13-12------I-15-15-15-15-15-15-15-15-15-15-15-I  
   B-13---13----13----13---I-13-------13~-I----------------------------------I  
   G-----------------------I--------------I----------------------------------I  
@@ -75,8 +75,8 @@ July Morning
   A---6---I---5---I--6--8--I-------------I  
   E---6---I---3---I--4--6--I-8-7-6-5-4-3-I]  
   With the day  
-          came the resolution  
-                            I'll be looking for you.  
+    came the resolution  
+    I'll be looking for you.  
      ***D#5     G5     G#5 A#5    C5***  
   [E-------I-------I--------I-------I  
   B-------I-------I--------I-------I  
@@ -184,7 +184,7 @@ July Morning
   D|-------------------------------------------------|  
   A|-------------------------------------------------|  
   E|-------------------------------------------------|  
-                                               ***C***  
+    ***C***  
   E|-15b17-15b17-15b17-15b17-15b17-15b17----------|  
   B|-------------------------------------16-15-13-|  
   G|----------------------------------------------|  
@@ -199,7 +199,7 @@ verse:  There I was on a July morning
   ***Bb           Cm***  
   Looking for love  
   With the strength  
-        ***Fm***  
+    ***Fm***  
   Of a new day dawning  
   ***Bb                 Cm***  
   And the beautiful sun  
@@ -213,13 +213,13 @@ verse:  At the sound
   
   ***Eb            Gm                Ab-Bb***  
 Chorus:  With the day came the resolution  
-                       ***Cm***  
+    ***Cm***  
   I'll be looking for you  
   ***Eb***  
   La la la la  
   ***Gm          Ab-Bb***  
   La la la la  
-         ***Cm - Fm - Bb***  
+    ***Cm - Fm - Bb***  
   La la laaaaaaa  
   
 verse:  I was looking for love  

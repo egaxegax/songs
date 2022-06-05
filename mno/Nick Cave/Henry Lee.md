@@ -5,12 +5,12 @@ Am - arpeggio for intro
 Am  
 Get down get down little Henry Lee  
   
-                        Dm  
+    Dm  
 And stay all night with me  
   
 You won't find a girl in this damned world  
   
-                       Am  
+    Am  
 That will compare with me  
   
 Am      G  

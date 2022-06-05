@@ -9,7 +9,7 @@ Intro:       ***Em         Em***
   D----2------2-------------2---|----2------2--------------2---|  
   A-----------------------------|------------------------------|  
   E-----------------------------|------------------------------|  
-       ***Am         C***  
+    ***Am         C***  
   e-----------------------------|------------------------------|  
   B-----------------------------|------------------------------|  
   G-------0-------2-----0-------|-------0--------2-2---0-------|  
@@ -17,19 +17,19 @@ Intro:       ***Em         Em***
   A-----------------------------|------------------------------|  
   E-----------------------------|------------------------------|]  
   
-            ***Em             Em***  
+    ***Em             Em***  
 Verse 1: There be times when my crimes  
-          ***C              D***  
+    ***C              D***  
   will seem almost unfor-giveble  
-          ***Em    Em***  
+    ***Em    Em***  
   I give in to sin  
-                ***C                      D***  
+    ***C                      D***  
   becourse you have to make this life liveble  
-                ***Em                        Em***  
+    ***Em                        Em***  
   But when you think I've had enough from your sea of love  
-       ***C                        D***  
+    ***C                        D***  
   I'll take more than another riverfull  
-          ***Em           D         Em***  
+    ***Em           D         Em***  
   Yes and I'll make it all worth-while  
   ***C              D***  
   I'll make your heart smile  
@@ -49,7 +49,7 @@ Chorus:  Strangelove strange highs and strange lows
   ***G***  
   again and again  
   ***C     D        Em + intro***  
-        *and will you return it*  
+    *and will you return it*  
   [e-----------------------------|------------------------------|  
   B-----------------------------|------------------------------|  
   G-------0-------2-----0-------|-------0--------2-2---0-------|  
@@ -64,27 +64,27 @@ Chorus:  Strangelove strange highs and strange lows
   A-----------------------------|------------------------------|  
   E-----------------------------|------------------------------|]  
   
-               ***Em***  
+    ***Em***  
 Verse 2: There'll be days  
-             ***Em***  
+    ***Em***  
   When I'll stray  
-        ***C***  
+    ***C***  
   I may appear to be  
-           ***D***  
+    ***D***  
   Constantly out of reach  
-          ***Em***  
+    ***Em***  
   I give in  
      ***Em***  
   to sin  
-             ***C                       D***  
+    ***C                       D***  
   Because I like to practice what I preach  
-          ***Em***  
+    ***Em***  
   I'm not trying to say  
-                ***Em***  
+    ***Em***  
   I'll have it all my way  
-              ***C***  
+    ***C***  
   I'm always willing to learn  
-                   ***D***  
+    ***D***  
   When you've got something to teach  
       ***Em            D         Em***  
   And I'll make it all worth-while  

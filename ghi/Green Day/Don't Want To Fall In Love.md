@@ -21,7 +21,7 @@ Verse 1: Don't want to have you hangin
       ***A                              E***  
   And I wanna sit here all my life alone  
   
-       ***B                  A***  
+    ***B                  A***  
 Chorus:  This may sound a little rough  
   *(No Chords)         ***E****  
   Don't wanna fall in love  

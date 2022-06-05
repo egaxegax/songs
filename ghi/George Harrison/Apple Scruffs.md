@@ -4,38 +4,38 @@ All things must pass
   
   ***A  /  E  /  A  /  E  /  F#m  /  E  /  F#m  /  E  /  F#m  /  E  /***  
   ***A  /  E  /  A  /  E  /***  
-             ***A                  Bm              A               Bm***  
+    ***A                  Bm              A               Bm***  
   Now I've watched you sitting there, seen the passers-by all stare  
-           ***F#m              B7***  
+    ***F#m              B7***  
   Like you have no place to go  
-               ***D                  B7                 A  /  E  /  A  /  E  /***  
+    ***D                  B7                 A  /  E  /  A  /  E  /***  
   But there's so much they don't know about Apple Scruffs  
-                ***A               Bm              A                    Bm***  
+    ***A               Bm              A                    Bm***  
   You've been stood around for years, seen my smiles and touched my tears  
-           ***F#m               B7***  
+    ***F#m               B7***  
   How it's been a long long time  
-            ***D                B7              A  /  E  /  A  /  /  /***  
+    ***D                B7              A  /  E  /  A  /  /  /***  
   And how you've been on my mind my Apple Scruffs  
-         ***B7  A          B7  A         F#m              B7***  
+    ***B7  A          B7  A         F#m              B7***  
   Apple Scruffs, Apple Scruffs, how I love you, how I love you  
   ***A  /  E  /  A  /  E  /  F#m  /  E  /  F#m  /  E  /  F#m  /  E  /***  
   ***A  /  E  /  A  /  E  /  F#m  /  E  /  F#m  /  E  /  F#m  /  E  /***  
   ***A  /  E  /  A  /  E  /***  
-          ***A              Bm                 A                Bm***  
+    ***A              Bm                 A                Bm***  
   In the fog and in the rain, through the pleasures and the pain  
-         ***F#m                B7***  
+    ***F#m                B7***  
   On the step outside you stand  
-              ***D              B7              A  /  E  /  A  /  E  /***  
+    ***D              B7              A  /  E  /  A  /  E  /***  
   With your flowers in your hand my Apple Scruffs  
-              ***A                 Bm            A                Bm***  
+    ***A                 Bm            A                Bm***  
   While the years they come and go, now your love must surely show me  
-          ***F#m                B7***  
+    ***F#m                B7***  
   That beyond all time and space  
-           ***D              B7              A  /  E  /  A  /  E  /***  
+    ***D              B7              A  /  E  /  A  /  E  /***  
   We're together face to face my Apple Scruffs  
   ***A  /  E  /  A  /  E  /  A  /  E  /  A  /  E  /  A  /***  
   ***E  /  /  /  E  /  /  /  E  /  /  /  A  /***  
-         ***B7  A          B7  A         F#m              B7***  
+    ***B7  A          B7  A         F#m              B7***  
   Apple Scruffs, Apple Scruffs, how I love you, how I love you  
   ***A  /  E  /  A  /  E  /  F#m  /  E  /  F#m  /  E  /  F#m  /  E  /***  
   ***A  /  E  /  A  /  E  /***  
@@ -44,22 +44,22 @@ All things must pass
   
   ***A E A E F#m7 E F#m7 F#m7 E A E A E***  
   
-              ***A                   Bm7***  
+    ***A                   Bm7***  
   Now I've watched you sitting there  
-              ***A             Bm7***  
+    ***A             Bm7***  
   Seems the passers by all stare  
-             ***F#m7           F#m6***  
+    ***F#m7           F#m6***  
   Like you have no place to go  
-               ***F#m7               F#dim              A   E  A E***  
+    ***F#m7               F#dim              A   E  A E***  
   But they're so much they don't know 'bout Apple scruffs  
   You've been stood around for years  
   Seen my smiles and touched my tears  
   Now it's been a long, long time              ***A  E  A  A7***  
   And how you've been on my mind my Apple scruffs  
   
-          ***F#dim A       F#dim A***  
+    ***F#dim A       F#dim A***  
 CHORUS:  Apple scruffs, Apple scruffs  
-           ***F#m7          B7***  
+    ***F#m7          B7***  
   How I love you, how I love you  
   
   ***A E A E F#m7 E F#m7 E F#m7 E A E A***  

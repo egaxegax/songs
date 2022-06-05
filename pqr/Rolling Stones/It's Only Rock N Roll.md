@@ -17,21 +17,21 @@ If I cried?
   
 CHORUS  
   
-         A                                        E  
+    A                                        E  
    I said I know... it`s only rock and roll, but I like it  
    A  
    I know... it`s only rock and roll,  
-         E        D        A     E  
+    E        D        A     E  
    but I like it, like it, yes I do  
-           A  
+    A  
    Oh well I like it  
      E  
    I like it  
      A  
    I like it  
-          D         A  
+    D         A  
    I said can`t you see  
-        D        A              E  
+    D        A              E  
    that this old boy has been a-lonely  
   
 E  
@@ -39,7 +39,7 @@ If I could stick a knife in my heart
 Suicide right on the stage  
 Would it be enough for your teenage lust  
 Would it help to ease the pain?  
-          A G E  
+    A G E  
 Ease your brain?  
   
 E  

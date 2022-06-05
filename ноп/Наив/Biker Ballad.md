@@ -19,11 +19,11 @@
   
   ***Am               E                  Am***  
   Don't touch it! Don't you touch my bike!  
-                  ***E***  
+    ***E***  
   Don't touch it!  
   ***G                E                  Am***  
   Don't touch it! Don't you touch my bike!  
-                     ***G***  
+    ***G***  
   It's the only thing I like!  
   
   Don't touch it! Don't you touch my bike!  

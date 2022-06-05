@@ -23,29 +23,29 @@ Down on the upside(96)
   In clusters of the mice  
       ***G7***  
   The smoke is our eyes  
-       ***E9***  
+    ***E9***  
   Like babies on display  
-       ***G7***  
+    ***G7***  
   Like angles in a cage  
     ***Bb***  
   I must be pure and true  
     ***C***  
   I must contain my views  
-        ***E9***  
+    ***E9***  
   There must be something else  
   There must be something good  
   *(Chorus)*  
       ***D   F#***  
   Far away  
-         ***G   Bb***  
+    ***G   Bb***  
   Far away from here  
       ***D   F#***  
   Far away  
-         ***G   Bb***  
+    ***G   Bb***  
   Far away from here  
       ***D   F#***  
   Far away  
-         ***G   Bb***  
+    ***G   Bb***  
   Far away from here  
       ***D   F#***  
   Far away  

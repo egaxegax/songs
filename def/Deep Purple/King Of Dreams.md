@@ -15,11 +15,11 @@
   A shadow in the night, pure delight  
   ***Em7  D/F#          A               Am***  
   I can satisfy your every need  
-        ***Em       C              Am      D***  
+    ***Em       C              Am      D***  
   I'm a real smooth dancer, I'm fantasy man  
   ***Em          C             Am          D***  
   Master of illusion, magic touch in my hand  
-          ***Em         C            Am        D***  
+    ***Em         C            Am        D***  
   All the stages are empty when I steal the scenes  
   
   ***Em          C     Am          D      Em***  

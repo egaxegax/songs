@@ -5,7 +5,7 @@ Again
   
      ***Am       C                    G***  
   I see you turn your back on again  
-           ***Am        C                           G***  
+    ***Am        C                           G***  
   And I see you stumbling down this road again  
     ***F     C                          G***  
   I feel despair kissing our lips again  

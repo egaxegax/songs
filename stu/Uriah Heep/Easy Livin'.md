@@ -9,7 +9,7 @@ Easy Livin'
   This is a place I've never been before, and I've been forgiven  
   ***G     Dm             G       Dm***  
   Easy livin and I've been forgiven  
-                ***G           F           Dm***  
+    ***G           F           Dm***  
   Since you've taken your place in my heart  
   *(Guitar break in ***Dm***)*  
   [E|----------------------------------------|  
@@ -24,14 +24,14 @@ Easy Livin'
   Day after day on the windy road I had walked behind ya'  
   ***G     Dm             G       Dm***  
   Easy livin and I've been forgiven  
-                ***G           F          Dm***  
+    ***G           F          Dm***  
   Since you've taken your place in my heart  
   *(Guitar break in ***Dm*** - see above)*  
   ***Am  F       Am  F        Am          G          Am***  
   Waiting... watching.... wishing my whole life away  
   ***Bm   G         Bm G        Am       G        F***  
   Dreaming.... thinking... ready for my happy day  
-                 ***Dm***  
+    ***Dm***  
   And some easy livin'  
   ***Dm                                      F       Dm***  
   Somewhere along the lonely road I had tried to find ya'  
@@ -39,11 +39,11 @@ Easy Livin'
   Day after day on the windy road I had walked behind ya'  
   ***G     Dm             G       Dm***  
   Easy livin and I've been forgiven  
-                ***G           F          Dm***  
+    ***G           F          Dm***  
   Since you've taken your place in my heart  
   ***G     Dm             G       Dm***  
   Easy livin and I've been forgiven  
-                 ***G           F          Dm***  
+    ***G           F          Dm***  
   Since you've taken your place in my heart  
   *(Guitar break in ***Dm*** - see above)*  
   *End: [|***Am*** - - -|***G*** - - -|***F*** - - -|***E*** - - -|- - - ***Am***|***Dm*** - - -|]*

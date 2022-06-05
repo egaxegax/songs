@@ -32,14 +32,14 @@ The Closer You Get
   ***C***keep fall-***D***in', oh, yeah ***C***yeah, keep fall-***D***in'.  
   ***C***mmm fall-***D/C***in', oh, yeah ***C***yeah, I'm fall-***D/C***in'.  
   ***C***Yes I'm fall-***D/C***in'                ***C                D/C***  
-                             (Yes I'm fallin')  
-                (yes I'm fallin')  
+    (Yes I'm fallin')  
+    (yes I'm fallin')  
   ***C***Yes I'm fall-***D/C***in'                ***C                D/C***  
-                             (Yes I'm fallin')  
-                (yes I'm fallin')  
+    (Yes I'm fallin')  
+    (yes I'm fallin')  
   ***C***Yes we're fall-***D/C***in'                     ***C         D***  
-                                  (yes we're fallin')  
-                  (yes we're fallin')  
+    (yes we're fallin')  
+    (yes we're fallin')  
   *repeat chorus, and fade*  
   
   ***C/D          D/C***  

@@ -4,9 +4,9 @@
   
   ***C#    Bb                F#***  
   Bill Barret has a simple dream  
-         ***C#     Bb        Eb***  
+    ***C#     Bb        Eb***  
   He calls it his plan B  
-                      ***C#                    Bb               F#***  
+    ***C#                    Bb               F#***  
   Where the buildings and the sky and the air is sugar free  
   ***G#                               G#7***  
   And everyone is very friendly  

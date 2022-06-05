@@ -1,26 +1,26 @@
 <!--2020-09-04 19:35:39-->
 Death Singing  
   
-         ***F              A***  
+    ***F              A***  
   In the straw-colored light  
   In light rapidly changing  
   On a life rapidly fading  
-          ***Am         E***  
+    ***Am         E***  
   Have you seen death singing  
-          ***C          E***  
+    ***C          E***  
   Have you seen death singing  
-          ***F               A***  
+    ***F               A***  
   With a throat smooth as a lamb  
   Yet dry as a branch not snapping  
   He throws back his head  
   And he does not sing a thing mournful  
-          ***Am         E***  
+    ***Am         E***  
   Have you seen death singing  
-          ***C          E***  
+    ***C          E***  
   Have you seen death singing  
-          ***Am         E***  
+    ***Am         E***  
   Have you seen death singing  
-          ***E          Am***  
+    ***E          Am***  
   In the straw-colored light  
   He sings a black embrace  
   And white opals swimming  

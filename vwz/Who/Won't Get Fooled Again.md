@@ -3,30 +3,30 @@ Won't Get Fooled Again
   
   *(I am a beginning guitarist, so not very good at this!)...*  
   *But from what I can figure out:*  
-              ***A              D***  
+    ***A              D***  
   We'll be fighting in the street  
-              ***A              D***  
+    ***A              D***  
   With our children at our feet  
-              ***A              D                E         G***  
+    ***A              D                E         G***  
   And the morals that they worshipped will be gone  
-              ***A                 D***  
+    ***A                 D***  
   And in the men who spurred us on  
-              ***A             D***  
+    ***A             D***  
   Sit in judgement of all wrong  
-          ***A               D              E           G***  
+    ***A               D              E           G***  
   They decide and the shotgun sings the song  
   
-            ***A                   D***  
+    ***A                   D***  
   I tip my hat to the new Constitution  
-          ***A                    D***  
+    ***A                    D***  
   Take a bow 'fore the new revolution  
-              ***A                D***  
+    ***A                D***  
   Smile and grin, change is all around me  
    ***G                     A***  
   Pick up my guitar and play  
   ***G             A***  
   Just like yesterday  
-         ***G                    D***  
+    ***G                    D***  
   Then I get on my knees and pray  
   We won't get fooled again!  
   ***A-A-A-D-A A-A-A-D-A***  

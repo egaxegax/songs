@@ -13,7 +13,7 @@ Words are flowing out like endless rain into a paper cup
 They slither while they pass they slip away across the Universe.  
 D                Bm               F#m  
 Pools of sorrow, waves of joy are drifting through my opened  
-                                                           mind  
+    mind  
 Em7              Gm  
 Possessing and caressing me.  
   
@@ -50,12 +50,12 @@ Nothing`s gonna change my world
   
 D                   Bm   F#m  
 Sounds of laughter, shades of earth are ringing through  
-                                                 my opened ears  
+    my opened ears  
 Em7      Gm  
 Inciting and inviting me.  
 D      Bm        F#m         Em7  
 Limitless, undying love which shines around me like a million  
-                                                           suns  
+    suns  
    A      A7  
 And calls me on and on across the Universe.  
   

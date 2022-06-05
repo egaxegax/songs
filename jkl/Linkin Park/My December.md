@@ -7,11 +7,11 @@ My December
   
   ***G       F          G         F              G***  
   This is my December, this is my time of the year  
-          ***F          G         F***  
+    ***F          G         F***  
   This is my December, this is all so clear  
   ***G       F          G         F               G***  
   This is my December, this is my snow covered home  
-          ***F          G         F***  
+    ***F          G         F***  
   This is my December, this is me alone  
   
       ***G          F***  
@@ -33,7 +33,7 @@ My December
   Give it all away to have someone to come home to  
   ***G       F          G         F               G***  
   This is my December, this is my snow covered tree  
-          ***F            G         F***  
+    ***F            G         F***  
   This is me pretending, this is all I need  
   
       ***G          F***  
@@ -56,7 +56,7 @@ My December
   
   ***G       F          G         F              G***  
   This is my December, this is my time of the year  
-          ***F          G         F***  
+    ***F          G         F***  
   This is my December, this is all so clear  
   
   ***G            F   G               F***  

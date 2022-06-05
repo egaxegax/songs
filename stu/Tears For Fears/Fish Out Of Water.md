@@ -11,29 +11,29 @@ Intro:  ***Am9   C    Am9***
   ***D             / / / / / /   Bm  Em***  
   
   ***Dm9                                            Am                      G***  
-         ***Am***  
+    ***Am***  
 Verse One: You always said you were the compassionate one  
   ***Dm9                                                     Am                G***  
-           ***Am9***  
-            But now you're laughing at the sun  
+    ***Am9***  
+    But now you're laughing at the sun  
   ***Dm9                                                 FMaj7               Am***  
-                ***G***  
-            With all your high class friends you think you've got it made  
+    ***G***  
+    With all your high class friends you think you've got it made  
   ***Dm9                                                     Gsus4***  
-            The only thing you made was that tanned look on your face  
+    The only thing you made was that tanned look on your face  
   ***Dm                         G***  
-            With all your cigarettes and fancy cars  
+    With all your cigarettes and fancy cars  
   ***Dm7                    Em***  
-            You ain't a clue who or what you are  
+    You ain't a clue who or what you are  
   
-             ***Am9      A     Am9***  
+    ***Am9      A     Am9***  
 Chorus:  You're dreaming your life away  
   ***G    Gsus4      G                     F/B     F    F/B***  
-                            Fish out of water  
+    Fish out of water  
   ***G     E    Gsus4    G    G2     Am9   Am  Am9***  
-                                       Go swim in the tide today  
+    Go swim in the tide today  
   ***G    Gsus4      G                      F/B    F    F/B***  
-                            Fish out of water  
+    Fish out of water  
   ***G     E    Gsus4    G    G2***  
   
   *Verse Two (as verse one):*  

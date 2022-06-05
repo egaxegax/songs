@@ -4,13 +4,13 @@ Just Because
   Well well well  
   ***C***  
   Just because you think you're so pretty  
-              ***G7***  
+    ***G7***  
   Just because your momma thinks you're hot  
   Just because you think you've got something  
-       ***C***  
+    ***C***  
   Nobody else has got  
   You cause me to spend all my money  
-           ***F***  
+    ***F***  
   You laugh and call me old santa clause  
       ***C       A7      D7***  
   I'm tellin' you baby I'm through with you  

@@ -4,9 +4,9 @@ Coz I Luv You
   
 Вступление: ***Am*** } 8 раз  
   
-            ***Dm                                      Am***  
+    ***Dm                                      Am***  
   I won't laugh at you when you boo-hoo-hoo, coz I luv you  
-         ***Dm                                         Am***  
+    ***Dm                                         Am***  
   I can turn my back on the things you lack, coz I luv you  
   
   ***Bb                         Am***  
@@ -14,9 +14,9 @@ Coz I Luv You
   ***Bb                              Am***  
   Don't you change the things you do, hmm hmm  
   
-             ***Dm                                            Am***  
+    ***Dm                                            Am***  
   You get me in a spot and smile the smile you got, coz I luv you  
-              ***Dm                                         Am***  
+    ***Dm                                         Am***  
   You make me out a clown then you put me down, I still luv you  
   
   *Припев*  
@@ -25,16 +25,16 @@ Coz I Luv You
   ***Dm | Dm | Am | Am } 2 раза***  
   ***B  | B  | Am | Am } 2 раза***  
   
-            ***Dm                                               Am***  
+    ***Dm                                               Am***  
   When you bite your lip you're gonna flip your flip, but I luv you  
-             ***Dm                                           Am***  
+    ***Dm                                           Am***  
   When we're miles apart you still reach my heart, how I luv you  
   
   *Припев*  
   
-        ***Dm                                    Am***  
+    ***Dm                                    Am***  
   Only time can tell if we get on well, coz I luv you  
-              ***Dm                              Am***  
+    ***Dm                              Am***  
   All that's passed us by we only sigh, coz I luv you  
   
   *Припев*  

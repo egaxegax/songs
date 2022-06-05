@@ -5,7 +5,7 @@ Raining Blood
   *6=Eb  3=Gb                 P.M.=Palm Mute*  
   *5=Ab  2=Bb                 %=Repeat Previous*  
   *4=Db  1=Eb                 h=Hammer-On*  
-                             *p= Pull-Off*  
+    *p= Pull-Off*  
   
   *Intro  Drums w/Thunder and Rain effects*  
   ||---------------------------------------------------------||  
@@ -111,7 +111,7 @@ Raining Blood
   ||--------------------------------------||  
   ||2-2--2-2--2-2--2-2--2-2--2-2--2-2--2-2||  
   *[||0-0--0-0--0-0--0-0--0-0--0-0--0-0--0-0||]     With Pick Slide (2nd)*  
-                                       *With Pick Slide (2nd)*  
+    *With Pick Slide (2nd)*  
   *With Rhy Fig 1 (12 Times)*  
     *PM           PM         PM            PM*  
   ||----------------------------------------------------------||  

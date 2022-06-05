@@ -1,20 +1,20 @@
 <!--2020-09-06 04:55:09-->
 Am             Fmaj   Dm E  
      Since you're gone  
-        Am            Fmaj   Dm E  
+    Am            Fmaj   Dm E  
      There is an the empty space  
-        Am            Fmaj   Dm E  
+    Am            Fmaj   Dm E  
      Since you'rr gone  
-        Am            Fmaj   Dm E  
+    Am            Fmaj   Dm E  
      The world is not the same  
   
       Am                 Dm  
      I go back to the places we've been  
-           G               C     E  
+    G               C     E  
      It feels like you're still there  
-         Am           Dm  
+    Am           Dm  
      I live on those moment again  
-           G                E  
+    G                E  
      Wishing you were here  
   
      Since you're gone  
@@ -27,14 +27,14 @@ Am             Fmaj   Dm E
      Remember all of those days  
      Wishing you were here  
   
-         Am        F                Am       F  
+    Am        F                Am       F  
 Chorus: All those lonely nights, lonely nights  
-          Am       F         C        E  
-        Lonely nights, lonely nights...  
+    Am       F         C        E  
+    Lonely nights, lonely nights...  
   
-        Lonely nights, I gotta fight  
+    Lonely nights, I gotta fight  
   
-        For you, yes, I do  
+    For you, yes, I do  
   
      Since you're gone  
      There is the heart that bleeds  

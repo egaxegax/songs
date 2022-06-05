@@ -40,13 +40,13 @@ Chorus:  You want something for nothing
   Maybe your time is coming,  
   ***E5    B5***  
   will you have to climb when you find the wall  
-           ***F#m    A***  
+    ***F#m    A***  
   Is there time to doubt, is there time to wait  
-       ***E5         B5***  
+    ***E5         B5***  
   Will you be left alone at the starting gate?  
   ***F#m***  
   I'm not blind and I don't mind  
-        ***A           E5 A5 E5   E5 A5 E5***  
+    ***A           E5 A5 E5   E5 A5 E5***  
   Cause I've got time, now I'm alive  
   
 Verse 2: The people have noticed that the times are changin'  
@@ -60,7 +60,7 @@ Chorus:  You want something for nothing, the higher that you
   Is there time to doubt? is there time to wait? Will you be left alone at  
   the starting gate?  
   I'm not blind and I don't mind,  
-            ***E5 A5 E5           E5 A5 E5***  
+    ***E5 A5 E5           E5 A5 E5***  
   'cause I've got time now I'm alive      Now I'm alive  
-        ***E5 A5 E5   E5 A5 E5***  
+    ***E5 A5 E5   E5 A5 E5***  
   Yeah, I'm alive

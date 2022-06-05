@@ -1,13 +1,13 @@
 <!--2020-09-06 04:32:48-->
 Am               D  
 All thru' the day  
-        G          E7         Am  
+    G          E7         Am  
 I me mine, I me mine, I me mine.  
-                 D  
+    D  
 All thru' the night  
-       G            E7        Am  
+    G            E7        Am  
 I me mine, I me mine, I me mine.  
-            Dm            E  
+    Dm            E  
 Now they're frightened of leaving it,  
 Dm6        G  
 Everyone's weaving it,  
@@ -28,7 +28,7 @@ I I me me mine
 D7  
 I I me me mine  
 I I me me mine  
-               E Fmaj7 E Fmaj7 E Fmaj7 E  
+    E Fmaj7 E Fmaj7 E Fmaj7 E  
 I I me me mine  
 и КОНЦОВОЧКА...  
 Am Am(#7)            Am7 Am6     Fmaj7      Am  
@@ -41,7 +41,7 @@ X-X-+-+-+-+  X-+-+-+-+-+  +-X-+-+-+-+  +-+-+-+-+-+
 +-+-+-+-+-+  +-+-+-+-+-+  +-+-+-+-+-+  +-+-+-+-+-+  
 | | | | | |  | | | | | |  | | | | | |  | | 3 | | |  
 +-+-+-+-+-+  +-+-+-+-+-+  +-+-+-+-+-+  +-+-+-+-+-+  
-                          | | 2 | | |  
-                          +-+-+-+-+-+  
-                          1 | | 3 3 3  
-                          +-+-+-+-+-+
+    | | 2 | | |  
+    +-+-+-+-+-+  
+    1 | | 3 3 3  
+    +-+-+-+-+-+

@@ -3,7 +3,7 @@ Heatwave
   
   ***Bm  /  C#7  /  Bm  /  Em7  /***  
   
-       ***B        E***  
+    ***B        E***  
   No cloud, a sleepy calm  
    ***A                     F#m              G#m       B***  
   Sunbaked earth that's cooled by gentle breeze, and trees  
@@ -19,16 +19,16 @@ Heatwave
   As they do, all those things they feel give a life some meaning  
   ***Bm               Em7***  
   Even if they're dull  
-        ***D                     Am           D             Am***  
+    ***D                     Am           D             Am***  
   It's time to stop this dreaming, must rejoin the real world  
   ***D              Am                    D         Am***  
   As revealed by orange lights and a smoky atmosphere  
   
   ***C  /  Bb  /  F  /  Bb  /  D7  /  B  /  F#  /***  
   
-       ***Ebm              B            Bbm                 C#***  
+    ***Ebm              B            Bbm                 C#***  
   The trees and I are shaken by, the same winds but whereas  
-        ***B                      Ebm***  
+    ***B                      Ebm***  
   The trees will lose their withered leaves  
     ***Bbm                    G#m***  
   I just can't seem to let them loose  
@@ -38,9 +38,9 @@ Heatwave
   Oh I feel like an alien, a stranger in an alien place  
   ***B                 E          A              F#m***  
   Now the light is fading fast, chances slip away  
-              ***G#m         B  F#m                  B***  
+    ***G#m         B  F#m                  B***  
   A time will come to pass,     when there'll be none  
-          ***Bm         C#7                  Bm                Em7***  
+    ***Bm         C#7                  Bm                Em7***  
   Then addicted to a perfumed poison, betrayed by its aftertaste  
      ***D                     Am           D            Am***  
   Oh we shall lose the wonder and find nothing in return  
@@ -61,7 +61,7 @@ Heatwave
   I feel like an alien, a stranger in an alien place  
   ***Ebm                   B            Bbm                 C#***  
   The trees and I are shaken by, the same winds but whereas  
-        ***B                      Ebm***  
+    ***B                      Ebm***  
   The trees will lose their withered leaves  
     ***Bbm                    G#m***  
   I just can't seem to let them loose  

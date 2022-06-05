@@ -36,58 +36,58 @@ eoc
   *The famous opening chord is a ***G7sus4***:*  
   [-3-   -3-   -5-   -3-   -5-   -3-]  
   
-               ***G    Cadd9   G                  F              G***  
+    ***G    Cadd9   G                  F              G***  
   It's been a hard  day's night and I've been working like a dog  
-                ***G   Cadd9   G                 F              G***  
+    ***G   Cadd9   G                 F              G***  
   It's been a hard  day's night I should be sleeping like a log  
-              ***C                           D***  
+    ***C                           D***  
   But when I get home to you I find the things that you do  
-                 ***G   C9   G***  
+    ***G   C9   G***  
   Will make me feel alright  
-              ***G    Cadd9   G              F             G***  
+    ***G    Cadd9   G              F             G***  
   You know I work   all   day to get you money to buy things  
-             ***G              Cadd9     G                 F            G***  
+    ***G              Cadd9     G                 F            G***  
   And It's worth it just to hear you say you're gonna give me everything  
-              ***C                                D***  
+    ***C                                D***  
   So why on earth should I moan 'cause when I get you alone  
-                ***G    C9 G***  
+    ***G    C9 G***  
   You know I'll feel O. K.  
-          ***Bm    Em                    Bm***  
+    ***Bm    Em                    Bm***  
   When I home everything seems to be right  
-            ***G     Em                     C9     D***  
+    ***G     Em                     C9     D***  
   When I'm home feeling you holding me tight, tight, yeah  
-               ***G    Cadd9   G                  F              G***  
+    ***G    Cadd9   G                  F              G***  
   It's been a hard  day's night and I've been working like a dog  
-                ***G   Cadd9   G                 F              G***  
+    ***G   Cadd9   G                 F              G***  
   It's been a hard  day's night I should be sleeping like a log  
-              ***C                           D***  
+    ***C                           D***  
   But when I get home to you I find the things that you do  
-                 ***G   C9   G***  
+    ***G   C9   G***  
   Will make me feel alright     ahhh!  
   
   *solo  (see below)*  
   ***G  Cadd9 G  F  G***  
   ***G  Cadd9 G  F  G***  
   
-              ***C                                D***  
+    ***C                                D***  
   So why on earth should I moan 'cause when I get you alone  
-                ***G    C9 G***  
+    ***G    C9 G***  
   You know I'll feel O. K.  
-          ***Bm    Em                    Bm***  
+    ***Bm    Em                    Bm***  
   When I home everything seems to be right  
-            ***G     Em           C9        D***  
+    ***G     Em           C9        D***  
   When I'm home feeling you holding me tight, tight, yeah  
-               ***G    Cadd9   G                  F              G***  
+    ***G    Cadd9   G                  F              G***  
   It's been a hard  day's night and I've been working like a dog  
-                ***G   Cadd9   G                 F              G***  
+    ***G   Cadd9   G                 F              G***  
   It's been a hard  day's night I should be sleeping like a log  
-              ***C                           D***  
+    ***C                           D***  
   But when I get home to you I find the things that you do  
-                 ***G   C9   G***  
+    ***G   C9   G***  
   Will make me feel alright  
-               ***G   C9  G***  
+    ***G   C9  G***  
   You know I feel alright  
-               ***G   C9  G***  
+    ***G   C9  G***  
   You know I feel alright  
   
 outro:  [-3-------1--------3---------1----------  

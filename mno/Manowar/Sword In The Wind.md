@@ -133,7 +133,7 @@ Sword In The Wind
   ------------------------]  
   ***Em                   C***  
   Today the blood of battle  
-           ***H                  Em***  
+    ***H                  Em***  
   Upon my weapons will never dry  
   ***Em               C***  
   Many I'll send into the ground  
@@ -141,9 +141,9 @@ Sword In The Wind
   Laughing as they die  
   ***C               G***  
   We are sons of Odin  
-       ***H             Em***  
+    ***H             Em***  
   The fire we burn inside  
-          ***C            C(A)***  
+    ***C            C(A)***  
   Is the legacy of warrior kings  
       ***D               H(D)***  
   Who reign above in the sky  
@@ -173,9 +173,9 @@ Sword In The Wind
   Valkiries carry me  
   ***C             D***  
   Take me to Valhalla  
-              ***G              A***  
+    ***G              A***  
   Where my brothers wait for me  
    ***C                           D***  
   Fires burning to the sky  
-             ***H***  
+    ***H***  
   My spirit will never die

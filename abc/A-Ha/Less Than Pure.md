@@ -7,7 +7,7 @@ Less Than Pure
   I hear this great new place has opened up  
    ***Gm                     Bb***  
   And when we get there  
-                             ***Gm  Eb      D***  
+    ***Gm  Eb      D***  
   I don't know It's taken ages  
   Don't you know  
   ***Bb***  
@@ -20,7 +20,7 @@ Less Than Pure
   Time drags on  
   ***Bb                 F***  
   How long I find I  
-                ***Eb                  D***  
+    ***Eb                  D***  
   can't go on much longer now  
   But the place in question's hard to find  
   Not a cab ride to the door  

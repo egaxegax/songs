@@ -3,15 +3,15 @@ Can't fight the moonlight
   
 INTRO:  ***A***,***Ab***..... ***F#m***.***F#m***. - ***F#m***.***Ab***.***Ab***.  
   
-         ***Cm      Fm7***  
+    ***Cm      Fm7***  
 Verse:  Under a lover's sky  
-            ***Bb***  
+    ***Bb***  
   I'm gonna be with you  
       ***Ab***  
   And no one's gonna be around  
   ***Cm                Fm7***  
   If you think that you won't fall  
-            ***Bb.................................***  
+    ***Bb.................................***  
   Well just wait until, 'till the sun goes down  
   ***Fm              Eb***  
   Underneath the starlight starlight  
@@ -20,19 +20,19 @@ Verse:  Under a lover's sky
   ***Ab...............................***  
   It will steal your heart tonight  
   
-          ***Dbm***  
+    ***Dbm***  
 Chorus:  You can try to resist  
-        ***F#m***  
+    ***F#m***  
   Try to hide from my kiss  
-         ***B***  
+    ***B***  
   But you know, but you know  
-              ***A             Bb***  
+    ***A             Bb***  
   That you, can't fight the moonlight  
    ***Dbm                         F#m***  
   Deep in the dark you'll surrender your heart  
-         ***B***  
+    ***B***  
   But you know, but you know  
-              ***A             Ab***  
+    ***A             Ab***  
   That you, can't fight the moonlight,  
    ***F#m            Ab***  
   No-o you can't fight it  
@@ -50,7 +50,7 @@ Verse:  There's no escaping love
   We'll be lost in the rhythm so right  
   It will steal your heart tonight  
   
-       ****Dbm***...(etc - as before)*  
+    ****Dbm***...(etc - as before)*  
 Chorus:  You can try to resist  
   Try to hide from my kiss  
   But you know, but you know  
@@ -77,19 +77,19 @@ Chorus:  You can try to resist
    ***A...............................***  
   It will steal your heart tonight  
   
-          ***Dm***  
+    ***Dm***  
   You can try to resist  
-          ***Gm***  
+    ***Gm***  
   Try to hide from my kiss  
-          ***C***  
+    ***C***  
   But you know, but you know  
-              ***Bb            A***  
+    ***Bb            A***  
   That you, can't fight the moonlight  
   ***Dm                         Gm***  
   Deep in the dark you'll surrender your heart  
-          ***C***  
+    ***C***  
   But you know, but you know  
-             ***Bb              A***  
+    ***Bb              A***  
   That you, can't fight the moonlight,  
   ***Gm              A***  
   No-o you can't fight it  

@@ -10,7 +10,7 @@
   Waves outside call your name  
   ***Am             G***  
   It may be the reason I'm waiting  
-         ***Em***  
+    ***Em***  
   Still sad.  
   
   Could her later spell on you  

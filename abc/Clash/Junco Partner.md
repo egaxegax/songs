@@ -5,11 +5,11 @@
   *Choose your favorite dreadlock strumming and chord positioning.*  
   ***NC       F***  
   Down the road came a Junco Partner  
-             ***Bb             F***  
+    ***Bb             F***  
   For he was loaded  as can be  
   ***F***  
   He was knocked out, knocked out loaded  
-           ***C7                    F***  
+    ***C7                    F***  
   He was a'wobblin' all over the street  
   ***F***  
   Singing 6 months ain't no sentence  
@@ -17,7 +17,7 @@
   And one year ain't no time  
   ***F***  
   I was born in Angola  
-          ***C7    F***  
+    ***C7    F***  
   Serving 14 to 99  
   Well I wish I had me  $1 million dollars  
   Oh one million to call my own  

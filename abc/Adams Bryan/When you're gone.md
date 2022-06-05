@@ -4,26 +4,26 @@ When you're gone
   
 INTRO:  ***Dm F C G***  
   
-              ***Dm                  G***  
+    ***Dm                  G***  
   I've been wandering around the house all night  
   ***C                             Csus4***  
   wondering what the hell to do  
-                ***Dm              G                       C    Csus4***  
+    ***Dm              G                       C    Csus4***  
   I'm trying to concentrate but all I can think of is you  
-            ***Dm              G***  
+    ***Dm              G***  
   well the phone don't ring cos my friends ain't home  
   ***C                           Csus4***  
   I'm tired of being all alone  
-           ***Dm            Bb              G***  
+    ***Dm            Bb              G***  
   got the TV on cos the radio's playing songs that remind me of you  
   
-                   ***Dm          F            C      G***  
+    ***Dm          F            C      G***  
 CHORUS:  Baby when you're gone - I realise I'm in love  
-               ***Dm                 F           C         G***  
+    ***Dm                 F           C         G***  
   the days go on and on - and the nights just seem so long  
-                             ***Dm        F                      C      G***  
+    ***Dm        F                      C      G***  
   even food don't taste that good - drink ain't doing what it should  
-                       ***Dm      Bb               G***  
+    ***Dm      Bb               G***  
   things just feel so wrong - baby when you're gone  
   
   *VERSE IS THE SAME AS ABOVE*  

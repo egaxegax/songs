@@ -7,7 +7,7 @@ D|-2-2--2--2--2-2--2-2-|--4----4----6----6--|
 A|0----0-----0----0----|-6-6--6-6--6-6--6-6-|  
 E|---------------------|4----4----4----4----|  
   
-          F#m                  C#m  
+    F#m                  C#m  
 E|--------------------|--------------------|  
 B|--------------------|--------------------|  
 G|--2-----------------|--6----5----6----6--|  
@@ -27,21 +27,21 @@ CHORUS же для акустической гитары можно 
 Komm in mein Boot  
       F#m  
 ein Sturm kommt auf  
-             C#m  
+    C#m  
 und es wird Nacht  
   
  A            G#m  
 Wo willst du hin  
     F#m  
 so ganz allein  
-             C#m  
+    C#m  
 treibst du davon  
   
  A            G#m  
 Wer halt deine Hand  
      F#m  
 wenn es dich  
-            C#m  
+    C#m  
 nach unten zieht  
   
 Тяжёлый проигрыш (аккордами :)) , затем - опять перебор:  
@@ -55,7 +55,7 @@ der Herbstwind halt
 die Segel straff  
   
 CHORUS:  
-        A                     G#m  
+    A                     G#m  
 Jetzt stehst du da an der Laterne  
      F#m        C#m  
 Mit Tranen im Gesicht  
@@ -64,7 +64,7 @@ Das Tageslicht fallt auf die Seite
      F#m                        C#m  
 Der Herbstwind fegt die Strasse leer  
   
-        A                    G#m  
+    A                    G#m  
 Jetzt stehst du da an der Laterne  
       F#m         C#m  
 Hast Tranen im Gesicht  
@@ -82,14 +82,14 @@ der beste Seemann
 war doch ich  
   
 CHORUS:  Jetzt stehst du da an der Laterne  
-         Hast Tranen im Gesicht  
-         Das Feuer nimmst du von der Kerze  
-         Die Zeit steht still und es wird Herbst  
+    Hast Tranen im Gesicht  
+    Das Feuer nimmst du von der Kerze  
+    Die Zeit steht still und es wird Herbst  
   
-         Sie sprachen nur von deiner Mutter  
-         So gnadenlos ist nur die Nacht  
-         Am Ende bleib ich doch alleine  
-         Die Zeit steht still und mir ist kalt  
-                                 ...kalt...kalt..kalt...  
+    Sie sprachen nur von deiner Mutter  
+    So gnadenlos ist nur die Nacht  
+    Am Ende bleib ich doch alleine  
+    Die Zeit steht still und mir ist kalt  
+    ...kalt...kalt..kalt...  
   
 Проигрыш перебором - 1 раз.

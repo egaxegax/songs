@@ -75,7 +75,7 @@ Riff D:  |-----------|------------|-------------------------------|
   *Riff B   3x*  
   *Riff D   1x*  
   *Riff A   2x  (The rhythm is different here but I don't bother to*  
-                *tab that out, just listen to the CD and you'll get it)*  
+    *tab that out, just listen to the CD and you'll get it)*  
   *Riff BB  2x*  
   *Riff B   3x*  
   *Fill D   1x*  

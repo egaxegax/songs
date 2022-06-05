@@ -21,7 +21,7 @@ Verse 1: I got up this morning and fell out of bed
   And then you came up on the other side  
   ***D                 G***  
   To brighten up my day  
-          ***Am***  
+    ***Am***  
   I knew right away  
   ***D         G    C   D***  
   That this could be my day  
@@ -39,7 +39,7 @@ Chorus:  Someone like you
 Verse 2: There you were, standing  
   ***D               G***  
   On a crowded street  
-        ***Am***  
+    ***Am***  
   You looked so good, though the air was bad  
   ***D      G    C    D***  
   Walking through the fog  

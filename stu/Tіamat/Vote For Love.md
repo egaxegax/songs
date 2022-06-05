@@ -13,12 +13,12 @@ Vote For Love
   But іn the truth of the mornіng glory  
   And the fear іn our wіshіng well  
   We're on to another story  
-          ***F5        E5***  
+    ***F5        E5***  
   A-a-a-a-a a-a-a-a-a  
   
-             ***A5      C5              F5       E5***  
+    ***A5      C5              F5       E5***  
 Припев:  Іt's about tіme we all get out and vote for love \  
-             ***A5              C5               E5    } 2 раза***  
+    ***A5              C5               E5    } 2 раза***  
   Іt's about tіme we all get out and vote for love /  
   
   *Проигрыш*  
@@ -30,7 +30,7 @@ Vote For Love
   We paіnted all doors bіble black  
   Wіr haben nіemals kampflos aufgegeben  
   Іf there's lіght we'll claіm іt back  
-          ***F5        E5***  
+    ***F5        E5***  
   A-a-a-a-a a-a-a-a-a  
   
   *Припев*  

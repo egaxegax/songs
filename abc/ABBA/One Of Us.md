@@ -10,27 +10,27 @@
   My picture clear, everything seemed so easy  
   ***C        Bm***  
   And so I dealt you the blow  
-         ***Em***  
+    ***Em***  
   One of us had to go  
   ***Am                  C/G           D7/F#***  
   Now it's different, I want you to know  
-               ***G***  
+    ***G***  
   One of us is crying  
-         ***G/F#  Em***  
+    ***G/F#  Em***  
   One of us is lying  
-         ***Em7    C     E7   Am***  
+    ***Em7    C     E7   Am***  
   In her lonely bed  
   ***C6/G           D***  
   Staring at the ceiling  
   ***C               D7                 G G/F# Em Em7  C D7***  
   Wishing she was somewhere else instead  
-               ***G***  
+    ***G***  
   One of us is lonely  
-         ***G/F#  Em***  
+    ***G/F#  Em***  
   One of us is only  
-          ***Em7   C     E7   Am***  
+    ***Em7   C     E7   Am***  
   Waiting for a call  
-               ***A7            G***  
+    ***A7            G***  
   Sorry for herself, feeling stupid feeling small  
   ***D7(sus)                       D7***  
   Wishing she had never left at all  

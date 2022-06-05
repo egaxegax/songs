@@ -12,23 +12,23 @@ E|----------------------------------------------------|
 Verse 1:  
  D   Bm                 D       Bm             D        Bm  
 Anna   you come and ask me girl    to set you free girl  
-                      D        Bm              Em      A7  
+    D        Bm              Em      A7  
 You say he loves you more than me   so I will set you free  
-         D      Bm              D   Bm  
+    D      Bm              D   Bm  
 Go with him   (Anna)   Go with him  
   
 Verse 2:  
  D  Bm                 D      Bm                D        Bm  
 Anna   girl before you go now    I want you to know now  
-              D       Bm              Em        A7  
+    D       Bm              Em        A7  
 That I still love you so   but if he loves you more  
-         D  
+    D  
 Go with him  
   
 Middle:  
  G  
 All of my life    I`ve been searching    for a girl  
-        D  
+    D  
 Who`ll love me     like I     love her  
    G                         Gm  
 But every girl I`ve ever had  breaks my heart and leave me sad  
@@ -39,9 +39,9 @@ What am I   what am I   supposed to do    oh...
 Verse 3:  
  D  Bm                 D        Bm  
 Anna   just one more thing girl  
-                    D      Bm                Em        A7  
+    D      Bm                Em        A7  
 You give back your ring to me     and I will set you free  
-         D  
+    D  
 Go with him  
   
 Repeat middle part  
@@ -52,5 +52,5 @@ then...
 Ending:  
   Bm             D      Bm  
 (Anna)  Go with him   (Anna)  
-                 D           Bm              D  
+    D           Bm              D  
 You can go with him girl   (Anna)   Go with him

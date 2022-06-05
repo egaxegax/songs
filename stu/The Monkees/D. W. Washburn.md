@@ -29,15 +29,15 @@ Bridge A: Can't you hear the fluegelhorn,
   Can't you hear the bell?  
    ***E7***  
   Even you can be reborn  
-       ***A               A7***  
+    ***A               A7***  
   You naughty neer-do-well  
-          ***D                    A***  
+    ***D                    A***  
   If you don't get outta that gutter  
      ***D       A/C#      B7   E7***  
   Before the next big rain  
   ***A     F#7***  
   D. W. Washburn  
-                ***B7         E7        A***  
+    ***B7         E7        A***  
   You're gonna wash right down the drain  
   
   ***C#7       (N.C.)***  
@@ -56,20 +56,20 @@ Verse 2: D. W. Washburn
   Well, I got no job to go to  
   I don't work and I don't get paid  
   
-           ***A        A7/C#      D      D#dim (N.C.)***  
+    ***A        A7/C#      D      D#dim (N.C.)***  
 Coda:  I got a bottle of wine, I'm feelin' fine  
-           ***B7     E7      A***  
+    ***B7     E7      A***  
   And I believe I got it made  
-                ***D                  A***  
+    ***D                  A***  
   I'd like to thank alla you good people  
-       ***D    A/C#    B7   E7***  
+    ***D    A/C#    B7   E7***  
   For coming to my aid  
-            ***A     F#7***  
+    ***A     F#7***  
   But I'm   D. W. Washburn  
-          ***B7        E7      A          F#7***  
+    ***B7        E7      A          F#7***  
   I do believe I've got it made (D. W. Washburn)  
-          ***B7        E7      A                F#7***  
+    ***B7        E7      A                F#7***  
   I do believe I've got it made, don't need nobody  
-                                      (D. W. Washburn)  
-          ***B7        E7      A          F#7***  
+    (D. W. Washburn)  
+    ***B7        E7      A          F#7***  
   I do believe I've got it made (D. W. Washburn) (fade)

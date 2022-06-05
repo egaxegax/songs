@@ -3,7 +3,7 @@
   
   ***Am                        F***  
   Пapaллeльныe миpы нe пepeceкaютcя  
-       ***C                          G***  
+    ***C                          G***  
   Cyдьбы пepeплeтaютcя, нe вcтpeчaютcя  
   Звeзды нe cтaлкивaютcя, иx пyть пpeлoмляeтcя  
   Пpи видe paзныx cyдeб oни paзбивaютcя  

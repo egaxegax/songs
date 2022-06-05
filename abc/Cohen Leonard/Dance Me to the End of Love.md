@@ -4,9 +4,9 @@ Chords:
 Adim:     x01212  
   
 Intro: Em7 . . . |. . . . |Am7 . . . |. . . . |  
-       Em7 . . . |. . . . |Am7 . . . |. . . . |  
-       Em7 . . . |. . . . |Adim . . . |. . . . |  
-       Em . . . |. . . . |  
+    Em7 . . . |. . . . |Am7 . . . |. . . . |  
+    Em7 . . . |. . . . |Adim . . . |. . . . |  
+    Em . . . |. . . . |  
   
  Am                Em              B7            Em  
 La la la la la la la la la la la la la la la la la  

@@ -24,7 +24,7 @@ Good Time Charlie's Got the Blues
   
   ****G***    Riff 1*  
   Everybody's gone away  
-       ****C***  Riff 2*  
+    ****C***  Riff 2*  
   Said they're moving to L.A.  
       ****D7*** Riff 3*  
   There's not a soul I know around  
@@ -35,7 +35,7 @@ Good Time Charlie's Got the Blues
   Some caught a freight, some caught a plane  
       ****C***  Riff 5*  
   Find the sunshine, leave the rain  
-       ****D7***  Riff3*  
+    ****D7***  Riff3*  
   They said this town will waste your time  
   ****G***      Riff 1*  
   I guess the ride is wasting mine  

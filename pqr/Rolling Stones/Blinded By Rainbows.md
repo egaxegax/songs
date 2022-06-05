@@ -8,95 +8,95 @@ play this two times:
 ---0-----0---------------2-  
 -----------------3-------3-  
 -3-------------------------  
-                      G  
+    G  
 Did you ever feel the pain  
-                  C  
+    C  
 that he felt upon the cross,  
-                      D  
+    D  
 did you ever feel the knife,  
-                         C  
+    C  
 tearing flesh that's oh so soft?  
-                       Em     C  
+    Em     C  
 Did you ever touch the night,  
-                       Em    C  
+    Em    C  
 did you ever count the cost,  
-                    Em   C/G  
+    Em   C/G  
 do you had away the fear  
-                  D  
+    D  
 put down paradise as lost?  
-             G          D   C  
+    G          D   C  
 Yeah, you're blinded by rainbows,  
  G           D    C  
 watching the wind blow,  
  G          D  C  
 blinded by rainbows,  
-       Em  
+    Em  
 do you dream at night,  
 do you sleep at night,  
    C  
 I doubt it...  
-                      G  
+    G  
 Did you ever feel the blast  
-                     C  
+    C  
 as the semtex bomb goes off,  
-                     D  
+    D  
 do you ever hear the screams,  
-                      C  
+    C  
 as the limbs are all torn off?  
-                      G  
+    G  
 Did you ever kiss the child,  
-                   C  
+    C  
 who just saw his father shot,  
-                   D  
+    D  
 do you ever shed a tear,  
-                 C  
+    C  
 as the war drags on and on?  
-                      Em     C  
+    Em     C  
 Do you ever touch the night,  
-                   Em      C  
+    Em      C  
 is it just another job(?),  
-                      Em    C/G  
+    Em    C/G  
 do you feel the final hours  
-                     D  
+    D  
 put down paradise as lost?  
-             G          D  C  
+    G          D  C  
 Hey, you're blinded by rainbows,  
      G        D  C  
 and faces in windows,  
  G          D  C  
 blinded by rainbows,  
-       Em  
+    Em  
 do you dream at night,  
 do you sleep at night,  
    C  
 I doubt it...  
-                 Em         C  
+    Em         C  
 Do you ever fear the night,  
-            Em               C  
+    Em               C  
 could it be the war is lost  
-                Em          C/G  
+    Em          C/G  
 do you fear the final hour,  
-            D  
+    D  
 do you near before the cross?  
-        G          D  C  
+    G          D  C  
 You're blinded by rainbows,  
  G            D    C  
 watching the wind blow,  
  G          D  C  
 blinded by rainbows,  
-        Em  
+    Em  
 do you dream at night,  
 do you scream at night,  
-       C  
+    C  
 do you smell the fear,  
 is your conscience clear,  
-       Em  
+    Em  
 do you kick(?) and sweat,  
 and your clothes are wet,  
-       C  
+    C  
 do you see the light,  
 is the end in sight,  
-        Em  
+    Em  
 see the face of Christ,  
 and the paradise,  
 C  

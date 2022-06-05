@@ -1,19 +1,19 @@
 <!--2020-09-04 23:36:24-->
 Intro: A#m.. ...|... ...|G#.. ...|... ...|... ...|... ...|  
   
-                C#  
+    C#  
 The birds they sang  
 C#sus4            C#    C#sus4  
 At the break of day  
-        G#  
+    G#  
 Start again  
-              C#    C#7  
+    C#    C#7  
 I heard them say  
-        F  F7  
+    F  F7  
 Don't dwell on what  
      A#m        A#sus2  
 Has passed away  
-            G#sus4.. ...|G#6.. ...|G#7.. ...|G#.. ...|  
+    G#sus4.. ...|G#6.. ...|G#7.. ...|G#.. ...|  
 Or what is yet to be  
   
 Ah the wars they will  
@@ -24,13 +24,13 @@ Bought and sold
 And bought again  
 The dove is never free  
   
-          F#          B        F#   F#sus4  
+    F#          B        F#   F#sus4  
 Ring the bells that still can ring  
     F#       B           F#  
 Forget your perfect offering  
-             C#       B      F#  
+    C#       B      F#  
 There is a crack, a crack in everything  
-                D#sus4.. ...|... ...|  
+    D#sus4.. ...|... ...|  
 That's how the light gets in  
   
 G#sus4.. ...|... ...|G#.. ...|... ...|  
@@ -95,19 +95,19 @@ Dsus4:     xx0233
   
 Intro: Am.. ...|... ...|G.. ...|... ...|... ...|... ...|  
   
-                C  
+    C  
 The birds they sang  
 Csus4            C    Csus4  
 At the break of day  
-        G  
+    G  
 Start again  
-              C    C7  
+    C    C7  
 I heard them say  
-        E  E7  
+    E  E7  
 Don't dwell on what  
      Am        Asus2  
 Has passed away  
-            Gsus4.. ...|G6.. ...|G7.. ...|G.. ...|  
+    Gsus4.. ...|G6.. ...|G7.. ...|G.. ...|  
 Or what is yet to be  
   
 Ah the wars they will  
@@ -118,13 +118,13 @@ Bought and sold
 And bought again  
 The dove is never free  
   
-          F           Bb       F   Fsus4  
+    F           Bb       F   Fsus4  
 Ring the bells that still can ring  
     F        Bb          F  
 Forget your perfect offering  
-             C        Bb     F  
+    C        Bb     F  
 There is a crack, a crack in everything  
-                Dsus4.. ...|... ...|  
+    Dsus4.. ...|... ...|  
 That's how the light gets in  
   
 Gsus4.. ...|... ...|G.. ...|... ...|  

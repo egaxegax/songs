@@ -23,7 +23,7 @@ Musical Box
   *I'm not convinced that the ***C#sus4*** is right, but there are two*  
   *guitars going here, and it's tough to get the voicing exactly*  
   *right.*  
-          From here...  
+    From here...  
   *GTR I*  
   Play me Old King Cole....  
     ***Bm                             F#***  
@@ -33,7 +33,7 @@ Musical Box
   -----------------------------------------------------------------  
   -----------------------------------------------------------------  
   -----------------------------------------------------------------]  
-                         &gt;snip here&lt;  
+    &gt;snip here&lt;  
   *And that's it for now! Sorry! I'm pretty sure the next*  
   *chord stays ***F#*** but with a different arpeggio. By the way, before*  
   *I get flamed for posting such a tiny chunk of such a great song,*  
@@ -70,28 +70,28 @@ Musical Box
   *Putting it together:*  
   *(the chord name is the pattern name here. each "/" is 1 beat)*  
   ***|F# /  F#  / |F# / F# / |D#m /      D#m    /        |D#m  /  D#m  /|***  
-                               She's a lady, she's got time        Oh  
-                               She's a lady, she is mine           Oh  
+    She's a lady, she's got time        Oh  
+    She's a lady, she is mine           Oh  
   ***C#       /         C#   /    |E    /    E    /       |F# no. 2 :||***  
      Brush back your hair, and let me get to know your face  
      Brush back your hair, and let me get to know your flesh.  
   Now Tony comes in on the organ.  
-                                       |-|  
+    |-|  
   *Organ:  ***|F#  B  C#  F# |/. B     C# F# C#|   D#m. A#m D#m. A#m |****  
-                                      I've been waiting here for so long  
+    I've been waiting here for so long  
   You stand there with your fixed expression casting doubt on all I have to say  
   ***|C#  G#m  B  /          |F#.  E  F#          E F#| E. F#  E  F# E |***  
-              and all this time has passed me by            It hardly seems to  
-             why don't you touch me, touch me why don't you touch me, touch me  
-                                 ____________  
-                                 |1.  
-           ***|B.   E  F#  E  B  E  |F# / / / :||***  
-            matter now  
+    and all this time has passed me by            It hardly seems to  
+    why don't you touch me, touch me why don't you touch me, touch me  
+    ____________  
+    |1.  
+    ***|B.   E  F#  E  B  E  |F# / / / :||***  
+    matter now  
   touch me now now now now now  
   ________________  
   |2.  
   ***||: F# .  E  F# E B E |B .  E F# E B E F# :|| } repeat this a few times***  
-                         now now now now now  
+    now now now now now  
   ending  
   ***|B / / / |C# / / / |F# / / / | B / / / |C# / / / | F# / / B C# |F#***  
   *The rapidly alternating part flips between an ***F#*** and a ***C#***, and*  

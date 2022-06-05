@@ -6,18 +6,18 @@ Moment Of Truth (1994)
   I'm lying here, I know the night must fall  
       ***Bb                       A***  
   The edge of darkness is so near  
-                   ***Dm                   Fm***  
+    ***Dm                   Fm***  
   So hold back the night, hold back the night  
-           ***Fm                C   G***  
+    ***Fm                C   G***  
   It's the darkness that I fear  
   And in my heart there's not a shadow of a doubt  
   The final truth waits there fore me  
   Nowhere to hide, nowhere to hide  
   From the memories  
   *CHORUS*  
-          ***C   C/H    Em***  
+    ***C   C/H    Em***  
   Give me one more tomorrow  
-                ***G  Asus4***  
+    ***G  Asus4***  
   All these todays alone  
   ***Dm            G***  
   Mean nothing anymore  
@@ -35,7 +35,7 @@ Moment Of Truth (1994)
   I'm searching for some help from a friend  
   ***A                    F***  
   And all I need is a miracle  
-                           ***Dm                    F            G***  
+    ***Dm                    F            G***  
   To help me through this night that never ends, it never ends  
   *CHORUS TWICE*  
   

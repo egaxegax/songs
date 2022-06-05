@@ -13,7 +13,7 @@ Intro:  ***D  F  A  C  D  A*** } 2x
   Is nothing in particular now  
   ***D  F     A***  
   And imitation comes naturally  
-        ***C     D      A***  
+    ***C     D      A***  
   But I never really stopped to think how  
   ***D  F   A***  
   And everyone is a clever clone  
@@ -21,7 +21,7 @@ Intro:  ***D  F  A  C  D  A*** } 2x
   A chrome colored clone am I  
   ***D   F  A***  
   So in the abscence of a way of life  
-         ***C  D    A        A7***  
+    ***C  D    A        A7***  
   Just repeat this again and again...and again  
   ***E***  
   Hey, hey come out tonight } 2x  
@@ -34,7 +34,7 @@ Intro:  ***D  F  A  C  D  A*** } 2x
   Right into your twisted arms  
   ***D    F   A***  
   No queues and there's no panic there  
-       ***C     D        A***  
+    ***C     D        A***  
   Just dangling your feet in the grass  
   ***D    F    A***  
   My lack of natural luster now  
@@ -42,7 +42,7 @@ Intro:  ***D  F  A  C  D  A*** } 2x
   Seems to be losing me friends  
   ***D   F  A***  
   So in the abscence of a way of life  
-         ***C  D    A        A7***  
+    ***C  D    A        A7***  
   Just repeat this again and again...and again  
   ***E***  
   Hey, hey come out tonight } 2x  

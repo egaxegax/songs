@@ -10,7 +10,7 @@ Intro:  ***E***/***E+***/***C#m***/***E+***
   Your powder's never on your face.  
   ***A***  
   You're always wearing jeans  
-          ***H***  
+    ***H***  
   except on Sunday.  
   
   ***C#m***  
@@ -19,16 +19,16 @@ Ref1:  So please don't ever change
   No don't You ever change  
   ***E***  
   I kind of like You  
-              ***A             H***  
+    ***A             H***  
   Just the way You are.  
   
   ***E***  
   You don't know the latest dance  
   ***C#m***  
   But when It's time to make romance.  
-       ***A***  
+    ***A***  
   Your kisses let me know  
-               ***H***  
+    ***H***  
   You're not a dumb boy.  
   
   ***C#m***  
@@ -37,7 +37,7 @@ Ref2:  So please don't ever change
   No don't You ever change  
   ***E                        A    H***  
   Just promise me You're always gonna be  
-              ***E          E7***  
+    ***E          E7***  
   As sweet as You are.  
   
      ***A                A+***  
@@ -53,9 +53,9 @@ Ref2:  So please don't ever change
   So lots of other girls I've seen.  
   ***C#m***  
   They know how to treat guys mean  
-       ***A***  
+    ***A***  
   But You would rather die  
-          ***H***  
+    ***H***  
   than ever hurt me.  
   
   So please don't ever change...

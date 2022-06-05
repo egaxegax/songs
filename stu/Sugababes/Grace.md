@@ -2,16 +2,16 @@
 Grace  
   
   ***A   D   A   D***  
-          ***A***  
+    ***A***  
   Well we jumped all night  
   On your trampoline  
-            ***D***  
+    ***D***  
   When you kissed the sky  
   Made your sister scream  
-       ***A***  
+    ***A***  
   You ate our chips  
   And you drank our Coke  
-            ***D***  
+    ***D***  
   Then you showed me Mars  
   Through your telescope  
       ***A***  

@@ -5,12 +5,12 @@ single "Stereotypes"
   *Verse:*  
   ***C F D# F***  
   ***C F D# G***  
-       ***F      B       Ab*** &lt;--------- 4  
+    ***F      B       Ab*** &lt;--------- 4  
   "The man who left him-self..."      4  
-                                      5  
-                                      6  
-                                      6  
-                                      4  
+    5  
+    6  
+    6  
+    4  
   *(Electric):*  
   [D --666--999--  
   A --666--999--  

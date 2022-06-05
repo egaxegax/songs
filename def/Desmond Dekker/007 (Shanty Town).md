@@ -6,7 +6,7 @@ intro:      ***G#  C#  D#***
   2|--9---9---11--  
   3|--8---10--12--  
   
-        ***G#    C#  D#***  
+    ***G#    C#  D#***  
   oh oh seven  
   oh oh seven  
   at ocean eleven  

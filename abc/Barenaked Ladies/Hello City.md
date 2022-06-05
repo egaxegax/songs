@@ -19,18 +19,18 @@ Gordon (1992 Sire/Warner Bros.)
   'cause there is nothing else to do.  (Whoa, whoa)  
   ***G       D***  
   The same people, the same drinks  
-         ***C***  
+    ***C***  
   and the same music,  
   ***C7***  
   the same quicksand.  
   ***G       D          C***  
   I think this harbour town is waist  
-                ***Cm7***  
+    ***Cm7***  
   deep and sinking fast.  
   
   ***G D     C***  
 CHORUS:  Hello city,  You've found  
-        ***C7  G            D      C     Cadd9***  
+    ***C7  G            D      C     Cadd9***  
   an enemy in me.   (Whoa, whoa, whoa, whoa)  
   ***G D     C               C7***  
   Hello city, (Hello city,) hello city.  
@@ -43,7 +43,7 @@ CHORUS:  Hello city,  You've found
   From the liquor room to the changeroom  
   ***C   C7  G***  
   to the doom and gloom of the hotel room,  
-                ***D***  
+    ***D***  
   I wish this seaside beerhall would  
   ***C         Cm7***  
   sink into the bay.  
@@ -57,26 +57,26 @@ CHORUS:  Hello city,  You've found
   
   ***G        D     C***  
   It's three o'clock in the morning,  
-            ***C7   G   D        C     Cadd9***  
+    ***C7   G   D        C     Cadd9***  
   and I'm hungry so let's eat. (Whoa, whoa)  
   ***G       D***  
   Climb down three flights to the streetlights  
   ***C      C7          G***  
   and the barfights, we're just taking in the sights.  
-                   ***D    C           Cm7***  
+    ***D    C           Cm7***  
   I hope tomorrow that I wake up in my own bed.  
   
   *CHORUS*  
   
-                  ***G***  
+    ***G***  
   What a good place to be,  
-             ***D***  
+    ***D***  
   don't believe them,  
-           ***C***  
+    ***C***  
   'Cause they speak a different language  
-           ***C7   G***  
+    ***C7   G***  
   and it's never been happy for me. (It's happy hour  
-            ***D     C     Cadd9***  
+    ***D     C     Cadd9***  
   again, whoa, whoa)  
   ***G D                 G     D      C     C7***  
   It's Happy Hour again.  (Whoa, whoa)  

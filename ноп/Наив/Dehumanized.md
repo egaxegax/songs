@@ -3,7 +3,7 @@ Dehumanized States of America (1994)
   Dehumanized  
   *(Наив)*  
   
-        ***G                        G#***  
+    ***G                        G#***  
   "The Declaration of the Human Rights!" -  
   ***G                     G#***  
   I am sure that never die.  
@@ -12,13 +12,13 @@ Dehumanized States of America (1994)
   ***G                     G#***  
   I feel that I'm not alone.  
   
-        ***C                             D#***  
+    ***C                             D#***  
   But what can I do about being frustrated,  
    ***C                                  D#***  
   Being depersonalized and predeterminated,  
-       ***D                      F***  
+    ***D                      F***  
   When alienation is common place,  
-          ***D                                      F    G C G C G C***  
+    ***D                                      F    G C G C G C***  
   And I stare at the mirror and I can't see the face!  
   ***C#                     G     C G C G C***  
   I feel that I'm dehumanized!  

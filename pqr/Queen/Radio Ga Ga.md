@@ -16,25 +16,25 @@ Intro:  ***F9 Gm Hb Gm Hb F***
   I heard it on my radio  
   ***(Hb-F)***  
   Radio.  
-       ***F9***  
+    ***F9***  
   You gave them all these old time stars  
-         ***Gm***  
+    ***Gm***  
   Trough wars of worlds-invaded by Mars  
-       ***Hb***  
+    ***Hb***  
   You made 'em laugh-You made 'em cry  
-       ***Gm               Hb   -    F***  
+    ***Gm               Hb   -    F***  
   You made us feel like we could fly.  
-       ***F***  
+    ***F***  
   So don't become some background noise  
       ***Hdim***  
   A backdrop for the girls and boys  
-       ***H***  
+    ***H***  
   Who just don't know or just don't care  
       ***Hmaj7/4***  
   And just complain if you're not there  
-       ***Eb***  
+    ***Eb***  
   You had yor time,you had your power  
-         ***C7sus4-C7         C7sus4-C7***  
+    ***C7sus4-C7         C7sus4-C7***  
   You've yet to have your finest hour  
   ***Hb-f***  
   Radio.  

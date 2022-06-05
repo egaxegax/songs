@@ -2,21 +2,21 @@
 1993 - Modern Life Rubbish  
   CHEMICAL WORLD  
   
-         ***A                A/Bass Ab***  
+    ***A                A/Bass Ab***  
   The pay-me girl has had enough of the bleeps  
-         ***D              C     G***  
+    ***D              C     G***  
   So she takes a bus into the country  
   ***A                       A/Bass Ab***  
   Although she got herself rosy cheeks  
       ***D                     C       G***  
   She didn't leave enough money to pay the rent  
-       ***A                       A/Bass Ab***  
+    ***A                       A/Bass Ab***  
   The landlord says that she's out in a week  
     ***D                  C            G***  
   What a shame she was just getting comfy  
    ***A                            A/Bass Ab***  
   Now she's eating chocolate to induce sleep  
-       ***D                   C           G***  
+    ***D                   C           G***  
   In a chemical world it's very, very, very cheap  
    ***A                      Amaj7***  
   And I don't know about you  
@@ -32,7 +32,7 @@
   Across the street at the exhibitionist  
     ***A                A/Bass Ab***  
   These townies they never speak to you  
-       ***D                 C               G***  
+    ***D                 C               G***  
   Just stick together so they never get lonely  
   ***A                     A/Bass Ab***  
   Feeling lead, feeling quite light-headed  
@@ -40,7 +40,7 @@
   Had to sit down and have some sugary tea  
    ***A               A/Bass Ab           D***  
   In a chemical world, in a chemical world  
-        ***C           G***  
+    ***C           G***  
   it's very, very, very cheap  
   
 -  

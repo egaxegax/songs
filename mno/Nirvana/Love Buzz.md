@@ -24,7 +24,7 @@ Bleach (1989)
   4|-7----5-7-8------  
   *play that 4x, then Riff A 4x substituting the following strange bend for*  
   *the pullofs the last time:*  
-           )~~~  
+    )~~~  
   6|-(5)/17----  
   
 Verse:  Bass Intro Riff  

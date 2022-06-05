@@ -15,7 +15,7 @@ Sunday Girl
   Run and hide sunday girl  
   ***G***  
   Hurry up hurry up and wait  
-          ***D***  
+    ***D***  
   I stay away all week and still I wait  
     ***G***  
   I got the blues please come see  
@@ -27,13 +27,13 @@ Sunday Girl
   The weekend mood and she's feeling proud  
   ***A       B            E***  
   Live in dream sunday girl  
-       ***A       B          E***  
+    ***A       B          E***  
   Baby I would like to go out tonight  
-       ***A       B               E***  
+    ***A       B               E***  
   If I go with you my folks'll get uptight  
   ***A       B           C#m***  
   Stay at home Sunday girl  
-          ***G#m F# A B***  
+    ***G#m F# A B***  
   Ooo Ooo Oooh  
   ***E              A   B      E***  
   Hey I saw your guy with a different girl  
@@ -41,7 +41,7 @@ Sunday Girl
   Looks like he's in another world  
   ***A B     E***  
   Run and hide sunday girl  
-         ***A        B           E***  
+    ***A        B           E***  
   When I saw you again in the summer time  
   ***A       B           E***  
   If your love was as sweet as mine  

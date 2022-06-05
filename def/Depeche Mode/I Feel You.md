@@ -18,11 +18,11 @@ A|-3-0-0-0-----3-0-0-0-----|
 E|-------------------------|  
   
 Chords : Am - x 0 2 2 1 0  
-         Dm - x 0 0 2 3 1  
-         G  - x 2 0 0 0 3  
-         C  - x 3 0 2 1 0  
-         F  - x x 3 2 1 1 or 1 3 3 2 1 1  
-         F#m- 2 4 4 2 2 2  
+    Dm - x 0 0 2 3 1  
+    G  - x 2 0 0 0 3  
+    C  - x 3 0 2 1 0  
+    F  - x x 3 2 1 1 or 1 3 3 2 1 1  
+    F#m- 2 4 4 2 2 2  
   
 Lyrics/Chords  
 -------------  
@@ -33,10 +33,10 @@ Verse :
 Am, Riff 1  
 I feel you, your sun it shines, I feel you, within my mind  
   
-            Dm                 G                  Am, Riff 1  
+    Dm                 G                  Am, Riff 1  
 You take me there, You take me where, The kingdom comes  
   
-            Dm              G               Am, Riff 1  
+    Dm              G               Am, Riff 1  
 You take me to, And lead me through, Babylon  
   
   

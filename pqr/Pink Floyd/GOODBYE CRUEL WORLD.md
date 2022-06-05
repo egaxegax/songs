@@ -7,9 +7,9 @@ I'm leaving you today
 Goodbye, Goodbye, Goodbye  
 D  
 Goodbye all you people  
-       G  
+    G  
 There's nothing you can say  
-          D         A  
+    D         A  
 To make me change my mind  
 D  
 Goodbye.

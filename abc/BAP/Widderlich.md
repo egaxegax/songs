@@ -8,25 +8,25 @@ Intro:  ***Bm D E Em***
   
   ***Bm***  
   Wer nur Hass saeht, dae weiss  
-         ***A              E***  
+    ***A              E***  
   dat Jewalt druss entsteht  
   ***Bm***  
   Wer op Neid setz, dae weiss  
-                     ***A        E***  
+    ***A        E***  
   wie dae Poebel met Fremden oemjeht  
   ***Bm                D***  
   en nem Ellboore-land  
-                       ***A           E***  
+    ***A           E***  
   wo mer Suendeboeck schon ens verbrannt  
   ***G                   D***  
   He, spart uech die Kraenz,  
-                        ***A***  
+    ***A***  
   ihr kuennt mich nit blende  
-                        ***G***  
+    ***G***  
   Die Betroffenheitsphrase sinn zynisch  
-       ***Em                    A***  
+    ***Em                    A***  
   so falsch, wie Krokodilstraene  
-                   ***D***  
+    ***D***  
   Ihr sitt widderlich, nimieh zo erdraare  
   ***Bm***  
   ihr sitt penetrant  
@@ -38,29 +38,29 @@ Intro:  ***Bm D E Em***
   Wat kammer vun uech schon erwaade?  
   ***Em             G                         A***  
   Karrierejeil sitt ihr, Versaager, sons nix  
-                   ***Bm                   (E?)***  
+    ***Bm                   (E?)***  
   Ihr sitt widderlich!  
   ***Bm***  
   Waehrend ihr ohne Skrupel  
-                     ***A           E***  
+    ***A           E***  
   Grundraeaechte verkruppelt, zersaegt  
   ***Bm***  
   un en Talkshows op dufte maht  
-              ***A       E***  
+    ***A       E***  
   damet dat jonit opfaellt  
   ***Bm***  
   Freut ihr euch weg,  
-        ***D                        A           E***  
+    ***D                        A           E***  
   wenn unsereins schoen brav dae Pausenclown maeht?  
   ***G                      D***  
   Dat die Welt nur nit denk  
-                         ***A***  
+    ***A***  
   et kuennt noch ens passiere  
-                            ***G***  
+    ***G***  
   Deit mer leit, keine Schlaag mie,  
-                        ***Em                 A***  
+    ***Em                 A***  
   sulang Schleimer wie ihr dat Land he rejiere  
-                   ***D***  
+    ***D***  
   Ihr sitt widderlich, nimieh zo erdraare  
   ***Bm***  
   ihr sitt penetrant  
@@ -72,18 +72,18 @@ Intro:  ***Bm D E Em***
   Wat kammer vun uech schon erwaade?  
   ***Em             G                         A***  
   Karrierejeil sitt ihr, Versaager, sons nix  
-                   ***Bm                      (E?)***  
+    ***Bm                      (E?)***  
   Ihr sitt widderlich!  
   
 Solo:  ***Bm A Bm Em Bm E G F#m?***  
   
   ***G                   D                  A***  
   Wie kuennt ihr uech selvs em Spejel erdraare?  
-                            ***G                        Em***  
+    ***G                        Em***  
   Wenn ihr 'n Unschuld de Haeng waescht, en Kameras strahlt  
-                         ***A***  
+    ***A***  
   litt uech dann nix em Maare?  
-                   ***D***  
+    ***D***  
   Ihr sitt widderlich, nimieh zo erdraare  
   ***Bm***  
   ihr sitt penetrant  
@@ -95,7 +95,7 @@ Solo:  ***Bm A Bm Em Bm E G F#m?***
   Wat kammer vun uech schon erwaade?  
   ***Em             G                         A***  
   Karrierejeil sitt ihr, Versaager, sons nix  
-                   ***Bm***  
+    ***Bm***  
   Ihr sitt widderlich!  
   
   ***Em Bm E Bm***

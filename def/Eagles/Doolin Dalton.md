@@ -4,9 +4,9 @@ LP "Desperado"
   
 Intro:  ***G Em G Em G G7 C Em A C G D/F#***  
   
-            ***Em            G               Em              G       G7***  
+    ***Em            G               Em              G       G7***  
 1st verse: They were Doolin Doolin-Dalton, high or low it was the same  
-       ***C          Em                A      C           G***  
+    ***C          Em                A      C           G***  
   easy money .....        there are whiskey for the pain  
   
 2nd verse: Go down Bill Dalton ......  

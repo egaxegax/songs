@@ -12,9 +12,9 @@
   */ : slide up*  
   
   *Intro: (synthesizer arranged for guitar)*  
-       ***Bb   F# F            Bb    F#    F***  
+    ***Bb   F# F            Bb    F#    F***  
   Everybody       Rock your body  (yeah eah)  
-       ***Bb    F#        F***  
+    ***Bb    F#        F***  
   Everybody  Rock your body right  
   ***Bb***  
   Backstreet's back alright!  

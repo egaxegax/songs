@@ -15,20 +15,20 @@ Intro:  ***A D C A***
   
       ***A***  
 Chorus:  But I can't tell you the way I feel,  
-           ***D             C***  
+    ***D             C***  
   'Cos the way I feel is oh so new to me,  
      ***A***  
   No I can't tell you the way I feel,  
-           ***D             C***  
+    ***D             C***  
   'Cos the way I feel is oh so new to me,  
   
   ***A***  
   What I heard is not what I hear,  
-        ***D                         C***  
+    ***D                         C***  
   I can see the signs but they're not very clear  
   ***A***  
   What I heard is not what I hear,  
-        ***D                         C***  
+    ***D                         C***  
   I can see the signs but they're not very clear  
   
   *Chorus*  
@@ -36,13 +36,13 @@ Chorus:  But I can't tell you the way I feel,
 Break:  ***A D C***  
   
   ***A        D                  C***  
-           This is confusion, am I confusing you?  
+    This is confusion, am I confusing you?  
   ***A        D                  C***  
-           This is confusion, am I confusing you?  
+    This is confusion, am I confusing you?  
   ***A        D                    C***  
-           This is peculiar, we don't wanna fool ya.  
+    This is peculiar, we don't wanna fool ya.  
   ***A        D                    C***  
-           This is peculiar, we don't wanna fool ya.  
+    This is peculiar, we don't wanna fool ya.  
   
   *If you know how to play ***A***, ***D*** and ***C*** you're sorted :o)*  
   

@@ -17,9 +17,9 @@ Riff:
 --0------------------3----------------------------------------------|  
   
   
-               ***D                   G***  
+    ***D                   G***  
 Out of touch, out of reach yeah  
-               ***Em     G                          D***  
+    ***Em     G                          D***  
 You could try          to get closer to me  
 I'm in luck, I'm in deep, yeah  
 Hypnotized, I'm shakin' to my knees  
@@ -38,7 +38,7 @@ Can't stop this fire
 Oh, I get hysterical, hysteria  
    ***G                     D***  
 Oh can you feel it, do you believe it?  
-       ***Em           C***  
+    ***Em           C***  
 It's such a magical mysteria  
      ***G                            D***  
 When you get that feelin', better start believin'  

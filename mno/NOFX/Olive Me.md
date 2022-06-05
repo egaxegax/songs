@@ -23,9 +23,9 @@ Chords used: [E----------------------------------
 Verse:  All of me, why not take all? Can't you see I'm no good with-  
   ***D        E                        A          D***  
   out you? Take these arms, I wanna lose them. Take these lips  
-             ***Fii E     C                         E     A***  
+    ***Fii E     C                         E     A***  
   I'll never use them. Your goodbye left me with eyes. How can  
-                   ***D***  
+    ***D***  
   I go on being without you?  
   
   ***Fii          G#ii     C                A     D***  
@@ -38,9 +38,9 @@ Chorus:  You took the best, so why not take the rest? Wh
   All of me, why not take all of me? Can't you see I'm no good  
       ***D        E                        A          D***  
   without you? Take these arms, I wanna lose them. Take these  
-                  ***Fii E     C                         E***  
+    ***Fii E     C                         E***  
   lips I'll never use them. Your goodbye left me with eyes  
-              ***A                     D***  
+    ***A                     D***  
   that cried. How can I go on being without?  
   ***Fii          G#ii      C           A      D            G***  
   You took the part that once was my heart, why not take olive  

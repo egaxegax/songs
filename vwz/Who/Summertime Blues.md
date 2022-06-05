@@ -25,7 +25,7 @@
   The boss said "no dice, son, you gotta work late"  
   ***D                       Dsus  D     Dsus  D***  
   Sometimes I wonder what I'm a'gonna do  
-        ***A  tacit                                       A D E A***  
+    ***A  tacit                                       A D E A***  
   There ain't no cure for the summertime blues  
   Well, my mom and poppa told me, "son, you gotta earn some money  
   If you wanna use the car to go riding next sunday."  
@@ -41,7 +41,7 @@
   ||--4/5---4---2/4-----2-----||-----------------------|  
   ||------------------------0-||-----------------------|  
   ||--------------------------||-----------------------|  
-                                                x2  
+    x2  
   |-----9---7-----7----------||-------------------||-----------------|  
   |-------------------0--2---||---5--5--5--5--5---||-5--5------------|  
   |--7/9---7-----7-------2---||---7^ 7^ 7^ 7^ 7^--||-7^-7^---7-5^----|  
@@ -63,16 +63,16 @@
   ||-4--2----4----4-||-4-4-4--4-4-4-||-4---2---|  
   ||-2--2----4--0-2-||-0-2-2--0-2-2-||-0---2---|  
   ||----0----2------||--------------||-----0-0-|  
-        ***B                                             B E  F# B***  
+    ***B                                             B E  F# B***  
   Gonna take two weeks gonna have a fine vacation  
-        ***B       B/A riff.....***  
+    ***B       B/A riff.....***  
   Gonna take my problem to the United Nations  
     ****D    D6    D7      D6      D  D6    D7    D6***  note: PT's error - should be ***E****  
   I went to my congressman and he said, quote  
-       ***B                                                     B***  
+    ***B                                                     B***  
   "I'd like to help you, son, but you're too young to vote."  
   ***E                       Esus        E***  
   Sometimes I wonder what I'm a gonna do  
-               ***B***  
+    ***B***  
   'Cause there ain't no cure for the summertime blues  
   ***|| B E  F#  B ||***

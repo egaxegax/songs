@@ -3,13 +3,13 @@ Running to Paradise (1996)
   The Unappeasable Host  
   *(W. B. Yeats)*  
   
-         ***Hm    Hm/a    G          D                 A***  
+    ***Hm    Hm/a    G          D                 A***  
   The Danaan children laugh, in cradles of wrought gold,  
-        ***Hm        Hm/a    G           D               A***  
+    ***Hm        Hm/a    G           D               A***  
   And clap their hands together, and half close their eyes,  
-                 ***Hm    Hm/a C              Em         A***  
+    ***Hm    Hm/a C              Em         A***  
   For they will ride the   North when the ger-eagle flies,  
-               ***Hm  Hm/a G            F#    G      F#***  
+    ***Hm  Hm/a G            F#    G      F#***  
   With heavy whitening wings, and a heart fallen cold  
   
   I kiss my wailing child and press it to my breast,  

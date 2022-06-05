@@ -1,11 +1,11 @@
 <!--2020-09-06 04:12:51-->
 After Dark  
   
-       ***B A    B***  
+    ***B A    B***  
   Watching her  
   ***A                     B A       B A***  
   Strolling in the night so white  
-          ***E5***  
+    ***E5***  
   Wondering why  
   ***F#5                   B A   B A   B A   B A***  
   It's only After Dark  
@@ -14,27 +14,27 @@ After Dark
   In her eyes  
     ***A           B A               B A***  
   A distant fire light burns bright  
-           ***E5***  
+    ***E5***  
   Wondering why  
   ***F#5                   B A   B A   B A   B A***  
   It's only After Dark  
   
-         ***E5   D      E5   D***  
+    ***E5   D      E5   D***  
   I find myself in her room  
-         ***E5   D      E5   D***  
+    ***E5   D      E5   D***  
   Feel the fever of my doom  
-         ***F#   E         F#    E***  
+    ***F#   E         F#    E***  
   Falling falling through the floor  
   ***F#                                B A   B A***  
   I'm knocking on the Devils door  
   
 Solo:  ***B  A   B  A   B  A***  
   
-            ***E5  D        E5  D***  
+    ***E5  D        E5  D***  
   Burning burning in the flame  
-            ***E5  D        E5  D***  
+    ***E5  D        E5  D***  
   Now I know her secret name  
-            ***F#  E5       F#  E5***  
+    ***F#  E5       F#  E5***  
   You can tear her temple down  
   ***F#***  
   But she'll be back and rule again  
@@ -43,7 +43,7 @@ Solo:  ***B  A   B  A   B  A***
   In my heart  
      ***A           B A             B A***  
   A deep and dark and lonely part  
-            ***E5***  
+    ***E5***  
   Wants her and waits for  
   ***B           C           D           E           F#***  
   After Dark  After Dark  After Dark  After Dark  After Daaaaark  
@@ -112,11 +112,11 @@ INTRO:  [---5slide7---10--7slide5--------------------------
   --------------------------------2-----------------  
   --------------------------------------------------]  
   
-       ***B A    B***  
+    ***B A    B***  
   Watching her  
   ***A                     B A       B A***  
   Strolling in the night so white  
-          ***E5***  
+    ***E5***  
   Wondering why  
   ***F#5                   B A   B A   B A   B A***  
   It's only After Dark  
@@ -125,16 +125,16 @@ INTRO:  [---5slide7---10--7slide5--------------------------
   In her eyes  
     ***A           B A               B A***  
   A distant fire light burns bright  
-           ***E5***  
+    ***E5***  
   Wondering why  
   ***F#5                   B A   B A   B A   B A***  
   It's only After Dark  
   
-         ***E5   D      E5   D***  
+    ***E5   D      E5   D***  
   I find myself in her room  
-         ***E5   D      E5   D***  
+    ***E5   D      E5   D***  
   Feel the fever of my doom  
-         ***F#   E         F#    E***  
+    ***F#   E         F#    E***  
   Falling falling through the floor  
   ***F#                                B A   B A***  
   I'm knocking on the Devils door  yeah yeah ...  
@@ -144,11 +144,11 @@ Solo:  ***B  A   B  A   B  A***
   In the dark  
   I wake up to find her gone and the note  
   Says only after dark  
-            ***E5  D        E5  D***  
+    ***E5  D        E5  D***  
   Burning burning in the flame  
-            ***E5  D        E5  D***  
+    ***E5  D        E5  D***  
   Now I know her secret name  
-            ***F#  E5       F#  E5***  
+    ***F#  E5       F#  E5***  
   You can tear her temple down  
   ***F#***  
   But she'll be back and rule again  
@@ -157,7 +157,7 @@ Solo:  ***B  A   B  A   B  A***
   In my heart  
      ***A           B A             B A***  
   A deep and dark and lonely part  
-            ***E5***  
+    ***E5***  
   Wants her and waits for  
   ***B           C           D           E           F#***  
   After Dark  After Dark  After Dark  After Dark  After Daaaaark  

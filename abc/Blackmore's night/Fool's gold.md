@@ -3,7 +3,7 @@ Fool's gold
   
   ***Bbm       F#   Ab     Bbm***  
   Somewhere in a market square  
-         ***Db   Ab        Bbm***  
+    ***Db   Ab        Bbm***  
   The cobblestone still shine  
   ***Bbm    F#   Ab         Bbm***  
   Glassy eyes behold the sight  
@@ -29,7 +29,7 @@ Fool's gold
   The jester or the king?  
   ***F#         Ab        Db    (Bbm)***  
   A fortress made from Fools Gold  
-         ***F#                      F***  
+    ***F#                      F***  
   Or the tears that treasure can bring?  
   Who holds the riches  
   The jester or the king?  

@@ -31,17 +31,17 @@ Pre-Chorus: I asked you out for losing truth or dare
   
   ***C                 C/B***  
 Chorus:  Pinch me, is this real?  
-                            ***F          G***  
+    ***F          G***  
   I’m on a one-way ticket out of loserville  
-                         ***C***  
+    ***C***  
   Now I’m off the social flat line  
-                     ***C/B***  
+    ***C/B***  
   Things are so good that I’m  
-                 ***F          G***  
+    ***F          G***  
   Taking down my star trek shrine  
-                              ***C          C/B***  
+    ***C          C/B***  
   And you’re more than just a valentine  
-            ***F***  
+    ***F***  
   You’re my ticket outta loserville  
   
   ****C***, ***C/B***, ***F****  
@@ -50,9 +50,9 @@ Chorus:  Pinch me, is this real?
 (2)  She gives me butterflies  
    ***C/B               F***  
   Says I’m not like all the other guys  
-                               ***G***  
+    ***G***  
   Doesn’t care what car I drive  
-             ***F***  
+    ***F***  
   She still enjoys the ride  
   ***C***  
   When I got to sleep I know  
@@ -67,20 +67,20 @@ Chorus:  Pinch me, is this real?
   
   ***C                      C/B***  
 Chorus:  Pinch me, is this real?  
-                           ***F         G***  
+    ***F         G***  
   I’m on a one-way ticket out of loserville  
-                         ***C***  
+    ***C***  
   Now I’m off the social flat line  
-                      ***C/B***  
+    ***C/B***  
   Things are so good that I’m  
-                ***F           G***  
+    ***F           G***  
   Taking down my star trek shrine  
   
   ****C***, ***C/B***, ***F***, ***G****  
   
   ***C                    C/B***  
 Bridge:  You blew me out on a Sunday night  
-           ***F               G***  
+    ***F               G***  
   You were bored to tears pretending  
   ***C               C/B***  
   Knew what you wanted and I’m nothing like the  
@@ -88,38 +88,38 @@ Bridge:  You blew me out on a Sunday night
   guy in your happy ending  
   ***C                      C/B***  
   Well you were wrong to lead me on  
-             ***F                 G***  
+    ***F                 G***  
   Now in the night I wake up screaming  
   ***C                     C/B***  
   Where the hell did I go wrong?  
-          ***F               G***  
+    ***F               G***  
   Where’s Scotty when you need him?  
   
   ***C                 C/B***  
   Pinch me, is this real?  
-                          ***F            G***  
+    ***F            G***  
   I’m on a one-way ticket back to loserville  
-                         ***C***  
+    ***C***  
   Heading for the social flat line  
-                    ***C/B***  
+    ***C/B***  
   Things are so bad that  
-                     ***F          G***  
+    ***F          G***  
   I’m dusting off my star trek shrine  
   ***C                C/B***  
   This is where it ends and I can taste the glory  
   ***F           G***  
   How can I depend  
-                    ***C***  
+    ***C***  
   On a better story maybe?  
-                    ***C/B***  
+    ***C/B***  
   Knew it could of saved me  
-                   ***F       G***  
+    ***F       G***  
   Think about her all the time  
-                           ***C         C/B***  
+    ***C         C/B***  
   It’s like I never had her valentine  
-                      ***F       G***  
+    ***F       G***  
   So I guess I better kiss goodbye  
-        ***C***  
+    ***C***  
   To my ticket outta loserville  
   
   *Outro - ***C***, ***C/B***, ***F***, ***G***, ***C***(1 stroke on ***C***)*

@@ -20,7 +20,7 @@ Album: Just about all of them first on Are you Exprienced
   |-------------0-3-----------------------------------|  
   
   *THEN (strum once for each [\] and for the chord letter itself for*  
-         *example  ***E*** [\] [\] [\] would mean strum the ***E*** chord 4 times)*  
+    *example  ***E*** [\] [\] [\] would mean strum the ***E*** chord 4 times)*  
   
   ***E7#9 [\] [\] [\] E7#9 [\] [\] [\] G [\] [\] [\] A [\] [\] [\]***  
   

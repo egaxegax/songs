@@ -4,11 +4,11 @@ Little Busters
 Intro:  ***C G F*** } 2x  
   ***C Em Am Em Dm***  
   
-            ***С   G           F***  
+    ***С   G           F***  
   With the kids sing out the future                \  
     ***C    G        F                     \***  
   Maybe, kids don't need the masters                 } 2x  
-          ***C    Em       Am     Em       Dm          /***  
+    ***C    Em       Am     Em       Dm          /***  
   Just waiting for the little Busters (oh yeah...) /  
   
   ***G           C***  

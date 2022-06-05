@@ -39,7 +39,7 @@ Feeling This
   D-----------------------------x-x-x-x-x--x-x--x-x-x-x-x--x--x-x--x-x-x-x-x-x-  
   A9-7-7-7-7-7-11-9-7-7-7-7-7-11-9-7-7-7-7-7-11-9-7-7-7-7-7-11-9-7-7-7-7-7-11  
   E----------0--------------0---------------0---------------0---------------0--]  
-         *^ is the same as the beginging so just repeat the beginging*  
+    *^ is the same as the beginging so just repeat the beginging*  
   
   [e-------------------------------------  
   B-------------------------------------  

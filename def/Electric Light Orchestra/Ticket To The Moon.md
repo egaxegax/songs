@@ -21,13 +21,13 @@ Intro:  Remember the good old 1980's?
   ***A***  
   And everything could be the same.  
   
-             ***Dm***  
+    ***Dm***  
 Verse:  I've got a ticket to the moon  
   ***G                    Dm***  
   I'll be leaving here any day soon  
   ***G                 Dm            C   Bb***  
   Yeah, I've got a ticket to the mo-o-on  
-           ***C              F          A***  
+    ***C              F          A***  
   But I'd rather see the sunrise in your eyes.  
   
   Got a ticket to the moon  
@@ -41,7 +41,7 @@ Chorus:  Ticket to the moon (ticket to the moon)
   Ticket to the moon (ticket to the moon)  
    ***Dm            C     Bb            A***  
   Ticket to the moon (ticket to the moon).  
-                                           (***Dm Am Dm Am***)  
+    (***Dm Am Dm Am***)  
   
     ***Bb***  
   Fly, fly through a troubled sky  

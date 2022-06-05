@@ -5,9 +5,9 @@ G
  I want to say sometimes  
  G  
  There?s no one here but you and me  
-            D  
+    D  
  And that broken old street light  
-           Hm  
+    Hm  
  Lock the doors  
  G      A  
  We?ll leave the world outside  
@@ -17,13 +17,13 @@ G
   Припев:  
 D                     G  
 Thank you for loving me  
-                  A  
+    A  
 For being my eyes  
       D  
 When I couldn?t see  
-            Hm  
+    Hm  
 For parting my lips  
-                         A*  
+    A*  
 When I couldn?t breathe  
 D           G          A  
 Thank you for loving me  
@@ -54,7 +54,7 @@ Yeah, yeah, yeah...
  Проигрыш (там соляк вообще-то)  
  D G A D  
   
-           Hm  
+    Hm  
  Lock the doors  
  G            A  
  We?ll leave the world outside  

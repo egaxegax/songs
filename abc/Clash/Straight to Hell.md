@@ -13,7 +13,7 @@
   *Play the following riff throughout the song where you see the ***D*** to ***G****  
   *chord sequence. Keep in mind that they change octaves with the different*  
   *effects. Bring 'er down an octave and you have a lot of the bass line.*  
-           ***D                        G***  
+    ***D                        G***  
   [--------------------------------------------------------------------  
   -----------------------------------5---3-3------5---3-3-------------  
   ---------4----2-2-----4---2-2---------------------------------------  
@@ -21,7 +21,7 @@
   --------------------------------------------------------------------  
   -------------------------------------------------------------------]  
   *and/or*  
-           ***D                         G***  
+    ***D                         G***  
   [---------------------------------------------------------------------  
   -------------------------------------------------------------------  
   ---------4----2-2-----4---2-2----------------------------------------  
@@ -52,13 +52,13 @@
   Clear as winter ice  
   ***Bm               G***  
   This is your paradise  
-                 ***D***  
+    ***D***  
   There ain't no need for ya  
-                 ***G***  
+    ***G***  
   There ain't no need for ya  
-                 ***D***  
+    ***D***  
   Go straight to hell boys  
-                 ***G***  
+    ***G***  
   Go straight to hell boys  
   ***Bm                G***  
   Y'wanna join in a chorus  

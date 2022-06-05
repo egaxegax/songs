@@ -3,80 +3,80 @@ Please Please Me (Mar.1963)
   I Saw Her Standing There  
   *(Lennon/McCartney)*  
   
-                ***A                 D7         A***  
+    ***A                 D7         A***  
   Well she was just seventeen, if you know what I mean,  
-                        ***E7***  
+    ***E7***  
   And the way she looked was way beyond compare,  
       ***A           A7        D       F          A    E7     A***  
   So how could I dance with another,     when I saw her standing there.  
   
-        ***A                    D7           A***  
+    ***A                    D7           A***  
   Well she looked at me, and I, I could see,  
-                                             ***E7***  
+    ***E7***  
   That before too long I'd fall in love with her.  
    ***A            A7          D       F          A          E7       A***  
   She wouldn't dance with another,     when I saw her standing there.  
   
-           ***D7***  
+    ***D7***  
   Well my heart went boom when I crossed that room,  
-              ***E         D***  
+    ***E         D***  
   And I held her hand in mine...  
   
-            ***A                      D7             A***  
+    ***A                      D7             A***  
   Well we danced through the night, and we held each other tight,  
-                                           ***E7***  
+    ***E7***  
   And before too long I fell in love with her.  
-       ***A          A7          D       F           A        E7       A***  
+    ***A          A7          D       F           A        E7       A***  
   Now I'll never dance with another,     since I saw her standing there.  
   
   *Instrumental same as verse*  
   
-           ***D7***  
+    ***D7***  
   Well my heart went boom when I crossed that room,  
-              ***E         D***  
+    ***E         D***  
   And I held her hand in mine...  
   
-            ***A                      D7             A***  
+    ***A                      D7             A***  
   Well we danced through the night, and we held each other tight,  
-                                           ***E7***  
+    ***E7***  
   And before too long I fell in love with her.  
-       ***A          A7          D       F           A        E7       A***  
+    ***A          A7          D       F           A        E7       A***  
   Now I'll never dance with another,     since I saw her standing there.  
-           ***A        E7       A***  
+    ***A        E7       A***  
   Since I saw her standing there.  
-           ***A        E7       A***  
+    ***A        E7       A***  
   Since I saw her standing there.  
   
 -  
   
-               ***E7                     A7          E7***  
+    ***E7                     A7          E7***  
   Well she was just seventeen and you know what I mean  
-                                        ***B7***  
+    ***B7***  
   And the way she looked was way beyond compare  
      ***E           E7           A7    C7***  
   So how could I dance with another oh,  
-         ***E7      B7       E7***  
+    ***E7      B7       E7***  
   when I saw her standing there  
   
-       ***E7                      A7      E7***  
+    ***E7                      A7      E7***  
   Well she looked at me and I, I could see  
-                                             ***B7***  
+    ***B7***  
   That before too long I'd fall in love with her  
   ***E            E7           A7***  
   She wouldn't dance with another  
   ***C7          E7      B7       E7***  
   Oh,  when I saw her standing there  
   
-          ***A7***  
+    ***A7***  
   Well my heart went boom when I crossed that room  
-                         ***B7  A7***  
+    ***B7  A7***  
   and I held her hand in mine  
   
-          ***E7***  
+    ***E7***  
   Well we danced through the night  
-         ***A7              E7***  
+    ***A7              E7***  
   and we held each other tight  
-                                          ***B7***  
+    ***B7***  
   And before too long I fell in love with her  
       ***E          E7         A7***  
   Now I'll never dance with another  

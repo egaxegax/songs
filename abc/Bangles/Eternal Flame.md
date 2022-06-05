@@ -6,11 +6,11 @@ Intro:  ***G Gsus4 G Gsus4***
   
   ***G          Em7   C            D     G***  
   Close your eyes, give me your hand, darling.  
-         ***Em7           C***  
+    ***Em7           C***  
   Do you feel my heart beating,  
   ***D           Em7***  
   do you understand?  
-         ***B7       Em7***  
+    ***B7       Em7***  
   Do you feel the same?  
   ***A7        D       Bm7***  
   Am I only dream - ing, or  
@@ -24,7 +24,7 @@ Intro:  ***G Gsus4 G Gsus4***
   is this burning an eternal flame?  
   ***D      Dm7                          D***  
   Say my name, sun shines through the rain,  
-          ***F       G               C        G/B      Am7   C/G***  
+    ***F       G               C        G/B      Am7   C/G***  
   a whole life so lonely and then come and ease the pain.  
   ***D       Bm7             F/C  C    Dsus2***  
   I don't wanna lose this feel-ing, oh  
@@ -33,11 +33,11 @@ Intro:  ***G Gsus4 G Gsus4***
   
   ***G          Em7   C            D     G***  
   Close your eyes, give me your hand, darling.  
-         ***Em7               C***  
+    ***Em7               C***  
   Do you feel my heart beating,  
   ***D7sus4      Em***  
   do you understand?  
-         ***B7       Em7***  
+    ***B7       Em7***  
   Do you feel the same?  
   ***A7        D       Bm7***  
   Am I only dream - ing, or  

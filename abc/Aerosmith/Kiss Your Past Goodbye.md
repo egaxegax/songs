@@ -25,9 +25,9 @@ intro:  [e---5---5---5---5-----------------------------------------------
   oh barefoot children cryin'  my oh my  
   *(repeat)*  
 chorus:  Kiss your past goodbye  
-                      ***G           F***  
+    ***G           F***  
   Kiss your past goodbye  
-                      ***A           D***  
+    ***A           D***  
   Kiss your past goodbye  
-                      ***G           F#***  
+    ***G           F#***  
   Kiss your past goodbye          yeah yeah yeah

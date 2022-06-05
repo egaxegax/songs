@@ -3,7 +3,7 @@ Tuning: D G C F A D (standard, full step down)
   
 Intro: A  
   
-          A                   E  
+    A                   E  
 Now the flames they followed Joan of Arc  
 D                     A  
 As she came riding through the dark  
@@ -17,9 +17,9 @@ I want the kind of work I had before
 A wedding dress or something white  
 To wear upon my swollen appetite."  
   
-       E                            Bm  
+    E                            Bm  
 La la la, la la la, la la la la la la  
-                D                  A  E               A  
+    D                  A  E               A  
 La la la la la la, la la la la la la, la la la la la la  
   
 Well, I'm glad to hear you talk this way  

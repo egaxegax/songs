@@ -13,7 +13,7 @@ Don't Let Me Down
   Nobody ever loved me like she does   oo she does    yes she  
   ***E  Esus4 E                                      F#m***  
   does     And if somebody ever loved me like she do me oo she  
-               ***F#m/B   E  Esus4***  
+    ***F#m/B   E  Esus4***  
   do me,       yes she does  
   
   *Chorus*  
@@ -27,7 +27,7 @@ Don't Let Me Down
   
   ***E                                                              B***  
   I'm in love for the first time  Don't you know it's gonna last.  
-                            ***B7                              E***  
+    ***B7                              E***  
   It's a love that lasts forever,   It's a love that had no past  
   
   *Chorus*  

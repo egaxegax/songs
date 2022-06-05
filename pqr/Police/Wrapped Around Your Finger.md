@@ -5,7 +5,7 @@ Wrapped Around Your Finger
   You consider me the young apprentice  
   ***Am                    G/A Esus    Am       Em7***  
   Caught between the scylla and charibdes  
-                ***G/A   Em7      Am            Em7***  
+    ***G/A   Em7      Am            Em7***  
   Hynotized by you if I should linger  
   ***Am                G/A  Esus     Am         Em7***  
   Staring at the ring around your finger  

@@ -15,7 +15,7 @@
   *The main riff is rock and roll itself. Perhaps one of the*  
   *most used rock rythyms going - it still sounds fresh on this*  
   *album - even in 1994!!*  
-         ***A***  
+    ***A***  
   [E---------------------------------------|  
   B------3--3-po-2-----3-3-po-2-----------|  
   G------2--2----2-----2-2----2-----------|  
@@ -36,7 +36,7 @@ verse:  y' say that that you play too loud
   say that you're my disease  
   well, shake your stuff  
   
-          ***G5      D/F#     A5***  
+    ***G5      D/F#     A5***  
 chorus:  It's a Rock and Roll damnation  
   ***G5       D/F##     A5***  
   ma's own whipping boy  
@@ -63,7 +63,7 @@ Chorus:  Intro section over the lyrics:
   cos you're way out of reach  
   living in your sin you gotta practise what you preach  
   
-          ***G5      D/F#     A5***  
+    ***G5      D/F#     A5***  
 Chorus:  It's a Rock and Roll damnation  
   ***G5       D/F##     A5***  
   ma's own whipping boy  

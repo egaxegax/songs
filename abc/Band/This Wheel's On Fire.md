@@ -2,25 +2,25 @@
 This Wheel's On Fire  
   *(Bob Dylan and The Band)*  
   
-            ***Am***  
+    ***Am***  
   If your memory serves you well  
-                    ***Bo7***  
+    ***Bo7***  
   We were goin' to meet again and wait  
-           ***E***  
+    ***E***  
   So I'm goin     ***F             Dm      Am***  
   And sit before it gets too late  
     ***C                Am***  
   No man alive will come to you  
-        ***C               Am***  
+    ***C               Am***  
   With another tale to tell  
-            ***C                 Am***  
+    ***C                 Am***  
   But you know that we shall meet again  
-            ***F      Dm        Am***  
+    ***F      Dm        Am***  
   If your memory serves you well  
   
   ***Dm               F       C              G  G7***  
 CHORUS:  This wheel's on fire, rolling down the road  
-        ***C   G      F      C***  
+    ***C   G      F      C***  
   Best notify my next of kin  
    ***F          G       A***  
   This wheel shall explode!  

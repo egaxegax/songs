@@ -19,7 +19,7 @@ Intro:  *Guitar 1 plays Chords above Tab, Guitar 2 plays T
   D|------------|-------------------|  
   A|------------|-------------------|  
   E|------------|-------------------|]  
-                          Oh Yeah  
+    Oh Yeah  
   
   *Verse 1 *You can play the Power Chords,*  
   *when noted or play the Normal Chords.*  
@@ -49,7 +49,7 @@ Verse 2: Oh please say to me you'll let me be your man.
   And when I touch you I feel happy inside.  
   ***Dm            G               C***  
   It's such a feeling that my love,  
-           ***D*    C*       D*   C*       D*  D5 D6 D5 D6 D5***  
+    ***D*    C*       D*   C*       D*  D5 D6 D5 D6 D5***  
   I can't hide,  I can't hide, I can't hide.  
   
 Verse 3: Yeah you got that somethin', I think you'll understand.  

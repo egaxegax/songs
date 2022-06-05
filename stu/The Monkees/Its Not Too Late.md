@@ -26,15 +26,15 @@ Vs 2:  The summer sin, and the winter snow
   I would have no fear  
   Your name would be my dying prayer.  
   
-                  ***G        C                  D***  
+    ***G        C                  D***  
 Chorus:  It's not too late to turn this ship around  
       ***G       D      Em            C              D***  
   To sail into the wind my love before we run aground  
-                  ***G        C                 D***  
+    ***G        C                 D***  
   It's not too late to say that I love you  
-            ***G         D         Em                C                 D***  
+    ***G         D         Em                C                 D***  
   And it's not too late for you my love to say you love me too  
-                  ***G***  
+    ***G***  
   It's not too late.  
   
 Vs. 3:  If I was a rich man's son  

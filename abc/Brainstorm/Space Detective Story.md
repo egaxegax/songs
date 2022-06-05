@@ -3,23 +3,23 @@ C
 Good morning My Goodness and Majesty!  
       F  
 Good morning! I?m a local detective  
-       Am                                      Dm  
+    Am                                      Dm  
 And I search for those who say that I?m not affective  
       C  
 Good morning My Sweet old memories!  
       F  
 Good morning! Now my workdays are over!  
-        Am  
+    Am  
 I don?t care no more for the fingerprints,  
      Dm  
 I go nowhere  
-         G                  C  
+    G                  C  
 Without reason I travel all night  
-            F  
+    F  
 My cosmic ship is undetected  
-        G                      C  
+    G                      C  
 And the Universe is out of my sight  
-           F  
+    F  
 In my Superman shirt as I wait for the sunrise  
  Am                      F                  G  
 Say, I?m not dreaming tonight  To - To - To - To - To  

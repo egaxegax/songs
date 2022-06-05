@@ -7,7 +7,7 @@
   Here comes the sun  
   ***D+7             H7***  
   Here comes the sun  
-            ***A              D A Hm7 A E7***  
+    ***A              D A Hm7 A E7***  
   And I say, It's all right  
   
   ***A                            D                  E7***  

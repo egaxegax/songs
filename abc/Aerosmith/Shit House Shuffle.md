@@ -5,7 +5,7 @@
   
   "At first I thought, who's gonna be interested in this, but then I  
   figured maybe someone will get something out of it"  
-                                                     -Joe Perry  
+    -Joe Perry  
   
   *Here's my arrangement of this thirty-five second rock opera from*  
   *Pandora's Box. The main riff is also played in "South Station Blues" by the*  
@@ -18,7 +18,7 @@
   A-----------------------------------------3-----2-----0---|  
   E---0h1\3-------------------------------------------------|]  
   *Play that riff moderately fast eight times and then try this:*  
-       ***A   F#5  G5   A5  G5***  
+    ***A   F#5  G5   A5  G5***  
   [E----------------------------------------------------------|  
   B----------------------------------------------------------|  
   G----------------------------------------------------------|  

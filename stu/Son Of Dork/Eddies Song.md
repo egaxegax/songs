@@ -60,24 +60,24 @@ Verse:  At 3a.m, it's getting late
   
   ***B                            G#m***  
 Other:  He's in deep and there's a reason  
-                      ***E       Em***  
+    ***E       Em***  
   He's all alone and he can't change  
-               ***F#***  
+    ***F#***  
   Like the season's  
   ***G#m                 B***  
   They come and they go  
   
   ***B***  
   To all the kids who don't look  
-             ***G#m***  
+    ***G#m***  
   Like their Mum or Dad  
   ***F#***  
   Don't freak out, don't you let  
-               ***E   Em***  
+    ***E   Em***  
   'em make you mad  
   ***B***  
   As long as they both love you then  
-       ***G#m***  
+    ***G#m***  
   You should be glad  
   ***F#***  
   Just think about the little problem  

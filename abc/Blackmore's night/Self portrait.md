@@ -7,7 +7,7 @@ Self portrait
   and hang it on the wall  
   ***Am       C           D***  
   Color is darkly, the lines  
-       ***G        Am***  
+    ***G        Am***  
   will start to crawl  
   ***F      G      Am***  
   Down...down...down...  

@@ -6,24 +6,24 @@ Rock & Roll Music
    ***E***  
   Rock And Roll Music,  
   Any old way you choose it;  
-              ***A***  
+    ***A***  
   It's got a black beat, you can't lose it,  
   ***E***  
   Any old time you use it.  
-        ***H***  
+    ***H***  
   It's gotta be Rock And Roll Music,  
-                  ***E***  
+    ***E***  
   If you want to dance with me,  
   ***H                          E***  
   If you want to dance with me.  
   
-                           ***A***  
+    ***A***  
   I've got no kick againt modern jazz,  
-                              ***E***  
+    ***E***  
   Unless they try to play it too darn fast;  
-                                ***A***  
+    ***A***  
   And change the beauty of the melody,  
-                             ***H***  
+    ***H***  
   Until they sounded like a symphony,  
   That's why I go for that  
   Rock And Roll Music...  

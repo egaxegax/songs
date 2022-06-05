@@ -13,7 +13,7 @@ Firth Of Fifth
   And so with gods and men  
   ***Bm/D              Cmaj7/D (ugh again!)***  
   The sheep remain inside their pen,  
-          ***G                  E               Bb dim***  
+    ***G                  E               Bb dim***  
   Though many times they've seen the way to leave.  
   This is exactly the same as above. They're written both together, one  
   verse under the next.  
@@ -27,9 +27,9 @@ Firth Of Fifth
   [:||]  
       ***E         A             Emaj7     A***  
   The mountains cuts off the town from view,  
-          ***Bbm     Ebm          Bb7   Eb***  
+    ***Bbm     Ebm          Bb7   Eb***  
   Like a cancer growth is removed by skill.  
-         ***Eb/F F   G***  
+    ***Eb/F F   G***  
   Let it be   re  vealed.  
   ***Bb/C          Cm/F***  
   A waterfall, his madrigal.  

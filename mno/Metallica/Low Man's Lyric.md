@@ -18,9 +18,9 @@ Low Man's Lyric
   But nowhere safe from the storm  
   ***Am                  G***  
   And I can't bear to see  
-                   ***C***  
+    ***C***  
   What I've let me be  
-                ***B***  
+    ***B***  
   So wicked and worn  
   ***Am               Em***  
   So as I write to you  
@@ -28,9 +28,9 @@ Low Man's Lyric
   Of what is done and to do  
   ***Am                G***  
   Maybe you'll understand  
-                         ***C***  
+    ***C***  
   And won't cry for this man  
-                   ***B                B***  
+    ***B                B***  
   cause low man is due              please forgive me!!!!  
   *Strum Chords from riff 1*  
   *Riff 2*  

@@ -22,20 +22,20 @@ Brand New Cadillac
   baby baby won't you hear my plea  
    ***A                         E***  
   C'mon just come on back to me  
-           ***B7               A***  
+    ***B7               A***  
   She said balls to you  Daddy  
   ***NC                  E         B7***  
   She ain't commin back to me  
   
   *SOLO:  Out of my league, or at least I don't feel like*  
-         *taking a day to tab it out.*  
-         *Maybe a good player can fill in the blanks ;^)*  
+    *taking a day to tab it out.*  
+    *Maybe a good player can fill in the blanks ;^)*  
   
   ***E***  
   Baby drove up in a cadillac  
-          ***A                                        E***  
+    ***A                                        E***  
   I said "Jesus Christ, where did you get that cadillac  
-           ***B7            A***  
+    ***B7            A***  
   She said balls to you Daddy  
   ***NC                      E         B7***  
   She ain't never coming back

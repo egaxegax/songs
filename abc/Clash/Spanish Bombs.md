@@ -20,7 +20,7 @@ Spanish Bombs
   
   ***A                 F#m  C#m  Bm***  
   Spanish Bombs in Andalusia  
-                            ***Dm***  
+    ***Dm***  
   The shooting sites in the days of '39  
   ***A                    F#m      C#m***  
   Oh, please leave the vendetta open  

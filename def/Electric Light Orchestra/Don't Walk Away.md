@@ -21,11 +21,11 @@ Xanadu (1980)
   
   ***C        Am***  
 Chorus:  Don't walk away (don't walk away), don't say goodbye (don't say goodbye)  
-             ***F          G***  
+    ***F          G***  
   Don't turn around (don't turn around), don't let it die (don't let it die)  
-                ***C                                     Am***  
+    ***C                                     Am***  
   When shadows fall (when shadows fall), when day is done (when day is done)  
-                  ***F                                         G***  
+    ***F                                         G***  
   All through the night (all through the night), all of my life (all of my life)  
   ***F            C***  
   Don't walk away  

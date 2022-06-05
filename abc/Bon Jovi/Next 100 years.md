@@ -4,35 +4,35 @@ Next 100 years
   *Intro: ***G*** | ***C*** | ***Em*** | x2  (I think)*  
    ***G***  
   Time ain't nothing but time  
-                         ***C***  
+    ***C***  
   It's a verse with no rhyme  
-                            ***G***  
+    ***G***  
   Man, it all comes down to you  
   ***G                        Em***  
   Change ain't nothing but change  
-                         ***C***  
+    ***C***  
   Just the faces and the names  
-                                   ***G***  
+    ***G***  
   But you know we're gonna make it through  
   ***Am  Em***  
   I    believe  
   ***Am       Em   G          D***  
   When you don't believe in anything  
   *Chorus:*  
-            ***G***  
+    ***G***  
   I-m gonna hold you 'til your hurt is gone  
-         ***Em***  
+    ***Em***  
   Be the shoulder that you're leaning on  
   ***C***  
   I'll be standing here  
-          ***F     C    G***  
+    ***F     C    G***  
   For the next 100 years  
   If it all should end tonight  
   ***Em***  
   I know it was worth the fight  
-          ***C***  
+    ***C***  
   We'll be standing here  
-         ***F      C  G***  
+    ***F      C  G***  
   For the next 100 years  
   I, when I think that I'm, losing my mind, It all comes back to you  
   You, you know that it-s true, after all we-ve been through,  

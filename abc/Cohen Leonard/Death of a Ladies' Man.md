@@ -1,9 +1,9 @@
 <!--2020-09-04 23:34:09-->
 Intro: F . . . |G . . . |Gm . C . |Bb . F . |  
-       F . . . |G . . . |Gm . C . |Bb . F . |  
-       F . . . |F .  
+    F . . . |G . . . |Gm . C . |Bb . F . |  
+    F . . . |F .  
   
-        F                               G  
+    F                               G  
 Ah the man she wanted all her life was hanging by a thread  
     Gm          C              Bb               F  
 "I never even knew how much I wanted you," she said  
@@ -19,11 +19,11 @@ She took unto herself most everything her lover lost
   
 Dm  
 Now the master of this landscape he was standing there at the view  
-         Gm  
+    Gm  
 With a sparrow of St. Francis that he was preaching to  
      Am  
 She beckoned to the sentry of his high religious mood  
-                 Gm               /f#                F           C      F  
+    Gm               /f#                F           C      F  
 She said, "I'll make a place between my legs, I'll show you solitude."  
   
 He offered her an orgy in a many mirrored room  
@@ -63,10 +63,10 @@ Guitarist-friendly version
 Capo 5th fret  
   
 Intro: C . . . |D . . . |Dm . G . |F . C . |  
-       C . . . |D . . . |Dm . G . |F . C . |  
-       C . . . |C .  
+    C . . . |D . . . |Dm . G . |F . C . |  
+    C . . . |C .  
   
-        C                               D  
+    C                               D  
 Ah the man she wanted all her life was hanging by a thread  
     Dm          G              F                C  
 "I never even knew how much I wanted you," she said  
@@ -79,11 +79,11 @@ His muscles they were numbered and his style was obsolete
   
 Am  
 Now the master of this landscape he was standing there at the view  
-         Dm  
+    Dm  
 With a sparrow of St. Francis that he was preaching to  
      Em  
 She beckoned to the sentry of his high religious mood  
-                 Dm               /c#                C           G      C  
+    Dm               /c#                C           G      C  
 She said, "I'll make a place between my legs, I'll show you solitude."  
   
 ...

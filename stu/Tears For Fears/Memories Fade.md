@@ -9,9 +9,9 @@ The Hurting (1983)
   So much I'm losing me.  
      ***Em                           Am***  
   I cannot see the reason for the pain.  
-       ***Em***  
+    ***Em***  
   With hungry joy, I'll be your toy,  
-       ***Am***  
+    ***Am***  
   Just hoping you will play,  
      ***Em                               Am***  
   Without the hope, my body starts to fail  
@@ -20,7 +20,7 @@ The Hurting (1983)
   Memories fade but the scars still linger,  
   ***C***  
   Goodbye my friend,  
-         ***Am***  
+    ***Am***  
   Will I ever love again,  
   ***Bm                    B                 C      Am***  
   Memories fade but the scars still linger...    oh.....  

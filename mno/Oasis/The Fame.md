@@ -18,23 +18,23 @@ Verse 1: It breaks like glass, but not in your hand
   ***D***  
 Verse 2: It calls you up, but not on the phone  
   And it will drag you from your throne  
-          ***Bm  A       G         D***  
+    ***Bm  A       G         D***  
   And you may laugh while you sit there sipping you champagne  
       ***Bm     A            G                  D***  
   And may I laugh at your dispare sniffing your cocaine  
   
-        ***Bm                  A***  
+    ***Bm                  A***  
 Bridge:  I'm a man of choise in an old Rolls Royce  
-          ***G        D***  
+    ***G        D***  
   And I'm howling at the moon  
-        ***Bm     A   G***  
+    ***Bm     A   G***  
   Is my happening to deafening for you? For you?  
   
     ***D  A  G***  
 Chorus:  Its maybe the fame  
-       ***D  A  G***  
+    ***D  A  G***  
   Its forgotten you name  
-                   ***D  A  G***  
+    ***D  A  G***  
   The tears you cryed you never did explain  
    ***D  A  G     D***  
   And I remain, blowing through you like a hurricane  
@@ -44,9 +44,9 @@ Chorus:  Its maybe the fame
   ***D***  
 Verse 3: It will not fall, not from the sky  
   And it don't eat no humble pie  
-       ***Bm         A***  
+    ***Bm         A***  
   And you may have your quiet life  
-        ***G    D***  
+    ***G    D***  
   But I bet you don't know why  
   
   ***D***  

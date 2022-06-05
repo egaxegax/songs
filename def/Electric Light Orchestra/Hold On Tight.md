@@ -19,11 +19,11 @@ Time (1981)
   When you get so sick of trying  
   Just hold tight to your dream  
   
-        ***Em     Hm            Em       Hm***  
+    ***Em     Hm            Em       Hm***  
 Chorus:  When you get so down that you can?t get up  
-        ***Am      D              Am          D***  
+    ***Am      D              Am          D***  
   And you want so much but you?re all out of luck  
-            ***Em     Hm          Em       Hm***  
+    ***Em     Hm          Em       Hm***  
   When you?re so downhearted and misunderstood  
      ***Am     Hm      C        D***  
   Just over & over & over you could  

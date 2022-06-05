@@ -5,8 +5,8 @@ If I Could Fly
   *[\]  - slide down to      [~]  - vibrato*  
   *[h]  - hammer on          [b]  - bend*  
   *[p]  - pull off            Suffixes for bend*  
-                            *[ph] - pinch harmonic*  
-                           *[f] - full bend    [h] - half bend*  
+    *[ph] - pinch harmonic*  
+    *[f] - full bend    [h] - half bend*  
   *[*]  - see comment         [r] - release      [t] - tap bend*  
   *[X]  - percussion mute     [~] - vibrato bend*  
   *[@]  - slight palm mute   [()] - ghost note, sustained note*  

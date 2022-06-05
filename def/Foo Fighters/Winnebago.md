@@ -26,9 +26,9 @@ Winnebago
   |---6-6-----4-4-----9-9-----4-4-----5-5-----5-5-------2-2-2-0-2-0-2---|  
   |---4-4-----2-2-----7-7-----2-2-----3-3-----5-5-------1-1-1-0-1-0-1---|  
   |-------------------------------------------3-3-----------------------|  
-                                                        *Bend up a little*  
-                                                        *on those ***Bb*** power*  
-                                                        *chords.*  
+    *Bend up a little*  
+    *on those ***Bb*** power*  
+    *chords.*  
   
   *Listen to the record and you will be able to play it.*  
   

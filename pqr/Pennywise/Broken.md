@@ -4,11 +4,11 @@ Broken
   *INTRO: Use power chords. Try using the part in parenthesis. It*  
   *sounds fine either way. Its easier play the C chord at the 8th*  
   *fret of the E string.*  
-         *-=slide   x=scratch Listen to the song to know what I mean.*  
+    *-=slide   x=scratch Listen to the song to know what I mean.*  
   *PART 1 : ***A    E-C  E-D D-D#***       (repeat)*  
-           ***A    E-C  E-D D-D#-E***  
+    ***A    E-C  E-D D-D#-E***  
   *PART 2 : ***AxxxAxxxAxxx C D***         (repeat)*  
-           ***AxxxAxxxAxxx C D D-D#-E***  
+    ***AxxxAxxxAxxx C D D-D#-E***  
   
   ***A                                  C          (E-)D  D-D#***  
 VERSE:  been stuck on the outside since I can't remember when  
@@ -16,11 +16,11 @@ VERSE:  been stuck on the outside since I can't remember w
   got up just long enough for them to beat me down again  
   ***A***  
   they crawl inside my mind hoping there to find ways to  
-        ***C      (E-)D     D-D#***  
+    ***C      (E-)D     D-D#***  
   be fucking with my head  
   ***A***  
   they'll never get the best of me I'm  
-            ***C               D***  
+    ***C               D***  
   fighting back until I'm dead cause I've been  
   
   ***A           C                D***  

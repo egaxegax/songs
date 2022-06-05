@@ -15,17 +15,17 @@ Break A Train
   They almost threw us off for acting strange  
   ***Am***  
   Made fools  of all the porters  
-           ***F                  C***  
+    ***F                  C***  
   We drank booze out of paper cups  
   ***G***  
   You showed me a good time baby  
-        ***E7         Am***  
+    ***E7         Am***  
   But I never  got enough  
   ***F                         C***  
   You showed me a good time darling  
-        ***G         C***  
+    ***G         C***  
   But I never got enough  
-         ***G***  
+    ***G***  
   And my heart feels just as  caloused  
      ***C***  
   As some old breakmans hands  
@@ -33,13 +33,13 @@ Break A Train
   Been on the job for  years  
   ***B7                   Em***  
   He still  don't understand  
-           ***F***  
+    ***F***  
   Why the  towns fade away  like lovers  
   ***F***  
   His life has let him dowm  
   ***C                               G***  
   You can brake  a train you can break a heart  
-          ***Am                       F***  
+    ***Am                       F***  
   But you never learn to like the sound  
   ***C                      Bm***  
   I'm sitting all alone  in  a dining car  
@@ -57,17 +57,17 @@ Break A Train
   I'll remeber next time to  take the  plane  
   ***Am***  
   It just ain't the same without you  
-          ***F           C***  
+    ***F           C***  
   I was a fool to try now  
-        ***G***  
+    ***G***  
   Now im getting odd looks from a porter  
-           ***E                  Am***  
+    ***E                  Am***  
   Like he  never seen a woman cry  
-         ***F                        C***  
+    ***F                        C***  
   Now im getting odd looks from a porter  
-           ***G                  C***  
+    ***G                  C***  
   Like he  never seen a woman cry  
-         ***G***  
+    ***G***  
   And my heart feels just as  caloused  
      ***C***  
   As some old breakmans hands  
@@ -75,11 +75,11 @@ Break A Train
   Been on the job for  years  
   ***B7                   Em***  
   He still  don't understand  
-           ***F***  
+    ***F***  
   Why the  towns fade away  like lovers  
   ***F***  
   His life has let him dowm  
   ***C                               G***  
   You can brake  a train you can break a heart  
-          ***Am                       F      C***  
+    ***Am                       F      C***  
   But you never learn to like the sound

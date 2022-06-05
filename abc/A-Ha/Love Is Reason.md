@@ -15,7 +15,7 @@ Intro:  ***Em F G***
   oh, oh  
   ***Am***  
   I'll do what you want me to  
-       ***F                         G***  
+    ***F                         G***  
   I'll cry at the thought of the loss of a heart  
   ***Em      F    G***  
   Love is reason  
@@ -38,34 +38,34 @@ Intro:  ***Em F G***
   
 -  
   
-       ***d d***  
+    ***d d***  
   ***E- | F G   |   E- | F G |   E- | F G |  C | F7+ | D-7 | D-7/G***  
-          hm!  
+    hm!  
   ***(A-)                     (F)               (G)  (A-)             (C)  (F) G***  
   my breath was coming fast and as I make a start    you turned to go oh oh  
-                            ***d. |***  
-        ***A-9                 C  C6        F7+        /E            D-***  
+    ***d. |***  
+    ***A-9                 C  C6        F7+        /E            D-***  
   I'll do what you want me to     I'll cry at the thought of the loss of a  
-                   ***d  d***  
+    ***d  d***  
    ***G    E-         F9 G   E-         F9 G   E-         F9 G    C     F7+***  
   heart   love is reason    love is reason    love is reason  lo..ve is..  
-                    ***o                   |. |   |.                         d***  
+    ***o                   |. |   |.                         d***  
    ***D-7     /G       A-                     A-4 A-    F                    G***  
   reason enough my morals are changing fast       I told you it wouldn't last  
   ***|  |***  
   ***G4 G A-               C      F   G***  
-          you turn and go   oh oh  
-                               ***d. |***  
-        ***A-9                    C7 C6      F7+         /E           (D-)***  
+    you turn and go   oh oh  
+    ***d. |***  
+    ***A-9                    C7 C6      F7+         /E           (D-)***  
   I'll be what you want me to be     I'd die at the thought of the loss of  
-         ***G   E-         F9 G   E-         F9 G   E-         F9 G    C     F7+***  
+    ***G   E-         F9 G   E-         F9 G   E-         F9 G    C     F7+***  
   your heart   love is reason    love is reason    love is reason  lo..ve is  
-                      ***d  d         |~     |~     |~     |~***  
+    ***d  d         |~     |~     |~     |~***  
    ***D-7     /G    A- | A- /G  | F | N.C./F N.C./F N.C./F N.C./F G  G_|***  
   reason enough       hm!  
   ***E-    | F9 G | E- | F9 G | E- | F9 G |    C     F7+   D-7     /G   | C | C***  
     ooh!                                oh lo..ve is.. reason enough  
-       ***F7+         /E            D-           G***  
+    ***F7+         /E            D-           G***  
   I'd dye at the thought of the loss of your heart  
   ***E-         F9 G   E-         F9 G   E-         F9 G   C            F9 G***  
     love is reason    love is reason    love is reason love love is reason  

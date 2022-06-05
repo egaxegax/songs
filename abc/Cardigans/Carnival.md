@@ -12,17 +12,17 @@
   *know, but it sounds exactly like in "Carnival".*  
   *The chords 4,5 and 6 are the bossa-style chords that are so hard to catch*  
   *on "by my door, waiting for you".*  
-                ***F#m*    E   Esus2*  D#dim  Dmaj7*  C#m     B      A***  
+    ***F#m*    E   Esus2*  D#dim  Dmaj7*  C#m     B      A***  
   [e|-----2+------2------2------0------0------0------2------0------3-----  
   B|-----2+------3------3------3------0------0------3------2------0-----  
   G|-----2+------0------3------2------0------0------4------2------0-----  
   D|-----2+------2------0------0------5------4------4------2------0-----  
   A|-----2+-----(2)-------------------4------3------2------0------2-----  
   E|-----2+-----------------------------------------2------0------3-----]  
-         ^  
-         ^      ***Em*     D   Dsus2*  C#dim  Cmaj7*   Bm      A      G***  
-        *the     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*  
-       *Capo!           are the chords you get without the capo*  
+    ^  
+    ^      ***Em*     D   Dsus2*  C#dim  Cmaj7*   Bm      A      G***  
+    *the     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*  
+    *Capo!           are the chords you get without the capo*  
    *2) Since I don't have any capo, here are the chords I play*  
   [e|----------------------------------------4------7------5-----  
   B|-----9------9------7------7------7------5------7------5-----  
@@ -30,7 +30,7 @@
   D|-----7------9------9------7------6------6------9------7-----  
   A|-----9------7------7------6------5------4------9------7-----  
   E|----------------------------------------4------7------5-----]  
-        ***F#m*    E   Esus2*  D#dim Dmaj7*   C#m     B      A***  
+    ***F#m*    E   Esus2*  D#dim Dmaj7*   C#m     B      A***  
   
   *My chords book says the ***Dmaj7**** is a ***Dmaj7/#11***...*  
   
@@ -43,7 +43,7 @@
   Carnival came by my town today  
   ***Esus2*             F#m****  
   bright lights from giant wheels  
-              ***E***  
+    ***E***  
   fall on the alleyways  
   ***Esus2****  
   and I'm here  
@@ -56,7 +56,7 @@
   --------  
   ***F#m*   B***  
   I will never know  
-        ***E(sus2*?) A***  
+    ***E(sus2*?) A***  
   cause you will never show  
   ***F#m*        B***  
   come on and love me now  
@@ -64,7 +64,7 @@
   come on and love me now  
   ***F#m*   B***  
   I will never know  
-        ***E(sus2*?) A***  
+    ***E(sus2*?) A***  
   cause you will never show  
   ***F#m*        B***  
   come on and love me now  

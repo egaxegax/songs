@@ -18,7 +18,7 @@
   *Guitar one repeats this riff through the verse. Guitar two backs guitar one*  
   *with a similar riff. When Steven says "pack" in the line "pack my bags I'm*  
   *gone", one of the guitars plays this riff:*  
-                               ***C5       Bb5***  
+    ***C5       Bb5***  
   [E-----------------------------------------------------------------|  
   B-----------------------------------------------------------------|  
   G-----------------------------5----5--3------5----5--3------------|  
@@ -36,7 +36,7 @@
   E---1-1-1-1-1-1-1-1--3-3-3-3-3-3-3-3---------|]  
   
   *Repeat this part until the very end and then stop and do something like this:*  
-                    *~feedback~*  
+    *~feedback~*  
   [E-----------------------------------------------------3\\----------------|  
   B-----------------------------------------------------3\\(14)------------|  
   G---6b(hold)----6r~~~~~~------------------------------3\\----(16)--------|  

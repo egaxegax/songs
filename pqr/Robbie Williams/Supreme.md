@@ -3,38 +3,38 @@ Supreme
   
   ***Dm              Gm7***  
 (1)  Oh it seemed forever stopped today  
-           ***C***  
+    ***C***  
   All the lonely hearts in London  
-          ***Fmaj7***  
+    ***Fmaj7***  
   Caught a plane and flew away  
   ***Dm***  
   And all the best women are married  
-            ***Gm7***  
+    ***Gm7***  
   All the handsome men are gay  
-         ***E***  
+    ***E***  
   You feel deprived  
   ***Dm                 Gm7***  
   Yeah are you questioning your size?  
-               ***C***  
+    ***C***  
   Is there a tumour in your humour,  
-            ***Fmaj7***  
+    ***Fmaj7***  
   Are there bags under your eyes?  
-               ***Dm***  
+    ***Dm***  
   Do you leave dents where you sit,  
-           ***Gm7***  
+    ***Gm7***  
   Are you getting on a bit?  
-               ***E***  
+    ***E***  
   Will you survive  
-              ***E7***  
+    ***E7***  
   You must survive  
   
-                 ***Dm                 B***  
+    ***Dm                 B***  
 Chorus:  When there's no love in town  
-                ***F                              A***  
+    ***F                              A***  
   This new century keeps bringing you down  
-                 ***Dm                 B***  
+    ***Dm                 B***  
   All the places you have been  
-                ***F                   A***  
+    ***F                   A***  
   Trying to find a love supreme  
   A love supreme.  
   
@@ -74,15 +74,15 @@ Chorus:  When there's no love in town
   
   ***Dm            Bb***  
   Oh it seemed forever stopped today  
-             ***C***  
+    ***C***  
   All the lonely hearts in London  
-          ***F***  
+    ***F***  
   Caught a plane and flew away  
-             ***Dm***  
+    ***Dm***  
   And all the best women are married  
-          ***Ab***  
+    ***Ab***  
   All the handsome men are gay  
-             ***A***  
+    ***A***  
   You feel deprived  
   Yeah, are you questioning your size?  
   Is there a tumour in your humour  
@@ -91,15 +91,15 @@ Chorus:  When there's no love in town
   Are you getting on a bit?  
   Will you survive  
   You must survive  
-              ***Dm       Bb***  
+    ***Dm       Bb***  
   When there's no love in town  
-              ***F                     A***  
+    ***F                     A***  
   This new century keeps bringing you down  
-             ***Dm           Bb***  
+    ***Dm           Bb***  
   All the places you have been  
-              ***F          A***  
+    ***F          A***  
   Trying to find a love supreme  
-          ***Dm***  
+    ***Dm***  
   A love supreme  
   Oh what are you really looking for?  
   Another partner in your life to abuse and to adore?  

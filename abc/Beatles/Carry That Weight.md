@@ -5,31 +5,31 @@ Abbey Road (1969)
   
    ***C                    G***  
   Boy, you're gonna to carry that weight  
-                       ***C***  
+    ***C***  
   carry that weight a long time.  
-                         ***G***  
+    ***G***  
   Boy, you're gonna to carry that weight  
-                        ***C        C/B***  
+    ***C        C/B***  
   carry that weight a long time.  
   
   ***Am7  Dm7(add9) Dm  G  Csus4  C  Fmaj7  Dm  E7  Am***  
   
-                     ***Dm7(add9) Dm   G***  
+    ***Dm7(add9) Dm   G***  
   I never give you my   pil    low  
-                    ***Csus4  C      Fmaj7***  
+    ***Csus4  C      Fmaj7***  
   I only send you my  invitations  
-                           ***Dm  E7***  
+    ***Dm  E7***  
   And in the middle of the celebrations  
      ***Am        G  C  G***  
   I break down  
   
    ***C                    G***  
   Boy, you're gonna to carry that weight  
-                        ***C***  
+    ***C***  
   carry that weight a long time.  
-                        ***G***  
+    ***G***  
   Boy, you're gonna to carry that weight  
-                        ***C        G/B   A***  
+    ***C        G/B   A***  
   carry that weight a long time.  
   
   ***C  G/B   A***  

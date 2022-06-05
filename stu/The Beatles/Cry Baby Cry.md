@@ -6,11 +6,11 @@ she`s old enough to know better
   
     Em      Em+7                  Em7  
 The king of Marigold was in the kitchen  
-        Em6                 C7  G  
+    Em6                 C7  G  
 cooking breakfast for the queen  
     Em               Em+7             Em7  
 The queen was in the parlour playing piano  
-            Em6          C7  
+    Em6          C7  
 For the children of the king  
   
 CHORUS:  

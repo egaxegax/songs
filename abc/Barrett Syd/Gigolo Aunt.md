@@ -24,7 +24,7 @@ Solo:  ***A   G*** } x2
   angrier there, than her watershell male  
   ***A                                                 G***  
   life to this love to me - heading me down to me - thunderbird shale,  
-                                      ***A***  
+    ***A***  
   seems to be all on it's rosy it's a beautiful day! Will you  
   ***G                                                 F***  
   please keep on the track 'cause I almost want you back,   'cause I  
@@ -43,7 +43,7 @@ Bridge:  ***A   G*** } x2
   some wish she move and just as she came move jiving away  
   ***A                                     G***  
   she made the scene should have been superlative day  
-                                        ***A***  
+    ***A***  
   everything's all on it's rosy, it's a beautiful day!  will you  
   ***G                                                 F***  
   please keep on the track 'cause I almost want you back,   'cause I  

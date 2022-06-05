@@ -53,7 +53,7 @@
   ------------------------------------]  
   Won't climb any ...  
   Word painting (sing these or simply repeat "Lofty Early 70's Lyrics"  
-                 to the melody ;^))  
+    to the melody ;^))  
   Houses iced in whitewash guard a pale shoreline  
   Cornered by the cactus and the pine  
   Here I wander where sweet sage and strange herbs grow  

@@ -6,19 +6,19 @@ Oh---
 {verse1}  
 G                                 C  
 I love to look into your big brown eyes.  
-                           G  
+    G  
 They talk to me and seem to hypnotize.  
-                                   C  
+    C  
 They say the things nobody dares to say,  
-                                D  
+    D  
 and I`m not about to let you fly away.  
-                                      C  
+    C  
 My lover with no jet lag, were staying up all  
-            D  
+    D  
 night in my sleeping bag.  
   
 You got a heart beat rythym from subterean,  
-                F  
+    F  
 I   real-ly   Love   You Little girl, I dont neeeed to explain.  
   
 {chorus}  
@@ -34,15 +34,15 @@ cuz you and me are two of a ki-ye-iiiiiind.
 {verse2}  
 G                                                 C  
 Ah----------  Like deja v#  I feel like I been heeeeeere,  
-                                           G  
+    G  
 Or somewhere else but you`ve been always neeeeear.  
-                                          C  
+    C  
 It`s  you that`s in my dreams, I`m begging for  
-                                      D  
+    D  
 but I woke up when someone slammed the door  
-                                    C  
+    C  
 so hard I fell out of bed, screaming mama`s  
-                  D  
+    D  
 little baby loves shorten bread,  
 and the moral of the story I can testify;  
       F  

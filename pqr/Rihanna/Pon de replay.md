@@ -1,16 +1,16 @@
 <!--2021-06-05 22:38:21-->
 Chorus:  
-         Come mister D.J. song Pon De Replay.  
-         Come mister D.J. won't you turn the music up.  
-         All they up on the dance floor wantin' some more.  
-         Come mister D.J. won't you turn the music up.  
+    Come mister D.J. song Pon De Replay.  
+    Come mister D.J. won't you turn the music up.  
+    All they up on the dance floor wantin' some more.  
+    Come mister D.J. won't you turn the music up.  
   
-         Come mister D.J. song Pon De Replay.  
-         Come mister D.J. won't you turn the music up.  
-         All they up on the dance floor wantin' some more.  
-         Come mister D.J. won't you turn the music up.  
+    Come mister D.J. song Pon De Replay.  
+    Come mister D.J. won't you turn the music up.  
+    All they up on the dance floor wantin' some more.  
+    Come mister D.J. won't you turn the music up.  
   
-       ***E***  
+    ***E***  
     It goes one by one, even two by two.  
     Ev'rybody on the floor let me show you how we do.  
     Let's go dip it low then you bring it up slow.  
@@ -42,7 +42,7 @@ Chorus:
     Tell me if you hear me.  
     Turn the music up.  
   
-       ***E***  
+    ***E***  
     It goes one by one, even two by two.  
     Ev'rybody in the club gon' be rockin' when I'm through.  
     Let the bass from the speakers run through your sneakers.  
@@ -81,7 +81,7 @@ Chorus:
     Ev'rybody get down if you feel me.  
     Put your hands up to the ceiling.  
     Ev'rybody get down if you feel me.  
-          ***E***  
+    ***E***  
     Come and put your hands up to the ceiling.  
   
     Chorus

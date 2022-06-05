@@ -14,9 +14,9 @@ Can't Get It Out Of My Head
   And I can't get it out of my head,  
       ***C              G         F  G***  
   no, I can't get it out of my head.  
-         ***C            G        F  G***  
+    ***C            G        F  G***  
   Now my old world is gone for dead  
-         ***C            G         F  G***  
+    ***C            G         F  G***  
   'cos I can't get it out of my head.  
   Breakdown on the shoreline,  
   can't move, it's an ebbtide.  

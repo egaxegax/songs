@@ -25,7 +25,7 @@ h = hammer on
   
  Basically it`s these three chords for nearly the whole song, apart from :  
   
-               Em        A7              D           A7             D  
+    Em        A7              D           A7             D  
  When I was a boy          e`thing was right           e`thing was right  
   
   

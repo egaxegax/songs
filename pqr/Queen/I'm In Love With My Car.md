@@ -25,7 +25,7 @@ A Night At The Opera 1975
   |---------------------------------14-12--|-----------------------------|  
   |----------------------------------------|-----------------------------|  
   |----------------------------------------|-----------------------------|  
-                             *1'21"*  
+    *1'21"*  
   |-------------------------|-----------------------------------|  
   |-------------------------|-----------------------------------|  
   |-15__r14p12-14b15--------|-4p2----------------------7rrr4----|  
@@ -125,7 +125,7 @@ outtro:  ***D***
   *Intro: ***D*** with some frills*  
   *Verse 1:*  
   ***Em                     G                    D***  
-        Ohhhhh...            The machine of a dream.  
+    Ohhhhh...            The machine of a dream.  
   ***C                        Em                     G***  
     Such a clean machine.     When the pistons a pumpin',  
   ***D                      C      Em***  
@@ -144,7 +144,7 @@ outtro:  ***D***
    Told my girl I'll have to forget her,  Rather buy me a new carburetor,  
   ***B                                               C***  
    So she made tracks saying this is the end now,  Cars don't talk back,  
-                                          ***D***  
+    ***D***  
   they're just four wheeled friends now.  
   ***Em                            G***  
     When I'm holding you wheel,   All I hear is your gear,  

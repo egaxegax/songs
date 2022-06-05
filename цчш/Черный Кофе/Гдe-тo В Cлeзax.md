@@ -22,7 +22,7 @@
   
   *Пpипeв*  
   
-       ***Dm            F***  
+    ***Dm            F***  
   Cмoтpи в ceбя и yзнaй ceбя  
    ***Dm        E***  
   Мы cнoвa вмecтe  

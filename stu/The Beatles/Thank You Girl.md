@@ -11,7 +11,7 @@ D   D7
  And eternally  
  E           Amaj7 E          A  
  I`ll always be in love with you.  
-       D         A7  
+    D         A7  
  And all I gotta do  
     D               E  
  Is thank you girl, thank you girl.  
@@ -25,7 +25,7 @@ D   D7
  And, oh little girl,  
  E      Amaj7      E        A  
  Only a fool would doubt our love.  
-       D         A7  
+    D         A7  
  And all I gotta do  
     D               E  
  Is thank you girl, thank you girl.  
@@ -44,7 +44,7 @@ D   D7
  Love that seems too  
  A7  
  Good to be true.  
-       D         A7  
+    D         A7  
  And all I gotta do  
     D               E  
  Is thank you girl, thank you girl.  
@@ -63,7 +63,7 @@ D   D7
  And eternally  
  E           Amaj7 E          A  
  I`ll always be in love with you.  
-       D         A7  
+    D         A7  
  And all I gotta do  
     D               E  
  Is thank you girl, thank you girl.  

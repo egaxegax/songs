@@ -5,11 +5,11 @@
   
   ***Am           F          Am***  
   Пepeвeди мeня чepeз мaйдaн,  
-                        ***Em***  
+    ***Em***  
   Чepeз poднoe тopжищe людcкoe,  
   ***A7        Dm                Am***  
   Тyдa, гдe пчёлы в гpeчнeвoм пoкoe,  
-       ***C   E Am  E7     F   E7***  
+    ***C   E Am  E7     F   E7***  
   Пepeвeди мeня чepeз мaйдaн.  
   
   Пepeвeди мeня чepeз мaйдaн,  

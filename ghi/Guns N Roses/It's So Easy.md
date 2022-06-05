@@ -70,7 +70,7 @@ G|------------------9----------o| variations and palm mutes
 D|-8----5----2------9--x--9-9--o| during the last E5 chord...  
 A|-8----5----2------7--x--7-7---|  
 E|-6----3----0------------------|  
-                     I see your sister in her Sunday dress...  
+    I see your sister in her Sunday dress...  
   
  Chorus:  
    A5      G5  A5  Bb5 (NC)         E5    (E5)  
@@ -80,7 +80,7 @@ G|-14--14--12--14--15--15-p-14-p-12----|--------o|
 D|-14--14--12--14--15---------------14-|--(14)--o|  
 A|----------------------------------14-|--(14)---|  
 E|----------------------------------12-|--(12)---|  
-                  It`s so easy baby...  
+    It`s so easy baby...  
   
  Bridge:  
    F#5               G5  
@@ -90,7 +90,7 @@ G|-----------------|-----------------|
 D|-----4---4-------|-----5---5-------|  
 A|---4---4---4---4-|---5---5---5---5-| Play this figure once  
 E|-2-----------2---|-3-----------3---| through, strum these  
-                                       power chords the second  
+    power chords the second  
    B5                A5                time, and end with an  
 E|-----------------|-----------------| E5 as shown in Bridge  
 B|-----------------|-----------------| Ending Fill.  
@@ -112,11 +112,11 @@ E|-0--0-0-0--0--0-0-0-|
 I`m not about to figure out solos. The solos are in G major and  
 played over the verse riff... The last solo, right before the  
 end of the song ends on something like this...  
-                         E5  
+    E5  
 E|---------------------------------------|  
 B|-8-------------------------------------|  
 G|----9--7---------------9---9-9--9--9--o|  
 D|----------9--8--7------9-x-9-9--9--9--o|  
 A|-------------------10--7-x-7-7--7--7---|  
 E|---------------------------------------|  
-                         slight P.M.--|
+    slight P.M.--|

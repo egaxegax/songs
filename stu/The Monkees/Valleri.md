@@ -18,7 +18,7 @@ Chorus:  fuzz guitar (2X):
   -----------|-------------3-1-|-----------------|-----------------|---  
   -----------|-----------3-----|-------3-3---1---|-------------1-3-|---  
   -4-4---3---|-1---1-----------|-----------------|-4---4-----4-----|---]  
-               Va...         a...       a... a...  al...       leri  
+    Va...         a...       a... a...  al...       leri  
   ***(C)***  
    I love her  
   ***F    Eb  Ab      Bb     C***  
@@ -49,7 +49,7 @@ Verse 2: She's the same little girl who used to hang aroun
   *repeat chorus*  
   *repeat intro } 1X*  
   
-              ***F   Eb Db    C***  
+    ***F   Eb Db    C***  
 Coda:  I love her, Va..a..al..leri  
-              ***F   Eb Db    C  (fade)***  
+    ***F   Eb Db    C  (fade)***  
   I need her, Va-a-al-leri

@@ -9,7 +9,7 @@ Sorry I'm callin' after two a.m.
 There's somethin' that I need to say to you  
   ***Bb***  
 I know it's late but this can't wait  
-         ***C***  
+    ***C***  
 I just got a new tattoo  
   
   ***D                                G***  

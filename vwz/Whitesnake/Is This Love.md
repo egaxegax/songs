@@ -5,7 +5,7 @@ I should have known better
 Than to let you go alone  
 Em7  
 It's times like these  
-       Bm7            C9  
+    Bm7            C9  
 I can't make it on my own  
 Em7                Bm7      C9  
 Wasted days, and sleepless nights  

@@ -19,7 +19,7 @@ Hang-ups (1997)
   Went out today to try and phone you. I guess you didn't  
   ***Dm                A    G#      F#m      E           D***  
   recognize my call. The lady on your end says you've got  
-         ***Eii***  
+    ***Eii***  
   caller I.D.  
   
   *Bridge chords used:*  
@@ -54,7 +54,7 @@ Hang-ups (1997)
   *Verse:*  
   ***A         G#        F#m      D               Dm***  
   I found a pay phone and it's busted (another broken-hearted  
-       ***A             G#      F#m     D                 Dm***  
+    ***A             G#      F#m     D                 Dm***  
   fool). But still I pick up the reciever (my lips are touch-  
   ing someone's drool).  
   

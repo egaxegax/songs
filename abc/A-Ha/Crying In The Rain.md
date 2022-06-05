@@ -20,15 +20,15 @@ Crying In The Rain (4:24)
   You won't know the rain from the tears in my eyes  
   ***D            G           F#m      Hm-Hm****  
   You'll never know that I still love you  
-                ***G***  
+    ***G***  
   So though the heartaches remain  
   ***A                        Hm***  
   I'll do my crying in the rain  
   ***Hm-Hm*-G               ~       Em***  
-          Raindrops falling from heaven  
+    Raindrops falling from heaven  
   ***A                       D***  
   Will never wash away my misery  
-         ***Hm***  
+    ***Hm***  
   But since we're not together  
   ***G***  
   I'll wait for stormy weather  
@@ -40,7 +40,7 @@ Crying In The Rain (4:24)
   I'm gonna wear a smile and walk in the sun  
      ***D        G***  
   I may be a fool  
-             ***F#m                 Hm-Hm*               G***  
+    ***F#m                 Hm-Hm*               G***  
   But till then, darling, you'll never see me complain  
   ***A                        Hm***  
   I'll do my crying in the rain  

@@ -7,17 +7,17 @@ Nine Times Blue
   
 Intro:  ***G***-***D***-***G***-***D***-***Em***-***C***-***D***-***D***-***G***  
   
-              ***G                    D***  
+    ***G                    D***  
 Vs 1:  There's a certain something in the way  
-       ***G        D       Em***  
+    ***G        D       Em***  
   You looked at me and said you'd stay  
-        ***C               D             G***  
+    ***C               D             G***  
   That let me know that I was out of line  
-         ***G                D***  
+    ***G                D***  
   But I didn't know what else to do  
-       ***G      D      Em***  
+    ***G      D      Em***  
   And like a fool I tested you  
-        ***C                 D                 G***  
+    ***C                 D                 G***  
   By demanding things of you which weren't mine.  
   
       ***C     D    G      D      Em***  

@@ -1,37 +1,37 @@
 <!--2020-09-05 09:45:33-->
 Judas  
   
-                ***C***  
+    ***C***  
   Is simplicity best  
-                ***G***  
+    ***G***  
   Or simply the easiest  
-                ***C***  
+    ***C***  
   The narrowest path  
-                ***G***  
+    ***G***  
   Is always the holiest  
-                 ***F***  
+    ***F***  
   So walk on barefoot for me  
-              ***Am***  
+    ***Am***  
   Suffer some misery  
-                 ***C***  
+    ***C***  
   If you want my love  
-                 ***F         E***  
+    ***F         E***  
   If you want my love  
-              ***C***  
+    ***C***  
   Man will survive  
-                  ***G***  
+    ***G***  
   The harshest conditions  
-            ***C***  
+    ***C***  
   And stay alive  
-                      ***G***  
+    ***G***  
   Through difficult decisions  
-                  ***F***  
+    ***F***  
   So make up your mind for me  
-           ***Am***  
+    ***Am***  
   Walk the line for me  
-                 ***C***  
+    ***C***  
   If you want my love  
-                 ***F         E       G***  
+    ***F         E       G***  
   If you want my love  
   ***Dm   E***  
   Idle talk  
@@ -43,7 +43,7 @@ Judas
   Doubting Thomases  
   ***Dm                         G***  
   Don't just stand there and shout it  
-                ***C           G***  
+    ***C           G***  
   Do something about it  
   You can fulfil  
   Your wildest ambitions  
@@ -70,15 +70,15 @@ Judas
   ****Ebm***    - [x x 4 3 4 2] OR [x 6 8 8 7 6]*  
   
   *Note: At parts marked ***/x*** keep playing previous chord, just alter*  
-        *bass to new note.*  
+    *bass to new note.*  
   
 Intro:  ***Db***  
   
-                ***Db                  Ab***  
+    ***Db                  Ab***  
   Is simplicity best, or simply the easiest  
-                ***Db                  Ab***  
+    ***Db                  Ab***  
   The narrowest path, is always the holiest  
-                 ***Gb***          ***/G***             ***Bbm***  
+    ***Gb***          ***/G***             ***Bbm***  
   So walk on barefoot for me,   suffer some misery  
   ***/A***             ***/Ab***   ***/G***                ***Gb maj7   F-10   Ab***  
   If you want my love,    if you want my love  

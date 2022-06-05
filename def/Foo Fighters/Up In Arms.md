@@ -51,7 +51,7 @@ Up In Arms
   *(drumroll)-verse-chorus-verse-chorus-SOLO(verse)-chorus-chorus*  
   *SOLO:*  
   *PB: pre-bend string, then fret and release  B: bend half way up*  
-                               *bends with occationel pick-harmonic*  
+    *bends with occationel pick-harmonic*  
   [e:|---------------------------------------|  
   h:|---------------------------------------|  
   g:|--PB7---5---5-7-5---5---5-B7 B7 B7 B7--|  

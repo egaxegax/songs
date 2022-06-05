@@ -1,12 +1,12 @@
 <!--2020-09-05 02:23:03-->
 N.C.  
  Where is Mona?  
-             Am  
+    Am  
  She?s long gone  
  Where is Mary?  
  She?s taken her along  
  But they haven?t put their mittens on  
-              G                     Am  
+    G                     Am  
  And there?s fifteen feet of pure white snow?  
   
 Piano?s melody piece:  
@@ -42,44 +42,44 @@ G--------|
   
 Am  
  Where is Michael?  
-                Riff1  
+    Riff1  
  Where is Mark?  
  Where is Mathew  
-                        Riff1  
+    Riff1  
  Now it?s getting dark?  
  Where is John? They are all out back  
-        G                          Am  
+    G                          Am  
  Under fifteen feet of pure white snow  
-             G  
+    G  
  Would you please put down that telephone  
-                                         Am  
+    Am  
  We?re under fifteen feet of pure white snow  
   
 Am  
  I waved to my neighbour  
-                          Riff1  
+    Riff1  
  My neighbour waved to me  
  But my neighbour  
-             Riff1  
+    Riff1  
  Is my enemy  
  I kept waving my arms  
  Till I could not see  
-        G                          Am  
+    G                          Am  
  Under fifteen feet of pure white snow  
   
  Is anybody  
-                   Riff1  
+    Riff1  
  Out there please?  
  It?s too quiet in here  
-                             Riff1  
+    Riff1  
  And l?m beginning to freeze  
  I?ve got icicles hanging  
  From my knees  
-        G                           Am  
+    G                           Am  
  Under fifteen feet of pure white snow  
-          G  
+    G  
  Is there anybody here who feels this low?  
-                                    Am  
+    Am  
  Under fifteen feet of pure white snow  
   
   G  
@@ -88,9 +88,9 @@ Am
  (G7)  
  Raise your hands up to the sky  
  Is it any wonder?  
-        Am         F  
+    Am         F  
  Oh my Lord Oh my Lord  
-        Am         F    G  Am  
+    Am         F    G  Am  
  Oh my Lord Oh my Lord  
   
 Doctor, Doctor  

@@ -21,8 +21,8 @@
   |----------------------------------------------|  
   |--2--2--2--3---3--2--3--3--4--5--4--3---------|  
   |--0--0--0----1----0--1--1--2--3--2--1--1--13--|  
-                                          [\___/]  
-                                  *Slide with a feeling*  
+    [\___/]  
+    *Slide with a feeling*  
   *This Intro riff is repeated a few times.*  
   
   *B (Verse):*  
@@ -97,9 +97,9 @@
   *Structure of the song:*  
   *Ax4                                                    (Intro)*  
   *Bx6 (1st time when Evan shouts,                        (End of Intro*  
-       *2nd time alone,                                   start of verse)*  
-       *3rd when bass and drums comes in,*  
-       *4th and 5th time when Evan and Billy sings)*  
+    *2nd time alone,                                   start of verse)*  
+    *3rd when bass and drums comes in,*  
+    *4th and 5th time when Evan and Billy sings)*  
   *Cx2                                                    (Chorus #1)*  
   *Bx4                                                    (Verse #1)*  
   *Cx3                                                    (Chorus #1)*  

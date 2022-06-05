@@ -8,7 +8,7 @@ The Company Man
   Responsible for signing the band  
    ***Gm                         C***  
   Songs came out of our mouths  
-                      ***G***  
+    ***G***  
   And into his hands  
   Oh yeah  
   Legal help, yes we had plenty  
@@ -16,13 +16,13 @@ The Company Man
   Everybody's trying to help  
   Everyone is so friendly  
   Oh yeah  
-          ***C Bb       F***  
+    ***C Bb       F***  
   And we all come down  
-                  ***Gm          F     C***  
+    ***Gm          F     C***  
   Don't make a sound as we hit the ground  
-              ***Bb        F***  
+    ***Bb        F***  
   Yes we all fall down  
-                       ***Gm              Bb       C***  
+    ***Gm              Bb       C***  
   Don't make a sound as we hit the ground  
   Give us something easy to sing to  
   Give us something simple to cling to  

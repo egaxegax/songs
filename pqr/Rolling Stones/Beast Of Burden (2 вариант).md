@@ -43,7 +43,7 @@ E             A
 Come on, baby please, please, please  
 A            E  
 I`ll tell ya  
-               B/D# C#m   A  
+    B/D# C#m   A  
 You can put me out on the street  
 E                        A  
 Put me out with no shoes on my feet  
@@ -60,7 +60,7 @@ There`s one thing, baby, I don`t understand
 E        E/G#         A  
 You keep telling me I ain`t your kind of man  
   
-        E  
+    E  
 Ain`t I rough enough  
 A       E       B/D#  C#m  
 Ain`t I tough enough  

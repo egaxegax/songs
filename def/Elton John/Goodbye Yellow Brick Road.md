@@ -10,7 +10,7 @@ Goodbye Yellow Brick Road
   When are you going to land  
     ***Eb                        C***  
   I should have stayed on the farm  
-                ***F                     F-F/Gm-F/A***  
+    ***F                     F-F/Gm-F/A***  
   I should have listened to my old man  
   ***Bb                         C***  
   You know you can't hold me forever  
@@ -18,12 +18,12 @@ Goodbye Yellow Brick Road
   I didn't sign up with you  
       ***Eb                     C***  
   I'm not a present for your friends to open  
-        ***F***  
+    ***F***  
   This boy's too young to be singing the blues  
   ***Db Eb Ab~Fm Db C***  
   ***F                       A***  
   So goodbye yellow brick road  
-            ***Bb              F***  
+    ***Bb              F***  
   Where the dogs of society howl  
       ***D                      Gm***  
   You can't plant me in your penthouse  
@@ -33,7 +33,7 @@ Goodbye Yellow Brick Road
   Back to the howling old owl in the woods  
   ***Bb                     Db***  
   Hunting the horny back toad  
-          ***F        Am                Dm***  
+    ***F        Am                Dm***  
   Oh I've finally decided my future lies  
   ***Bb         C               Db Eb Ab~Fm Db C F***  
   Beyond the yellow brick road  

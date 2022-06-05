@@ -4,16 +4,16 @@ Stay On These Roads (4:44)
   
   ***F         Dm  Bb***  
   The cold has a voice  
-       ***C***  
+    ***C***  
   It talks to me  
   ***F             Dm    Bb***  
   Stillborn, by choice  
-          ***C***  
+    ***C***  
   It airs no need  
      ***Bb  F  Am  Dm***  
   To hold  
   ***Bb F***  
-       ***Am  Dm       Bb    Bb F***  
+    ***Am  Dm       Bb    Bb F***  
   Old man feels the cold...  
   ***Am       Bb***  
   Oh baby don't  
@@ -30,14 +30,14 @@ Stay On These Roads (4:44)
   I know  
   ***F                 Dm   Bb***  
   Where join should reign  
-        ***C***  
+    ***C***  
   These skies restrain  
   ***F            Dm   Bb***  
   'Shadow your love...'  
-            ***C            F   Dm  Bb C***  
+    ***C            F   Dm  Bb C***  
   The voice trails off again  
   ***Bb  F  Am  Dm  Bb  F***  
-       ***Am Dm        Bb    Bb F***  
+    ***Am Dm        Bb    Bb F***  
   Old man feels the cold  
   ***Am      Bb***  
   Oh baby don't  

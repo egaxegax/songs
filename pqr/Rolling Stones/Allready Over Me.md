@@ -45,7 +45,7 @@ Are you already over me
 Are you already over me  
  G  F    C  
 Are you already over me  
-        G  F    C  
+    G  F    C  
 Are you already over me  
     G       C  G  
 What a fool I`ve been  
@@ -83,7 +83,7 @@ Are you already over me
 Are you already over me  
  G  F    C  
 Are you already over me  
-        G  F    C  
+    G  F    C  
 Are you already over me  
     G       C  G  
 What a fool I`ve been  
@@ -103,7 +103,7 @@ Em C Em C
   
     G  
 and I`m so hurt  
-       D  
+    D  
 So confused  
     F  
 I`ve been burned  
@@ -116,7 +116,7 @@ Are you already over me
 Are you already over me  
  G  F    C  
 Are you already sick of me  
-        G  F    C  
+    G  F    C  
 Are you already over me  
  G  F    C  
 Are you already over me  

@@ -66,7 +66,7 @@ BRIDGE:  ***Am                  B7***
   
   ***G D Gm D Gm D A7 D***  
   
-            ***Ab   Eb***  
+    ***Ab   Eb***  
   One more time  
   
   ***Em7***: [0 x 2 4 3 3]   ***Fdim***: [x x 3 4 3 4]   ***D/F#***:  [x x 3 1 2 5]  

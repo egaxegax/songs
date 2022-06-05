@@ -3,26 +3,26 @@ I Got You
   
   Ohhhhhhhhhhhhhh!  
   
-                ***D7***  
+    ***D7***  
 Verse 1: I feel good  
-                      ***D7***  
+    ***D7***  
   I knew that I would now  
-         ***G7***  
+    ***G7***  
   I feel good  
-                        ***D7***  
+    ***D7***  
   I knew that I would now  
      ***A7         G7              D7***  
   So Good,   So Good,   I Got You !  
   
   Ohhhhhhhhh!  
   
-           ***D7***  
+    ***D7***  
 Chorus:  I feel nice  
-                  ***D7***  
+    ***D7***  
   Like sugar and spice  
-         ***G7***  
+    ***G7***  
   I feel nice  
-                   ***D7***  
+    ***D7***  
   Like sugar and spice  
      ***A7        G7                  D7***  
   So Nice,  So Nice,  'Cause I Got You  
@@ -50,9 +50,9 @@ Bridge:  When I hold you In my arms
   *Chorus*  
   *Verse 1*  
   
-         ***A7       G7             D7***  
+    ***A7       G7             D7***  
   So Good  So Good  'Cause I got you  
-         ***A7       G7             D7***  
+    ***A7       G7             D7***  
   So Good  So Good  'Cause I got you  
-                    ***D7***  
+    ***D7***  
   Hey..........     Yeah

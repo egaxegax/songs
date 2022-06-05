@@ -3,7 +3,7 @@ One way ticket
   
 Intro:  ***C  F  C  F    C  F  C  G C***  
   
-        ***C              Am      F                        G***  
+    ***C              Am      F                        G***  
   Standing on the border Looking out into the great unknown  
   ***C              Am                  F                    G***  
   I can feel my heart beating faster as I step out on my own  
@@ -16,35 +16,35 @@ Intro:  ***C  F  C  F    C  F  C  G C***
   
   ***C***  
 CHORUS:  Buy a one way ticket on a west bound train  
-                    ***Am***  
+    ***Am***  
   See how far I can go  
-                    (because I can)  
+    (because I can)  
   ***C***  
   I'm going out dancing in the pouring rain  
-                               ***Am***  
+    ***Am***  
   And talk to someone I don't know  
-                              (because I can)  
-           ***F              Dm***  
+    (because I can)  
+    ***F              Dm***  
   I will face the world around me  
-                    ***Am                      F***  
+    ***Am                      F***  
   Knowing that I'm strong enough to let you go  
-              ***F             G                    C***  
+    ***F             G                    C***  
   And I will fall in love again  because I can  
   
      ***C               Am                    F           C***  
   Go to climb a mountain and look the eagle in the eye  
   ***C                 Am                F                      G***  
   I won't let fear clip my wings and tell me how high I can fly  
-            ***F              C           F                  G***  
+    ***F              C           F                  G***  
   How could I have ever believed that love had to be so blind  
-         ***F***  
+    ***F***  
   When freedom was waiting down at the station  
-                                 ***G***  
+    ***G***  
   All I had to do is make up my mind      Chorus, to bridge  
   
      ***Dm***  
 Bridge:  I have walked through fire and crawled on my knees  
-                ***F            Am        C***  
+    ***F            Am        C***  
   Through the valley of the shadow of doubt  
   ***Dm                                  F***  
   And the truth came shining like a light on me  
@@ -53,14 +53,14 @@ Bridge:  I have walked through fire and crawled on my knee
   
   ***Eb***  
 ENDING:  Buy a one way ticket on a west bound train  
-                    ***Cm***  
+    ***Cm***  
   See how far I can go  
-                    (because I can)  
+    (because I can)  
   ***Eb***  
   I'm going out dancing in the pouring rain  
-                               ***Cm***  
+    ***Cm***  
   And talk to someone I don't know  
-                              (because I can)  
+    (because I can)  
   ***Eb***  
   I'm gonna buy a one way ticket on a west bound train  
   ***Eb                       Eb***  

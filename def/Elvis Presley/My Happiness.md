@@ -5,27 +5,27 @@ My Happiness
   
   ***C               F***  
   Evening shadows make me blue  
-                  ***C***  
+    ***C***  
   When each weary day is through  
   ***C             G7***  
   How I long to be with you  
-          ***C***  
+    ***C***  
   My happiness  
   ***C           F***  
   Every day I bring from this  
-                   ***C***  
+    ***C***  
   Dreaming of your tender kiss  
   ***C               G7***  
   Always thinking how I miss  
-          ***C     C7***  
+    ***C     C7***  
   My happiness  
   ***F***  
   A million years it seems  
-            ***C***  
+    ***C***  
   Have gone by since we shared our dreams  
-           ***G7***  
+    ***G7***  
   But I'll hold you again  
-              ***D                G7***  
+    ***D                G7***  
   There'll be no blue memories then  
   Whether skies are grey or blue  
   Any place on earth will do  

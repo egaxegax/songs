@@ -5,13 +5,13 @@ Your Mother Should Know
   ***Am***  
   Oo oo oo oo  
   Oo oo oo oo  
-                       ***F***  
+    ***F***  
   Let's all get up and dance to a song  
-             ***A7/E            Dm***  
+    ***A7/E            Dm***  
   That was a hit before your mother was born.  
   ***G7                    C         C/B   A7                     D7     G7***  
   Though she was born a long long time ago, your mother should know  
-                     ***C***  
+    ***C***  
   Your mother should know.  
   ***E7***  
   Sing it again.  

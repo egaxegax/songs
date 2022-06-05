@@ -4,26 +4,26 @@ She Loves You
   
 Intro:       ***Em***  
   She loves you, yeah, yeah, yeah  
-        ***A***  
+    ***A***  
   She loves you, yeah, yeah, yeah  
-        ***C                     G6***  
+    ***C                     G6***  
   She loves you, yeah, yeah, yeah  
   
 Verse 1:       ***G                     Em***  
   You think you've lost your love  
-         ***Bm             D***  
+    ***Bm             D***  
   Well I saw her yesterday  
-        ***G                 Em***  
+    ***G                 Em***  
   It's you she's thinking of  
-           ***Bm              D***  
+    ***Bm              D***  
   And she told me what to say  
   
 Chorus:  (1: She says  3: Because) she loves you  
-                             ***Em***    [xx5003  xx4002  xx2000]  
+    ***Em***    [xx5003  xx4002  xx2000]  
   And you know that can't be bad  
-           ***Cm***  
+    ***Cm***  
   Yes she loves you  
-                              ***D***  
+    ***D***  
   And you know you should be glad  
   
 Verse 2: She said you hurt her so  
@@ -35,11 +35,11 @@ Verse 2: She said you hurt her so
   
 Post-chorus:      ***Em***  
   She loves you, yeah, yeah, yeah  
-        ***A***  
+    ***A***  
   She loves you, yeah, yeah, yeah  
-          ***Cm***  
+    ***Cm***  
   With a love like that  
-       ***D                  G***  
+    ***D                  G***  
   You know you should be glad  
   
 Verse 3: And so its up to you  
@@ -54,12 +54,12 @@ Verse 3: And so its up to you
   
 Coda:          ***Cm***  
   With a love like that  
-       ***D7                 G  G/F#  Em***  
+    ***D7                 G  G/F#  Em***  
   You know you should be glad  
   
-          ***Cm***  
+    ***Cm***  
   With a love like that  
-       ***D (N.C.)           G      G/F#***  
+    ***D (N.C.)           G      G/F#***  
   You know you should be glad  
   ***Em6***  
   Yeah, yeah, yeah  

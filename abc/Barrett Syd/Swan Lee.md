@@ -8,11 +8,11 @@ Chorus Riff: [e|-----------------
   
   ***G#***  
   Swan Lee got up at the runningford powwow and headed from the  
-              ***B***  
+    ***B***  
   fire to his waiting canoe.  
   ***G#                                          B***  
   Juttering squaw untied the wigwam door, the chief blew  
-             ***C#***  
+    ***C#***  
   smokerings two by two  
   
   ***G#***  

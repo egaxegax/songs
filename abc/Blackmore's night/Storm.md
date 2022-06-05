@@ -7,13 +7,13 @@ Storm
   The moon and sun endless chase  
   ***Cm***  
   Each in quiet surrender  
-         ***Ab    G          Cm***  
+    ***Ab    G          Cm***  
   As the other reigns the sky…  
   The midnight hour begins to laugh  
   A summer evening's epitath  
   The winds are getting crazy  
   As the storm begins to rise…  
-         ***Bb    G        Cm***  
+    ***Bb    G        Cm***  
   As the storm begins to rise…  
   ***Cm***  
   Wild were the winds that came  

@@ -3,11 +3,11 @@ Intro: sax over G C G
   
 C    G      C  
 Love me or leave me,  
-            A7  
+    A7  
 Make your choice  
       Dm  
 But believe me  
-       G  
+    G  
 I love you  
  G7                       C   G  
 I do, I do, I do, I do, I do  
@@ -21,7 +21,7 @@ I do, I do, I do, I do, I do
 Refrain:  
 Gm               C7  
 Oh I've been dreaming  
-           F      Dm  
+    F      Dm  
 Through my lonely past  
 D          D7  
 Now I just made it,  
@@ -55,11 +55,11 @@ I do, I do, I do, I do, I do
   
 C#      G#            C#  
 So come on, now let's try it,  
-       B7  
+    B7  
 I love you,  
-       D#m  
+    D#m  
 Can't deny it  
-           G#  
+    G#  
 'Cos it's true  
 G#7                      C#   G#7  
 I do, I do, I do, I do, I do  

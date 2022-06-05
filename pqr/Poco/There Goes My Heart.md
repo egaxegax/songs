@@ -6,48 +6,48 @@
   ***E  B7  E***  
   ***B             E     B                  E***  
   There goes my heart I feel it breaking fast  
-              ***B              E***  
+    ***B              E***  
   Should have known from the start  
   ***B                 E   E7***  
   That it could not last  
-                    ***A                B***  
+    ***A                B***  
   When you build on dreams and other things  
-                  ***A***  
+    ***A***  
   That love won't bring  
   ***B             E            B7***  
   There goes my heart  
-              ***E          B                E***  
+    ***E          B                E***  
   Breaking me down again it happens every time  
   Wondering will it ever end  
   ***B                   E   E7***  
   I'm going out of my mind  
-              ***A***  
+    ***A***  
   Worried and wasted now  
-                      ***B***  
+    ***B***  
   Will we ever get it back somehow  
-               ***A***  
+    ***A***  
   Here in this lost and found  
   ***B             E***  
   There goes my heart  
   
   *SOLO*  
   
-              ***A                B***  
+    ***A                B***  
   Building on dreams and other things  
-                  ***A***  
+    ***A***  
   That love won't bring  
   ***B             E            B7***  
   There goes my heart  
-              ***E          B                E***  
+    ***E          B                E***  
   Breaking me down again it happens every time  
   Wondering will it ever end  
   ***B                   E   E7***  
   I'm going out of my mind  
-              ***A***  
+    ***A***  
   Worried and wasted now  
-                      ***B***  
+    ***B***  
   Will we ever get it back somehow  
-               ***A***  
+    ***A***  
   Here in this lost and found  
   ***B             E***  
   There goes my heart  

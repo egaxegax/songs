@@ -35,7 +35,7 @@ Long, long Way From Home
   ***F5            C5          G5***  
     I'm looking out for the two of us  
   ***A5/Bb5                F5        F#5/G5                 *fill 1****  
-        I hope we'll be here when they're through with us  
+    I hope we'll be here when they're through with us  
   *Fill 1*  
   [E-----0h1---|  
   B---2-------|  

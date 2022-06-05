@@ -22,11 +22,11 @@
   *CHORUS*  
      ***Asus4 A Asus4 A Asus4 A Asus4 D     E***  
   It really, really, really could happen  
-         ***Asus4 A Asus4 A Asus4 A Asus4 D     E***  
+    ***Asus4 A Asus4 A Asus4 A Asus4 D     E***  
   Yes it really, really, really could happen  
-           ***C#m***  
+    ***C#m***  
   When the days they seem to fall through you  
-       ***D    C#m      Bm   E***  
+    ***D    C#m      Bm   E***  
   Well just let them go  
   *Second verse has the same chords as the first. It is preceeded by two bars*  
   *of ***A C#m7*** (the horns intro in the song). Watch out for the line with no*  

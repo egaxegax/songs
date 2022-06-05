@@ -20,19 +20,19 @@ You Will Be Waiting
   
   ***CaddG        C/BaddG            Am7            Am7/G***  
   As we walk together through the autumn nearing winter  
-              ***Fm                                 C               G***  
+    ***Fm                                 C               G***  
   Through the dying leaves and trees we call our home and native land  
       ***CaddG           C/BaddG         Am7***  
   You say you don't believe a thing I say  
-            ***Am7/G           Fm***  
+    ***Am7/G           Fm***  
   I say you don't believe a thing  
-                                 ***C            G***  
+    ***C            G***  
   You say you can't believe that I don't understand  
-        ***F               C***  
+    ***F               C***  
   But I know you will be waiting  
-       ***F               C***  
+    ***F               C***  
   Oh I know you will be waiting  
-        ****F             G*** (pause)*  
+    ****F             G*** (pause)*  
   Yes I know you will be waiting, waiting there for me  
   Other verses are the same, with interludes being either a full or  
   truncated repetition of the main progression.  
@@ -41,11 +41,11 @@ You Will Be Waiting
 BRIDGE:  You were someone who would  
   ***CaddG  C/BaddG    Am7      Am7/G***  
   Always tell me    things I don't know  
-          ***Fm***  
+    ***Fm***  
   Tell me where to go  
-             ****C      G***  (hold on the ***G*** chord)*  
+    ****C      G***  (hold on the ***G*** chord)*  
   There I'll always go  
-            ***F               G***  
+    ***F               G***  
   Always go back whether or not you're waiting  
   ***CaddG    C/BaddG   Am7               Am7/G***  
   Ooh well I don't   care if you'll be waiting  

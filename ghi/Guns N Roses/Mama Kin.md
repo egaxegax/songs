@@ -34,19 +34,19 @@ E5                  B5
 i`ve been dreaming floatin` down stream  
      A5                            E5  
 and losin` touch with all that`s real  
-                  B5  
+    B5  
 whole lotta lover keepin` under cover  
  A5                      E  
 never knowin` where you been  
-         E5                  B5  
+    E5                  B5  
 oo yeah  you`ve been fadin` always out paradin`  
  A5  
 keep in touch with mama  
   E  F#5 G5 G#5   A5  
 kin            you always got your tail  
-         E5             A5  
+    E5             A5  
 on the wag    spittin` fire from your  
-               E5          F#5 G5 G#5  
+    E5          F#5 G5 G#5  
 mouth just like a drag - on         you  
   A5                    E5  
 act like a perpetual drag  

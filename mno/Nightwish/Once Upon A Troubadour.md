@@ -5,17 +5,17 @@ Intro:  ***Am     G   Am***
   ***F      Em  Am***  
      ***Am               G                       Am***  
   A lonely bard wandering across the lands am I  
-                      ***G                       Am***  
+    ***G                       Am***  
   Singing dancing finding answers to every why  
   ***Am7                            G               Am***  
   The taverns are full and one crosses my path, too  
   ***F                    Em                    Am***  
   I just might reward myself with a beer or two  
-        ***Am               G             Am***  
+    ***Am               G             Am***  
   This inn the place of many romantic tales  
-                      ***G          Am***  
+    ***G          Am***  
   On the loft women offer their sales  
-          ***Am7                    G           Am***  
+    ***Am7                    G           Am***  
   But my eyes they catch a girl beat by everyone  
   ***F                      Em           Am***  
   A slave she is but for me a rose undone  
@@ -25,19 +25,19 @@ Intro:  ***Am     G   Am***
   Watch me dance  
   ***Dm         Em       F***  
   Play that lute of thine  
-        ***Am                Em*     Em* = [xx2000]***  
+    ***Am                Em*     Em* = [xx2000]***  
   And share with me this dance  
   ***Am                G              Am***  
   As she danced my eyes began to shine  
-                            ***G    Am***  
+    ***G    Am***  
   There she was the maiden so divine  
-        ***A7m                        G           Am***  
+    ***A7m                        G           Am***  
   How could I approach her with my outlook so poor  
   ***F                 Em                       Am***  
   Her beauty being much more than I could endure  
   ***Am            G                   Am***  
   So I asked if I could sing a chanson  
-                     ***G               Am***  
+    ***G               Am***  
   With a language of ancient and of lore  
   ***A7m                     G                      Am***  
   Gathered the men around us me and the girl in rags  
@@ -51,9 +51,9 @@ Intro:  ***Am     G   Am***
   Sing with us this tale  
    ***Am             Em*      Em* = [xx2000]***  
   With a clap of hands  
-        ***Am             G                Am***  
+    ***Am             G                Am***  
   The stories long-forgotten we still know  
-                            ***G       Am***  
+    ***G       Am***  
   Performing our skills wherever we go  
   ***A7m                    G       Am***  
   I end my story as I receive a kiss  

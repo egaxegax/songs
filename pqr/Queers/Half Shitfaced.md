@@ -24,15 +24,15 @@
     ***C#               E  B        C#   E B***  
   I know I shouldn't be drunk at noon  
   ***G# A G# A***  
-              Half Shitfaced  
+    Half Shitfaced  
   ***C# E B C# E***  
-              Half Shitfaced  
+    Half Shitfaced  
   ***C# E B C# E***  
-              Half Shitfaced  
+    Half Shitfaced  
   ***C# E B C# E***  
-              Half Shitfaced  
+    Half Shitfaced  
   ***C# E B C# E***  
-              Go!  
+    Go!  
   *Play this 4 times while Vapid plays*  
   *the little lead thing on guitar again:*  
   ***C# E B***  
@@ -42,28 +42,28 @@
   He ripped us off for two hundred bucks  
       ***C#               E       B   C#    E B***  
   His girlfriend has a fucking fat ass  
-         ***C#   E    B  C#    E B***  
+    ***C#   E    B  C#    E B***  
   And an ugly face to match  
   ***G# A G# A***  
-              Half Shitfaced  
+    Half Shitfaced  
   ***C# E B C# E***  
-              Half Shitfaced  
+    Half Shitfaced  
   ***C# E B C# E***  
-              Half Shitfaced  
+    Half Shitfaced  
   ***C# E B C# E***  
-              Half Shitfaced  
+    Half Shitfaced  
   ***C# E B C# E***  
-              Go!  
+    Go!  
   *Play the ***C# E*** and B pattern again 8 times,*  
   *Vapid plays the little lead again only seems*  
   *to go off a little more.*  
   ***G# A G# A***  
-              Half Shitfaced  
+    Half Shitfaced  
   ***C# E B C# E***  
-              Half Shitfaced  
+    Half Shitfaced  
   ***C# E B C# E***  
-              Half Shitfaced  
+    Half Shitfaced  
   ***C# E B C# E***  
-              Half Shitfaced  
+    Half Shitfaced  
   ***C# E B C# E***  
-              Go!
+    Go!

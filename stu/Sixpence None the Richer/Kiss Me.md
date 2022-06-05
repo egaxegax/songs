@@ -42,14 +42,14 @@ Kiss Me
   
   *Intro/verse*  
   *Guitar 1.*  
-        ***C          Cm7       C7         Cm7***  
+    ***C          Cm7       C7         Cm7***  
   [e|-0-0-0-0--|-0-0-0-0--|-0-0-0-0--|-0-0-0-0--|  
   B|-1-1-1-1--|-0-0-0-0--|-1-1-1-1--|-0-0-0-0--|  
   G|-0-0-0-0--|-0-0-0-0--|-3-3-3-3--|-0-0-0-0--|  
   D|-2-2-2-2--|-2-2-2-2--|-2-2-2-2--|-2-2-2-2--| } X 3  
   A|-3-3-3-3--|-3-3-3-3--|-3-3-3-3--|-3-3-3-3--|  
   E|----------|----------|----------|----------|  
-        ***C          Cm7       C7          F***  
+    ***C          Cm7       C7          F***  
   e|-0-0-0-0--|-0-0-0-0--|-0-0-0-0--|-1-1-1-1--|  
   B|-1-1-1-1--|-0-0-0-0--|-1-1-1-1--|-1-1-1-1--|  
   G|-0-0-0-0--|-0-0-0-0--|-3-3-3-3--|-2-2-2-2--| } X 1 (end of intro/vers.)  
@@ -75,7 +75,7 @@ Kiss Me
   E|-----3-3--|----------|-----3-3--|----------|-3-3-3-3--|]  
   
   *Fill*  
-        ***C         Cm7        C7         Cm7***  
+    ***C         Cm7        C7         Cm7***  
   [e|-0-0-0-0--|-0-0-0-0--|-0-0-0-0--|-0-0-0-0--|  
   B|-1-1-1-1--|-0-0-0-0--|-1-1-1-1--|-0-0-0-0--|]  
   *[G|-0-0-0-0--|-0-0-0-0--|-3-3-3-3--|-0-0-0-0--|] Pause*  
@@ -177,7 +177,7 @@ Intro:  ***D   Dmaj7   D7   Dmaj7*** } x2
   ***D7                                          G***  
   You wear those shoes and I will wear that dress.  
   
-       ***Em   A   D***  
+    ***Em   A   D***  
 Chorus:  Oh, kiss me beneath the milky twilight.  
   ***Em    A   D          D7***  
   Lead me out on the moonlit floor.  
@@ -218,9 +218,9 @@ Intro:  ***C Cmaj7 C7 Cmaj7***
   
   ***C      Cmaj7                     C7***  
 (1)  Kiss me out of the bearded barley  
-          ***Cmaj7                         C***  
+    ***Cmaj7                         C***  
   Nightly, beside the green, green grass  
-               ***Cmaj7                   C7***  
+    ***Cmaj7                   C7***  
   Swing, swing, swing the spinning step  
   You wear those shoes and I will wear that dress  
   
@@ -228,9 +228,9 @@ Intro:  ***C Cmaj7 C7 Cmaj7***
 Chorus:  Oh, kiss me.. beneath the milky twilight  
       ***G        C           C7            F***  
   Lead me ....  out on the moonlit floor  
-       ***G              C***  
+    ***G              C***  
   Lift your open hand  
-              ***Em              Am               G                        F***  
+    ***Em              Am               G                        F***  
   Strike up the band, make the fireflies dance, silver moon's sparkling  
   ***G Gsus G***  
   .........So kiss me  
@@ -239,11 +239,11 @@ Chorus:  Oh, kiss me.. beneath the milky twilight
   
   ***C      Cmaj7                         C7***  
 (2)  Kiss me down by the broken tree house  
-          ***Cmaj7                  C***  
+    ***Cmaj7                  C***  
   Swing me upon its hanging tire  
-               ***Cmaj7                   C7***  
+    ***Cmaj7                   C7***  
   Bring, bring, bring your flowered hat  
-                                     ***F***  
+    ***F***  
   We'll take the trail marked on your father's map  
   
   **repeat chorus**  
@@ -277,11 +277,11 @@ VERSE 1: kiss me out on the bearded barley
 CHORUS:  kiss me beneath the milky twilight  
   ***Dm    G  C          Am         Dm***  
   lead me out on the moonlit floor  
-             ***G***  
+    ***G***  
   lift your open hand  
   ***C               Csus              C7***  
   strike out the band and make the fireflies dance  
-                ***F         G***  
+    ***F         G***  
   silver moon sparkling  
   
   so kiss me  
@@ -307,7 +307,7 @@ Intro:  ***D# G5***
   ***D#                       G#               Fm***  
   You wear those shoes and I will wear that dress.  
   
-       ***G#   Fm   D#   G5***  
+    ***G#   Fm   D#   G5***  
 Chorus:  Oh, kiss me beneath the milky twilight.  
   ***G#    Fm  D#  G5***  
   Lead me out on the moonlit floor.  
@@ -327,7 +327,7 @@ Chorus:  Oh, kiss me beneath the milky twilight.
   ***D#                               G#          Fm***  
   We'll take the trail marked on your father's map.  
   
-       ***G#   Fm   D#   G5***  
+    ***G#   Fm   D#   G5***  
   Oh, kiss me beneath the milky twilight.  
   ***G#    Fm  D#  G5***  
   Lead me out on the moonlit floor.  
@@ -365,10 +365,10 @@ Chorus:  Oh kiss me beneath the milky twilight
   Lift your open hand  
   ***D                     A                              Bm        A***  
   Strike up the band and make the fireflies dance  
-                  ***GM7***  
+    ***GM7***  
   Silver moon’s sparkling…  
   ***A7sus                D – DM7 – D7 – DM7***  
-       So kiss me…  
+    So kiss me…  
   
   *(Do First stanza chords)*  
   Kiss me, down by the broken tree house  
@@ -378,7 +378,7 @@ Chorus:  Oh kiss me beneath the milky twilight
   *(Repeat Chorus)*  
   
   *ADLIB: ***D*** – ***DM7*** – ***D7*** – ***DM7*** – break*  
-         ****Em7*** – ***A7*** – ***D*** – ***Bm*** – ***Em7*** – ***A7*** – ***D*** – ***D7****  
+    ****Em7*** – ***A7*** – ***D*** – ***Bm*** – ***Em7*** – ***A7*** – ***D*** – ***D7****  
   *(Repeat Chorus)*  
   
   *CODA: (Do chords ***D*** – ***DM7*** – ***D7*** – ***DM7***)*  
@@ -403,20 +403,20 @@ Intro:  ***C Cmaj7 C7 Cmaj7***
   
   ***C      Cmaj7                     C7***  
 Verso 1: Kiss me out of the bearded barley  
-          ***Cmaj7                         C***  
+    ***Cmaj7                         C***  
   Nightly, beside the green, green grass  
-               ***Cmaj7                   C7***  
+    ***Cmaj7                   C7***  
   Swing, swing, swing the spinning step  
-                                  ***F***  
+    ***F***  
   You wear those shoes and I will wear that dress  
   
      ***Dm    G   C           Am              Dm***  
 Coro:  Oh, kiss me.. beneath the milky twilight  
       ***G        C           C7            F***  
   Lead me ....  out on the moonlit floor  
-       ***G              C***  
+    ***G              C***  
   Lift your open hand  
-              ***Em              Am               G                        F***  
+    ***Em              Am               G                        F***  
   Strike up the band, make the fireflies dance, silver moon's sparkling  
   ***G Gsus G***  
   .........So kiss me  
@@ -425,11 +425,11 @@ Coro:  Oh, kiss me.. beneath the milky twilight
   
   ***C      Cmaj7                         C7***  
 Verso 2: Kiss me down by the broken tree house  
-          ***Cmaj7                  C***  
+    ***Cmaj7                  C***  
   Swing me upon its hanging tire  
-               ***Cmaj7                   C7***  
+    ***Cmaj7                   C7***  
   Bring, bring, bring your flowered hat  
-                                     ***F***  
+    ***F***  
   We'll take the trail marked on your father's map  
   
   **repite coro**  
@@ -614,13 +614,13 @@ Chorus 2: G|---------|---------|---------|---------|
   *(acoustic version)*  
   
   *Tuning: Standard tuning (capo on 3rd fret)*  
-          *All chords are relative to capo*  
+    *All chords are relative to capo*  
   
   *Note: Both guitars 1 & 2 have capo on 3rd fret,*  
-        *Use a hard pick for great sound performance.*  
+    *Use a hard pick for great sound performance.*  
   
   *Guitar 1 a Fully strumming pattern except on the plucking pattern*  
-              *in the bridge part only.*  
+    *in the bridge part only.*  
   *Guitar 2 ajust follows what's on the tab*  
   
   *Chord Chart to be used (for guitar 1 only)*  
@@ -645,10 +645,10 @@ Chorus 2: G|---------|---------|---------|---------|
   
   *Verse 1:*  
   *Guitar 1: (strumming pattern) see the chords in the guitar 2 tab*  
-            *And follow the chords pattern in the chord chart above.*  
+    *And follow the chords pattern in the chord chart above.*  
   *Guitar 2:*  
   
-          Kiss me      out of the bearded barley  
+    Kiss me      out of the bearded barley  
       ***C            CM7***  
   [e|---------------------------------------------|  
   B|--13-13--------12-12-------------------------|  
@@ -656,7 +656,7 @@ Chorus 2: G|---------|---------|---------|---------|
   D|---------------------------------------------|  
   A|---------------------------------------------|  
   E|---------------------------------------------|]  
-           Nightly       besides the green, green grass  
+    Nightly       besides the green, green grass  
       ***C7            CM7***  
   [e|-----------------------------------------------|  
   B|--11-11---------12-12--------------------------|  
@@ -664,7 +664,7 @@ Chorus 2: G|---------|---------|---------|---------|
   D|-----------------------------------------------|  
   A|-----------------------------------------------|  
   E|-----------------------------------------------|]  
-          Swing, swing                   swing the spinning step  
+    Swing, swing                   swing the spinning step  
      ***C                              CM7***  
   [e|-------15--------15----15-------------15--------15----15-|  
   B|-13-13-----13-13----13----------12-12-----12-12----12----|  
@@ -672,7 +672,7 @@ Chorus 2: G|---------|---------|---------|---------|
   D|---------------------------------------------------------|  
   A|---------------------------------------------------------|  
   E|---------------------------------------------------------|]  
-         You wear those shoes and I will wear that dress  
+    You wear those shoes and I will wear that dress  
      ***C7                             F***  
   [e|-------15--------15----15-------12-13-15-----------|  
   B|-11-11-----11-11----11-------------------15b17--13-|  
@@ -684,14 +684,14 @@ Chorus 2: G|---------|---------|---------|---------|
   *Refrain:*  
   
   *Note: For guitar 1 use chord in the chord chart above*  
-        For guitar 2 use the chord chart below and use a  
-        strumming pattern.  
+    For guitar 2 use the chord chart below and use a  
+    strumming pattern.  
   
-       ***Dm   G  C         Am7***  
+    ***Dm   G  C         Am7***  
   Oh, kiss me beneath the milky twilight  
    ***Dm   G  C          C7      Dm***  
   Lead me out on the moonlit floor  
-        ***G***  
+    ***G***  
   Lift up your open hand  
      ***C          Gsus4/B            Am7***  
   Strike up the band and make the fireflies dance  
@@ -700,21 +700,21 @@ Chorus 2: G|---------|---------|---------|---------|
   
   *Chord chart for guitar 2 (for refrain)*  
   
-        ***Dm        G          C        Am7        Dm***  
+    ***Dm        G          C        Am7        Dm***  
   [e|----5----|----10----|----8----|----5----|----10----|  
   B|----6----|----8-----|----8----|----5----|----10----|  
   G|----7----|----7-----|----9----|----5----|----10----|  
   D|---------|----------|---------|---------|----------|  
   A|---------|----------|---------|---------|----------|  
   E|---------|----------|---------|---------|----------|]  
-        ***G         C          C7        Dm        G***  
+    ***G         C          C7        Dm        G***  
   [e|----7----|----8-----|----10---|----10---|----7----|  
   B|----8----|----8-----|----8----|----10---|----8----|  
   G|----7----|----9-----|----9----|----10---|----7----|  
   D|---------|----------|---------|---------|---------|  
   A|---------|----------|---------|---------|---------|  
   E|---------|----------|---------|---------|---------|]  
-        ***C       Gsus4/B     Am7      Gsus2       F***  
+    ***C       Gsus4/B     Am7      Gsus2       F***  
   [e|----8----|----7-----|----5----|----10---|----5----|  
   B|----8----|----8-----|----5----|----8----|----6----|  
   G|----9----|----7-----|----5----|----7----|----5----|  
@@ -752,11 +752,11 @@ Chorus 2: G|---------|---------|---------|---------|
   
   *Verse 2:*  
   *Guitar 1: (strumming pattern) see the chords in the guitar 2 tab*  
-            *And follow the chords pattern in the chord chart above.*  
+    *And follow the chords pattern in the chord chart above.*  
   
   *Guitar 2:*  
   
-          Kiss me                down by the broken tree house  
+    Kiss me                down by the broken tree house  
       ***C                              CM7***  
   [e|-------15--------15----15-------------15--------15----15-|  
   B|-13-13-----13-13----13----------12-12-----12-12----12----|  
@@ -764,7 +764,7 @@ Chorus 2: G|---------|---------|---------|---------|
   D|---------------------------------------------------------|  
   A|---------------------------------------------------------|  
   E|---------------------------------------------------------|]  
-          Swing me               upon its hanging tire  
+    Swing me               upon its hanging tire  
      ***C7                             CM7***  
   [e|-------15--------15----15-------------15--------15-----15--|  
   B|-11-11-----11-11----11----------12-12-----12-12-----12-----|  
@@ -772,7 +772,7 @@ Chorus 2: G|---------|---------|---------|---------|
   D|-----------------------------------------------------------|  
   A|-----------------------------------------------------------|  
   E|-----------------------------------------------------------|]  
-          Bring, bring,           bring your flowered hat  
+    Bring, bring,           bring your flowered hat  
      ***C                              CM7***  
   [e|-------15--------15----15-------------15--------15----15-|  
   B|-13-13-----13-13----13----------12-12-----12-12----12----|  
@@ -780,7 +780,7 @@ Chorus 2: G|---------|---------|---------|---------|
   D|---------------------------------------------------------|  
   A|---------------------------------------------------------|  
   E|---------------------------------------------------------|]  
-         We'll take the trail marked on your father's map  
+    We'll take the trail marked on your father's map  
      ***C7                             F***  
   [e|-------15--------15----15-------12-13-15-----------|  
   B|-11-11-----11-11----11-------------------15b17--13-|  

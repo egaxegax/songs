@@ -4,8 +4,8 @@
   
   *Here's a quick TAB for the beginning of the song.. I'll figure the*  
   *rest out later..*  
-       ***Am             Am/G***  
-       *Palm mute-----*  
+    ***Am             Am/G***  
+    *Palm mute-----*  
   [e--------------------------|-------------------------|-----------------\  
   B-----------0--------------|--1----0-----------------|-----0-----------|  
   G----------------0--2----0-| ------------0--2-----0--|---------0--2---0|  
@@ -38,7 +38,7 @@
   E------------------------------|---------------------------------------/]  
      ***D   E       D     E***  
      You will     make_ some sense |     of  this__  
-           ***Am***  
+    ***Am***  
      and | when you've made__ your se - cret jour__ ney |  
      ***Am/G***  
      you will find__ this lo|ve   you miss.____

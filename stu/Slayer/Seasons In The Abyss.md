@@ -13,7 +13,7 @@
   ||-15---------------------------------||  
   ||------------------------------------||  
   ||------------------------------------||  
-                          *bend up & down*  
+    *bend up & down*  
   *acoustic intro riff:*  
       ***E5****  
   ||-----------0-----------------------0----------------|  
@@ -37,7 +37,7 @@
   ***E5***  [-799--]     ***F5***  [-81010--]     ***C5***  [3355--]     ***B5***  [2244--]  
   *the ***E5*** and ***F5*** are strummed in 16th notes.*  
   *main thrash riff:*  
-                                       ***E5       Eb5***  
+    ***E5       Eb5***  
   ||--------------------------------------------------||  
   ||--------------------------------------------------||  
   ||--------------------------------------------------||  
@@ -63,8 +63,8 @@
   *CHORUS:*  
   ***E5                    G5                         F#5***  
   close your eyes, look deep in your soul, step outside your mind  
-                            ***G5 F#5***  
-       and let yourself go  
+    ***G5 F#5***  
+    and let yourself go  
   ***E5           F5         G#5      G5 F#5***  
      as you go insane, go insane  
   *1ST SOLO RYTHYM:  variation on Verse Riff played 1 step (2 frets) higher; no*  

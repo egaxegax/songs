@@ -48,7 +48,7 @@ Numb
   
    ***H5            A5                     E5***  
 Chorus:  I've become so numb I can't feel you there  
-                  ***F#5                 H5***  
+    ***F#5                 H5***  
   I've become so tired so much more aware  
   I've becoming this all I want to do  
   Is be more like me and be less like you  
@@ -145,7 +145,7 @@ Intro:  ***F#5 D5 A5 E5***
    ***A                         E                D    E***  
   Put under the pressure of walking in your shoes  
   (caught in the undertow, just caught in the undertow)  
-         ***F#m                  A                 D   E***  
+    ***F#m                  A                 D   E***  
   Every step that I take is another mistake to you  
   
   ***F#5             D5***  

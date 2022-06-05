@@ -17,8 +17,8 @@
   ***A           B***  
   I don't like these days they make me feel too small  
   *Electric (distortion):  [D --2---4--]*  
-                          [A --2---4--  
-                          E --0---2--]  
+    [A --2---4--  
+    E --0---2--]  
   
 -  
   

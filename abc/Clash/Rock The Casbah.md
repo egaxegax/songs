@@ -3,20 +3,20 @@ Rock The Casbah
   
   ***A7                                 Em7***  
   Now, the king told the boogie men,  
-              ***G7                  Dm7***  
+    ***G7                  Dm7***  
   --More--(4%)  
   you have to let that raga drop.  
       ***A7                        Em7***  
   The oil down the desert way  
-           ***G7                    Dm7***  
+    ***G7                    Dm7***  
   has been shaking to the top.  
       ***A7                        Em7***  
   The sheik he drove his cadillac  
-            ***G7                   Dm7***  
+    ***G7                   Dm7***  
   he went a cruisin down the ville.  
       ***A7                        Em7***  
   The Muezzin was a standing  
-         ***Fmaj7***  
+    ***Fmaj7***  
   On the radiator grille.  
   
      ***Dm7                A7  G7***  

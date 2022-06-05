@@ -10,19 +10,19 @@ Rambling Irishman
   *Tuning low to high - [DADGBD]*  
   
   *Chords  ***D***  [000230]*  
-          ***A  [x02220]***  
-          ***G  [5x0030]***  
-          ***Bm [x24430]***  
+    ***A  [x02220]***  
+    ***G  [5x0030]***  
+    ***Bm [x24430]***  
   
   *Long instrumental intro not done.*  
   
   ***D               G    D***  
   I am a rambling Irishman  
-            ***G     D    A***  
+    ***G     D    A***  
   In Ulster I was born  
       ***D          G       D***  
   And many happy hours I spent  
-                  ***G           A   D***  
+    ***G           A   D***  
   On the banks of sweet Lough Erin  
   ***D           G            D         A***  
   But to live poor I could not endure  

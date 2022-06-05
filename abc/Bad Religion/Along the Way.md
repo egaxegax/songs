@@ -5,11 +5,11 @@ Along the Way
   
       ***C        A#           F           C***  
   I refuse to abuse what is kind to the muse,  
-           ***G#             D#           A#           C***  
+    ***G#             D#           A#           C***  
   but it's there and it's happening to me along the way  
-        ***C              A#          F              C***  
+    ***C              A#          F              C***  
   As we go through the snow, we cannot forget our foes,  
-          ***G#              D#             A#              C***  
+    ***G#              D#             A#              C***  
   but the dinner's always waiting at the table along the way  
   What you see, not for me, isn't what you planned to be,  
   but you'll have what you wanted in the end along the way.  

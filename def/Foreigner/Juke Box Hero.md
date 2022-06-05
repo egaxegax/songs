@@ -15,20 +15,20 @@
   Put his ear to the wall, and like a dastant scream  
   ***N.C.                E                  D***  
   He heard one guitar, just blew him away  
-                        ***E                     D***  
+    ***E                     D***  
   Saw stars in his eyes, and the very next day  
   *Verse 2*  
   ***N.C.***  
   Bought a beat up six-string in a second hand store  
   ***N.C.***  
   Didn't know how to play it, but he knew for sure  
-                           ***E                 D***  
+    ***E                 D***  
   That that one guitar felt good in his hands  
-                  ***E             D***  
+    ***E             D***  
   Didn't take long to understand  
-                  ***E                D***  
+    ***E                D***  
   Just one guitar, slung way down low  
-                      ***E                   D***  
+    ***E                   D***  
   Was a one way ticket, only one way to go  
   *Rhy. Fig. 1*  
   [E--------------------|  
@@ -81,12 +81,12 @@
   Thought he passed his own shadow by the backstage door  
   ***N.C.                        E                     D***  
   Like a trip thorugh the past, that day in the rain  
-                 ***E                          D***  
+    ***E                          D***  
   That one guitar made his whole life change  
   *Play Pre-Chorus*  
   *Play Chorus*  
   *Rhy. Fig. 5*  
-          *P.M......*  
+    *P.M......*  
   [E-----------------2-2----|  
   B-----------------3-3---*|  
   G-----------------2-2----|  
@@ -116,7 +116,7 @@
   D------------------------|-4-4-5-6-7-------4-|  
   A------------------------|-------------------|  
   E------------------------|-------------------|]  
-                             "YEEEEAAAAH!"  
+    "YEEEEAAAAH!"  
   *Play Pre-Chorus*  
   *Play Chorus*  
   *Fill 2*  

@@ -34,7 +34,7 @@ Riff:  |------------------------2--|
   
   ***Bm7             F#m7***  
 chorus:  Heaven help the heart  
-       ***Bm7       F#m7***  
+    ***Bm7       F#m7***  
   That lets me inside  
   ***Bm7             F#m7***  
   Heaven help the one  
@@ -42,9 +42,9 @@ chorus:  Heaven help the heart
   Who comes in my life  
   ***Bm7             F#m7***  
   Heaven help the fool  
-       ***Bm7               F#m7***  
+    ***Bm7               F#m7***  
   That walks  through my door  
-       ***Em7       D***  
+    ***Em7       D***  
   'Cos I decided right now  
   I'm ready for love  
   

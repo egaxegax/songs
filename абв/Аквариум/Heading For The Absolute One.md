@@ -10,7 +10,7 @@ Radio London (1990)
   Saint Peter by the pearly gate -  
   ***C                         A7***  
   He looks funny, but he's doing alright;  
-        ***Dm            Em         F***  
+    ***Dm            Em         F***  
   He's taking the preventive measures -  
    ***Em                 F      G7***  
   Must have been too late...  
@@ -26,9 +26,9 @@ Radio London (1990)
   So, my love,  
       ***C                    A7***  
   I think that enough is enough;  
-                 ***Dm             F G***  
+    ***Dm             F G***  
   Tired of this second-hand fun,  
-                      ***C             Am***  
+    ***C             Am***  
   I'm heading for the absolute one.  
   
   Descriptions in the holy books leave me feeling rather stiff,  

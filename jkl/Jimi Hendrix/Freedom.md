@@ -66,9 +66,9 @@ Freedom
   *Chorus again*  
   *Bridge:*  
   You don't have to say that you love me if you don't mean it, you  
-        better believe  
+    better believe  
   If you need me or you just want to bleed me, you better stick in your  
-        dagger in someone else, so i can leave.  
+    dagger in someone else, so i can leave.  
   *solo section*  
   *BR:*  
   Right on, straight ahead  

@@ -13,7 +13,7 @@ You came to me like the dawn through the night,
 Just shining like the sun.  
  ***A#                   Cm***  
 Out of my dreams and into my life.  
-         G#       A#  
+    G#       A#  
 You are the one, you are the one.  
   
   ***Cm          G#        D#          A#***  

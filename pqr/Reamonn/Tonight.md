@@ -5,11 +5,11 @@ Intro:  ***Em | Am | D | Hm | C | Am | D | H7***
   
   ***Em        Am                D***  
   She never took the train alone  
-             ***Hm           C***  
+    ***Hm           C***  
   she hated being on her own  
-              ***Am             D***  
+    ***Am             D***  
   She always took me by the hands  
-       ***H7***  
+    ***H7***  
   and say she needs me  
   
   She never wanted love to fail  
@@ -24,11 +24,11 @@ Intro:  ***Em | Am | D | Hm | C | Am | D | H7***
   
   ***Em  Am           D                  Hm***  
   Oh tonight you killed me with your smile  
-        ***C           Am       H7***  
+    ***C           Am       H7***  
   so beautiful and wild so beautiful  
   ***Em    Am          D                 Hm***  
   Oh tonight you killed me with your smile  
-        ***C           Am       H7           Em***  
+    ***C           Am       H7           Em***  
   so beautiful and wild so beautiful and wild  
   
   And as the hands would turn with time  
@@ -49,9 +49,9 @@ Intro:  ***Em | Am | D | Hm | C | Am | D | H7***
   comes the brightest light  
   ***H                   Em***  
   And the light that shines  
-             ***Em***  
+    ***Em***  
   is deep inside  
-              ***H***  
+    ***H***  
   It's who you are  
   
   *Chorus*

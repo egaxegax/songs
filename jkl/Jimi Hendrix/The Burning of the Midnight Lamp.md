@@ -65,25 +65,25 @@
   Hoo-ray i awake from yesterday alive but the war is here to stay  
   ***C    B***  
   So my love,catherina and me decide to take our last walk through  
-                                                  noise to the sea  
+    noise to the sea  
   ***Bb    A***  
   Not to die but to be reborn  A way from lands so batterd and torn  
   ***Am              D          Am***  
   forever...           forever  
   ***D       C#    D   D***  
-               Oh  say....  
+    Oh  say....  
   *Again if you need the rest of the lyrics email me!*  
   *ANd finally do you mean Little Miss Lover?*  
   *well anyway here it is*  
   *Little Miss Lover 1968 BG music  J Hendrix*  
   ***Am***  
   Little miss lover     where have you been in this world for so  
-               ***C                       Am***  
+    ***C                       Am***  
   long   well I love a lover      that feels like you  would you like to  
-                                                                  tag along  
-           ***Em***  
+    tag along  
+    ***Em***  
   well i really don't need any help  little girl but i  
-                            ***G    E      Am***  
+    ***G    E      Am***  
   b'lieve you could help me out  an- y- way__  
   
   *Chorus*  

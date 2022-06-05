@@ -13,7 +13,7 @@ All day and all of the night
   A--3----5----5----3----3---1---1--1----5-----------------  
   E--1----3----3----1----1---------------3-----------------]  
      *I'm not  con-tent  to   b - e with you*  
-              *All  day  and all of the night*  
+    *All  day  and all of the night*  
   
   *that patter keeps on repeating*  
   

@@ -5,11 +5,11 @@
   
   ***C***  
   Sophie mein Henkersmдdel,                Barre ***C***=8 ***F***=1 ***Ab***=4 ***Bb***=6 ***H***=7  
-                                           for example ***F*** = [133211]  
+    for example ***F*** = [133211]  
   Komm, kьsse mir den Schдdel!  
-          ***F                            Ab***  
+    ***F                            Ab***  
   Zwar ist mein Mund ein schwarzer Schlund,  
-           ***Bb        H          C***  
+    ***Bb        H          C***  
   doch Du bist gut und edel!  
   Sophie mein Henkersmдdel,  
   Komm streichle mir den Schдdel!  

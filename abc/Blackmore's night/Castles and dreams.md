@@ -7,13 +7,13 @@ Castles and dreams
   But what a sad song to sing?  
   ***F#m        D           Dbm      F#m***  
   Turned her back on all that she knew  
-         ***D         E      A***  
+    ***D         E      A***  
   In the hope of a golden ring...  
   ***F#m           D    E***  
   And the rains come down  
-          ***F#m                 E***  
+    ***F#m                 E***  
   And the stars fell from the sky  
-          ***F#m    D    E***  
+    ***F#m    D    E***  
   Oh, how dark the night...  
       ***D      A          Hm          F#m***  
   It always seems those Castles and Dreams  

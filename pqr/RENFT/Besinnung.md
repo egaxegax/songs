@@ -11,7 +11,7 @@ Besinnung (Glaeser-Demmler)
   ***G           A                   D***  
   wie wird so herrlich schwer das lied  
   ***D                          D***  
-              ahum,ahum,ahum  
+    ahum,ahum,ahum  
   ***D                          D***  
   Hmmmmm      ahum,ahum,ahum  
   
@@ -25,7 +25,7 @@ Besinnung (Glaeser-Demmler)
      ***D                                     A***  
      dann spuert ihr da drinnen unendliche ruh' [:|]  
   ***D                          D***  
-              ahum,ahum,ahum  
+    ahum,ahum,ahum  
   ***D                          D***  
   Hmmmmm      ahum,ahum,ahum  
   

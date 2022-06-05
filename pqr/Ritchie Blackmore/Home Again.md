@@ -16,7 +16,7 @@ E|-0---------------3---------------------------0--
   
 Em  
 I?ve been many places  
-        C               H  
+    C               H  
 Ive traveled round the world  
 Am             C                    Em  
 Always on the search for something new  

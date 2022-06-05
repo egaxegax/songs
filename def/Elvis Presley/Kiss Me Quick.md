@@ -1,13 +1,13 @@
 <!--2020-09-04 20:47:39-->
 Kiss Me Quick  
   
-                             ***Bb***  
+    ***Bb***  
   Hm ... kiss me quick  
-                                          ***Eb     F***  
+    ***Eb     F***  
   While we still have this feeling  
-                                                       ***Bb***  
+    ***Bb***  
   Hold me close and never let me go  
-                                          ***B7b***  
+    ***B7b***  
   'Cause tomorrow can be so uncertain  
     ***Eb                       Emb***  
   Love can fly and leave just hurtin'  

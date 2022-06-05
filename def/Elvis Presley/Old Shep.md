@@ -4,17 +4,17 @@ Old Shep
   
     ***G               Em        A***  
 (1)  Oh, when I was a lad, Old Shep was a pup  
-        ***D                      G***  
+    ***D                      G***  
   Over hills and meadows we'd stray  
-                      ***Em            A***  
+    ***Em            A***  
   Just a boy and his dog, we were both full of fun  
       ***D                     G***  
   We grew up together that way  
      ***C                        G***  
   I remember the time at the old swimming hole  
-                                     ***A--D***  
+    ***A--D***  
   When I would have drowned beyond doubt  
-       ***G              Em            A***  
+    ***G              Em            A***  
   Old Shep was right there, to the rescue he came  
       ***D                            G***  
   He jumped in and helped pull me out  

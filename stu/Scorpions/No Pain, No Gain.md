@@ -18,7 +18,7 @@ intro (repeat many times)
  -------------------------------------  
   
  prechorus (The weak will fall, the strong remain)  
-           guitar 2  
+    guitar 2  
  -------------------------------------  
  ---------------------H---------------  
  -------5-----4-------2-dive-----------  

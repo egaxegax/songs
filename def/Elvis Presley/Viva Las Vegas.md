@@ -3,14 +3,14 @@ Viva Las Vegas
   
   ***G                                          C***  
 Verse:  Bright light city gonna set my soul, gonna set my soul on fire.  
-          ***G                                       C***  
+    ***G                                       C***  
   I got a whole lotta money that's ready to burn, so get the stakes up higher.  
   
-               ***Em                                         C***  
+    ***Em                                         C***  
 PreChorus: There's a thousand pretty women waitin' out there  
-          ***Em                              C***  
+    ***Em                              C***  
   And they're all livin' devil may care (??)  
-         ***Em***  
+    ***Em***  
   And I'm just a devil with love to spare, so  
   
   ***C               G***  
@@ -32,7 +32,7 @@ Chorus:  Viva Las Vegas
   Viva Las Vegas with your bright lights flashin, one-armed bandits crashin',  
   All your hopes down the drain.  
   Viva Las Vegas turning day into nightime, night into daytime,  
-          ***A7                                  D7***  
+    ***A7                                  D7***  
   If you see it once, you'll never be the same again  
   
 Verse:  Gonna keep on the run, gonna have some fun, if it costs me my very last dime.  

@@ -6,12 +6,12 @@ Well all the love from me  With all the dying trees i 
 The angels in my dreams    Have turn to demons of greed thats me  
   
 Chorus:  
-        F            C  
-        Where I go i just dont know  
-        Dm                      Bb  
-        Ive got to got to gotta take it slow  
-        When I find my peace of mind  
-        Im gonna give you some of my good time  
+    F            C  
+    Where I go i just dont know  
+    Dm                      Bb  
+    Ive got to got to gotta take it slow  
+    When I find my peace of mind  
+    Im gonna give you some of my good time  
   
 F         C           Dm Bb  F       C       Dm       Bb  
 Today love smiled on me      It took away my pain say please  
@@ -39,9 +39,9 @@ I'm much better but I won't regret it never
 Chorus  
   
 2nd chorus  
-           F            C  
-           Where i go i just dont know  
-           Dm                          Bb  
-           I might end up somewhere in Mexico  
-           When i found my peace of mind        F  
-           Im gonna keep it for the end of time
+    F            C  
+    Where i go i just dont know  
+    Dm                          Bb  
+    I might end up somewhere in Mexico  
+    When i found my peace of mind        F  
+    Im gonna keep it for the end of time

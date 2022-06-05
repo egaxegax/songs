@@ -2,13 +2,13 @@
 Hateful  
   *(Jones/Strummer)*  
   
-        ***C***  
+    ***C***  
   Well, I got a friend who's a man (who's a man?)  
-                                          ***D***  
+    ***D***  
   What man? The man who keeps me from the lonely    the only  
      ***C***  
   He gives me what I need (What you need?)  
-                                ***G***  
+    ***G***  
   What ya got? I need it all so badly  
   *Chorus*  
       ***C    C/B    Am***  
@@ -17,11 +17,11 @@ Hateful
   He gives it to me  
   ***C   C/B     Am     C        C/B***  
   Anything I want    he gives it  
-        ***Am                 C***  
+    ***Am                 C***  
   But,  not for free, it's hateful  
-           ***E7sus4/B***  
+    ***E7sus4/B***  
   and it's paid for  
-             ***Am              G       A Bb  B***  
+    ***Am              G       A Bb  B***  
   And I'm so grateful  to be nowhere  
   This year I've lost some friends (some friends?)  
   What friends? I dunno I ain't even noticed  

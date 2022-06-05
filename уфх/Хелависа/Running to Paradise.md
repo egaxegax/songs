@@ -5,17 +5,17 @@ Running to Paradise (1996)
   
      ***Em           Hm***  
   As I came over Windy Gap  
-          ***D              Am***  
+    ***D              Am***  
   They threw a halfpenny into my cap,  
       ***G             C      D***  
   For I am running to Paradise;  
       ***G                D***  
   And all that I need do is to wish  
-       ***Am                C***  
+    ***Am                C***  
   And somebody puts his hand into dish  
-        ***Em              Hm***  
+    ***Em              Hm***  
   To throw me a bit of salted fish:  
-        ***D                           Em***  
+    ***D                           Em***  
   And there the king is but as the beggar.  
   
   My brother Mourteen is worn out  

@@ -10,7 +10,7 @@ Intro:  ***E  A  G  D*** } 2x
   And I don't ever want to see you blue, oh no  
   ***A     D    G         D      A        D  C  D***  
   All I ever wanted to do was know you  
-               ___            ___  
+    ___            ___  
   ***E         A    G         D       E    |1. A   G   D  |2. and 3. E (to bridge)***  
   And maybe hope you could know me too  
   
@@ -18,11 +18,11 @@ Verse 2: Well I don't ever want to make you sorry
   For anything you've ever said or done, oh no  
   All I ever wanted to do was love you  
   And maybe hope you could love me too  
-           ***B                      F#***  
+    ***B                      F#***  
   And it's all right baby, I'm in love with you  
-           ***Abm                      A***  
+    ***Abm                      A***  
   And it's all right, I would never make you blue  
-            ***B***  
+    ***B***  
   Or try to play with you  
   
 Verse 3: Well, I don't ever want to spoil your party  

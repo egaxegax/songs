@@ -12,23 +12,23 @@ Imeno carime  Choir: Imeno malebo dio
   G#  
 Avemano  
 Iveno rore    Choir: Omendire  
-                              D#   Cm  
+    D#   Cm  
 Diave nero    Choir: Imeno malebo dio  
 Ave  
-       Gm  
+    Gm  
 Amento mira   Choir: Mira  
-       Fm  
+    Fm  
 Toro mantiro  Choir: Mantiro  
 Amento mi     Choir: Mare  
  Gsus4G  
  Dodeo  
   Cm  
 Malevo        Choir: Levo  
-       Gm  
+    Gm  
 Amento mire   Choir: Amen mire  
-       Fm  
+    Fm  
 Tovoli teo    Choir: Tovoli teo  
-       D#  
+    D#  
 Amento mia    Choir: Amen mia  
      B  
 Corame  

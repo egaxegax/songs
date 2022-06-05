@@ -4,18 +4,18 @@ Straight From The Heart
   ***C***  
   I could stop dreaming, but in never ends.  
   As long as you're gone we may as well pretend.  
-            ***Bb   F Bb  C       G         C***  
+    ***Bb   F Bb  C       G         C***  
   I been dreamin'     straight from the heart.  
   ***C***  
   You say it's easy, but who's to say that we'd be  
   able to keep it this way.  
-           ***Bb    F Bb      C        G        C***  
+    ***Bb    F Bb      C        G        C***  
   But it's easier,  comin' straight from the heart.  
-                   ***F        G          C***  
+    ***F        G          C***  
   Oh give it to me straight from the heart  
-                   ***F       G      C***  
+    ***F       G      C***  
   Tell me we could make another start  
-                      ***Am              F***  
+    ***Am              F***  
   You know I'll never go as long as I know it's comin  
   ***C             G    C***  
   straight from the heart.  

@@ -5,60 +5,60 @@ One Step Closer To Home
   *Intro: (v = downstroke, ^ = upstroke, . = pick separate strings)*  
   ***GGG G G G D A D ADADA Em     G         G***  
   *v^v v v v v v v vvvvv v....  v........ v........*  
-          ***D                    A***  
+    ***D                    A***  
   Back in seventyfive when the kid was on the line  
-         ***Em                        G***  
+    ***Em                        G***  
   and he felt no pain 'cause there was none  
-           ***D                      A***  
+    ***D                      A***  
   He would bend in the wind, take in anything  
-                ***Em                G***  
+    ***Em                G***  
   like sniffin' roses, and it was all right  
-           ***Em               A***  
+    ***Em               A***  
   until he fell and cut his hand  
-          ***G               Bm***  
+    ***G               Bm***  
   He just could not understand  
-           ***Em        D/F#         G        E***  
+    ***Em        D/F#         G        E***  
   He ran away, blame pretence for defence  
-           ***A***  
+    ***A***  
   or plain innocence  
   Said that's all right,  
-                ***G                     D        A     Em***  
+    ***G                     D        A     Em***  
   the harder it fights, I'm one step closer to home  
-                ***G                     D        A     Em***  
+    ***G                     D        A     Em***  
   The deeper it bites , I'm one step closer to home  
-                     ***G                D***  
+    ***G                D***  
   And you can tie my hands or whip my back  
-               ***G                      D***  
+    ***G                      D***  
   I can't give in, till the sky turns black  
-             ***G                   D        G    D A D***  
+    ***G                   D        G    D A D***  
   I may get lost - I'm one step closer to home  
   ****ADADA Em G***  (As in the Intro.)*  
-              ***D                    A***  
+    ***D                    A***  
   Oh yeah, he ran, hitched rides, travelled light  
-           ***Em                   G***  
+    ***Em                   G***  
   left his bags behind, said he lost them  
-          ***D                 A***  
+    ***D                 A***  
   He said that's O.K. I got money and a smile  
-       ***Em                       G***  
+    ***Em                       G***  
   from place to place, and they don't mind  
-               ***Em               A***  
+    ***Em               A***  
   I've had the heads of businessmen  
-             ***A                      Bm***  
+    ***A                      Bm***  
   and I just gave them right back again  
-           ***Em          D/F#    G          Em***  
+    ***Em          D/F#    G          Em***  
   I've got no need for device, disguise  
-           ***A***  
+    ***A***  
   or plain compromise  
   Said that's all right,  
-                 ***G                   D        A     Em***  
+    ***G                   D        A     Em***  
   the tougher it gets, I'm one step closer to home  
-                  ***G                    D        A     Em***  
+    ***G                    D        A     Em***  
   the more that I sweat, I'm one step closer to home  
-                     ***G                D***  
+    ***G                D***  
   And you can tie my hands or whip my back  
-               ***G                      D***  
+    ***G                      D***  
   I can't give in, till the sky turns black  
-             ***G                   D        G    D A D***  
+    ***G                   D        G    D A D***  
   I may get lost - I'm one step closer to home  
   ***Bm                                       D***  
   There ain't no need for this, at all, at all  
@@ -72,27 +72,27 @@ One Step Closer To Home
   tear it all down, smash it all up  
   ***D                                 A***  
   break it all down, and then just stop  
-              ***D A D A***  
+    ***D A D A***  
   build it up  
-              ***D  A***  
+    ***D  A***  
   build it up  
-              ***D  A***  
+    ***D  A***  
   build it up  
-                     ***D                        A***  
+    ***D                        A***  
   and the tougher it gets and the more that I sweat  
-                     ***D                        G***  
+    ***D                        G***  
   and the harder it fights and the deeper it bites  
-                ***D        A     Em***  
+    ***D        A     Em***  
   I'm one step closer to home  
-                ***G***  
+    ***G***  
   the harder it fights  
-                ***D        A***  
+    ***D        A***  
   I'm one step closer to home  
-                     ***G                D***  
+    ***G                D***  
   And you can tie my hands or whip my back  
-               ***G                      D***  
+    ***G                      D***  
   I can't give in, till the sky turns black  
-             ***G                   D        G    D A D***  
+    ***G                   D        G    D A D***  
   I may get lost - I'm one step closer to home  
   
   *Chord formations:*  

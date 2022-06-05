@@ -8,25 +8,25 @@
   Although the candle hadn't burned down to the stick  
   ***A                     G              F             G    A***  
   It won't be lit again, the day won't be quite as bright  
-             ***F                      G           B                       A***  
+    ***F                      G           B                       A***  
   We don't know what she may have been, all we know is what she left behind  
-        ***F                        G                             C   G   A***  
+    ***F                        G                             C   G   A***  
   An apartment cluttered with children's toys and photos of good times  
-          ***F                              G***  
+    ***F                              G***  
   In the bedroom there's sheets on the windows  
-              ***B                    A***  
+    ***B                    A***  
   There's a four poster bed for a reason  
-            ***F                          G***  
+    ***F                          G***  
   On the floor there's a box full of secrets, it won't be opened  
   ***F           G                     A AGF       G              A         AGF***  
   Here older boys and girls would play, all inhibitions were left behind  
-              ***G                     C                 CBA***  
+    ***G                     C                 CBA***  
   And as the door would close her face began to shine  
   ***A                               G               F***  
   This was her finest hour, this was her finest time  
   ***G      A             C                D      F           G    A***  
   She's gone and it's not gonna be all right, not for me she's gone  
-            ***C                 D***  
+    ***C                 D***  
   And it's not gonna be all right  
   ***F           G     F                G                  A   AGF***  
   Not for me she's gone but not forgotten she's still here  
@@ -48,9 +48,9 @@
   
   e---17-15-12-17-15-12-17-15-12-17-----]  
   
-          ***F                     G              C                          A***  
+    ***F                     G              C                          A***  
   In the darkness she sees definition, in the silence she hears someone calling  
-          ***F                            G***  
+    ***F                            G***  
   After nightmares she lies in bed screaming but there's no reaction  
   ***A                       F          G                 A***  
   There's no one listening, there's no one now she's gone  

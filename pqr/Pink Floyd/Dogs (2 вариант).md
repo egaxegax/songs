@@ -46,7 +46,7 @@ You gotta be crazy, you gotta have a real need
 Gotta sleep on your toes and when you`re on the street  
   
 You gotta be able to pick out the  
-                          E7sus4  
+    E7sus4  
 easy meat with your eyes closed  
   
 Then moving in silently downwind and out of sight  
@@ -54,13 +54,13 @@ Bbmaj7sus4
 You gotta strike when the moment is right without thinking  
      Dm9  
 And after a while you can work on points of style  
-         Badd4  
+    Badd4  
 Like the club tie and the firm handshake  
   
 A certain look in the eye and an easy smile  
     E7sus4  
 You have to be trusted by the people that you lie to  
-        Ebmaj7sus4  
+    Ebmaj7sus4  
 So that when they turn their backs on you  
   
 You`ll get the chance to put the knife in  
@@ -68,7 +68,7 @@ You`ll get the chance to put the knife in
 Dm9  Badd4  E7sus4  Ebmaj7sus4  
   
 SOLO 1:  
-            Dm9  
+    Dm9  
 E|--------|-12----------13------12---|-12p10--10--------------|  
 B|--------|--------------------------|---------------------12-|  
 G|----9---|--------------------------|-------------------10---|  
@@ -128,7 +128,7 @@ D|-----------|--------------------|----------------------------|
 A|-----------|--------------------|----------------------------|  
 E|-----------|--------------------|----------------------------|  
   
-                                     Dm9  
+    Dm9  
 E|---------------------------------|--------------------------|  
 B|--11--10-------------------------|--------------------------|  
 G|-----------13--12--10---10b(12)--|----------------------r10-|  
@@ -144,9 +144,9 @@ A|----------------|
 E|----------------|  
   
 VERSE:  
-       Dm9  
+    Dm9  
 You`ve gotta keep one eye looking over your shoulder  
-              Badd4  
+    Badd4  
 You know it`s gonna get harder,  
 harder and harder as you get older  
     E7sus4  
@@ -161,7 +161,7 @@ Badd4  E7sus4  Ebmaj7sus4  Dm
 C  Dm  C  Dm  Bb  F  Eb  F  Eb  Dm  Dm9  C7  Dm  A  F  Em  
   
 Start of Solo #2:(Double Tracked - both guitar parts)  
-                 C  
+    C  
 E|--12b(13)---|--12----|----------12-12b(13)--15-12b(13)--12-|  
 B|--13b(15)---|--13----|----------13-13b(15)--17-13b(15)--13-|  
 G|------------|--------|-------------------------------------|  
@@ -177,7 +177,7 @@ D|-----------------|-------------------------|-----|
 A|-----------------|-------------------------|-----|  
 E|-----------------|-------------------------|-----|  
   
-                                           Dm  
+    Dm  
 E|----------12-12b(13)--15-12b(13)--12---|-12b(13)-|  
 B|----------13-13b(15)--17-13b(15)--13---|-13b(15)-|  
 G|---------------------------------------|---------|  
@@ -185,7 +185,7 @@ D|---------------------------------------|---------|
 A|---------------------------------------|---------|  
 E|---------------------------------------|---------|  
   
-                 C                   Bb  
+    C                   Bb  
 E|--12b(13)------12---------10p8--|--10-|  
 B|--13b(15)------13---------11p10-|--11-|  
 G|--------------------------------|-----|  
@@ -200,7 +200,7 @@ D|-----------------------------------|-----|
 A|-----------------------------------|-----|  
 E|-----------------------------------|-----|  
   
-                                      F  
+    F  
 E|-10b(12)---12b(13)---13b(15)------|----15b(17)----17b(18)r17-|  
 B|-11b(13)---13b(15)---15b(17)---13-|-13-16b(18)----18b(20)r18-|  
 G|-------------------------------14-|-14-----------------------|  
@@ -233,14 +233,14 @@ D|---x-2--x---------x-2--x--------x-2--x-----------x-2--x------|
 A|---x-2------------x-2-----------x-2--------------x-2--x------|  
 E|-0--------------0-------------0----------------0-------------|  
   
-                                                   End Figure A  
+    End Figure A  
 E|---x-2------2-2-2---x-2----2-2-----x-2----2-2-----x-2----2-2-|  
 B|---x-3--x---3-3-3---x-3-x--3-3-----x-3-x--3-3-----x-3-x--3-3-|  
 G|---x-0--x-----0-----x-0-x----0-----x-0-x----0-----x-0-x--0---|  
 D|---x-2--x-----------x-2-x----------x-2-x----------x-2-x------|  
 A|---x-2--------------x-2------------x-2------------x-2-x------|  
 E|-0----------------0--------------0--------------0------------|  
-                               PM   PM  
+    PM   PM  
 E|--0-x--2------0-x--3----0--0---------------------------------|  
 B|--1-x--3---x--1-x--3----0--0---------------------------------|  
 G|--0-x--0---x--0-x--0----5--4---4-------------4-------4-------|  
@@ -276,7 +276,7 @@ And it`s too late to lose the weight you used
 to need to throw around  
 C         Bb   C            Bb  C          Dm   A  
 So have a good drown as you go down all alone  
-        F    A      Dm  
+    F    A      Dm  
 Dragged down by the stone  
   
 Bb7  
@@ -295,7 +295,7 @@ Dm9
 Deaf, dumb and blind you just keep on pretending  
      Badd4  
 That everyone`s expendable and noone has a real friend  
-       E7sus4  
+    E7sus4  
 And it seems to you the thing to do  
 would be to isolate the winner  
     Ebmaj7sus4  
@@ -306,7 +306,7 @@ And you believe at heart everyone`s a killer
 Dm  C  Dm  C  Dm  C  Dm  Bb  F  E  F  E  Dm  
 [Half tempo]  
   
-        F         C             Dm  
+    F         C             Dm  
 Who was born in a house full of pain  
 C       F              C           Dm  
 Who was trained not to spit in the fan  
@@ -328,5 +328,5 @@ C       F     C           Dm
 Who was found dead on the phone  
 C       F       C           Bb       A  
 Who was dragged down by the stone  
-                F    A7     Dm9  
+    F    A7     Dm9  
 Who was dragged down by the stone Figure A

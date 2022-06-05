@@ -11,19 +11,19 @@ RIFF1:  [E|-------0------------0------
   
       ***Ema7(RIFF1)     Emaj7***  
   And now, the end is near  
-           ***E7             C#7sus4 C#7***  
+    ***E7             C#7sus4 C#7***  
   And so I face the final cur  -  tain, ha ha ha  
       ***F#m***  
   You cunt, I'm not a queer  
-                ***B                  E***  
+    ***B                  E***  
   I'll state my case, of which I'm certain  
-       ***E***  
+    ***E***  
   I've lived a life that's full  
       ***A              Am***  
   And each and every highway  
       ***E                   B***  
   And yet, much more than this  
-           ***E      (FILL)***  
+    ***E      (FILL)***  
   I did it my way  
   
 FILL:  [E|---------------  
@@ -35,63 +35,63 @@ FILL:  [E|---------------
   
     ***E                 E***  
   Regrets, I've had a few  
-                             ***C#***  
+    ***C#***  
   But then again, too few to mention  
       ***F#                  F#***  
   But dig, what I have to do  
-              ***B                 E***  
+    ***B                 E***  
   I'll see it through with no devotion  
   ***E***  
   Of that, take care and just  
-               ***A               Am***  
+    ***A               Am***  
   Be careful - duh - along the highway  
       ***E                    B***  
   And more, much more than this  
-              ***E***  
+    ***E***  
   I did it my way  
-             ***E                   E***  
+    ***E                   E***  
   There were times, I'm sure you knew  
-                 ***C#***  
+    ***C#***  
   When there was fuck  
   Fuck all else to do  
-                 ***F#***  
+    ***F#***  
   But through it all,  
-                 ***B***  
+    ***B***  
   When there was doubt  
-            ***G#              C#***  
+    ***G#              C#***  
   I shot it up or kicked it out  
-               ***F#         B***  
+    ***F#         B***  
   I fought the war and the world  
-                ***E***  
+    ***E***  
   And did it my way  
-          ***E               E***  
+    ***E               E***  
   Knocked out in bed last night  
-                                      ***C#***  
+    ***C#***  
   I've had my fill - uh - my share of looting  
       ***F#***  
   And now, the tears subside  
-            ***B       E***  
+    ***B       E***  
   I find it all so amusing  
      ***E***  
   To think, I killed a cat  
-            ***A                Am***  
+    ***A                Am***  
   And may I say,  not in the die way  
   ***E       B***  
   But no, not me  
-              ***E***  
+    ***E***  
   I did it my way  
-                ***E                      E***  
+    ***E                      E***  
   For what is a brat - ta, what has he got  
-                ***C#***  
+    ***C#***  
   When he wears hats  
   and takes his knocks  
-          ***F#***  
+    ***F#***  
   Say the things  
-           ***B***  
+    ***B***  
   He truly feels  
-               ***G#                C#***  
+    ***G#                C#***  
   But only the words, not what he feels  
-              ***F#               B***  
+    ***F#               B***  
   The record shows I've got no clothes  
-                ***E***  
+    ***E***  
   And did it my way

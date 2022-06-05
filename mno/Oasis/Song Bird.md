@@ -18,7 +18,7 @@ but shes not anyone, shes not anyone. shes not anyone
 VERSE:  
 G Em7  
 a man can never dream these kinda dreams,  
-                                  especially since she came and spread her wings  
+    especially since she came and spread her wings  
 G  
 wispered in my ear all the things that i like, then she flew away into the night  
   

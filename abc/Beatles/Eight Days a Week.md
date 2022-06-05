@@ -165,7 +165,7 @@ Bridge:  ***A                     
   *Repeat Intro*  
   
   *Chords Used in this Song*  
-       *EADGBE*  
+    *EADGBE*  
   ***D***  - [XX0232]  
   ***E***  - [022100]  
   ***G***  - [320001]  

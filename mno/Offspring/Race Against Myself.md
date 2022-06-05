@@ -15,11 +15,11 @@ Race Against Myself
   I've pushed as hard as anyone  
   ***F#m                E***  
   Still there is nothing for me  
-                  ***F#m   D A       E***  
+    ***F#m   D A       E***  
   (And I want...) I've tried as hard as I can  
-                  ***F#m   D A       E***  
+    ***F#m   D A       E***  
   (And I need...) I've taken all I can stand  
-                  ***F#m   D A       E***  
+    ***F#m   D A       E***  
   (And I fall...) But I am running a race against myself (against myself)  
   ***F#m                E***  
   Burning out, strung along  
@@ -33,17 +33,17 @@ Race Against Myself
   After all is said and done  
   ***F#m                  E***  
   Now I'm back where I started  
-                  ***F#m   D A       E***  
+    ***F#m   D A       E***  
   (And I want...) I've tried as hard as I can  
-                  ***F#m   D A       E***  
+    ***F#m   D A       E***  
   (And I need...) I've taken all I can stand  
-                  ***F#m   D A       E***  
+    ***F#m   D A       E***  
   (And I fall...) But I am running a race against myself (against myself)  
   ***F#m         E        \***  
   ***F#m         A   H     \  4x***  
-                  ***F#m   D A       E***  
+    ***F#m   D A       E***  
   (And I want...) I've tried as hard as I can  
-                  ***F#m   D A       E***  
+    ***F#m   D A       E***  
   (And I need...) I've taken all I can stand  
-                  ***F#m   D A       E***  
+    ***F#m   D A       E***  
   (And I fall...) But I am losing the race against myself (against myself)...(against myself)

@@ -13,17 +13,17 @@
   A-3--------3---2---2------------------------2---2--------------verse  
   E--------------3------------------2--3-2-3--0------------------]  
   *Like this:*  
-            ***C         G       Fill1   Em***  
+    ***C         G       Fill1   Em***  
   when the light has gone...  
-            ***C           G       Fill1   Em***  
+    ***C           G       Fill1   Em***  
   and the stillnes is shaken...  
-            ***C            G         Fill1   Em***  
+    ***C            G         Fill1   Em***  
   and the drug of your smile, has gone  
-       ***C        G       Fill1   Em***  
+    ***C        G       Fill1   Em***  
   And left me alone  
-            ***C               G           Fill1                 Em***  
+    ***C               G           Fill1                 Em***  
   I need it bad, I need it now, wont u come'n'me and give me some.  
-              ***C           G      Fill1              Em***  
+    ***C           G      Fill1              Em***  
   I need it sweet, baby please, wont u answer the phone  
   *Chorus riff*  
     ***Fill2        Em     C***  
@@ -50,16 +50,16 @@
   A-3----3-2---------2-0----  
   E--------3-------------3--]  
   *second verse:*  
-           ***C         G    Fill1   Em***  
+    ***C         G    Fill1   Em***  
   now the light has gone  
       ***C       G     Fill1   Em***  
   my love is gone  
-       ***C               G    Fill1   Em***  
+    ***C               G    Fill1   Em***  
   the good times have gone  
   ***C    G    Fill1    Em***  
   awa--ay  
-            ***C               G          Fill1 Em***  
+    ***C               G          Fill1 Em***  
   I have to ask, I need to know was it ever love  
-              ***C           G            Fill1                  Em***  
+    ***C           G            Fill1                  Em***  
   I need it sweet, baby please, wont u come'n'me and give me some  
   *Chorus and post chorus as above... end on ***C***.*

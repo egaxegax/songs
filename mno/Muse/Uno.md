@@ -3,11 +3,11 @@ Uno
   
   ***Em***  
   This means nothing to me  
-                 ***Am***  
+    ***Am***  
   'Cause you are nothing to me  
-               ***B7           Am***  
+    ***B7           Am***  
   And it means nothing to me  
-                    ***Em***  
+    ***Em***  
   That you blew this away  
   'Cause you could have been number one  
   If you only found the time  
@@ -36,13 +36,13 @@ Uno
   
 -  
   
-              ***Am***  
+    ***Am***  
 (1)  This means nothing to me  
-                 ***Dm***  
+    ***Dm***  
   Cause you are nothing to me  
-                ***E            Dm***  
+    ***E            Dm***  
   And it means nothing to me  
-               ***Am***  
+    ***Am***  
   That you blew this away.  
   
 (2)  Cause you could have been namber one  

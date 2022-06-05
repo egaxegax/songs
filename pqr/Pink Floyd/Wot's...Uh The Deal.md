@@ -78,19 +78,19 @@ Obscured By Clouds (1972)
   
   *Chorus I*  
   
-               ***G            G7           C      E  Am***  
+    ***G            G7           C      E  Am***  
   ...So let me in from the cold  Turn my lead into gold  
-                   ***G                        G7***  
+    ***G                        G7***  
   'Cause there's a chill wind blowin' in my soul and I think I`m  
   
-          ***D7  D9***  
+    ***D7  D9***  
   growing old  
   
   *Chorus II*  
   
-          ***G             G7             C             Em   Am***  
+    ***G             G7             C             Em   Am***  
   Hear me shout come on in  What's the news, where've you been  
-                 ***G                  G7                  D7  D9***  
+    ***G                  G7                  D7  D9***  
   'Cause there's no wind left in my soul and I've grown old  
   
   *Sometimes, the last chords in the chorus go something like this:*  

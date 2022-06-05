@@ -6,7 +6,7 @@ The Crowd
   */ = slide*  
   
   *Listen to the CD for timing*  
-              *+        +       +      +*  
+    *+        +       +      +*  
   *[e-------------------------------------|] Play this part over and over adding*  
   *[B|------------------------------------|] Palm muting and stuff altering the*  
   *[G|-11-11-11-11/7-7-7-7---------9-9-9--|] riff. Just listen to the CD and you*  
@@ -14,7 +14,7 @@ The Crowd
   [A|-9--9--9--9-/5-5-5-5-7-7-7-7-7-7-7--|  
   E|---------------------5-5-5-5--------|]  
   
-              *+        +       +      +*  
+    *+        +       +      +*  
   *[e|-------------------------------------|] And this is one variation of the*  
   *[B|-------------------------------------|] riff played one time later on in*  
   *[G|-11-11-11-11/7-7-7-7---------9/7/9---|] the song.*  

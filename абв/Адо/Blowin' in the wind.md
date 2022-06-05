@@ -7,11 +7,11 @@
   How many roads must a man walk down  
      ***G            C          D***  
   Before you can call him a man?  
-            ***G        C            G***  
+    ***G        C            G***  
   Yes, 'n' how many seas must a white dove sail  
      ***C                      D***  
   Before she sleeps in the sand?  
-            ***G        C              G***  
+    ***G        C              G***  
   Yes, 'n' how many times must the cannon balls fly  
      ***G              C     D***  
   Before they're forever banned?  

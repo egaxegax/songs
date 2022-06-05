@@ -68,17 +68,17 @@ I Don't Want To Miss A Thing
   
 -  
   
-           ***D          A                   Bm***  
+    ***D          A                   Bm***  
   I could stay awake just to hear you breathing  
-             ***G                   D                  Em***  
+    ***G                   D                  Em***  
   Watch you smile while you are sleeping while your far away  
   ***A***  
   dreaming  
-           ***D            A            Bm***  
+    ***D            A            Bm***  
   I could spend my life in this sweet surrender  
-          ***G                D        Em   A***  
+    ***G                D        Em   A***  
   I could stay lost in this moment forever  
-                ***A         G                  D    A***  
+    ***A         G                  D    A***  
   Every moment spent with you is a moment I treasure  
   
   ***D                A***  
@@ -86,23 +86,23 @@ Chorus:  I don't want to close my eyes
   ***Em                                      Bm***  
   I don't want to fall asleep 'cause I'd miss you baby  
   
-         ***G                      D***  
+    ***G                      D***  
   and I don't want to miss a thing  
   ***D                   A***  
   'cause even when I dream of you  
   ***Em                                          Bm***  
   the sweetest dream will never do I'd still miss you baby  
-         ***G                     D     A     Em***  
+    ***G                     D     A     Em***  
   and I don't want to miss a thing  
-       ***D              A               Bm***  
+    ***D              A               Bm***  
   Lyin close to you feeling your heart beating  
-            ***G                   D***  
+    ***G                   D***  
   and I'm wonderin what you're dreaming  
-           ***Em                A***  
+    ***Em                A***  
   wonderin if it's me you're seein  
-          ***D                 A                   Bm***  
+    ***D                 A                   Bm***  
   Then I kiss your eyes and thank God we're together  
-                  ***A         D                   A***  
+    ***A         D                   A***  
   I just want to stay with you in this moment forever  
   forever and ever  
   
@@ -111,25 +111,25 @@ Chorus:  I don't want to close my eyes
   ***Em                                      Bm***  
   I don't want to fall asleep 'cause I'd miss you baby  
   
-         ***G                     D***  
+    ***G                     D***  
   and I don't want to miss a thing  
   ***D                    A***  
   'cause even when I dream of you  
   ***Em                                          Bm***  
   the sweetest dream will never do I'd still miss you baby  
-          ***G                    D***  
+    ***G                    D***  
   and I don't want to miss a thing  
   ***D               C***  
   I don't want to miss one smile  
-                  ***G***  
+    ***G***  
   I don't want to miss one kiss  
-                 ***Dm                               F***  
+    ***Dm                               F***  
   I just want to be with you right here with you just like this  
-                  ***C***  
+    ***C***  
   I just want to hold you close  
-                      ***G***  
+    ***G***  
   feel your heart so close to mine  
-            ***Dm                                  A***  
+    ***Dm                                  A***  
   and just stay here in this moment for all the rest of time  
   yeah, yeah, yeah...  
   

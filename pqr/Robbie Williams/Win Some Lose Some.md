@@ -16,16 +16,16 @@ Win Some Lose Some
   Our shoulders  
   ***Eb***  
   Does it just fade away  
-              ***Fm Ab***  
+    ***Fm Ab***  
   Will we ever know?  
   ***Eb                Fm***  
   She touched my face and called me  
   Her lover  
   ***Ab           Db        Bb***  
   I never thought that I'd need another  
-        ***Eb  Ab***  
+    ***Eb  Ab***  
   Your cool suburban sun  
-          ***Eb***  
+    ***Eb***  
   You're foolin' every one  
   ***Fm  Ab***  
   You win some you lose some  

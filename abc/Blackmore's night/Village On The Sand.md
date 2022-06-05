@@ -3,7 +3,7 @@ Village On The Sand
   
     ***Am***  
   I saw three ships a sailing in  
-       ***G          Am***  
+    ***G          Am***  
   From across the sea  
   ***Am                         G   Am***  
   Strangers were welcome but for curiosity  
@@ -15,7 +15,7 @@ Village On The Sand
   Ready they did stand  
   ***Am***  
   And things would never be the same  
-         ***F       G      Am***  
+    ***F       G      Am***  
   In our village on the sand  
   When the ships pulled in to dock the villagers did hide  
   When trouble came it usually was brought upon the tide  
@@ -24,7 +24,7 @@ Village On The Sand
   
   ***Dm Am F G Am***  
   nananana  
-         ***F       G      Am***  
+    ***F       G      Am***  
   In our village on the sand  
   The smugglers came into our town  
   And many sought to run  

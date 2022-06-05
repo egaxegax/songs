@@ -4,11 +4,11 @@ Grace
   
   ***Dm***  
   Sometimes I feel like I am  
-                ***C***  
+    ***C***  
   Sailing on a sunken dream  
   ***Fm***  
   I try to read the signs  
-                 ***Bb***  
+    ***Bb***  
   But don't know what they mean  
     ***Gm***  
   I know when I'm with you  
@@ -16,11 +16,11 @@ Grace
   I'm a rich man baby  
   ***Am                Gm***  
   Grace, I'm not yet born  
-        ***Dm***  
+    ***Dm***  
   Come embrace  
-                ***C***  
+    ***C***  
   A soul that's torn  
-          ***C               G***  
+    ***C               G***  
   I have got so much to give you  
   My heart is starved of love  
   In these radio days  

@@ -47,7 +47,7 @@
   D-----0----0----0--------0--3--0----------------------|  
   A--3/---3/----3/---0--3-----------3--0----------------|  
   E-----------------------------------------------------|]  
-          *--&gt;play this 8 times.*  
+    *--&gt;play this 8 times.*  
   [e------------------------|-----------------------------|  
   B------------------------|-----------------------------|  
   G--------NO--------CLUE--|-----------------------------|  
@@ -76,7 +76,7 @@
   D--0--0--0--0-0--3/--|--0--0--0-0--0-0-0---0----|  
   A--------------------|--------------------------|  
   E--------------------|--------------------------|]  
-          *--&gt;play this three times, then:*  
+    *--&gt;play this three times, then:*  
      *m  m  m  m m*  
   [e--------------------|--------------------------|  
   B--------------------|--6-----6-----------------|  
@@ -85,12 +85,12 @@
   A--------------------|--------------------------|  
   E--------------------|--------------------------|]  
   *(w/vocals)*  
-          Sometimes, for a moment of bliss,  
-          And the passion we're craving,  
-          There's a message we miss.  
-          Sometimes when, the spirit's left alone,  
-          We must believe in something.  
-          To find it we've grown.  
+    Sometimes, for a moment of bliss,  
+    And the passion we're craving,  
+    There's a message we miss.  
+    Sometimes when, the spirit's left alone,  
+    We must believe in something.  
+    To find it we've grown.  
   [e---------------------|--------------------|  
   B--3--3---------------|--3--3-----5--------|  
   G--2--2--0-5-2--------|--2--2-----4--------|  
@@ -126,9 +126,9 @@
   A--3/------0---------0--3--------------------|  
   E-------3/----1/--3--------------------------|]  
   *(w/vocals)*  
-          Tragic reflex, shattered calm  
-          Static progress, senses gone  
-          Numb awarenes, final psalm  
+    Tragic reflex, shattered calm  
+    Static progress, senses gone  
+    Numb awarenes, final psalm  
   *(3:30)*  
   [e----------------------------------------|  
   B----------------------------------------|  
@@ -143,11 +143,11 @@
   D--0--3--5-------0--3---5-------------3--|  
   A-----------2-3---------5---------3-5----|  
   E---------------------------3-4-5--------|]  
-          *--&gt;play twice w/vocals*  
-          Swept away with the tide,  
-          Through the holes in my hands,  
-          Crown of thorns at my side,  
-          Drawing lines in the sand.  
+    *--&gt;play twice w/vocals*  
+    Swept away with the tide,  
+    Through the holes in my hands,  
+    Crown of thorns at my side,  
+    Drawing lines in the sand.  
   [e----------------------------------------|  
   B----------------------------------------|  
   G----------------------------------------| } repeat  
@@ -206,13 +206,13 @@
   D-0--0-0--12--0-0-0--12--0--12--|-0--0-0--12--0-0-0--12--0------|  
   A-------------------------------|-------------------------------|  
   E-------------------------------|---------------------------11/-|]  
-          *--&gt;repeat once w/vocals:*  
-          Sometimes, if you're perfectly still  
-          You can hear the virgin weeping  
-          For the savior of your will  
-          Sometimes, your castles in the air  
-          And the fantasies you're seeking  
-          Are the crosses you bear.  
+    *--&gt;repeat once w/vocals:*  
+    Sometimes, if you're perfectly still  
+    You can hear the virgin weeping  
+    For the savior of your will  
+    Sometimes, your castles in the air  
+    And the fantasies you're seeking  
+    Are the crosses you bear.  
   [e---------------------|--------------------|  
   B--3--3---------------|--3--3-----5--------|  
   G--2--2--0-5-2--------|--2--2-----4--------|  
@@ -248,9 +248,9 @@
   A--3/------0---------0--3--------------------|  
   E-------3/----1/--3--------------------------|]  
   *(w/vocals)*  
-          Sacred conflict, blessed prize  
-          Weeping crosses, stainless eyes  
-          Desperate addict, faith disguised  
+    Sacred conflict, blessed prize  
+    Weeping crosses, stainless eyes  
+    Desperate addict, faith disguised  
   [e----------------------------------------|  
   B----------------------------------------|  
   G----------------------------------------|  
@@ -264,11 +264,11 @@
   D--0--3--5-------0--3---5-------------3--|  
   A-----------2-3---------5---------3-5----|  
   E---------------------------3-4-5--------|]  
-          *--&gt;play twice w/vocals*  
-          Swept away with the tide,  
-          Through the holes in my hands,  
-          Crown of thorns at my side,  
-          Drawing lines in the sand.  
+    *--&gt;play twice w/vocals*  
+    Swept away with the tide,  
+    Through the holes in my hands,  
+    Crown of thorns at my side,  
+    Drawing lines in the sand.  
   [e----------------------------------------|  
   B----------------------------------------|  
   G----------------------------------------| } repeat  
@@ -289,9 +289,9 @@
   D--------4--5--6--7-------------7----------5-7----|  
   A--5--8-------------------------------------------|  
   E-------------------------------------------------|]  
-          *--&gt;I'm only going to write out the chords to the little*  
-                  *break here. You can figure the solo out your damn*  
-                  *self, Chuckie.*  
+    *--&gt;I'm only going to write out the chords to the little*  
+    *break here. You can figure the solo out your damn*  
+    *self, Chuckie.*  
   *(5:36)*  
   [e-(0)--|--1--|--3--|--3--1--|  
   B--3---|--1--|--3--|--3--1--|  
@@ -321,10 +321,10 @@
   A--0---|--3--|--3--|--5--3--|  
   E------|--1--|-----|--3--1--|]  
   *(w/vocals)*  
-          We fabricate our demons, invite them into our homes.  
-          Have supper with the aliens, and fight the war alone.  
-          We conjure up our skeletons, enlist the den of theives.  
-          Frightened from our closets then sewn upon our sleeves.  
+    We fabricate our demons, invite them into our homes.  
+    Have supper with the aliens, and fight the war alone.  
+    We conjure up our skeletons, enlist the den of theives.  
+    Frightened from our closets then sewn upon our sleeves.  
   *(8:00)*  
   [e--1---|--3--|--1--|--3--|--1---|--3--|--5--|--3--|  
   B--3---|--3--|--1--|--5--|--3---|--3--|--6--|--5--|  
@@ -333,9 +333,9 @@
   A--1---|--5--|--3--|--3--|--1---|--5--|--5--|--3--|  
   E------|--3--|--1--|-----|------|--3--|-----|-----|]  
   *(w/vocals and random arpeggiation)*  
-          In my stream of consciousness, there is a river crying.  
-          Living comes much easier once we admit we're dying.  
-                  *m  m  m  m                    m  m  m  m  m  m*  
+    In my stream of consciousness, there is a river crying.  
+    Living comes much easier once we admit we're dying.  
+    *m  m  m  m                    m  m  m  m  m  m*  
   [e-----------------------------|--------------------------------|  
   B-----------------------------|--------------------------------|  
   G--------------------10----12-|--------------------10----------|  
@@ -406,7 +406,7 @@
   D--0--0--0--0-0--3/--|--0--0--0-0--0-0-0---0----|  
   A--------------------|--------------------------|  
   E--------------------|--------------------------|]  
-          *--&gt;play this three times, then:*  
+    *--&gt;play this three times, then:*  
      *m  m  m  m m*  
   [e--------------------|--------------------------|  
   B--------------------|--6-----6-----------------|  
@@ -415,32 +415,32 @@
   A--------------------|--------------------------|  
   E--------------------|--------------------------|]  
   *(w/vocals)*  
-          Sometimes, in the wreckage of our wake  
-          There's a bitterness we harbor  
-          Hate for hatred's sake.  
+    Sometimes, in the wreckage of our wake  
+    There's a bitterness we harbor  
+    Hate for hatred's sake.  
   
-        *m m              m m*  
+    *m m              m m*  
   [e-----------------------|------------------------------|  
   B-----------------------|------------------------------|  
   G-----------------------|------------------------------|  
   D--0--0-0--12--10-12-12-|--0--0-0--12--10--12--15/-----|  
   A-----------------------|------------------------------|  
   E-----------------------|------------------------------|]  
-        *m m              m m*  
+    *m m              m m*  
   [e-----------------------|------------------------------|  
   B-----------------------|------------------------------|  
   G-----------------------|------------------------------|  
   D--0--0-0--12--10-12-12-|--0--0-0--12--10--12----------|  
   A-----------------------|------------------------------|  
   E-----------------------|----------------------11/-----|]  
-        *m m              m m*  
+    *m m              m m*  
   [e-----------------------|------------------------------|  
   B-----------------------|------------------------------|  
   G-----------------------|------------------------------|  
   D--0--0-0--12--10-12-12-|--0--0-0--12--10--12--15/-----|  
   A-----------------------|------------------------------|  
   E-----------------------|------------------------------|]  
-        *m m*  
+    *m m*  
   [e-----------------------|------------------------------|  
   B-----------------------|--(6)-----(6)-----------------|  
   G-----------------------|------(9)-----(9)-(7)-(5)-(7)-|  
@@ -448,9 +448,9 @@
   A-----------------------|------------------------------|  
   E-----------------------|----------------------11/-----|]  
   *(w/vocals)*  
-          Somtimes we dig an early grave  
-          And crucify our instincts  
-          For the hope we couldn't save.  
+    Somtimes we dig an early grave  
+    And crucify our instincts  
+    For the hope we couldn't save.  
   *(10:47)*  
   *(distorted)*  
       *m m m m       m m*  
@@ -476,9 +476,9 @@
   A---------------------------|-------------12-11-10----10----------|  
   E---------------------------|----------------------13-----13--10--|]  
   *(w/vocals)*  
-          Sometimes a view from sinless eyes  
-          Centers our perspective  
-          And pacifies our cries  
+    Sometimes a view from sinless eyes  
+    Centers our perspective  
+    And pacifies our cries  
       *m m m m       m m*  
   [e---------------------------|  
   B---------------------------|  
@@ -501,9 +501,9 @@
   A---------------------------|--------------12--------------|  
   E---------------------------|------------------------------|]  
   *(w/vocals)*  
-          Sometimes the anguish we survive  
-          And the mysteries we nurture  
-          Are the fabrics of our lives.  
+    Sometimes the anguish we survive  
+    And the mysteries we nurture  
+    Are the fabrics of our lives.  
   [e----------------------------------------|  
   B----------------------------------------|  
   G----------------------------------------|  
@@ -517,11 +517,11 @@
   D--0--3--5-------0--3---5-------------3--|  
   A-----------2-3---------5---------3-5----|  
   E---------------------------3-4-5--------|]  
-          *--&gt;play twice w/vocals*  
-          Swept away with the tide,  
-          Through the holes in my hands,  
-          Crown of thorns at my side,  
-          Drawing lines in the sand.  
+    *--&gt;play twice w/vocals*  
+    Swept away with the tide,  
+    Through the holes in my hands,  
+    Crown of thorns at my side,  
+    Drawing lines in the sand.  
   [e----------------------------------------|  
   B----------------------------------------|  
   G----------------------------------------| } repeat  

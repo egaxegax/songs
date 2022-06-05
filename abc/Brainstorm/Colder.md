@@ -8,19 +8,19 @@ keep the night burning to shine our love always, always
 Verse 1:  
 Hm  
 pictures on the wall her pictures on my wall  
-            A             G  
+    A             G  
 she's so beautiful, so beautiful  
  Hm  
 climbing up to fall i'm climbing up to fall  
-           A                 G  
+    A                 G  
 i'm still staying cool, i'm staying cool  
 Hm                              G  
  one day i'll find you just to prove that i'm real  
-       A                 D               /D/C#  
+    A                 D               /D/C#  
 out of love and hate, of love and hate  
 Hm                           G  
  and losing ties with common sense, baby, i know  
-       A                 F#  
+    A                 F#  
 i will make a bridge to place where my mind goes  
   
 Chorus :  
@@ -32,15 +32,15 @@ keep the night burning to shine our love always, always
 Verse 2:  
 Hm  
 thousands of the walls 8 billions of the walls  
-            A             G  
+    A             G  
 she's so beautiful, so beautiful  
 Hm  
 digi-dogs around her digi-dogs around  
-           A                       G  
+    A                       G  
 i'm still staying cool, well, i'm staying cool  
 Hm                         G  
  i'm losing all i have and all i ever will  
-       A                 D               /D/C#  
+    A                 D               /D/C#  
 out of love and hate, of love and hate  
 Hm                          G  
  i'm losing daydreams and a good night sleep  

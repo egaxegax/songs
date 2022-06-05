@@ -10,17 +10,17 @@ Big Wheels
       ***C***  
   The answer lies within your soul  
   'Cos no one know which side  
-                ***Fm***  
+    ***Fm***  
   The coin will fall.  
   ***Fm         Gm***  
   Big wheels turning  
-         ***Fm***  
+    ***Fm***  
   Baby I know  
-               ***Gm***  
+    ***Gm***  
   Big wheels turning  
-          ***Fm***  
+    ***Fm***  
   Baby I know  
-              ***Gm       Ab  Db        Eb***  
+    ***Gm       Ab  Db        Eb***  
   Big wheels turning, turning...  
   Save it for a rainy day  
   For when the cold wind blows  
@@ -32,7 +32,7 @@ Big Wheels
   Baby I know  
   Big wheels turning  
   Baby I know  
-             ***Gm         Ab***  
+    ***Gm         Ab***  
   Big wheels turning, turning,  
   ***Bb                 Eb***  
   Turning, turning...  

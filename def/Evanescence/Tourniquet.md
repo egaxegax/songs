@@ -45,7 +45,7 @@ Tourniquet
   E------------|--------------]  
   ***E5***  
    My god, my tourniquet  
-            ***G/C5    A/D5***  
+    ***G/C5    A/D5***  
   Return to me   salvation  
   *---------------------------------------------------------*  
   *Verse*  
@@ -64,7 +64,7 @@ Tourniquet
   A----2--------2---2---------3---------5-----  
   E--0--------0-----------3-----------5-------]  
   *Played somewhat clean, lightly*  
-                    ***E5                            G/C5                 A/D5***  
+    ***E5                            G/C5                 A/D5***  
   "So much more...." I may die and im pouring out crimes of regret and betrayal  
     ***E5      E5       G/C5    A/D5***  
   [e----------------------------------------0--  

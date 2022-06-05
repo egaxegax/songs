@@ -7,13 +7,13 @@ C/g:            332010   or   3x2013
   
 Intro: D.. Dsus4..|D.. Dsus2..|  (x2)  
   
-        D            Dsus4  
+    D            Dsus4  
 I went down to the place  
-          D           Dsus2  
+    D           Dsus2  
 Where I knew she lay waiting  
 D          Dsus4           A  
 Under the marble and the snow  
-         D            Dsus4  
+    D            Dsus4  
 I said, Mother, I'm frightened  
       D              Dsus2  
 The thunder and the lightning  
@@ -25,13 +25,13 @@ She said, I'll be with you
 My shawl wrapped around you  
     G            C/g           G  
 My hand on your head when you go  
-         D  
+    D  
 And the night came on  
     Am  
 It was very calm  
    F                      C  
 I wanted that night to go on and on  
-         G                             D   Dsus4   D   Dsus4  
+    G                             D   Dsus4   D   Dsus4  
 But she said, Go back, go back to the World  
   
 We were fighting in Egypt  

@@ -3,7 +3,7 @@ What Is And What Should Never Be
   *(Page/Plant)*  
   
   *Bass*  
-             *VERSE*  
+    *VERSE*  
       *h q q    e s s s s s s E s E s   q s  s s  s  q Q 3*  
   |---------|------------------------|--------9----------|  
   |4:-R-R---|*-7-----7---------------|---9-11---11-11---*|  

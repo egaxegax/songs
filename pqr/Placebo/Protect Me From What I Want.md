@@ -3,9 +3,9 @@
   
 Am                        F  
 It?s that desease of the age  
-                           Dm  
+    Dm  
 It?s that desease that we crave  
-                         C  
+    C  
 Alone at the end of the race  
 Em                     Am  
 We catch the last bus home  
@@ -18,9 +18,9 @@ Of the hole that we call our home
 Сhorus:  
 Am                     F  
 Protect me from what I want...  
-                        Dm  
+    Dm  
 Protect me from what I want...  
-                         C  
+    C  
 Protect me from what I want...  
   Em  
 Protect me protect me  

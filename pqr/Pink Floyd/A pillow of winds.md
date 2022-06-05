@@ -5,7 +5,7 @@ F#m/E                         
 A cloud of eiderdown draws around me softening the sound.  
       Bm/E  
 Sleepy time when I lie with my love by my side, and she's breathing low.  
-          E(addF#)  
+    E(addF#)  
 And the candle dies.  
 E(addF#)  
 When night comes down, you lock the door.  
@@ -19,9 +19,9 @@ Green fields, a cold rain is falling in a golden dawn.
   
 F#m/E                                                    B(addE)    Emaj7  
 And deep beneath the ground the early morning sounds and I______ go down.  
-        Bm/E  
+    Bm/E  
 Sleeping time when I lie with my love by my side and she's breathing low.  
   
 And I rise like a bird in the haze when the first rays touch the sky.  
-        E(addF#)           F#m/E  Emaj7  Bm/E  
+    E(addF#)           F#m/E  Emaj7  Bm/E  
 And the night winds die.

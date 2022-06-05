@@ -13,7 +13,7 @@ riff:  ***B A B   E F# G E***   |   ***A G A
   Come away Melinda.     Come in and close the door.  
   ***F#           Db                    Bbm     Fm            Bbm***  
   It's nothing,   just a picture book   they had before the war.  
-                                                                        mtm  
+    mtm  
   ***Ebm     Db                    B         Db***  
   Daddy,  daddy, come and see!    Daddy   come and look!  
   ***Ebm                 Db***  

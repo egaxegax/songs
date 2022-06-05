@@ -28,12 +28,12 @@ Waiting Room
   ||:-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-:||  
   || -2-2-2-2-2-2-2-4-4-4-4-4-4-4-4-4- ||  
      *pm..............................*  
-                                  *^^^^*  
-                          *Note 1: you can hear some chord shifting because*  
-                                  *he plays the second chord differently -*  
-                                  *you can try this one: [-6-]  or  [-6-]*  
-                                                        [-4-      -4-  
-                                                        ---      -4-]  
+    *^^^^*  
+    *Note 1: you can hear some chord shifting because*  
+    *he plays the second chord differently -*  
+    *you can try this one: [-6-]  or  [-6-]*  
+    [-4-      -4-  
+    ---      -4-]  
   *Before the change, only the first chord of the previous rythm is used,*  
   *then the next part goes:*  
   [---------------------------------------------------  
@@ -42,14 +42,14 @@ Waiting Room
   -6-6-6-6-6---2-2-2-2-2-2---4-4-4-4-4---6-6-6-6-6-6-  
   -4-4-4-4-4---2-2-2-2-2-2---2-2-2-2-2---7-7-7-7-7-7-  
   -------------0-0-0-0-0-0---------------------------]  
-                                         *^^^^^^^^^^^*  
-                                 *Note 2: he probably plays more notes in*  
-                                         *this chord and plays it lower on*  
-                                         *the neck, or maybe it's wrong.*  
-                                         *Try something like: [-1-]*  
-                                                             [-2-  
-                                                             -2-  
-                                                             -0-]  
+    *^^^^^^^^^^^*  
+    *Note 2: he probably plays more notes in*  
+    *this chord and plays it lower on*  
+    *the neck, or maybe it's wrong.*  
+    *Try something like: [-1-]*  
+    [-2-  
+    -2-  
+    -0-]  
   *Then we have this part, a variation of the main rythm:*  
   [------------------------                                        ---]  
   *[------------------------]                   Note 3:              [---]*  

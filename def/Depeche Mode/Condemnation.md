@@ -4,7 +4,7 @@ Condemnation - Songs of Faith and Devotion
 INTRO:  ***C // /F C***  
   
   (1)  
-        ***C***  
+    ***C***  
   Condemnation  
   ***E   E7***  
   Tried  
@@ -20,7 +20,7 @@ INTRO:  ***C // /F C***
   ***F***  
   Hand me my sentence  
   I'll show no repentance  
-       ***G***  
+    ***G***  
   I'll suffer with pride  
   (2)  
   ***F***  
@@ -33,7 +33,7 @@ INTRO:  ***C // /F C***
   If for kindness  
       ***Am                E***  
   You substitute blindness  
-         ***C           F           C //  F C***  
+    ***C           F           C //  F C***  
   Please open your eyes  
   (1)  
   Condemnation  

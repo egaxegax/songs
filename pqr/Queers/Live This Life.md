@@ -18,7 +18,7 @@
   oh-woah  
       ***A           F#               A           F#***  
   And now I wanna kill someone and now I wanna die  
-        ***A                 F#             A        F#***  
+    ***A                 F#             A        F#***  
   But I think that I will just sit in my room and cry  
     ***D             E          D             E***  
   I wish Joey was president, oh what can I say  

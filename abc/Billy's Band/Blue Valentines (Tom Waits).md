@@ -1,23 +1,23 @@
 <!--2020-09-05 00:44:21-->
 Dm       E  
 She sends me blue valentines  
-         Dm            E  
+    Dm            E  
 All the way from Philadelphia  
     Dm           E  
 To mark the anniversary  
     Am            A7  
 Of someone that I used to be  
-        Dm                  E  
+    Dm                  E  
 And it feels like ther's a warrant  
    Am                A7  
 Is out for my arrest  
-                   Dm           E        Am   A7  
+    Dm           E        Am   A7  
 Baby, you got me checkin in my rearview mirror  
-        Dm             E  
+    Dm             E  
 And I'm always on the run  
-              Am            A7  
+    Am            A7  
 Thats why I changed my name  
-       H7                              E  
+    H7                              E  
 But I didn't think you'd ever find me here  
   
 To send me blue valentines  

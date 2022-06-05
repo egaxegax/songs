@@ -4,7 +4,7 @@ Time (1981)
   
   ***A            F#m***  
   Early in the morning  
-       ***D                   E            A   E***  
+    ***D                   E            A   E***  
   The sun was up and the sky was very blue  
   
   Without a warning  
@@ -12,9 +12,9 @@ Time (1981)
   
      ***A                           C#***  
   A noise in the city made the children (run)  
-       ***D                H***  
+    ***D                H***  
   And hide themselves away  
-        ***A                 C#m                   Hm   E***  
+    ***A                 C#m                   Hm   E***  
   And thunder boomed and lightning filled the sky.  
   
   Looking from this window  
@@ -33,9 +33,9 @@ CHORUS:  Ooohh, the rain is falling
   Ooohh, the rain is falling  
    ***A          G#      C#m***  
   Ooohh, the rain is falling  
-           ***Hm        Dm           A***  
+    ***Hm        Dm           A***  
   Will it wash away those lonely tears?  
-                                   (***Dm A Dm***)  
+    (***Dm A Dm***)  
   
   (It's raining, it's pouring, the old man is snoring)  
   

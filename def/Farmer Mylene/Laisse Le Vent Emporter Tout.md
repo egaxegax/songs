@@ -9,7 +9,7 @@ Laisse Le Vent Emporter Tout
   Glisse a cote  
    ***F                   C***  
   Comme l'eau sur les joues  
-                ***G***  
+    ***G***  
   Rester comme ca attache  
   ***Am               Dm***  
   Quand l'autre a quitte  
@@ -19,11 +19,11 @@ Laisse Le Vent Emporter Tout
   Mot qu'on a fuit  
   ***F              C***  
   Ou sont ils alles  
-                ***G***  
+    ***G***  
   Rester comme ca attache  
   ***Am              Dm***  
   Ne peut rien changer  
-        ***G***  
+    ***G***  
   Alors va  
   
   ***Cm            D#            F***  
@@ -105,7 +105,7 @@ Laisse Le Vent Emporter Tout
   D---2----------(2)-------------------2-----------2-0-----------------|  
   A-3----------------2---------------0---------------------------------|  
   E--------------------------------------------------------------------|]  
-                           *+ вo 2-oй paз (пepeд Пpипeвoм):*  
+    *+ вo 2-oй paз (пepeд Пpипeвoм):*  
     ***Dm                          G***  
   [e-3-----1-----1-----|       |-3-----3-----3-----|  
   B---3-----3-----3---|       |---3-----3-----3---|  

@@ -7,7 +7,7 @@ Dehumanized States of America (1994)
   Feeling lonely and upset,  
    ***A                              D***  
   I'm locked in the frames of the reality,  
-                       ***G***  
+    ***G***  
   Being pressed by my guilty past,  
   ***A                     D***  
   I try to prevent my insanity.  

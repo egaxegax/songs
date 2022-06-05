@@ -27,7 +27,7 @@ Tear
   
   *CHORUS:*  
   *For the chorus the following chord sequence is repeated twice;*  
-       ***C    Em/C  Am    F/A    F     Am    F    G***  
+    ***C    Em/C  Am    F/A    F     Am    F    G***  
   [e---0-0---0-0---0-0---0-0---1-1---0-0---1-1---3---|  
   B---1-1-x-1-1-x-1-1-x-1-1-x-1-1-x-1-1-x-1-1-x-3---|  
   G---0-0-x-0-0-x-2-2-x-2-2-x-2-2-x-2-2-x-2-2-x-4---|  

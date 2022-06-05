@@ -8,7 +8,7 @@ Real Love
   Living in this crazy world  
     ***G                     G/F# Em  A***  
   All they really needed from you  
-                    ***D   Gm  D***  
+    ***D   Gm  D***  
   Was maybe some love  
   All the little girls and boys  
   Playing with their little toys  

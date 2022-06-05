@@ -6,7 +6,7 @@ Yes It Is
   If you wear red tonight  
      ***E                       A              D6      B7***  
   Remember what I said tonight  
-          ***C#m                                 A***  
+    ***C#m                                 A***  
   For red is the colour that my baby wore  
     ***D                            C#m***  
   And what's more, it's true  
@@ -28,13 +28,13 @@ Yes It Is
   If I could forget her, but it's my pride  
   
   Yes it is, yes it is  
-               ***F#7    B7***  
+    ***F#7    B7***  
   Oh, yes it is, yeah  
   
   Please don't wear red tonight  
   This is what I said tonight  
   For red is the colour that will make me blue  
-           ***D                  C#m***  
+    ***D                  C#m***  
   In spite of you, it's true  
      ***E7                G#***  
   Yes it is, it's true  
@@ -47,7 +47,7 @@ Yes It Is
   If I could forget her, but it's my pride  
   
   Yes it is, yes it is  
-                ***F#7       B7***  
+    ***F#7       B7***  
   Oh, yes it is, yeah  
   
   Please don't wear red tonight  
@@ -55,7 +55,7 @@ Yes It Is
   For red is the colour that will make me blue  
     ***D                       C#m***  
   In spite of you, it's true  
-       ***E***                                                   a little riff for a  
+    ***E***                                                   a little riff for a  
   finish like in the antology 2,  
   Yes it is, it's true                                            i dont know  
   in the original:  
@@ -63,12 +63,12 @@ Yes It Is
   [-----0------------------------]  
   Yes it is, it's true  
   [---------0-------2-----------  
-                                                                       -----  
+    -----  
   ------1----------------  
-                                                                         -----  
+    -----  
   ---------------------------  
   ----------------------------  
-                                                                         -----  
+    -----  
   --------------------------]  
   
 -  

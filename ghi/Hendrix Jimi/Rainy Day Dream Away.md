@@ -29,20 +29,20 @@ G7                D9
 lowers bathe and see the children play  
 A7           C7          G7  
 Lay back and groove on a rainy day.  
-       F9                                                    F9  
+    F9                                                    F9  
 Well I can see a bunch of wet creatures, look at them on the run  
   G9                                                   G9 F#9  
 The carnival traffic noise it sings the tune splashing up and  
-                                                     F9 F#9  
+    F9 F#9  
 Even the ducks can groove rain bathing in the park side pool  
-        G9  
+    G9  
 And I'm leanin' out my window sill digging everything  
   
   
 Transition part:  [Play the riffs in between using=20  
-                    G blues scale and plenty of Wah!]  
+    G blues scale and plenty of Wah!]  
   
-             And you too.  
+    And you too.  
   
   Bb7  A7  G7     Bb7  A7  G7  
 E|---------------------------|  

@@ -6,7 +6,7 @@ Cuts Like A Knife
   Drivin home this evening,I could of sworn we had it all worked out.  
   You had this boy believin' way beyond the shadow of a doubt.  
   Then I heard it on the street, I heard you might have found somebody new.  
-        ***D***  
+    ***D***  
   Well who is he baby?  
   ***G                                      D***  
   Who is he and tell me what he means to you?  
@@ -15,11 +15,11 @@ Cuts Like A Knife
       ***Bm                     C(add2)              G***  
   But how was I to know that you'd be letting go.  
   *CHORUS:*  
-                      ***D     G C(add2)***  
+    ***D     G C(add2)***  
   Now it cuts like a knife,  
-                    ***D      G C(add2)***  
+    ***D      G C(add2)***  
   But it feels so right.  
-                   ***D    G C(add2)                   D     G C(add2)***  
+    ***D    G C(add2)                   D     G C(add2)***  
   It cuts like a knife            but it feels so right  
   There's time I've been mistaken  
   There's times I thought I'd been misunderstood  

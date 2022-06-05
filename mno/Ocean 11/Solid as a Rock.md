@@ -18,7 +18,7 @@ Solid as a Rock
   solid as a rock  
   my love for you baby  
   my love is solid as the rock of Gibraltar  
-                       ***G#            C#***  
+    ***G#            C#***  
   so why wont you come back home to me  
   ***C#***  
   I really need you so much  
@@ -26,7 +26,7 @@ Solid as a Rock
   miss you so much  
   I really need you  
   my love is solid as the rock of Gibraltar  
-                       ***G#            C#***  
+    ***G#            C#***  
   so why wont you come back home to me  
   ***C#***  
   I want to kiss you again  
@@ -34,7 +34,7 @@ Solid as a Rock
   hold you again  
   I really need you  
   my love is solid as the rock of Gibraltar  
-                       ***G#            C#***  
+    ***G#            C#***  
   so why wont you come back home to me  
   ***C#***  
   I really miss you so much  
@@ -42,7 +42,7 @@ Solid as a Rock
   need you so much  
   I really need you  
   our love is solid as the rock of Gibraltar  
-                       ***G#            C#***  
+    ***G#            C#***  
   so why wont you come back home to me  
   ***C#***  
   I want to kiss you again  
@@ -50,5 +50,5 @@ Solid as a Rock
   hold you again  
   you broke my heart girl  
   our love is solid as the rock of Gibraltar  
-                       ***G#            C#***  
+    ***G#            C#***  
   so why wont you come back home to me

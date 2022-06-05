@@ -39,7 +39,7 @@ Life Thru A Lens
   And now your boyfriend's suspicious  
   ***A6***  
   So go home and wash the dishes  
-               ***E          G           A***  
+    ***E          G           A***  
   And wash them well so he can't tell  
   She's looking real drab just out of rehab  
   I'm talking football she's talking ab fab  

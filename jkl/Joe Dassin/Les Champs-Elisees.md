@@ -82,8 +82,8 @@ Et l?on n?a mйme pas pense ю s?embrasser.
 (Au refrain.)  
   
 (solo: C E7/H | Am C7/G | F C/E  
-       D7 G7  | C E7/H  | Am C7/G  
-       F C/E  | D7/A G7/H C)  
+    D7 G7  | C E7/H  | Am C7/G  
+    F C/E  | D7/A G7/H C)  
   
 Hier soir deux inconnus,  
 Et ce matin, sur l?avenue -  

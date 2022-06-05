@@ -75,18 +75,18 @@ Ku'u Lei, Ku'u Ipo
   They light up the night, you light up the night  
   ***Cm          G#         A#***  
   oooohhh oooooooooooooohhhh  
-                   ***D#***  
+    ***D#***  
   you light up the night  
-                 ***Cm                G#     A#***  
+    ***Cm                G#     A#***  
   Ku'u lei, Ku'u lei, Ku'u ipo-----o------o  
-                 ***D#***  
+    ***D#***  
   come love me tonight.  
-                 ***Cm                G#     A#***  
+    ***Cm                G#     A#***  
   Ku'u lei, Ku'u lei, Ku'u ipo-----o------o  
-                   ***D#***  
+    ***D#***  
   you light up the night  
-                 ***Cm                G#     A#***  
+    ***Cm                G#     A#***  
   Ku'u lei, Ku'u lei, Ku'u ipo-----o------o  
-                 ***D#***  
+    ***D#***  
   come love me tonight.  
   *(Guitar Solo)*

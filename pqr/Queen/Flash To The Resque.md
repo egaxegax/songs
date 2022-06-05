@@ -16,7 +16,7 @@ Intro: Muted Am chord
  He`ll save with a mighty hand every man every woman every child with a mighty flash!  
       Am     G  F       D A D G Am  
  Flash. Ah.          (Insert Brian May Fill Here)  
-             G  F                 D           A  D  A  D  G  
+    G  F                 D           A  D  A  D  G  
  Flash. Ah,      He`ll save every one of us.  
   
  Verse 2: (Sort Of)  
@@ -24,6 +24,6 @@ Intro: Muted Am chord
  Just a man, with a man`s courage. He knows nothing but a man, but he can never fail.  
  F              C                    F     D      G     E   Am   Em  F       Am  
  No one but the pure of heart may find the golden grail oh  oh   oh  oh.  
-       Am  
+    Am  
  Flash!  
  (Fade Out)

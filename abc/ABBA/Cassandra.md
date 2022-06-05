@@ -1,7 +1,7 @@
 <!--2020-09-05 01:17:39-->
 C                              F            C  
 Down in the street they?re all singing and shouting,  
-         G               F       G  
+    G               F       G  
 Staying alive though the city is dead.  
 G7            C           G7     C  
 Hiding their shame behind hollow laughter  
@@ -15,27 +15,27 @@ Now we must suffer and sell our secrets,
 Bargain, playing smart, aching in our hearts.  
   
 Chorus:  
-                  G7  
+    G7  
 Sorry Cassandra I misunderstood,  
-                    C  
+    C  
 Now the last day is dawning.  
-                      G7  
+    G7  
 Some of us wanted but none of us could  
-                   C  
+    C  
 Listen to words of warning.  
-                      E  
+    E  
 But on the darkest of nights  
-        F          E  
+    F          E  
 Nobody knew how to fight  
-                            F    C  
+    F    C  
 And we were caught in our sleep.  
-                  G7  
+    G7  
 Sorry Cassandra I didn?t believe  
-                   C  
+    C  
 You really had the power.  
-                   G7  
+    G7  
 I only saw it as dreams you would weave  
-                 C  
+    C  
 Until the final hour.  
   
 So in the morning your ship will be sailing  

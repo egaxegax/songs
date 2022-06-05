@@ -11,15 +11,15 @@ The Night They Drove Old Dixie Down
   In the winter of sixty-five we were hungry, just barely alive.  
   ***C/E               F***  
   By May the tenth Richmond had fell.  
-            ***C        Dm            D***  
+    ***C        Dm            D***  
   It was a time I remember all so well.  
-       ***C/G         F              C/G***  
+    ***C/G         F              C/G***  
   The night they drove old Dixie down,  
-           ***F***  
+    ***F***  
   And the bells were ringing.  
-       ***C/G         F              C/G***  
+    ***C/G         F              C/G***  
   The night they drove old Dixie down,  
-           ***F***  
+    ***F***  
   And the people were singing.  They went...  
     ***C/G     Am        G              F***  
   "La la la la la la, la la la la la la la la la."  
@@ -65,7 +65,7 @@ The Night They Drove Old Dixie Down
   Now I don't mind choppin' wood, and I don't care if the money's no good.  
   ***Am/E                      F***  
   Ya take what ya need and ya leave the rest,  
-         ***C                 Dm             D***  
+    ***C                 Dm             D***  
   But they never should have taken the very best.     (Chorus)  
   ***Am             C        F      F/E      Dm***  
   Like my father before me, I will work the land,  

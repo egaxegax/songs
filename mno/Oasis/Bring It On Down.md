@@ -3,7 +3,7 @@ Definitely Maybe (1994)
   Bring It On Down  
   
   *Chords used:*  
-        *EADGBe*  
+    *EADGBe*  
   ****B5***   ([x2444x])*  
   ****B5***/***A*** ([x0444x])*  
   ****D***    ([x57775])*  
@@ -43,7 +43,7 @@ Verse 1: (NOTE: play below chords just like main riff above)
     ***D                        E2    D           B5***  
   Today was just a blur, you got a head like a ghost train  
   What was that sound ringin' around your brain?  
-         ***D   E2         D        B5***  
+    ***D   E2         D        B5***  
   You're here on your own, who you gonna find to blame?  
   
       ***B5      D  A     B            D  A***  
@@ -57,7 +57,7 @@ Chorus:  You're the uninvited guest that stays till the end
   I know you've got a problem that the devil sends  
       ***B5         D***  
   You think they're talking 'bout you but you don't know who  
-          ***G       E***  
+    ***G       E***  
   I'll be scraping your life from the sole of my shoe tonight  
   
   *Little transition fill between the "***G***" and "***E***" chords in the chorus:*  

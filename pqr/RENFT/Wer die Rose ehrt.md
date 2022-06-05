@@ -4,11 +4,11 @@ Wer die Rose ehrt (Glaeser-Demmler)
   ***G        |G7    |E       |Am      Am7   |D     D7      |G         |G        |***  
   
   ***G             D             |Em                    |***  
-        Wer die Rose, wer die  Rose ehrt,  
+    Wer die Rose, wer die  Rose ehrt,  
   ***C            G              |F           D         |***  
   der ehrt heutzutage auch den Dorn,  
   ***G             D           |Em                   |***  
-        der zur Rose noch da-zugehoert,  
+    der zur Rose noch da-zugehoert,  
   ***C              G              |A           D         |***  
   noch solang, solang man sie be-droht.  
   ***C       G           |D               |***  
@@ -24,11 +24,11 @@ Wer die Rose ehrt (Glaeser-Demmler)
   ***G |G7    |E       |Am      Am7     |D            |G        C     |G          |***  
   
   ***G             D             |Em                    |***  
-        Wer die Liebe, wer die Liebe ehrt,  
+    Wer die Liebe, wer die Liebe ehrt,  
   ***C            G              |F           D         |***  
   der ehrt heutzutage auch den Hass,  
   ***G             D            |Em                   |***  
-        der zur Liebe noch da-zugehoert,  
+    der zur Liebe noch da-zugehoert,  
   ***C              G              |A           D         |***  
   noch solang, solang man sie be-droht.  
   ***C       G           |D               |***  

@@ -19,7 +19,7 @@ E|--------------------------------|
   Dude Look like a lady  
   
 Once the lyrics start play the same riff over and over again.  
-                                                          Also  
+    Also  
 repeat it with the chorus.  After chorus and verses play this.  
   
     A5       G5         A5     F5  

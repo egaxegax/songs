@@ -7,18 +7,18 @@ Em/G                  C
 Memories come rushing up to meet me now.  
       G  
 In the space between the heavens  
-          D                             C  
+    D                             C  
 And in the corner of some foreign field,  
-       G      Em  C  
+    G      Em  C  
 I had a dream,  
-       G  
+    G  
 I had a dream.  
   
 G            G+  
 Goodbye Max, goodbye Ma.  
 Em/G                          C  
 After the service when you're walking slowly to the car  
-       G                                D  
+    G                                D  
 And the silver in her hair shines in the cold November air,  
    Em                         Cmaj7                  D/C     C  
 You hear the tolling bell, and touch the silk in your lapel,  
@@ -33,15 +33,15 @@ G                G+
 A place to stay, enough to eat,  
 Em                           C  
 Somewhere old heroes shuffle safely down the street.  
-             G                                    D  
+    G                                    D  
 Where you can speak out loud about your doubts and fears,  
-               Em  
+    Em  
 And what's more no-one ever disappears,  
-                                   Cmaj7  
+    Cmaj7  
 You never hear their standard issue kicking in your door.  
 G                D  
 You can relax on both sides of the tracks,  
-           Em                  C                      D7/C  
+    Em                  C                      D7/C  
 And maniacs don't blow holes in bandsmen by remote control,  
    G                            D  
 And everyone has recourse to the law,  

@@ -8,16 +8,16 @@
   nur was mir feeehhhlllt das ist ґne richtige Drцhnung  
   ***Am                          C                              D                                        A***  
   Mit 18 rannte ich in Dьsseldorf rum, war Sдnger in ґner Rock ґn Roll Band,  
-                                              ***C                          D                         E***  
+    ***C                          D                         E***  
   meine Mutter nahm mir das immer krumm, ich sollt was seriцses werden.  
   ***Am                          C                                    D                     A***  
   Wir verdienten 400 Mark pro Auftritt, fьr ґne Rolling Stones Kopie.  
-         ***A                                                C                            D                     E***  
+    ***A                                                C                            D                     E***  
   Die Gitarren verstimmt, doch es ging tierisch los und wir hielten uns, fьr Genies.  
   *REF:*  
-         ***Am                           C                               D                                         A***  
+    ***Am                           C                               D                                         A***  
   Ich mцcht zurьck auf die StraЯe, mцcht wieder singen, nicht schцn sondern geil und laut,  
-                                    ***C                                      D                                    A***  
+    ***C                                      D                                    A***  
   denn Gold, findt man bekanntlich im Dreck, und StraЯen sind aus Dreck gebaut.  
   Nach jedem Gig, zu Hьhner Hugo, Dort verfraЯen wir unser Geld  
   Was soll man schon machen mit den paar Mark, ich hab ґnen Verstдrker bestellt.  

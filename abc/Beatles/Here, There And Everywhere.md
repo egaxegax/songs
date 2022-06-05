@@ -21,7 +21,7 @@ Here, There And Everywhere
 Chorus:  } 2 раза  
     ****F7       Bb***("***E***" bar chord)  ***Gm****  
   I want her everywhere  
-         ***Cm              D7            Gm***  
+    ***Cm              D7            Gm***  
   And if she's beside me I know I need never care.  
   ***Cm              D7             G          Am7***  
   But to love her is to need her everywhere  
@@ -32,7 +32,7 @@ Chorus:  } 2 раза
   ****F#m7         B7        Em         Am            Am7 D7*** (1st time through)*  
   Watching her eyes, and hoping I'm always there.     ***D7sus4*** (2nd time thru)  
   
-            ***G     Am      Bm       C***  
+    ***G     Am      Bm       C***  
   I will be there,    and everywhere.  
   ***G     Am7        Bm       C   G***  
   Here, there, and everywhere.  

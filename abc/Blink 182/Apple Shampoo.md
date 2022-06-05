@@ -85,11 +85,11 @@ I   know / just where / I stand / a boy
 Trapped in the body of a man and  
 C5                               D5  
 I?ll take what you?re willing to give  
-                         F5  
+    F5  
 And I?ll teach myself to live  
-                         G5  
+    G5  
 With a walk-on part of a background shot  
-       A5    B5  
+    A5    B5  
 From a movie I?m not in  
   
   
@@ -114,17 +114,17 @@ RIFF 5:
   
 G5                   D5  
 Where are you coming from?  
-                     F5  
+    F5  
 What are you running from?  
-                     G5  
+    G5  
 Is it so hard to see?  
-                      D5  
+    D5  
 And if you?re feeling scared  
-                     F5  
+    F5  
 Remember the time we shared  
-                  G5  
+    G5  
 You know it meant everything (everything)  
-                       A5         B5 C5  
+    A5         B5 C5  
 You know that it meant everything to me  
 (C5)  
 You know that it meant everything to me  

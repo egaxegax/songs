@@ -8,7 +8,7 @@ Riff 1:
 -----2--3--2-------------7----------------  
 --0-----------3---0------0----------------  
   
-              Bend (1/4)  
+    Bend (1/4)  
   
 A        C    D              A  
 Corporal Clegg had a wooden leg.  
@@ -28,7 +28,7 @@ Riff 2:
 --2--------2--------2--------------------------------  
 --------------3--5-----0---2-2--2-2--2-2-------------  
   
-              Bend (1/4)  
+    Bend (1/4)  
   
 Bm                                 F#  
 Dear, oh dear, oh, are they really sad for me?  
@@ -47,7 +47,7 @@ Corporal Clegg, umbrella in the rain.
 He's never been the same. No one is to blame.  
 A        C     D                        A  
 Corporal Clegg, received his medal in a dream  
-        N.C.         E7+9  
+    N.C.         E7+9  
 ***From Her Majesty, the Queen. His boots were very clean.***  
 D                                   G  
 Missus Clegg, you must be proud of him.  

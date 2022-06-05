@@ -34,7 +34,7 @@
   ***Bb***  
   So won't you say you will be mine  
   And then the final chorus, same again:  
-           ***Dm             Bb  Dm Bb***  
+    ***Dm             Bb  Dm Bb***  
   Now won't you say you will, say you won't make up your mind tonight  
   ***C     Dm***  
   Say you will, say you will be my guiding light  

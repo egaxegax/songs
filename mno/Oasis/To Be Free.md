@@ -5,22 +5,22 @@ To Be Free
   Head like a rock spinning round and round  
      ***c***  
   I found it in a hole sitting upside down  
-       ***A                   Am                 Em***  
+    ***A                   Am                 Em***  
   You point a finger at me, but i don't believe  
   ***Em***  
   Paint me a wish on a velvet sky  
       ***C***  
   You demand the answers but i don't know why  
-          ***A              Am                  Em***  
+    ***A              Am                  Em***  
   In my mind...(in my mind), There is no doubt  
   
       ***C                   D             Em***  
 Chorus:  The little things that make me so happy  
-         ***C           D            Em***  
+    ***C           D            Em***  
   All i wanna do is live by the sea  
-       ***C                 D             Em***  
+    ***C                 D             Em***  
   The little things that make me so happy  
-            ***A               Am                     Em***  
+    ***A               Am                     Em***  
   God it's good, yes it's good, it's good to be free.  
   
   *Transition chord: ***GGGGGGG****  

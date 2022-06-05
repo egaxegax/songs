@@ -8,7 +8,7 @@ Don't Let me be Misunderstood
   *Then breaks into flamenco style fast! play at your own speed, it sounds*  
   *decent played at half their speed. Note this is just based off what i*  
   *hear, they might have added some harder licks.*  
-                                                      *^same lick but quieter*  
+    *^same lick but quieter*  
   [E------------------------------0-1-4------0h1h0--0--1h0-0--------------  
   B--------------------------1-4-----------------3-------3-----6h5h3h5---  
   G-------------------1-2--4---------------------------------------------  
@@ -31,7 +31,7 @@ Don't Let me be Misunderstood
   E------------------------------------------------------------------------------------------------------------]  
   
   *This repeats itself through the sing. the funky electric*  
-            ***Am                               G                   F                    E***  
+    ***Am                               G                   F                    E***  
   [E------------------------------------------------------------------------------------------------------------  
   B---------10-10h9h10h9h10910----10h9h10-12-13b-12--------------10-10h9h10h9h10910---10-9---------------------  
   G----------------------------------------------------------------------------------------9-------------------  

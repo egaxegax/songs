@@ -3,9 +3,9 @@ Future World
   
   ***Em***  
   If you're out there all alone  
-          ***Am                 Em***  
+    ***Am                 Em***  
   And you don't know where to go to  
-           ***Am              Em   Cm Bm Em***  
+    ***Am              Em   Cm Bm Em***  
   Come and take a trip with me to Fu-ture World  
   And if you're running through your life  
   And you don't know what the sense is  
@@ -18,7 +18,7 @@ Future World
   The feeling of togetherness is always at our side  
      ***A                 E               F#***  
   We love our life and we know we will stay  
-        ***E              C D    E***  
+    ***E              C D    E***  
   Cause we all live in Future World  
     ***C            A       B***  
   A world that's full of love  

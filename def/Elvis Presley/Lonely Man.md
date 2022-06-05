@@ -10,7 +10,7 @@ riff 1:  [e||-----------||
   
 Intro:  ***D***  
   
-           ****D***             riff 1*  
+    ****D***             riff 1*  
   It's a lonely man  
   ***G                  A            D***  
   Who wanders all around  
@@ -20,11 +20,11 @@ Intro:  ***D***
   Who roams from town to town  
   ***G***  
   Searchin', always searchin'  
-        ****D***                                  riff 1*  
+    ****D***                                  riff 1*  
   For something he can't find  
   ***G***  
   Hopin', always hopin'  
-          ***D                             A***  
+    ***D                             A***  
   That some day fate will be kind  
   
   It's a lonely man  
@@ -33,11 +33,11 @@ Intro:  ***D***
   That he can call his own  
   ***G***  
   Always so unhappy  
-             ***D***  
+    ***D***  
   Taking shelter where he can  
-            ***A***  
+    ***A***  
   Here I am  
-                                          ***D***  
+    ***D***  
   Come meet a lonely, lonely man  
   
   Always so unhappy  

@@ -12,23 +12,23 @@ A Kind Of Magic 1986
   Is better than a lifetime alone.  
   ***D                A              Bm***  
   One sentimental moment in your arms,  
-             ***G             Em               A***  
+    ***G             Em               A***  
   Is like a shooting star right through my heart.  
   
-        ***Bm                    F#m***  
+    ***Bm                    F#m***  
 Chrous:  It's always a rainy day without you.  
   ***Bm                        F#m***  
   I'm a prisoner of love inside you.  
-        ***G                 A         G         A***  
+    ***G                 A         G         A***  
   I'm falling apart all around you. Yeah.  
   
    ***D        A        Bm***  
 (2)  My heart cries out to your heart,  
-       ***G          Em      A***  
+    ***G          Em      A***  
   I'm lonely but you can save me.  
      ***D            A    Bm***  
   My hand reaches out for your hand,  
-       ***G            Em                A***  
+    ***G            Em                A***  
   I'm cold but you light the fire in me.  
   
   ***Bm                               F#m***  
@@ -57,14 +57,14 @@ Bridge:  And no one ever told me that love would hurt so
   Is better than a lifetime alone.  
   ***D                A              Bm***  
   One sentimental moment in your arms,  
-             ***G             Em               A***  
+    ***G             Em               A***  
   Is like a shooting star right through my heart.  
   
-        ***Bm                    F#m***  
+    ***Bm                    F#m***  
 Chrous:  It's always a rainy day without you.  
   ***Bm                        F#m***  
   I'm a prisoner of love inside you.  
-        ***G                 A***  
+    ***G                 A***  
   I'm falling apart all around you.  
       ***G                  A             G       A***  
   And all I can do, is surrender.  

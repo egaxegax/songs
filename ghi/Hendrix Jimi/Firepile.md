@@ -22,7 +22,7 @@ A     E
 A     B      A  
 E     A      B     A  
   
-         E  
+    E  
 Don't give away...  
 A  
 B     A  

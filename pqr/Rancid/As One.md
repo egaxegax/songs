@@ -15,7 +15,7 @@ Intro:     ***A     A     A/D   E E***
   
   ***A                                   D***  
 Verse:  War between races war between lies, war between something  
-           ***E***  
+    ***E***  
   that was living inside (you get the idea).  
   
   ***A  E  D          A  E  D***  

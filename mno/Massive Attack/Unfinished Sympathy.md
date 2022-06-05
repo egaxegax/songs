@@ -34,19 +34,19 @@ Verse 2: The curiousness of your potential kiss
   
   ***Bb                    C***  
   Like a soul without a mind  
-                      ***Bb***  
+    ***Bb***  
   In a body without a heart  
-                    ***C***  
+    ***C***  
   I'm missing every part  
   ***Dm***  
   Like a soul without a mind  
-            ***Emb13     F***  
+    ***Emb13     F***  
   In a body without a heart  
-                    ***G***  
+    ***G***  
   I'm missing every part  
   
   *Chord Phrasing:*  
-         *EADGBe*  
+    *EADGBe*  
   ***Dm    [-xx0231-]***  
   ***Emb13 [-022010-]***  
   ***F     [-133211-]***  
@@ -54,7 +54,7 @@ Verse 2: The curiousness of your potential kiss
   ***Gm    [-355333-]***  
   ***Bb    [-688766-]***  
   ***C     [-811988-]***  
-          00  
+    00  
   
 -  
   

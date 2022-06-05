@@ -1,34 +1,34 @@
 <!--2020-09-05 01:15:24-->
 A          Hm7  
 No more champagne  
-        A               C#m  
+    A               C#m  
 And the fireworks are through  
-        D            A  
+    D            A  
 Here we are, me and you  
-       Hm7              Esus4 E  
+    Hm7              Esus4 E  
 Feeling lost and feeling blue  
   
-        A          Dm6  
+    A          Dm6  
 It?s the end of the party  
-        A                C#m  
+    A                C#m  
 And the morning seems so grey  
      D          A  
 So unlike yesterday  
-          Hm           Esus4 E  
+    Hm           Esus4 E  
 Now?s the time for us to say  
   
 Chorus:  
-           A            Ddim  
+    A            Ddim  
 Happy new year happy new year  
-        F#m/C#    D              F#7  
+    F#m/C#    D              F#7  
 May we all have a vision now and then  
-                                       Hm    E  
+    Hm    E  
 Of a world where every neighbour is a friend  
 Happy new year happy new year  
 May we all have our hopes, our will to try  
-                                          Hm  E  
+    Hm  E  
 If we don?t we might as well lay down and die  
-       Hm  E  
+    Hm  E  
 You and I  
   
 Sometimes I see  

@@ -3,38 +3,38 @@ Into the Fire (1987)
   Rebel  
   *(Bryan Adams)*  
   
-           ***D/F#         G            D/A***  
+    ***D/F#         G            D/A***  
   Well he made his way back to the old town,  
   ***D/F#             G                Asus  A***  
   And everything looked just the same,  
-        ***Em                           Bm***  
+    ***Em                           Bm***  
   The shops and the schools and the factories were there,  
-        ***Csus2                 Asus     A***  
+    ***Csus2                 Asus     A***  
   But somehow the faces had changed.  
-         ***D/F#        G            D/A***  
+    ***D/F#        G            D/A***  
   So he went for a walk in the high street,  
   ***D/F#                  G                   Asus   A***  
   Took his coat off and rolled up his sleeves,  
-       ***Em                           Bm***  
+    ***Em                           Bm***  
   He thought of his father and his father before him,  
-         ***Csus2                      Asus   A***  
+    ***Csus2                      Asus   A***  
   And how he was the first one to leave.  
-           ***D/F#         G            D/A***  
+    ***D/F#         G            D/A***  
   Well he didn't come here for forgiveness,  
-         ***D/F#     G           Asus    A***  
+    ***D/F#     G           Asus    A***  
   There isn't a lot they can say,  
-            ***Bb                     C***  
+    ***Bb                     C***  
   Cause I remember the reasons he first ran away.  
   
-          ***D5     D5/E   D5/F#  Gsus***  
+    ***D5     D5/E   D5/F#  Gsus***  
 CHORUS:  He's a rebel,  
-          ***D5     D5/E   D5/F#  Gsus***  
+    ***D5     D5/E   D5/F#  Gsus***  
   Just a rebel,  
-           ***D5          D5/E***  
+    ***D5          D5/E***  
   Got his back to the wall,  
   ***D5/F#    Gsus***  
   Gonna fight till he falls,  
-          ***D5     D5/E   D5/F#***  
+    ***D5     D5/E   D5/F#***  
   He's a rebel.  
   
   Don't ever look back - don't surrender,  
@@ -45,15 +45,15 @@ CHORUS:  He's a rebel,
   Don't tell him what's wrong or what's right,  
   Just give him a chance to get out there and fight.  
   
-          ***D5     D5/E   D5/F#  Gsus***  
+    ***D5     D5/E   D5/F#  Gsus***  
   He's a rebel,  
-          ***D5     D5/E   D5/F#  Gsus***  
+    ***D5     D5/E   D5/F#  Gsus***  
   Just a rebel,  
-           ***D5          D5/E***  
+    ***D5          D5/E***  
   All the battles are won,  
   ***D5/F#      Gsus***  
   But he's still on the run,  
-          ***D5     D5/E   D5/F#  Gsus***  
+    ***D5     D5/E   D5/F#  Gsus***  
   He's a rebel.  
   
   ***Asus                      A***  
@@ -62,7 +62,7 @@ BRIDGE:  When it comes time for leavin',
   Don't stand in my way,  
   ***Em                                 G***  
   There's nothin' left for me here,  
-                   ***Asus  A  Asus  A    D9 Dsus D9 Dsus***  
+    ***Asus  A  Asus  A    D9 Dsus D9 Dsus***  
   Gonna run - run away.  
   In the morning he walks passed the old house,  
   In the rain under grey northern skies,  

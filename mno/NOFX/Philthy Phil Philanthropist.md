@@ -11,18 +11,18 @@ Heavy Petting Zoo (Epitaph 1996)
   There's something wrong with mass consumption...  
   ***A         G             D              C***  
   Alcohol burn it clean, asphalt methamphetamine  
-        ***A       G         A                  D                A     F#***  
+    ***A       G         A                  D                A     F#***  
   Will make it seem all right, we're gonna make it seem all right  
   ***D               E           A***  
   Livin' in the hunger underground  
   ***A                                              F#***  
   Some people say I got a problem with authority so  
-          ***D                    E              A***  
+    ***D                    E              A***  
   What if I do man it beats relinquishing control  
   
   ***A                        B***  
   Philthy Phil Philanthropist  
-            ***D                              E***  
+    ***D                              E***  
   You've taken when you should have give away  
   ***A                        B***  
   Philthy Phil you gave to us  

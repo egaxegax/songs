@@ -11,7 +11,7 @@
   He said what kind of man  
   Is this that's hanging 'round my girl  
   And threw me in the car  
-           ***Em***  
+    ***Em***  
   You're a farmer's daughter  
   You're a farmer's daughter  
   Why do I always get  
@@ -30,7 +30,7 @@
   Your daddy's face all pale  
   Says come with me you hairy bum  
   I'll put you in my jail  
-           ***Em***  
+    ***Em***  
   You're a judge's daughter  
   You're a judge's daughter  
   Why do I always get  
@@ -54,7 +54,7 @@
   You say I'm dumb and scraggy  
   But man this dumb and scraggy is  
   Your daughter's baby's daddy  
-         ***Em***  
+    ***Em***  
   She's a lucky daughter  
   Such a lucky daughter  
   Why did I always get  

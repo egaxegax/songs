@@ -4,123 +4,123 @@ Green Mind
   
   ***C#m           F#            E***  
   I picture things a certain way  
-                ***G#              C#m***  
+    ***G#              C#m***  
   And then go back to it another day  
-         ***F#                A***  
+    ***F#                A***  
   In green minds, it's okay  
   ***C#m       F#                       E***  
   'Cos you know where you're gonna be  
-              ***G#           C#m***  
+    ***G#           C#m***  
   Alls you have to do is come with me  
-        ***F#                    A***  
+    ***F#                    A***  
   It's cool, they're probably asleep  
-           ***C#m     F#***  
+    ***C#m     F#***  
   On the outside  
-                   ***C#m         F#***  
+    ***C#m         F#***  
   It's where they always hide  
-            ***C#m               F#             A***  
+    ***C#m               F#             A***  
   Come to my side, and I'll introduce you to  
-               ***C#m     F#***  
+    ***C#m     F#***  
   Some of their kind  
-                ***C#m       F#***  
+    ***C#m       F#***  
   I know you always tried  
-               ***C#m***  
+    ***C#m***  
   Now it's your time  
-            ***F#                  A***  
+    ***F#                  A***  
   To take in their point of view  
-                 ***B***  
+    ***B***  
   No it's nothing new  
   ***E                                 G#m***  
   I've been bouncing off the walls  
-                                   ***C#m***  
+    ***C#m***  
   I can't hang with them for long  
-            ***F#               A***  
+    ***F#               A***  
   They're cool, but I need you  
   ***E                                      G#m***  
   On a certain level I think they're great  
-                              ***C#m***  
+    ***C#m***  
   But on another I can't relate  
       ***F#          A***  
   To anything they do  
-            ***C#m    F#***  
+    ***C#m    F#***  
   On the outside  
-                   ***C#m        F#***  
+    ***C#m        F#***  
   Might be with them tonight  
-                ***C#m***  
+    ***C#m***  
   Unless you decide to call  
    ***F#                  A   B***  
   Then I'll check out you  
   ***C#m        F#                E***  
   Hangin' heavy's such a routine  
-               ***G#***  
+    ***G#***  
   I've just begun to forget  
    ***C#m           F#                    A***  
   Why I seldom try to break out of their scene  
   ***C#m         F#           E***  
   Now I've gotta work on you  
-            ***G#***  
+    ***G#***  
   So the frogs'll hang  
-            ***C#m            F#***  
+    ***C#m            F#***  
   They'll always be hanging  
-               ***A                B***  
+    ***A                B***  
   Now we're here, what do we do?  
   ***E                                   G#m***  
   I've been sorting through the prose  
-                                               ***C#m***  
+    ***C#m***  
   Countin' "your"s, "I"s, "they'll"s and "those"  
-         ***F#               A***  
+    ***F#               A***  
   Can you help move it along?  
   ***E                                  G#m***  
   I've been picking through my thoughts  
-                             ***C#m***  
+    ***C#m***  
   It's a shame my judgement rots  
      ***F#                    A***  
   I sure feel where I belong  
   *(break)*  
-             ***C#m    F#***  
+    ***C#m    F#***  
   On the outside  
-                ***C#m     F#***  
+    ***C#m     F#***  
   Well, it'll be awhile  
-              ***C#m***  
+    ***C#m***  
   I've gotta unfry  
-           ***F#              A         B***  
+    ***F#              A         B***  
   'fore I pick it up with you, help me  
   ***C#m    F#                E***  
   Do I need that stable care?  
      ***G#                 C#m***  
   Don't I know that they'll be there?  
-        ***F#                          A***  
+    ***F#                          A***  
   Does that count now that you've appeared?  
   ***C#m       F#               E***  
   Or do I need that stable core?  
-       ***G#              C#m***  
+    ***G#              C#m***  
   Or do I jump for something more?  
-       ***F#                  A   B***  
+    ***F#                  A   B***  
   Are you all that I fear?  
   ***E                                   G#m***  
   I've been picking through my thoughts  
-                               ***C#m***  
+    ***C#m***  
   It's a shame my judgement rots  
-               ***F#               A***  
+    ***F#               A***  
   And I sure feel where I belong  
   ***E                              G#m***  
   It's a call that's tough to make  
-                         ***C#m***  
+    ***C#m***  
   It could be a big mistake  
-              ***F#             A***  
+    ***F#             A***  
   Can't you help move it along?  
   ***E                              G#m***  
   If I keep stewin' bout how I feel  
   Eventually I'll split  
-                         ***C#m  F#***  
+    ***C#m  F#***  
   Then I won't have to deal  
-                  ***A***  
+    ***A***  
   Sounds like a plan  
   ***E                                G#m***  
   It's kind of lame to let it slide  
-                                   ***C#m***  
+    ***C#m***  
   Knowing either way I haven't tried  
-           ***F#                       A***  
+    ***F#                       A***  
   Can't figure out where it all stands  
-                   ***C#m   F#***  
+    ***C#m   F#***  
   In the green mind

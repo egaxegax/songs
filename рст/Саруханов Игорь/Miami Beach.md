@@ -13,18 +13,18 @@
   Now listen to this tune  
   ***C#m6           F#7          Hm***  
   Softly play by oceans band just for you  
-          ***G***  
+    ***G***  
   It's a fine being here  
-           ***A                D***  
+    ***A                D***  
   Seems a lucky is near so near you  
   
-         ***G***  
+    ***G***  
   It's Miami Beach  
-        ***Hm                             G         A***  
+    ***Hm                             G         A***  
   Like songs she sung in everywhere. Miami Beach...  
     ***G***  
   Miami Beach  
-        ***Hm                              G         A***  
+    ***Hm                              G         A***  
   The place you've never try to stay. Miami Beach...  
   
   Love this curtis  

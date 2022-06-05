@@ -6,7 +6,7 @@ In The Year 2525 (Exordium and Terminus)
   ***Am                        G                         F***  
   /  /  /  /   /  /  /  /   /  /  /  /   /  /  /  /   /  /  /  /  
   
-               ***E                    (N.C.)***  
+    ***E                    (N.C.)***  
   /  /  /  /   /  /  /  /   /  /  v   v  
   [--------|  
   --------|  
@@ -19,7 +19,7 @@ In The Year 2525 (Exordium and Terminus)
   *Verses 1 (3535), 2 (4545), 3 (5555), & 4 (6565):*  
   ***Am                        G                         F***  
   /  /  /  /   /  /  /  /   /  /  /  /   /  /  /  /   /  /  /  /  
-               ***E***  
+    ***E***  
   /  /  /  /   /  /  /  /   /  /  /  /  
   
   *Verse 2 (4545)*  
@@ -29,12 +29,12 @@ In The Year 2525 (Exordium and Terminus)
   *Link:*  
   ***Am                        Bbm***  
   /  /  /  /   /  /  /  /   /  /  /  /   /  /  /  /  
-                            *(key change to ***Bbm***)*  
+    *(key change to ***Bbm***)*  
   
   *Verses 5 (7510) & 6 (8510):*  
   ***Bbm                       Ab                        Gb***  
   /  /  /  /   /  /  /  /   /  /  /  /   /  /  /  /   /  /  /  /  
-               ***F***  
+    ***F***  
   /  /  /  /   /  /  /  /   /  /  /  /  
   
   *Verse 6 (8510)*  
@@ -47,16 +47,16 @@ In The Year 2525 (Exordium and Terminus)
   ***Bm                        A                         G***  
   /  /  /  /   /  /  /  /   /  /  /  /   /  /  /  /   /  /  /  /  
   *(key change to ***Bm***)*  
-               ***F#***  
+    ***F#***  
   /  /  /  /   /  /  /  /   /  /  /  /  
   
   *Conclusion (Now it's been 10,000 years...):*  
   ***Bm                                     A***  
   /  /  /  /   /  /  /  /   /  /  /  /   /  /  /  /   /  /  /  /  
-              *(^tempo becomes slower and freeer)*  
+    *(^tempo becomes slower and freeer)*  
   ***G                         F#                        Bm***  
   /  /  /  /   /  /  /  /   /  /  /  /   /  /  /  /   /  /  /  /  
-               ***A                         G***  
+    ***A                         G***  
   /  /  /  /   /  /  /  /   /  /  /  /   /  /  /  /   /  /  /  /  
   ***F#           F#7          Bm      (N.C.)***  
   /  /  /  /   /  /  /  /   /  /  v   v  

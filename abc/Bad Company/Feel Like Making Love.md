@@ -31,7 +31,7 @@ Intro:  E|-10-10--10-8-8-8-7-7h8-7--7-7---10-10-10--8-8-8-7-7-8--2----------
   Feel Like makin'   ***C5 D5 D5  C5 D5 D5   C5 D5 D5  G  D*** } repeated for whole chorus  
   Feel like makin love  
   feel like makin love  
-            ***C5 D5  G5   F5 D5***  
+    ***C5 D5  G5   F5 D5***  
   feel like making love to you  
   ***D                G***  
   Baby, if I think about you  
@@ -62,7 +62,7 @@ Intro:  E|-10-10--10-8-8-8-7-7h8-7--7-7---10-10-10--8-8-8-7-7-8--2----------
   Feel like making love to you  
   Well I feel like making love to you  
   
-       *fill 1:                 fill 2:*  
+    *fill 1:                 fill 2:*  
   [E|-16^-14------|---------------------|-------------------------------------|  
   B|--------15~\-|---------15-15---15~-|-----the-rest-of-the-fills-are-using-|  
   G|-------------|---14h16------14-----|----------delay,-and-i-can't-figure--|  

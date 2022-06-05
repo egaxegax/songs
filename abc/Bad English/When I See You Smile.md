@@ -17,11 +17,11 @@ When I See You Smile
   *(VI)*  
   ***G                               C***  
   Sometimes I wonder how I'd ever make it through,  
-                             ***Am                          D***  
+    ***Am                          D***  
   Through this world without having you, I just wouldn't have a clue  
   ***G                                                   C***  
   'Cause sometimes it seems like this world's closing in on me,  
-                        ***Am                                D***  
+    ***Am                                D***  
   And there's no way of breaking free, and then I see you reach for me  
   ***C                 G                Am               D***  
   Sometimes I wanna give up, I wanna give in, I wanna quit the fight  
@@ -33,12 +33,12 @@ When I See You Smile
   ***G      D       C                     G         D            C***  
   When I see you smile, I see a ray of light, oh oh, I see it shining right  
   through the rain  
-         ***Am                D                         G***  
+    ***Am                D                         G***  
   When I see you smile, oh yeah, baby when I see you smile at me  
   *(VII)*  
   ***G                                             C***  
   Baby there's nothing in this world that could ever do  
-                       ***Am                                    D***  
+    ***Am                                    D***  
   What a touch of your hand can do, it's like nothing that I ever knew  
   ***C                    G                Am                     D***  
   And when the rain is falling, I don't feel it, 'cause you're here with me now  
@@ -62,5 +62,5 @@ When I See You Smile
   through the rain, yeah  
   ***A      E       D                     A         E            D***  
   When I see you smile, I can face the world, oh oh, you know I can do anything  
-         ***Bm                E                         A    D  Bm       A***  
+    ***Bm                E                         A    D  Bm       A***  
   When I see you smile, oh yeah, baby when I see you smile,  smile at me

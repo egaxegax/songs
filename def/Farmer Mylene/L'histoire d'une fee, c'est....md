@@ -3,35 +3,35 @@ L'histoire d'une fee, c'est...
   
   ***Cm***  
 (1)  Trois petits tours et silence  
-                 ***F***  
+    ***F***  
   C'est зa qui m'affecte  
   ***Fm***  
   En ton ame, je danse  
   Quand on veut, j'apparais  
   ***Cm***  
   Trois petits tours et silence  
-                 ***F***  
+    ***F***  
   J'suis pas en latex  
   ***Fm***  
   Quand on oublie,  
   Le sens de ma vie disparaotre...  
   
-            ***Cm***  
+    ***Cm***  
   Faire un voeux ou bien deux  
   Et puis fermer les yeux  
   Je suis la  
-          ***F***  
+    ***F***  
   Pour celui et pour ceux  
-            ***Fm***  
+    ***Fm***  
   Qui n'ont pas froid aux yeux  
   Qui croient en moi  
-              ***Cm***  
+    ***Cm***  
   Faire un souhait pour de vrai  
   Et puis croire au mystиre  
   Tout est la  
-           ***F***  
+    ***F***  
   C'est facile, c'est facile  
-           ***Fm***  
+    ***Fm***  
   Quand on aime (le lu cil)  
   Oh vite, dйpкche-toi  
   

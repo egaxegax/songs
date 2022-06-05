@@ -16,7 +16,7 @@ Castles Made of Sand
   *guide your fingers.*  
   
   *Notes:  w = Whole  h = Half  q = Quarter*  
-          *e = 8th    s = 16th  t = 32nd  x = 64th*  
+    *e = 8th    s = 16th  t = 32nd  x = 64th*  
   
       *#*  
   [+----+                   +----+]  

@@ -3,11 +3,11 @@ What Ive done
   
 Вступление: ***G5 | B5 | F5 | C5***  
   
-              ***Gm***  
+    ***Gm***  
   In this farewell  
-                ***B***  
+    ***B***  
   There is no blood  
-                ***F  Cm***  
+    ***F  Cm***  
   There is no alibi  
   'Cause I've drawn regret  
   From the truth  

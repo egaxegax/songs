@@ -1,14 +1,14 @@
 <!--2020-09-06 10:35:30-->
 Angry Again  
   
-                                                                *End fig 5.*  
+    *End fig 5.*  
   |-----------------------------------|----------------------------------|  
   |-----------------------------------|----------------------------------|  
   |-----------------------------------|------------------7-----5---------|  
   |-----------------------------------|------------------7-----5---------|  
   |-----------------------------------|------------------5-----3---------|  
   |---4-4-4---4-4-4---5-5-5---5-5-5---|----6-6-6---6-6-6---0-0---3b-0----|  
-                                          *End Palm mute&gt;| PM-|*  
+    *End Palm mute&gt;| PM-|*  
   
 SOLO:  Lead gtr.  
   |---------------------------------|-----------------------------0----|  
@@ -80,34 +80,34 @@ SOLO:  Lead gtr.
   |-----7-6-----10-9---------3-2-0-1-|-0--------------------------------|  
   
   *Lyrics:*  
-                                       | Fig 1.  
-                                       | Fig 2.  
+    | Fig 1.  
+    | Fig 2.  
   VERSE 1:                             |  
   THE MORE OF YOU THAT I INSPECT       | Fig 3.  
   THE MORE OF ME I SEE REFLECT         |  
   THE MORE I TRY TO READ YOUR LIPS     |  
   THE MORE THE MASK YOU'RE WEARING RIPS|  
-                                       |  
+    |  
   BUT WHEN I SEEK OUT YOUR VOICE       | Fig 2.  
   MY EARS ARE OVERCOME WITH NOISE      |  
   YOU SHOW AND TELL WITH GREATEST EASE |  
   RAVING IMPOSSIBILITIES               |  
-                                       | Fig 1.  
+    | Fig 1.  
   ENGAGED IN CRIME I GRASP MY THROAT   | Fig 4.  
   ENRAGED MY MIND STARTS TO SMOKE      |  
   ENFORCE A MENTAL OVERLOAD            |  
   ANGRY AGAIN, ANGRY AGAIN, ANGRY OW   |  
-                                       |  
+    |  
   AND WHEN THE STORY TAKES A TWIST     | Fig 2.  
   IF FOLDS LIKE A CONTORTIONIST        |  
   SLIGHT OF HAND AND QUICK EXCHANGE    |  
   THE OLD TRICKS HAVE BEEN REARRANGED  |  
-                                       | Fig 1.  
+    | Fig 1.  
   ENGAGED IN CRIME I GRASP MY THROAT   | Fig 4.  
   ENRAGED MY MIND STARTS TO SMOKE      |  
   ENFORCE A MENTAL OVERLOAD            |  
   ANGRY AGAIN, ANGRY AGAIN, ANGRY      |  
-                                       |  
+    |  
   THE SEARING OF THE SINEW             |Fig 5.  
   MY BODY FIGHTS FOR AIR               |  
   THE RIPPING OF THE TISSUE            |  
@@ -116,7 +116,7 @@ SOLO:  Lead gtr.
   IT PULLS MY FLESH AWAY               |  
   THE STEAM FINALLY DISSIPATES         |  
   I MAKE OUT MY SWEATY FACE            |  
-                                       |  
+    |  
   ASSOCIATION THAT I CHOOSE            | Fig 3.  
   GAME I INEVITABLY LOSE               |  
   GOVERNED BY LAWS SET UP BY ME        |  
@@ -125,15 +125,15 @@ SOLO:  Lead gtr.
   FILLED WITH AN INSUBORDINATE RACE    |  
   IRRATIONAL YOUTHS STOP TO STARE      |  
   AS MUSIC RUBBER HOSED THE AIR        |  
-                                       |  
+    |  
   ENGAGED IN CRIME I GRASP MY THROAT   | Fig 4.  
   ENRAGED MY MIND STARTS TO SMOKE      |  
   ENFORCE A MENTAL OVERLOAD            |  
   ANGRY AGAIN, ANGRY AGAIN, ANGRY AGAIN|  
   AND AGAIN AND AGAIN, AGAIN           | Repeat last bit of fig. 4  
-                                       |  
+    |  
   ENGAGED IN CRIME I GRASP MY THROAT   | Fig 4.  
   ENRAGED MY MIND STARTS TO SMOKE      |  
   ENFORCE A MENTAL OVERLOAD            |  
   ANGRY AGAIN, ANGRY AGAIN, ANGRY OW   |  
-                                       | Fig 6.
+    | Fig 6.

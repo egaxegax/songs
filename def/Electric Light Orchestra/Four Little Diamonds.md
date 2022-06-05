@@ -12,11 +12,11 @@ Verse:  I used to think she was the greatest thing
   I really cared gave her a diamond ring  
   ***G F# F                              C***  
   She said she'd rather die than ever leave me  
-          ***G***  
+    ***G***  
   Well, I never saw her face since then  
-             ***Bb                     F***  
+    ***Bb                     F***  
   And if the law don't get her then I will  
-              ***C***  
+    ***C***  
   Four little diamonds  
   
 Verse:  She must be somewhere on the open road  
@@ -30,7 +30,7 @@ Verse:  She must be somewhere on the open road
   
   ***Ab                           Eb***  
 Chorus:  I looked around I climbed up high into the dawn  
-              ***Bbm                F***  
+    ***Bbm                F***  
   But she was gone with the night  
   ***Ab                             Eb***  
   I thought about the things she said  

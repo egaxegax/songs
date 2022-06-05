@@ -7,7 +7,7 @@
   Peasant farmers in blue jeans,  
   Picking Big Macs by the phone,  
   Lazy cowgirls on the beach,  
-                         ***Am***  
+    ***Am***  
   Drinking Pepsi with a moan!  
   
   Watching tits on MTV,  
@@ -23,7 +23,7 @@
   Gonna bop till our cows come back home,  
    ***F             G              Am***  
   Gonna bop till our cows come home!  
-             ***G          Am    G***  
+    ***G          Am    G***  
   Come back home, Come home, Home!  
   
   Making fur coats out of cats,  

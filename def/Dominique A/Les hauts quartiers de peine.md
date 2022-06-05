@@ -15,7 +15,7 @@
   Les hauts quartiers de peine, les avait-on quittes  
   ***A       C#m      C#m            E***  
   Le plus dur s'acheve, tu m'en  vois  
-       ***D   C#m***  
+    ***D   C#m***  
   desole  
   Tout en bas nous nous sommes laisses  
   Aller a croire ces hauts quartiers  

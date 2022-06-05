@@ -8,7 +8,7 @@ Jazz 1978
   ****A***: [577655]  ***Dm/A***: [x03230]  ***A7sus***: [575755]  ***D***: [x57775]  ***E VII***.: [x7999x]*  
   ****Em7***: [020030]  ***F7***: [131211]*  
   *Intro:*  
-                    *&lt; &lt;*  
+    *&lt; &lt;*  
   |------------------------------------------------------|  
   |-1---3---6---6\5----1---3---4---6\4---6/8--10\8--10---|  
   |-2---4---7---7\6----2---4---3---5\3---5/7---9\7-----9-|    : fade out  
@@ -30,18 +30,18 @@ Jazz 1978
   |------------------------------------------------------------------|  
    *******************************  
    *rythm for these chords: * ***  
-            ***Em7     A          Em7         A          Em7      A          C#m***  
+    ***Em7     A          Em7         A          Em7      A          C#m***  
   I take a step outside and I breathe the air  And I slam the door and I'm on  
   ***F#m***  
   my way  
-           ***Bm       E            Bm         E                 Bm      E***  
+    ***Bm       E            Bm         E                 Bm      E***  
   I won't lay no blame  I won't call you  names 'Cause I've  made my break  
-         ***C#         F#m        [x4343x]   F#m         [xx0630 xx0230] G***  
+    ***C#         F#m        [x4343x]   F#m         [xx0630 xx0230] G***  
   And I won't look back  I've turned my back to those endless games.  
   *The second verse is the same except:*  
-           ***Bm7           E               Bm     E                Bm***  
+    ***Bm7           E               Bm     E                Bm***  
   Shaking dust from my shoes  There's a road ahead And there's  no way  back  
-          ***D            E***  
+    ***D            E***  
   home  (No way)   But I have to say  
   ****A V.    A7sus      D V.***                        [x7999x x79797]/slide down*  
   Leavin' home ain't easy (Oh I never thought it would be easy)  
@@ -52,14 +52,14 @@ Jazz 1978
   The rest is the same, except for the last but one time the chorus is played:  
    ***A V.  A7sus    D V. F#  Bm   F7***  
   Leavin home ain't ne  ce  ssa  ry       Leave the on ly  way  
-                                     [|----0-----0---0---0---5--|  
-                                     |----2-----3---4---5---7--|  
-                                     |----2-----4---5---6---7--|  
-                                     |----2-----2---2---7---7--|  
-                                     |----0-----0---0---0---5--|  
-                                     |-------------------------|]  
-                                   *(these chords are not transcribed,*  
-                                    *I just found out something)*  
+    [|----0-----0---0---0---5--|  
+    |----2-----3---4---5---7--|  
+    |----2-----4---5---6---7--|  
+    |----2-----2---2---7---7--|  
+    |----0-----0---0---0---5--|  
+    |-------------------------|]  
+    *(these chords are not transcribed,*  
+    *I just found out something)*  
   
 -  
   

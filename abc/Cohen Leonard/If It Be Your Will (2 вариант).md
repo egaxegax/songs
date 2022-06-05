@@ -17,7 +17,7 @@ I will speak no more
 I shall abide until  
 F            C  
 I am spoken for  
-       G  
+    G  
 If it be your will  
   
 If it be your will  
@@ -34,7 +34,7 @@ C.. ...|Dm.. ...|F.. ...|C.. ...|
   
 Am                G  
 From this broken hill  
-           Am                G  
+    Am                G  
 All your praises they shall ring  
 F              C  
 If it be your will  
@@ -58,7 +58,7 @@ In our rags of light
 All dressed to kill  
 And end this night  
 If it be your will  
-               C  
+    C  
 If it be your will  
   
   

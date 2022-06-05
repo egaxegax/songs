@@ -6,13 +6,13 @@ Time (1981)
   Oh you, you're so hard to get to  
       ***Gm***  
   Oh you, you don't wanna play  
-                ***Fm           Gm***  
+    ***Fm           Gm***  
   You were no better before  
-             ***Fm           Gm***  
+    ***Fm           Gm***  
   I sent a letter before  
-              ***G#               G***  
+    ***G#               G***  
   I sent a dream to you last night  
-                        ***Cm***  
+    ***Cm***  
   From the end of the world.  
   Oh you, you keep me hanging round & round & round & round  
   Oh you, look at the trouble I've found  
@@ -23,18 +23,18 @@ Time (1981)
   
   ***Bb***  
   I saw you last night, but you couldn't answer  
-                                              ***Cm***  
+    ***Cm***  
   You were a lonely little sidewalk dancer  
   ***Bb***  
   When I woke up I could not stand it  
-                                         ***Fm  Gm  Cm***  
+    ***Fm  Gm  Cm***  
   You were gone, but I got to hand it to you.  
   ***(Cm Fm Cm)***  
   ***(Fm  Gm  Fm  Gm)***  
   O-oh   yeah-yeah  
      ***G#               G***  
   Dream to you last night  
-                        ***Cm***  
+    ***Cm***  
   From the end of the world.  
   Oh please, if this is a game I wish someone would win  
   Please, just let her fly to be upon the wind  

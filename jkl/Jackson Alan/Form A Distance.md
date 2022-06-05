@@ -1,15 +1,15 @@
 <!--2020-09-04 18:00:51-->
 Form A Distance  
   
-       ***E       B***  
+    ***E       B***  
   Just Another Bar  
-       ***A    B***  
+    ***A    B***  
   With Loud Guitars  
   ***A         B               E***  
   Smoke And Candles Burning Low  
-                   ***B***  
+    ***B***  
   And The Same Ol' Boys  
-             ***A            B***  
+    ***A            B***  
   With Their Backs To The Bar  
   ***A       B                E***  
   Staring Across A Crowded Floor  
@@ -20,38 +20,38 @@ Form A Distance
   *CHORUS*  
   ***NC     E         B***  
   From A Distance  
-        ***A        B  A***  
+    ***A        B  A***  
   I Can See You  
-                      ***B***  
+    ***B***  
   Dancing Slowly With Somebody New  
-              ***E         B***  
+    ***E         B***  
   But I Can't Hold You  
-         ***A        B***  
+    ***A        B***  
   Like I Want To  
-            ***A         B***  
+    ***A         B***  
   But I Can Love You  
   ***NC     E***  
   From A Distance  
      ***E        B***  
   So I Take A Chair  
-       ***A          B***  
+    ***A          B***  
   In A Corner Somewhere  
-            ***A***  
+    ***A***  
   You Can't See Me  
       ***B             E***  
   But I Can Look At You  
-        ***B              A***  
+    ***B              A***  
   And I Remember Those Times  
-         ***B              A***  
+    ***B              A***  
   When I Looked In Your Eyes  
-          ***B               E***  
+    ***B               E***  
   The Way He Now Looks At You  
   ***A                     B7***  
   Deep Down I Know It's Over  
-         ***A             B7           A       B***  
+    ***A             B7           A       B***  
   But It Hurts Me When He's So Much Closer  
   *Chorus*  
-       ***A              B7***  
+    ***A              B7***  
   If I Can't Hold You Near Me  
   ***A                           B***  
   I'll Just Hold On To Your Memory  

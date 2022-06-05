@@ -21,7 +21,7 @@ Unplugged
   ***D       A E     A/E   Am/E  E   E   A/E   Am/E   E***  
   Don't encourage me.  
   
-         ***E F#         B    B/A C#m/G#***  
+    ***E F#         B    B/A C#m/G#***  
 Chorus:  'Cause I'm a lonely stranger here,  
   ***A      G#7     C#m  E7***  
   Well beyond my day.  

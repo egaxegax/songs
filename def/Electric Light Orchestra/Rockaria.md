@@ -49,11 +49,11 @@ Intro:  ***D  Bm  F#m A7***
   Just got back from the downtown palais  
   Where the music was so sweet  
   It knocked me right back in the alley  
-       ***G7                         D***  
+    ***G7                         D***  
   I'm ready, yea, yea, yea, I'm ready,  
-             ***A7***  
+    ***A7***  
   Wo, wo, wo, I'm ready  
-            ***Bm          F#m    Em     A7***  
+    ***Bm          F#m    Em     A7***  
   And I'm really gonna rock tonight.  
   Sweet little lady sings like a songbird  
   And she sings the opera like you ain't never heard,  
@@ -80,7 +80,7 @@ Intro:  ***D  Bm  F#m A7***
   I'm gonna show you how to sing the blues.  
    ***D     Bm      F#m               A7***  
   Far, far away the music is playing.  
-                  ***D                        Em7/G***  
+    ***D                        Em7/G***  
   Well we were reelin' and a rockin' all through the night,  
   Yea we were rockin' at the opera house until the break of light,  
   And the orchestra were playin' all Chuck Berry's greatest tunes.  
@@ -89,7 +89,7 @@ Intro:  ***D  Bm  F#m A7***
   The people on the streets came runnin' in to join in song  
   Just to hear the opera singer singin' rock & roll so pure,  
   I thought I saw the mayor there but I wasn't really sure,  
-          ****D Bm F#m A7  DDDDDDDDD***.8-)*  
+    ****D Bm F#m A7  DDDDDDDDD***.8-)*  
   But it's alright.  
   
 -  

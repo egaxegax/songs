@@ -5,12 +5,12 @@ Beat My Guest
   *I'm sure full chords will work just as well!*  
   
   *CHORDS USED:     ***E   E   D   D   A   A****  
-                 [E-------------------------]  
-                 *[B-------------------------] I've given 2*  
-                 *[G-----9-------7-------2---] finger layouts*  
-                 *[D-14--9---12--7---7---2---] for A -&gt; E.*  
-                 *[A-14--7---12--5---7---0---] They sound similar!*  
-                 [E-12------10------5-------]  
+    [E-------------------------]  
+    *[B-------------------------] I've given 2*  
+    *[G-----9-------7-------2---] finger layouts*  
+    *[D-14--9---12--7---7---2---] for A -&gt; E.*  
+    *[A-14--7---12--5---7---0---] They sound similar!*  
+    [E-12------10------5-------]  
   
   *MUSIC:  Split into 4 riffs.*  
   *A: Beats   1  &  2  &  3  &  4  &   Played on string 1,*  

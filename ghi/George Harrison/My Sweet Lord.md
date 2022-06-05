@@ -6,9 +6,9 @@
   ***C             Gm    C            Gm    C            Gm      C***  
     My sweet Lord         mm my Lord         mm my Lord  
   
-                   ***F        Dm                 F              Dm***  
+    ***F        Dm                 F              Dm***  
   I really want to see you,     really want to be with you  
-                 ***F                                    D7      Gm***  
+    ***F                                    D7      Gm***  
   Really want to see you, my Lord, but it takes so long my Lord  
   
   *CHORUS*  
@@ -18,9 +18,9 @@
   
   *CHORUS*  
   
-                   ***F                           F7                           D7***  
+    ***F                           F7                           D7***  
   I really want to see you,     really want to see you,      really want to see yo  
-                 ***G                        Abdim7  E7           Am  D***  
+    ***G                        Abdim7  E7           Am  D***  
   Really want to see you, Lord, but it takes so   long my Lord,       my sweet Lor  
   
   *fades out with ***D*** ---&gt; ***Am*** over "my sweet Lord"*  

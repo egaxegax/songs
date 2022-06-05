@@ -12,7 +12,7 @@ CHORDS USED:     ***A     G     E     
   
   *Intro: ***A5***, ***G*** (mess around with the top string on those chords)*  
   
-         ***A             G                A***  
+    ***A             G                A***  
 Verses:  now it seems i can't keep my mind off you  
      ***A                   G                      E***  
   my mind drifts back to better days we've been through  
@@ -22,7 +22,7 @@ Verses:  now it seems i can't keep my mind off you
   
       ***D5       A5   G     F#       F***  
 CHORUS:  but now it's gone and i take the blame  
-             ***D5            E5              A5***  
+    ***D5            E5              A5***  
   so there's nothing i can do but take the pain...why?  
   
   ***A G***  

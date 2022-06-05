@@ -91,7 +91,7 @@ Riff C:  E|-----------------|-----------------|
   *Chorus:*  
   ***A                    B***  
   Sugar and spice, and everything nice  
-         ***A              B***  
+    ***A              B***  
   wasn't meant for only girls  
   ***A         B***  
   GI Joe in pantyhose is  

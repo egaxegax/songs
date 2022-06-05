@@ -25,26 +25,26 @@
   *Intro:  ***E6   Gdim6   E6   Gdim6*** (a couple of times)*  
       ***E6                             Gdim6***  
   Her gaze hit the side of mine so I opened it out  
-       ***E6                         Gdim6***  
+    ***E6                         Gdim6***  
   To destroy what you thought was difference  
-       ***E6***  
+    ***E6***  
   So I lied to you once again  
-       ***Gdim6***  
+    ***Gdim6***  
   So I painted over you once again  
-       ***E6***  
+    ***E6***  
   So I die before you once again  
-             ***Gdim6***  
+    ***Gdim6***  
   What's the difference?  
   ***E6   Gdim6   E6   Gdim6***  
-       ***E6***  
+    ***E6***  
   Come clearly where the flavour is  
-       ***Gdim6***  
+    ***Gdim6***  
   Seen here in black and white  
-         ***E6***  
+    ***E6***  
   You've got two seconds, baby boy  
      ***Gdim6***  
   In burning light white light  
-             ***E6          G   E6   G***  
+    ***E6          G   E6   G***  
   What's the difference?  
   ***Em***  
   Clear up what you are  
@@ -52,13 +52,13 @@
   Burn out these eyes  
   ***F#***  
   Rip up this place and scream  
-            ***Em           G   F#***  
+    ***Em           G   F#***  
   I am your slice of life  
-            ***Em           G   F#***  
+    ***Em           G   F#***  
   I am your slice of life  
-            ***Em           G   F#***  
+    ***Em           G   F#***  
   I am your slice of life  
-            ***Em           G   F#***  
+    ***Em           G   F#***  
   I am your slice of life (life)  
   *Slight interlude: ***G/E   G**** (&lt;-- play the ***G*** riff with an ***E*** bass note, then a ***G*** bass note)*  
   Shivering under lamposts, shivering under glass  

@@ -17,7 +17,7 @@ How peculiar
   I need for you to love me so much  
   ***C                                    A***  
   Jesus what am I gonna do with this crush  
-        ***Bb                                          G***  
+    ***Bb                                          G***  
   Just get the old fella and whack it up against her tush  
   ***G-F....D Bb C***  
   ***C***  

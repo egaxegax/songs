@@ -47,11 +47,11 @@ Red Morning Light
   *The lyrics are entirely unintelligible to me but if you know the song then:*  
   
   *Verse*  
-                  ***B                                 E***  
+    ***B                                 E***  
   'You coulda been wonder, taking your circus to the sky-ha-hi'  
   
   *Chorus*  
-            ***B                         A           G F# E***  
+    ***B                         A           G F# E***  
   'From the black of the night to the red morning light'  
   
 -  
@@ -109,10 +109,10 @@ Red Morning Light
   
   *Quiet for 4   [E|7-7-7-7-7-7-7-7--5-5-5-5-5-5-5-5-]*  
   *And then      [B|7-7-7-7-7-7-7-7--5-5-5-5-5-5-5-5-]*  
-                [G|8-8-8-8-8-8-8-8--6-6-6-6-6-6-6-6-  
-                D|9-9-9-9-9-9-9-9--7-7-7-7-7-7-7-7-  
-                A|9-9-9-9-9-9-9-9--7-7-7-7-7-7-7-7-  
-                E|7-7-7-7-7-7-7-7--5-5-5-5-5-5-5-5-]  
+    [G|8-8-8-8-8-8-8-8--6-6-6-6-6-6-6-6-  
+    D|9-9-9-9-9-9-9-9--7-7-7-7-7-7-7-7-  
+    A|9-9-9-9-9-9-9-9--7-7-7-7-7-7-7-7-  
+    E|7-7-7-7-7-7-7-7--5-5-5-5-5-5-5-5-]  
   
   *THATS IT! OK, HERES THE ORDER:*  
   *Intro*  

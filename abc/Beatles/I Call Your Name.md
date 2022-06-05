@@ -2,7 +2,7 @@
 I Call Your Name  
   *(Lennon/McCartney)*  
   
-               ****F#7            E7      B7*** (hold)*  
+    ****F#7            E7      B7*** (hold)*  
   
   |------------0--0-0--0------------------0--0-0--2-  
   |------------2--2-2--2------------------3--3-3--0-  
@@ -11,22 +11,22 @@ I Call Your Name
   |-2----------4--4-4--4-------------2----2--2-2--2-  
   |---------------------------------------0--0-0--x-  
   
-           ***E7                   C#7***  
+    ***E7                   C#7***  
   I call your name but you're not there  
-        ***F#7                B7***  
+    ***F#7                B7***  
   Was I to blame for being unfair  
-               ***E7                               C#7***  
+    ***E7                               C#7***  
   Oh I can't sleep at night since you've been gone  
-       ***F#7           A***  
+    ***F#7           A***  
   I never weep at night, I can't go on  
   
-                          ***A***  
+    ***A***  
   Don't you know I can't take it  
-            ***C#m***  
+    ***C#m***  
   I don't know who can  
-            ***F#***  
+    ***F#***  
   I'm not going to make it  
-               ***C B7***  
+    ***C B7***  
   I'm not that kind of man.  
   
   Oh I can't sleep at night but just the same  

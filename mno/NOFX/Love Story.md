@@ -26,11 +26,11 @@
   
   *Chorus*  
   *(strum and pick bar chords)*  
-                ***C#***  
+    ***C#***  
   I don't wanna know  
-        ***F***  
+    ***F***  
   Cheat Me  
-                ***C#***  
+    ***C#***  
   I don't wanna know  
   
   *(drum fill)*  
@@ -48,11 +48,11 @@
   **The words to the second verse are repeated as the third verse in punk*  
   *tempo.*  
   *(end chorus, still at punk beat)*  
-                ***C#          F***  
+    ***C#          F***  
   I don't wanna know, cheat me  
-                ***C#          F***  
+    ***C#          F***  
   I don't wanna know, cheat me  
-                ***C#          F***  
+    ***C#          F***  
   I don't wanna know, cheat me  
-                ***C#          F***  
+    ***C#          F***  
   I don't wanna know, cheat me........

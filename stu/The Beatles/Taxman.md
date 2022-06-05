@@ -4,7 +4,7 @@ Verse:
  Let me tell you how it will be  
      D7                              D7#9  D7  
  There`s one for you nineteen for me  
-                C7              G7#9    D7  
+    C7              G7#9    D7  
  `Cos I`m the taxman   Yeah I`m the taxman  
   
   
@@ -15,13 +15,13 @@ Verse:
   
   
  Middle:  
-          D  
+    D  
  If you drive a truck  I`ll tax the street  
-                             C  
+    C  
  If you try to fix it  I`ll tax your seat  
-         D  
+    D  
  If you get too cold  I`ll tax the heat  
-                            C                D  
+    C                D  
  If you take a walk  I`ll tax your feet   TAXMAN!  
   
   
@@ -47,7 +47,7 @@ Verse:
  -|---------------------------------------------------------------------  
  -|---------------------------------------------------------------------  
   
-                C               G7#9    D  
+    C               G7#9    D  
  `Cos I`m the taxman   Yeah I`m the taxman  
   
   
@@ -69,7 +69,7 @@ Verse:
  `Cos I`m the taxman   Yeah I`m the taxman  
   
      And you`re working     for no one    but me  
-                  F                           D7  
+    F                           D7  
  -|--------------------------------------------------------------  
  -|--------------/6-----/6-----/6-----/6-------------------------  
  -|------------------5------5------5------5------7---------5--7--  (repeat  

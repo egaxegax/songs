@@ -55,9 +55,9 @@ verse:  I can see that look that says beware
   So I must sit and play  
       ****G#/C-G/C*** (guitar line#1)*  
   My waiting game  
-       ***Cm***  
+    ***Cm***  
   And for a while I know  
-                 ****G#/C-G/C*** (guitar line#1)*  
+    ****G#/C-G/C*** (guitar line#1)*  
   She'll do the same  
   Fly away  
   
@@ -183,12 +183,12 @@ verse:  Watches like an eagle from its eerie
   
       ***C***  
 bridge:  Now every time I tried to set her free  
-        ***F***  
+    ***F***  
   I'm glad to say she comes  
-                 ***C***  
+    ***C***  
   Right back to me  
   But if I knew she didn't want to stay  
      ***F***  
   I wouldn't try to keep that  
-                   ***C***  
+    ***C***  
   Lovely bird of prey

@@ -15,17 +15,17 @@ Please Please Me (Mar.1963)
   Closer        let me whisper in your ear  
   ***G#m-Gm-F#m      B7                A   B7***  
   say the words you long to hear  
-                   ***C#m    F#m  B6***  
+    ***C#m    F#m  B6***  
   I'm in love with you   oooooooo  
     ***E      G#m-Gm-F#m          B7              E     G#m-Gm-F#m***  
   Listen  (do dah do)  do you want to know a secret (do dah do)  
-            ***B7           E    G#m-Gm-F#m  B6/F***  
+    ***B7           E    G#m-Gm-F#m  B6/F***  
   do you promise not to tell (do dah do)  woah  
     ***E      G#m-Gm-F#m          B7              E  G#m-Gm-F#m***  
   Closer (do dah do)  let me whisper in your ear (do dah do)  
-           ***B7                A   B7***  
+    ***B7                A   B7***  
   say the words you long to hear  
-                   ***C#m    F#m  B6***  
+    ***C#m    F#m  B6***  
   I'm in love with you   ooooooo  
    ***A             F#m           C#m     Bm***  
   I've know the secret for the week or two  
@@ -33,17 +33,17 @@ Please Please Me (Mar.1963)
   Nobody knows just we two  
     ***E      G#m-Gm-F#m          B7              E     G#m-Gm-F#m***  
   Listen  (do dah do)  do you want to know a secret (do dah do)  
-            ***B7           E    G#m-Gm-F#m  B6/F***  
+    ***B7           E    G#m-Gm-F#m  B6/F***  
   do you promise not to tell (do dah do)  woah  
     ***E      G#m-Gm-F#m          B7              E  G#m-Gm-F#m***  
   Closer (do dah do)  let me whisper in your ear (do dah do)  
-           ***B7                A   B7***  
+    ***B7                A   B7***  
   say the words you long to hear  
-                   ***C#m    F#m  B6  C#m***  
+    ***C#m    F#m  B6  C#m***  
   I'm in love with you   ooooooo  
-                 ***F#m    B6     C#m***  
+    ***F#m    B6     C#m***  
   Ooooo  ooooo  ooooo  ooooo  ooooo  
-                 ***F#m    B6     C#m***  
+    ***F#m    B6     C#m***  
   Ooooo  ooooo  ooooo  ooooo  ooooo  
-                 ***F#m    B6     C#m***  
+    ***F#m    B6     C#m***  
   Ooooo  ooooo  ooooo  ooooo  ooooo

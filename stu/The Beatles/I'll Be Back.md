@@ -3,13 +3,13 @@ Bsus  A
   
    Am          C        G         Fmaj7    E7  
 You know if you break my heart I`ll go, but I`ll  
-         A    Bsus  A  
+    A    Bsus  A  
 be back again  
    Am          C     G        Fmaj7    E7  
 Cos I told you once before goodbye, but I came  
-       A    Bsus  A  
+    A    Bsus  A  
 back again  
-          F#m                  Bm  
+    F#m                  Bm  
 I love you so, I`m the one who wants you, yes I`m the one who  
  E7  
 wants you.  

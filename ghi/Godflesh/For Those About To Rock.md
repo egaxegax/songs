@@ -9,8 +9,8 @@ Main Riff: [e||--------------------------||
   E||------------3--2--0-------||]  
   
   *(INTRO) Riff x  2 lite distorded*  
-          *Riff x 2 hi distorded ...break*  
-          *Riff x 6 hi distorded*  
+    *Riff x 2 hi distorded ...break*  
+    *Riff x 6 hi distorded*  
   *(VERSE_1)*  
   *(CHORUS)*  
   *(VERSE_2) (2:05)*  

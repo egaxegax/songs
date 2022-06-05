@@ -7,23 +7,23 @@ A Kind Of Magic 1986
   It's a kind of magic,  
   It's a kind of magic,  
   A kind of magic,  
-       ***A                B(B/A)***  
+    ***A                B(B/A)***  
   One dream, one soul, one prize,  
-                 ***Dmaj7            A***  
+    ***Dmaj7            A***  
   One goal, one golden glance of what should be,(It's a kind of magic,)  
   
   *Verse 2: same chords.*  
-        ***F#m            D***  
+    ***F#m            D***  
   The waiting seems eternity,  
-       ***F#m               E***  
+    ***F#m               E***  
   The day will dawn of sanity,  
       ***D              A***  
   Is this a kind of magic,(It's a kind of magic),  
     ***D                A***  
   There can be only one,  
-        ***E          G       D***  
+    ***E          G       D***  
   This rage that lasts a thousand years  
-                ***E***  
+    ***E***  
   Will soon be gone  
   
   *The rest: is with the same chords.*  

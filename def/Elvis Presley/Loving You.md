@@ -11,7 +11,7 @@ Loving You
   Loving you loving you  
      ***F                               Fm                 C  E7 A7***  
   Makes no diff'rence where I go or what I do  
-       ***Dm                                    G7 D7   C***  
+    ***Dm                                    G7 D7   C***  
   You know that I'll always be loving you just you and  
   
   If I'm seen with someone new  

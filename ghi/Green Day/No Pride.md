@@ -66,15 +66,15 @@ Intro:  ***G5  D5  C5*** } x4
   
   ***G5         D5***  
 (1)  I'm just a mutt,  
-        ***C5          G5***  
+    ***C5          G5***  
   and nowhere is my home.  
-        ***G5          D5***  
+    ***G5          D5***  
   Where dignity's a land mine,  
-         ***C5             G5***  
+    ***C5             G5***  
   in the school of lost hope.  
-       ***G5             D5***  
+    ***G5             D5***  
   I've panhandled for life,  
-              ***E5            G5***  
+    ***E5            G5***  
   because I'm not afraid to beg.  
   ***G5                D5***  
   Hand me down your lost and founds  
@@ -83,16 +83,16 @@ Intro:  ***G5  D5  C5*** } x4
   
   ***D5***  
 Pre-Chorus: You better swallow your pride,  
-                  ***C5    G5 D5***  
+    ***C5    G5 D5***  
   or you're gonna choke on it.  
   ***D5***  
   You better digest your values,  
-               ***C5   G5 D5***  
+    ***C5   G5 D5***  
   because they turn to shit.  
   
-           ***G5              D5***  
+    ***G5              D5***  
 Chorus:  Honour's gonna knock you down,  
-         ***E5                  Eb5***  
+    ***E5                  Eb5***  
   before you chance to stand up and fight.  
     ***G5               D5***  
   I know I'm not the one,  
@@ -103,11 +103,11 @@ Intro:  ***G5  D5  C5*** } x2
   
   ***G5             D5***  
 (2)  Sects of disconnection,  
-         ***C5              G5***  
+    ***C5              G5***  
   and traditions of lost faith.  
-                       ***D5***  
+    ***D5***  
   No culture's worth a stream of piss,  
-       ***C5           G5***  
+    ***C5           G5***  
   Or a bullet in my face.  
      ***G5           D5***  
   To hell with unity,  
@@ -144,7 +144,7 @@ Intro:  ***G5 D5 C5*** } x3
   ****D#*** ([x688xx])*  
   ****E***  ([022xxx])*  
   ****E(type 2)***  ([x799xx]) or ([0799xxx])  The second one I use it when I palm mute*  
-                                    *that chord, but using only the ([0xxxxx])*  
+    *that chord, but using only the ([0xxxxx])*  
   ****B(type 2)***  ([xx9-11-12-x])  or ([x-9-9-11-12-x])*  
   
   *Intro/Post chorus:*  

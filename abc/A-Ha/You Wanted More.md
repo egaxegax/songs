@@ -1,119 +1,119 @@
 <!--2020-09-04 18:23:03-->
 You Wanted More  
   
-               ***Hm***  
+    ***Hm***  
   You know the way  
-               ***Db***  
+    ***Db***  
   You've been before  
-                ***F#m***  
+    ***F#m***  
   I've seen the signs  
-               ***D***  
+    ***D***  
   Outside your door  
-              ***Hm***  
+    ***Hm***  
   You set the rules  
-             ***Db***  
+    ***Db***  
   The bitter days  
-            ***F#m    D***  
+    ***F#m    D***  
   Can't be ignored  
-                ***Hm***  
+    ***Hm***  
   It's just the same  
-            ***Db***  
+    ***Db***  
   Just like before  
-             ***F#m  D***  
+    ***F#m  D***  
   You wanted more  
-             ***F#m***  
+    ***F#m***  
   I love the sun  
-             ***Hm***  
+    ***Hm***  
   I love the rain  
-              ***Db***  
+    ***Db***  
   You gave it up  
-             ***D***  
+    ***D***  
   But all in vain  
-             ***F#m***  
+    ***F#m***  
   I love the way  
-          ***Hm***  
+    ***Hm***  
   It was before  
-          ***Db***  
+    ***Db***  
   So bittersweet  
-           ***D***  
+    ***D***  
   To be adored  
-            ***Hm***  
+    ***Hm***  
   We had it all  
-             ***Db***  
+    ***Db***  
   You let it go  
-             ***F#m   D***  
+    ***F#m   D***  
   You wanted more  
-             ***Hm***  
+    ***Hm***  
   But in the end  
-             ***Db***  
+    ***Db***  
   What is a friend  
-              ***F#m***  
+    ***F#m***  
   If not some one  
-           ***D***  
+    ***D***  
   To help pretend  
-           ***Hm***  
+    ***Hm***  
   Remember me  
-              ***Db***  
+    ***Db***  
   You know my name  
-                ***F#m  D***  
+    ***F#m  D***  
   I'm still the same  
-              ***Hm***  
+    ***Hm***  
   But not for you  
-             ***Db***  
+    ***Db***  
   That's not enough  
-             ***F#m  D***  
+    ***F#m  D***  
   You wanted more  
-             ***F#m***  
+    ***F#m***  
   I love the sun  
-             ***Hm***  
+    ***Hm***  
   I love the rain  
-              ***Db***  
+    ***Db***  
   You gave it up  
-              ***D***  
+    ***D***  
   But all in vain  
-               ***F#m***  
+    ***F#m***  
   You couldn't change  
-               ***Hm***  
+    ***Hm***  
   You know the score  
-          ***Db***  
+    ***Db***  
   So bittersweet  
-            ***D***  
+    ***D***  
   To be adored  
-            ***Hm***  
+    ***Hm***  
   We had it all  
-              ***Db***  
+    ***Db***  
   You gave it up  
-             ***F#m D***  
+    ***F#m D***  
   You wanted more  
-             ***Hm***  
+    ***Hm***  
   But in the end  
-            ***Db        F#m  D***  
+    ***Db        F#m  D***  
   What is a friend...  
-                ***F#m***  
+    ***F#m***  
   You loved the way  
-             ***Hm***  
+    ***Hm***  
   It used to be  
-              ***Db***  
+    ***Db***  
   The way you are  
-          ***D***  
+    ***D***  
   You and me  
-               ***F#m***  
+    ***F#m***  
   You came too late  
-               ***Hm***  
+    ***Hm***  
   You left too soon  
-                ***Db***  
+    ***Db***  
   Just like the rings  
-             ***D***  
+    ***D***  
   Around the moon  
-            ***Hm***  
+    ***Hm***  
   We had it all  
-             ***Db***  
+    ***Db***  
   You let it go  
-             ***F#m  D***  
+    ***F#m  D***  
   You wanted more  
-            ***Hm***  
+    ***Hm***  
   We had it all  
-              ***Db***  
+    ***Db***  
   You gave it up  
-             ***F#m D***  
+    ***F#m D***  
   You wanted more

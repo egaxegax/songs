@@ -5,20 +5,20 @@ Being Tom Waits (2002), Игры в Тома Уэйтса (2005)
   
   ***C                           Am***  
   Crest fallen sidekick in an old cafe  
-          ***C                           Am***  
+    ***C                           Am***  
   Never slept with a dream before he had to go away  
-             ***C                       Am***  
+    ***C                       Am***  
   There's a bell in the tower Uncle ray bought a round  
-         ***F                         G***  
+    ***F                         G***  
   Don't worry when you lay in the cold,  
   
-                  ***C***  
+    ***C***  
   The cold cold ground  
-          ***Am***  
+    ***Am***  
   In the cold cold ground  
-              ***C***  
+    ***C***  
   Cold cold ground  
-          ***Am***  
+    ***Am***  
   In the cold cold ground  
   
   Now don't be a cry baby when there's wood in the shed  
@@ -67,20 +67,20 @@ Being Tom Waits (2002), Игры в Тома Уэйтса (2005)
   
   ***C                           Am***  
   Crest fallen sidekick in an old cafe  
-          ***C                           Am***  
+    ***C                           Am***  
   Never slept with a dream before he had to go away  
-             ***C                       Am***  
+    ***C                       Am***  
   There's a bell in the tower Uncle ray bought a round  
-         ***F                           G***  
+    ***F                           G***  
   Don't worry 'bout the army in the cold,  
   
-         ***C***  
+    ***C***  
   Cold ground  
-          ***Am***  
+    ***Am***  
   In the cold cold ground  
-              ***C***  
+    ***C***  
   Cold cold ground  
-          ***Am***  
+    ***Am***  
   In the cold cold ground  
   
   Now don't be a cry baby when there's wood in the shed  

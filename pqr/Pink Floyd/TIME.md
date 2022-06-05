@@ -32,11 +32,11 @@ E---2b(3)--2--0---------------------------------------0--1--2------------
 VERSE:(w/ distortion)  
 F#M                                       A            Asus4   A  
 Ticking away, the moments that make up a dull day  
-          lead A  
+    lead A  
 E                                                  F#m  
 You fritter and wasste the hours in an offhand way  
-            lead B  
-         A  
+    lead B  
+    A  
 Kicking around on a piece of ground in your home town  
   
 E                                                   F#m  
@@ -161,13 +161,13 @@ chorus(begins with Dmaj7)
 -------------------------------------------------------------------  
 ----------------------------------------------------------------0--  
   
-           lead c  
+    lead c  
 (E)    F#m                                                    A  
 And you run, and you run to catch up to the sun, but it's sinking,  
   
 E                                              F#m              lead D  
 And racing around, to come up behind you again  
-        lead E  
+    lead E  
 E                                                  A        Asus4   A  
 The sun is the same in a relative way, but your older,  
   

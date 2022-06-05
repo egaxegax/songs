@@ -7,16 +7,16 @@ Eldorado
   I'll sail away on a voyage of no return to see  
      ***Bbm                       F***  
   if eternal life is meant to be  
-            ***Gm                 Bbm***  
+    ***Gm                 Bbm***  
   and if I find the key to the eternal dream.  
   The painted ladies of the Avalon play in the sun,  
   take to the road, to the North there lies the chills of cold,  
   to the South there lies the tales untold.  
   But in between there lies the place to close your eyes.  
   
-           ***F Fm Dm-C-Bb                 F      Gm      Bbm***  
+    ***F Fm Dm-C-Bb                 F      Gm      Bbm***  
   And I will stay,         I'll not be back, Eldorado.  
-            ***F Fm Dm-C-Bb            F        Gm Bbm C***  
+    ***F Fm Dm-C-Bb            F        Gm Bbm C***  
   I will be free         of the world, Eldorado.  
   
   Say goodbye, the city's heroes sing, bird on the wing  

@@ -26,22 +26,22 @@ Revolution
   And you've been thinking too much  
   ***G                                 Em7***  
   You only hurt yourself when you think  
-                  ***D***  
+    ***D***  
   about retribution  
   I see the pain in your face  
   ***D*(Am)***  
   And you're praying rent for the space  
-               ***G                 Em7***  
+    ***G                 Em7***  
   It's time to lead you onto the revolution  
   ***Bm                      C***  
   When you can't keep on keeping on  
-                     ***G                    F#m***  
+    ***G                    F#m***  
   And everything you lean upon is all but gone  
   ***Bm             E                          A***  
   Everybody falls sometimes but love shines on  
   ***D                     D-C                   Bm***  
   With love in your eyes and a flame in your heart  
-        ***E***  
+    ***E***  
   Gonna find yourself some resolution  
   ***D***  
   I million miles with one step  

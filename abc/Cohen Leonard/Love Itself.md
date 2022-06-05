@@ -15,7 +15,7 @@ The dust you seldom see
 Out of which the Nameless makes  
 A Name for one like me  
   
-             Bb           C  
+    Bb           C  
 I'll try to say a little more:  
  F               Bb  
 Love went on and on  
@@ -37,7 +37,7 @@ Until it reached an open door
 Then Love Itself  
 Love Itself was gone  
   
-             Bb                  C  
+    Bb                  C  
 Then I came back from where I'd been  
 Dm  
 My room, it looked the same  
@@ -85,7 +85,7 @@ The dust you seldom see
 Out of which the Nameless makes  
 A Name for one like me  
   
-             G            A  
+    G            A  
 I'll try to say a little more:  
  D               G  
 Love went on and on  
@@ -107,7 +107,7 @@ Until it reached an open door
 Then Love Itself  
 Love Itself was gone  
   
-             G                   A  
+    G                   A  
 Then I came back from where I'd been  
 Bm  
 My room, it looked the same  

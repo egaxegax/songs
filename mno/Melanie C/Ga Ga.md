@@ -19,7 +19,7 @@ Intro:  ***Bb    Eb*** } x2
   Stupid cupid, he's a drag, he's not like you!  
   ***E                                Gb***  
   People say that it's insane, we love to feel the pain.  
-           ***A            Gb           Db***  
+    ***A            Gb           Db***  
   And it hurts yes it hurts and it hurts.  
   ***Bb             Eb***  
   I don't want emotional hassle  
@@ -58,21 +58,21 @@ Intro:  ***Bb    Eb*** } x2
   Ga Ga!  
   ***Eb       E           Gb***  
   Crazy foolish, for wanting you,  
-          ***A             Gb***  
+    ***A             Gb***  
   And it hurts. And it hurts.  
-          ***Db     B***  
+    ***Db     B***  
   Let it hurt.  
-          ***A             Gb***  
+    ***A             Gb***  
   And it hurts. And it hurts.  
-          ***Db     B***  
+    ***Db     B***  
   Let it hurt.  
-          ***A             Gb***  
+    ***A             Gb***  
   And it hurts. And it hurts.  
-          ***Db     B***  
+    ***Db     B***  
   Let it hurt.  
-          ***A             Gb***  
+    ***A             Gb***  
   And it hurts. And it hurts.  
-          ***Db     B***  
+    ***Db     B***  
   Let it hurt.  
-           ***A      Gb     Db***  
+    ***A      Gb     Db***  
   And it hurts.

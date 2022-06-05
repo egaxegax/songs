@@ -18,7 +18,7 @@ Am          G             Am
 I sleep beneath a golden hill  
 C               E/b  
 You who wish to conquer pain  
-          Am                       F       E'      E  
+    Am                       F       E'      E  
 You must learn, learn to serve me well  
   
 You strike my side by accident  

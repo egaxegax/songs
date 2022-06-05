@@ -9,7 +9,7 @@ Intro:  5)--------------3-5----------------5(bend)-3---|
   ***Em***  
   Here we are  
   In the maelstrom of love  
-          ***Am7***  
+    ***Am7***  
   Waiting for the calm  
       ***Am6***  
   To soothe our hearts  
@@ -22,9 +22,9 @@ Intro:  5)--------------3-5----------------5(bend)-3---|
   Love is insane and Baby  
    ***D      A***  
   We are too  
-                          ***F#m***  
+    ***F#m***  
   It's our hearts little grave  
-           ***D           A***  
+    ***D           A***  
   And the salt in our wounds  
   Love is insane and Baby  
   We are too  
@@ -42,5 +42,5 @@ Intro:  5)--------------3-5----------------5(bend)-3---|
   We are too  
   It's our hearts little grave  
   And the salt in our wounds  
-       ***E           A       AAA***  
+    ***E           A       AAA***  
   The salt in our wounds

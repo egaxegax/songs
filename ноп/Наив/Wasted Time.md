@@ -5,9 +5,9 @@
   
   ***A    H       C#m***  
   The cancer grows  
-            ***A       H       C#m            A    H***  
+    ***A       H       C#m            A    H***  
   I know because I feel it deep within my bones  
-              ***C#m         A***  
+    ***C#m         A***  
   Because at my complacency  
       ***H         C#m***  
   It laught at me  
@@ -19,11 +19,11 @@
   
   ***A               C#m***  
   All the wasted time.  
-            ***A           C#m***  
+    ***A           C#m***  
   Tell me where did it go?  
   ***A               C#m***  
   All the wasted time.  
-            ***A           G# F#***  
+    ***A           G# F#***  
   Tell me where did it go?  
   
   When I was young ang life  
@@ -45,7 +45,7 @@
   Just when I thought I was  
    ***C#m                     F#***  
   Winning the game I found out  
-         ***G#             C#m***  
+    ***G#             C#m***  
   They changed all the rules  
   ***H         A***  
   I think that if I could turn back  

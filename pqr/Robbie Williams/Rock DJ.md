@@ -25,23 +25,23 @@ Rock DJ
   It's time to move your body  
   ***A*              D***  
   Babylon back in business  
-               ***G***  
+    ***G***  
   Can I get a witness  
-                   ***D***  
+    ***D***  
   Every girl every man  
   ***A*             D***  
   Houston do you hear me  
-                         ***G***  
+    ***G***  
   Ground-control can you feel me  
-       ***A*            D***  
+    ***A*            D***  
   Need permission to land  
-                ***C     D***  
+    ***C     D***  
   I don't wanna rock, DJ  
-                 ***G             D***  
+    ***G             D***  
   But you're making me feel so nice  
-                  ***C     D***  
+    ***C     D***  
   When's it gonna stop, DJ  
-                 ***C                D***  
+    ***C                D***  
   'Cause you're keepin' me up all night  
   Singin' in the classes  
   Music for your masses  
@@ -71,15 +71,15 @@ Rock DJ
   'Cause you're keepin' me up all night  
   ***D             G***  
   Pimpin' ain't easy  
-                ***D***  
+    ***D***  
   Most of them fleece me  
-        ***G***  
+    ***G***  
   Every night  
   ***D             G***  
   Pimpin' ain't easy  
-                ***C***  
+    ***C***  
   But if you're sellin' it  
-       ***D***  
+    ***D***  
   It's alright  
   Come on  
   I don't wanna rock, DJ  

@@ -11,9 +11,9 @@
   D -0-4-5-4-7---7---0-4-5-4-7-------  
   A ---------------------------------  
   E ---------------------------------]  
-        ***D      F***  
+    ***D      F***  
   Don't look at me as though I'm not here  
-       ***D   F***  
+    ***D   F***  
   Your only regret what you don't see  
       ***G   F   E***  
   You know more than I so think for me  
@@ -25,14 +25,14 @@
   She never knew who you are  
   ***G     F      E***  
   Half your life has been explained  
-       ***A  D***  
+    ***A  D***  
   You want the other half again (back to the main riff)  
   *(This middle section gets kind of complicated, but here are the*  
   *chords from the book)*  
   ****A  C  G  E  F  A  D***  (2x)  ***A  E***  (main riff 8x)*  
-        ***D      F***  
+    ***D      F***  
   Don't look at me as though I'm not here  
-       ***D   F***  
+    ***D   F***  
   Your only regret what you don't see  
   ***G   F      E***  
   Half my life has been explained

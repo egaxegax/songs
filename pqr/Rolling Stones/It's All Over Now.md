@@ -4,7 +4,7 @@ CAPO: 1st FRET
 INTRO:    F   Eb   Bb   C  -- 2x`s  
   
 VERSE:  
-             F  
+    F  
       Well, baby used to stay out all night long  
       She made me cry, she done me wrong  
       She hurt my eyes open, that`s no lie  
@@ -12,11 +12,11 @@ VERSE:
   
   
 CHORUS:  
-                 C  
+    C  
       Because I used to love her  
     Bb                   F  
       But it`s all over now  
-                 C  
+    C  
       Because I used to love her  
     Bb                   F  
       But it`s all over now  

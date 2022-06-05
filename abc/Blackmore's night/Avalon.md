@@ -3,9 +3,9 @@ Avalon
   
   ***F#***  
   To the days of Avalon  
-         ***H              Db***  
+    ***H              Db***  
   Where magic rules as king  
-       ***H                Ebm***  
+    ***H                Ebm***  
   The moon beneath the castle walls  
   ***Db                  F#***  
   As the nightingale sings...  

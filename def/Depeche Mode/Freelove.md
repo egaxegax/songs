@@ -18,25 +18,25 @@ Bbm           Cm
 I can see the pain that you?re frightened of  
   
   
-             Fm  
+    Fm  
 And I?m only here  
-            Bbm  
+    Bbm  
 To bring you freelove  
-             Fm  
+    Fm  
 Let?s make it clear  
-              Bbm  
+    Bbm  
 That this is freelove  
-         Bbm7  
+    Bbm7  
 No hidden catch  
-            Cm7  
+    Cm7  
 No strings attached  
-       Fm  
+    Fm  
 Just freelove  
-          Bbm7  
+    Bbm7  
 No hidden catch  
-             Cm7  
+    Cm7  
 No strings attached  
-          Fm  
+    Fm  
 Just freelove  
   
 Dm                     Bbm  
@@ -56,25 +56,25 @@ And I haven?t been getting anywhere
 Bbm            Cm  
 No I haven?t been getting anywhere  
   
-              Fm  
+    Fm  
 And I?m only here  
-              Bbm  
+    Bbm  
 To bring you freelove  
-               Fm  
+    Fm  
 Let?s make it clear  
-              Bbm  
+    Bbm  
 That this is freelove  
-           Bbm7  
+    Bbm7  
 No hidden catch  
-             Cm7  
+    Cm7  
 No strings attached  
-         Fm  
+    Fm  
 Just freelove  
-          Bbm7  
+    Bbm7  
 No hidden catch  
-              Cm7  
+    Cm7  
 No strings attached  
-        Fm  
+    Fm  
 Just freelove  
   
   
@@ -99,23 +99,23 @@ And we don?t know what we doing here
 Bbm             Cm  
 No we we don?t know what we doing here  
   
-               Fm  
+    Fm  
 We?re only here  
-                 Bbm  
+    Bbm  
 Sharing our freelove  
-               Fm  
+    Fm  
 Let?s make it clear  
-                Bbm  
+    Bbm  
 That this is freelove  
-           Bbm7  
+    Bbm7  
 No hidden catch  
-              Cm7  
+    Cm7  
 No strings attached  
-         Fm  
+    Fm  
 Just freelove  
-          Bbm7  
+    Bbm7  
 No hidden catch  
-            Cm7  
+    Cm7  
 No strings attached  
-        Fm  
+    Fm  
 Just freelove

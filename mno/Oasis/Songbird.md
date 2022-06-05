@@ -9,22 +9,22 @@ Heathen Chemistry (2002)
   
   ***G***  
 VERSE-1: Talkin to the songbird yesterday  
-                         ***G/F#   Em***  
+    ***G/F#   Em***  
   Flew me to a place not far away  
   She's a little pilot in my mind  
-                          ***G/F#    G***  
+    ***G/F#    G***  
   Singin songs of love to pass the time  
   Gonna write a song so she can see  
-                               ***G/F#   Em***  
+    ***G/F#   Em***  
   Give her all the love she gives to me  
   Talk of better days that have yet to come  
-                         ***G/F#   G***  
+    ***G/F#   G***  
   Never felt this love from anyone  
   
 CHORUS:  She's not anyone  
-                ***Em***  
+    ***Em***  
   She's not anyone  
-                  ***G/F#***  
+    ***G/F#***  
   She's not anyone  
   
 VERSE-2: A man can never dream these kind of things  

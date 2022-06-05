@@ -11,7 +11,7 @@ HEATHEN CHEMISTRY (2002)
   ***G***  
 VERSE-1: Show me who you are  
   I'll show you what you love  
-        ***C                                 G***  
+    ***C                                 G***  
   I'll give you half the world if that's enough  
   
 VERSE-2: Let me take you down  
@@ -22,7 +22,7 @@ VERSE-2: Let me take you down
 CHORUS:  In the end we'll leave it all behind  
     ***D                C                    Am***  
   Because the love I think I'm tryin' to find  
-                            ***G***  
+    ***G***  
   It's probobly all in the mind  
   
 VERSE-2: Show me who you are  

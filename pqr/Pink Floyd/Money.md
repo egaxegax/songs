@@ -39,9 +39,9 @@ I'm all right Jack keep your hands off of my stack.
 Money, it's a hit.  
 Don't give me that do goody good bullshit.  
   
-          F#m7                                 Em  
+    F#m7                                 Em  
 I'm in the high-fidelity first class travelling set  
-                        Bm7  
+    Bm7  
 And I think I need a Lear jet.  
   
 SAX SOLO  
@@ -57,5 +57,5 @@ Is the root of all evil today.
   
 F#m7                                  Em  
 But if you ask for a raise it's no surprise that they're  
-            Bm  
+    Bm  
 giving none away.

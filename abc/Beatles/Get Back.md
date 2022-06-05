@@ -13,7 +13,7 @@ Intro:  the intro shows the flavor of the rhythm guitar
   -|--X--0--X--2--X--2--X--2--X--2--X--2--X--2--X--2----  
   -|----------------------------------------------------]  
   
-                                   ***G/A D/A A***  
+    ***G/A D/A A***  
   [-|--------------------------5--5--3---2--0-------------  
   -|--------------------------2--2--0---3--2-------------  
   -|--X--2--X--2--X--2--X--2--2--2--0---2--2-------------  
@@ -59,16 +59,16 @@ Verse:  the remainder of the tab is for the lead guitar
   -|--------------------------------------------------------------------]  
      For some Cali fornia grass                                Get back  
   
-       ***A***  
+    ***A***  
   [-|---------------9--9--9--9--9---------------9--9--9--9--9--------  
   -|---------------8--8--8--8--8---------------8--8--8--8--8--------  
   -|---------------9--9--9--9--9---------------9--9--9--9--9--------  
   -|------------7---------------------------7-----------------------  
   -|------7--9------------------------7--9--------------------------  
   -|--/9--------------------------/9--------------------------------]  
-                            Get Back                   Get Back  
+    Get Back                   Get Back  
   
-       ***D7                         A           G/A    D/A   A***  
+    ***D7                         A           G/A    D/A   A***  
   [-|---------------8--8--8--8--8---------------9--9--9--9--9--------  
   -|---------------7--7--7--7--7---------------8--8--8--8--8--------  
   -|---------------7--7--7--7--7---------------9--9--9--9--9--------  
@@ -77,16 +77,16 @@ Verse:  the remainder of the tab is for the lead guitar
   -|--/9--------------------------/9--------------------------------]  
      to where you once   be long                      Get  back  
   
-       ***A***  
+    ***A***  
   [-|---------------9--9--9--9--9---------------9--9--9--9--9--------  
   -|---------------8--8--8--8--8---------------8--8--8--8--8--------  
   -|---------------9--9--9--9--9---------------9--9--9--9--9--------  
   -|------------7---------------------------7-----------------------  
   -|------7--9------------------------7--9--------------------------  
   -|--/9--------------------------/9--------------------------------]  
-                            Get Back                   Get Back  
+    Get Back                   Get Back  
   
-       ***D7                         A***  
+    ***D7                         A***  
   [-|---------------8--8--8--8--8---------------9--9--9--9--9--------  
   -|---------------7--7--7--7--7---------------8--8--8--8--8--------  
   -|---------------7--7--7--7--7---------------9--9--9--9--9--------  
@@ -111,7 +111,7 @@ Guitar Lead:      ***A***
   -|--9------------------------------------------------------------  
   -|---------------------------------------------------------------]  
   
-       ***A***  
+    ***A***  
   [-|--------------------------------12------------------------------  
   -|-------10--10--10--12--12b(14)------b(14)12--10------10---------  
   -|--/11--------------------------------------------11-------------  
@@ -136,17 +136,17 @@ Guitar Lead:      ***A***
   *[---5/7---]  play fret five, slide up to fret seven*  
   *[---7\5---]  play fret seven, slide down to fret five*  
   *[--8b(9)--]  play fret eight, bend the string (at fret eight) to reach*  
-             *the pitch of fret nine*  
+    *the pitch of fret nine*  
   *[--b(9)8--]  play fret eight already bent to the pitch of fret nine,*  
-             *unbending until it reaches the normal pitch of fret eight*  
+    *unbending until it reaches the normal pitch of fret eight*  
   *[---/7----]  slide up to fret 7 (the starting fret of the slide is*  
-             *undefined, judge by ear)*  
+    *undefined, judge by ear)*  
   *[---15\---]  play fret 15, slide down (the ending fret of the slide is*  
-             *undefined, judge by ear)*  
+    *undefined, judge by ear)*  
   *[---1h3---]  play fret one and hammer-on to fret three*  
   *[---7p5---]  play fret seven and pull-off to fret five*  
   *[-7b(9)r7-]  play fret seven, bend up to fret nine, release back to fret*  
-             *seven*  
+    *seven*  
   *[--5h7p5--]  play fret five, hammer on to fret seven, pull off to fret five*  
   *[--X------]  pick string, but do not press string to fret; left hand mute*  
   
@@ -160,7 +160,7 @@ Guitar Lead:      ***A***
   D-2-2-2-2-0---2---|-----------------|-----------------|-2-2-4-4-2-2-4-4-|  
   A-2-2-2-2-----0---|-2-2-4-4-2-2-4-4-|-2-2-4-4-2-2-4-4-|-0-0-0-0-0-0-0-0-|  
   E-0-0-0-0---------|-0-0-0-0-0-0-0-0-|-0-0-0-0-0-0-0-0-|-----------------|]  
-                      *Here we start singning.........*  
+    *Here we start singning.........*  
   
   [e-----------------|  
   B---------3-------|  
@@ -168,7 +168,7 @@ Guitar Lead:      ***A***
   D---------0---2---|  
   A-2-2-4-4-----0---|  
   E-0-0-0-0---------|]  
-            *^ these are only done the 2nd verse I think.. (listen to the record..)*  
+    *^ these are only done the 2nd verse I think.. (listen to the record..)*  
   
   *All this goes twice, and then we have:*  
   

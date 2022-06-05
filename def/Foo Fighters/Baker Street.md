@@ -38,16 +38,16 @@ Intro:  [G-|-4b-4b-2-0---3-0---------
   D-|-----------3-----1-3-0-]  
   
 Solo 1:  (with power chords - should be strummed by guitar 2 during solo)  
-                    ***D***  
+    ***D***  
   [e-|----13-12-10---10h12p10-  
   B-|-10---------13h---------  
-                    ***D***  
+    ***D***  
   e-|----13-12-10------------  
   B-|-10---------13h-10------  
-                  ***C      A***  
+    ***C      A***  
   e-|----13-12-10------------  
   B-|-10---------13h-13-10---  
-                    G  
+    G  
   e-|----13-12-10---10h12p10------  
   B-|-10---------13h----------8-6-]  
   
@@ -55,7 +55,7 @@ Solo 1:  (with power chords - should be strummed by guitar
   Winding your way down on Baker Street  
   ***A***  
   Light in your head, and dead on your feet  
-       ***Em                     G***  
+    ***Em                     G***  
   Well another crazy day, you drink the night away  
       ***D***  
   And forget about everything  
@@ -63,9 +63,9 @@ Solo 1:  (with power chords - should be strummed by guitar
   This city's dance makes you feel so cold, it's got  
   ***A***  
   So many people but its got no soul  
-          ***Em                   G***  
+    ***Em                   G***  
   And its taken you so long to find out you were wrong  
-           D  
+    D  
   When you thought it held everything.  
   ***Dm                            Am***  
   You used to think that it was so easy  
@@ -84,9 +84,9 @@ Solo 1:  (with power chords - should be strummed by guitar
   Way down the street there's a light in his place  
   ***A***  
   You open the door, he's got that look on his face  
-         ***Em                               G***  
+    ***Em                               G***  
   And he asks you where you've been, you tell him who you've seen  
-          ***D***  
+    ***D***  
   And you talk about everything  
   ***A***  
   He's got this dream about buying some land  
@@ -114,12 +114,12 @@ Solo 1:  (with power chords - should be strummed by guitar
 Final Solo: (Solo 1's chords strummed whilst playing this)  
   [e-|-20-20-20-20\22-17-17-15-13-17b-15-13\10--  
   B-|------------------------------------------  
-                          |  (x10)  
+    |  (x10)  
   e-|-10b~~~~~~~-13-15-17-|--17b-  
   B-|---------------------|------  
   e-|-20-20-20-20\22-10b-10-8-----------------------  
   B-|-------------------------10-8--10-8------------  
   G-|------------------------------------10-7-------  
   D-|-----------------------------------------10\12-  
-            (x12)  
+    (x12)  
   e-|-17-|--17b]

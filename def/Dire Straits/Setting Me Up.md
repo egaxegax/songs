@@ -5,11 +5,11 @@ Setting Me Up
   
   ***A***  
   You say I'm the greatest bound for glory  
-        ***E  D***  
+    ***E  D***  
   Well the word is out and I learned  
   ***A***  
   I got the latest side of the story  
-          ***G          D              A***  
+    ***G          D              A***  
   You're pulling out before you get burned  
   Well your hands are squeezing me down to the bone  
   I never saw you breaking no law  
@@ -17,13 +17,13 @@ Setting Me Up
   What you take me for  
    ***A                      D***  
   You're setting me up to put me down  
-          ***E                        A***  
+    ***E                        A***  
   You're making me out to be your clown  
-             ***A                        D***  
+    ***A                        D***  
   You're just setting me up to put me down  
-              ***E***  
+    ***E***  
   You better give it up  
-                          ***A***  
+    ***A***  
   Quit your messing around  
   You think I care about your reaction  
   You think I don't understand  

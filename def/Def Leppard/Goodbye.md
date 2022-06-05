@@ -15,9 +15,9 @@ Cause when you feel this strong and you can't go on
 There's nothing wrong, just try to realize  
   
 CHORUS: ***D, A, G***  
-        ***D, A, Bm, G***  
-        ***D, A, Bm, C***  
-        ***D, A, G***  
+    ***D, A, Bm, G***  
+    ***D, A, Bm, C***  
+    ***D, A, G***  
   
 You won't ever have to say goodbye  
 You won't ever have to say "I've wasted all my time"  
@@ -39,9 +39,9 @@ Cause when the love is strong the feeling's never gone
 There's nothing wrong in trying to realize  
   
 CHORUS: ***D, A, G***  
-        ***D, A, Bm, G***  
-        ***D, A, Bm, C***  
-        ***D, A, G***  
+    ***D, A, Bm, G***  
+    ***D, A, Bm, C***  
+    ***D, A, G***  
   
 You won't ever have to say goodbye  
 You won't ever have to say "I've wasted all my time"  
@@ -55,9 +55,9 @@ Cause when your feeling's strong and you can't go on
 There's nothing wrong, just try to realize  
   
 CHORUS: ***D, A, G***  
-        ***D, A, Bm, G***  
-        ***D, A, Bm, C***  
-        ***D, A, G***  
+    ***D, A, Bm, G***  
+    ***D, A, Bm, C***  
+    ***D, A, G***  
   
 You won't ever have to say goodbye  
 You won't ever have to say "I've wasted all my time"  

@@ -3,12 +3,12 @@ Rasputin
   
   *Intro: (***Hm A G F#m***) x 2, (***Hm F#m***) x 2, ***Hm Em F#7 Hm****  
   
-        ***Hm***  
+    ***Hm***  
   There lived a certain man  
   In Russia long ago  
-         ***Em***  
+    ***Em***  
   He was big and strong,  
-        ***F#7              Hm***  
+    ***F#7              Hm***  
   In his eyes a flaming glow.  
   
   Most people looked at him  
@@ -30,7 +30,7 @@ Rasputin
   Ra-Ra-Rasputin,  
   ***E            H             A***  
   Lover of the Russian queen,  
-              ***E         H***  
+    ***E         H***  
   There was a cat that really was gone.  
   Ra-Ra-Rasputin,  
   Russia's greatest love machine,  

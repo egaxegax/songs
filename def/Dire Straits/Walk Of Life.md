@@ -12,9 +12,9 @@ Walk Of Life
   Dedication, devotion   Turning all the night time into the day  
   ***E                                     B***  
   He do the song about the sweet lovin' woman  
-            ***E                     A***  
+    ***E                     A***  
   He do the song about the knife  
-            ***E7   B                  A         B                   E    A  B  A B***  
+    ***E7   B                  A         B                   E    A  B  A B***  
   He do the walk, he do the walk of life. Yeah, he do the walk of life  
   ***E***  
   Here comes Johnny and he'll tell you the story  
@@ -31,9 +31,9 @@ Walk Of Life
   Turning all the night time into the day  
   ***E                                     B***  
   He do the song about the sweet lovin' woman  
-            ***E***  
+    ***E***  
   He do the song about the knife  
-            ***E7  B                   A      B                       E  A B A B***  
+    ***E7  B                   A      B                       E  A B A B***  
   He do the walk, he do the walk of life.  Yeah, he do the walk of life  
   ***E***  
   Here comes Johnny singing oldies, goldies  Be-Bop-A-Lula, Baby What I Say  
@@ -49,7 +49,7 @@ Walk Of Life
   Turning all the night time into the day  
   ***E                              B***  
   And after all the violence and double talk  
-                 ***E                               A***  
+    ***E                               A***  
   There's just a song in all the trouble and the strife  
-             ***E7  B                    A        B                     E  A B A B***  
+    ***E7  B                    A        B                     E  A B A B***  
   You do the walk, you do the walk of life. Yeah, you do the walk of life

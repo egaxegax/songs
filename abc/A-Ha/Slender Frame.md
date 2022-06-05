@@ -15,13 +15,13 @@ Slender Frame (3:42)
   There's many roads to lave by  
   ***G                F#m***  
   But few come back again  
-                  ***Hm A-G***  
+    ***Hm A-G***  
   I don't believe it  
-              ***Hm A-G***  
+    ***Hm A-G***  
   I believe it  
   ***A*           G****  
   Take a look around and see  
-          ***F#m*           G***  
+    ***F#m*           G***  
   What's stopping you is stopping me  
       ***A*                       Hm****  
   One moonless night and we'll make it right  
@@ -33,7 +33,7 @@ Slender Frame (3:42)
   Run down the road, don't take it slow  
   ***Hm                  G             Hm   G***  
   Pack up your things today and run away  
-            ***Hm***  
+    ***Hm***  
   Yeah, run away  
   You say it's useless crying  
   Never got you far  

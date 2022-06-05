@@ -16,7 +16,7 @@ album "Between the Breaks...Live!"
   Do we discover living, or, somehow, are we told?  
   ***A                                 A#dim***  
   In sudden pain, in empty cold, in blinding light of day  
-        ***Bm                  Bm/A***  
+    ***Bm                  Bm/A***  
   We're given breath and it takes our breath away.  
   How cruel to unformed fancy, the way in which we come -  
   Over-whelmed by feeling and sudden loss of love  
@@ -62,17 +62,17 @@ album "Between the Breaks...Live!"
   ....... or, somehow, are____ we told______  
      ***A               *              A#dim             ****  
   In sudden pain, in empty cold, in blinding light of day  
-        ***Bm                  *         A        G      ****  
+    ***Bm                  *         A        G      ****  
   We're given breath and it takes our breath a-way  
   How cruel to unformed fancy/The way in which we come  
   Over-whelmed by feeling/And sudden loss of love  
   And what price dark confining pain, the hardest to forgive  
-       ***Bm                *      A    G          G/F#   Em   *   A   ****  
+    ***Bm                *      A    G          G/F#   Em   *   A   ****  
   When all at once we're called upon . to live  
   (Then) by giant hand we're taken/From the shelter of the womb  
   That dreaded first horizon/The endless empty room  
   Where communion is lost forever, when a heart first beats alone  
-         ***Bm               *      A        G  G/F#   Em   A7***  
+    ***Bm               *      A        G  G/F#   Em   A7***  
   Still, it remembers, no matter how it's grown____________  
      ***D     *         Dsus4   D***  
   We grow____,  but  grow  a-part  
@@ -80,7 +80,7 @@ album "Between the Breaks...Live!"
   We live____,  but  more   alone  
       ***Em              *            C***  
   The more to be, the more to see____  
-                    *******  
+    *******  
   To cry aloud that we are free  
      ***Bb6              *          *           A  ****  
   To hide our ancient fear(s) of being alone______  

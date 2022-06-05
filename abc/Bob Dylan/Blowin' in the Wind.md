@@ -3,9 +3,9 @@ G   c           D          G
 How many roads must a man walk down  
       C         G  
 Before you call him a man?  
-             C        D            G  
+    C        D            G  
 Yes, `n` how many seas must a white dove sail  
-               C    D  
+    C    D  
 Before she sleeps in the sand?  
 G      C             D  G  
 Yes, `n` how many times must the cannon balls fly  

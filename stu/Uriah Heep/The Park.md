@@ -2,13 +2,13 @@
 The Park  
   *(Hensley)*  
   
-          ***Dm***  
+    ***Dm***  
 verse:  Let me walk a while alone  
-            ***Em                 Dm***  
+    ***Em                 Dm***  
   Among the sacred rocks and stones  
   
   Let me look in vain belief  
-            ***Em             Dm***  
+    ***Em             Dm***  
   Upon the beauty of each leaf  
   
   ***F-C/E|Dm - - C|Dm - F-C/E|Dm - C|Dm..***  
@@ -37,12 +37,12 @@ verse:  Above, the sky, devoid of cloud
   Ah-ah-ah Ah-ah-ah Ah-ah-ah Ah-ah-ah  
   *(solo - can be added here later on request)*  
   
-             ***Dm***  
+    ***Dm***  
 verse:  So why my heavy heart you say  
-                     ***Em               Dm***  
+    ***Em               Dm***  
   When tears would stain, a sight so gay  
   My brother's dream once here did soar  
-            ***Em          Am               Dm***  
+    ***Em          Am               Dm***  
   Until he died at the hand of needless war  
   
   ***Dm-Em-F  F - G-Am Am- G- F F -Em-Dm***  

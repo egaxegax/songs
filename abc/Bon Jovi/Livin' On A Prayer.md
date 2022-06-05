@@ -14,11 +14,11 @@ Gina work the dinner all day, Working for her man. She bri
     ***C     D        Em***  
 For love,     for love.  
   
-               ***C           D          Em***  
+    ***C           D          Em***  
 She says we've got to hold   on to   what we've got.  
   ***C                 D                 Em***  
 It doesn't make a difference if we make it or not.  
-       ***C        D         Em                C***  
+    ***C        D         Em                C***  
 We've got each other and that's a lot, for love.  
       ***D***  
 We'll give it a shot.  
@@ -37,14 +37,14 @@ what he used to make it talk
 So tough,      it's so tough.  
  ***Em***  
 Gina dreams of running away, when she cries in the night, Tommy whispers:  
-       ***C     D        Em***  
+    ***C     D        Em***  
 Baby its okey,       some day.  
   
-        ***C     D        Em***  
+    ***C     D        Em***  
 We've got to hold   on to   what we've got.  
   ***C              D                Em***  
 It doesn't make a difference if we make it or not.  
-       ***C        D         Em                C***  
+    ***C        D         Em                C***  
 We've got each other and that's a lot, for love.  
       ***D***  
 We'll give it a shot.  

@@ -37,7 +37,7 @@ Hail & Kill
   With Nothing  To Atone  
     ***Em                           D***  
   A Dark March Lies Ahead And Together We Will Ride  
-         ***G  D   Em   D   C***  
+    ***G  D   Em   D   C***  
   Like Thunder From The Sky  
    ***Em                             D***  
   May Your Sword Stay Wet Like A Young Girl In Her Prime  
@@ -54,34 +54,34 @@ Hail & Kill
   Hear Me While I Live Now As I Look Into Your Eyes  
    ***G5   D5   Em5  D5 C5***  
   None Shall Hear A Lie  
-       ***Em5                    D5***  
+    ***Em5                    D5***  
   Now Power And Dominion Are Taken By The Will  
-       ***G5    D5   Em5  D5   C5***  
+    ***G5    D5   Em5  D5   C5***  
   By Divine Right Hail And Kill  
   
 Chorus:                ***Em      D      C      Em***  
   4|------------2---2---0---0--5---5--2-|  
   5|----------0-2/3-2---0/2-0--3---3--2-|  
   6|-0--0-2-3------------------3/5-3--0-|  
-                                     Hail Hail Hail And Kill  
+    Hail Hail Hail And Kill  
   
     ***Em      D      C     Em***  
   4|-2---2--0---0--5---5-2-|  
   5|-2/3-2--0/2-0--3---3-2-|  
   6|---------------3/5-3-0-|  
-                        Hail And Kill  
+    Hail And Kill  
   
      ***C D  Em     D      C     Em***  
   4|-5-7--2---2--0---0--5---5-2-|  
   5|-3-5--2/3-2--0/2-0--3---3-2-|  
   6|-3-5----------------3/5-3-0-|  
-                             Hail Hail Hail And Kill  
+    Hail Hail Hail And Kill  
   
     ***Em      D      C    Em***  
   4|-2---2--0---0--5---5-2-|  
   5|-2/3-2--0/2-0--3---3-2-|  
   6|---------------3/5-3-0-|  
-                        Hail And Kill  
+    Hail And Kill  
   
   My Father Was A Wolf I.m A Kinsman Of The Slain  
   Sworn To Rise Again  

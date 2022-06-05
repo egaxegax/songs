@@ -14,15 +14,15 @@ G
 You burned my heart  
  C   D  
 With a flickering torch  
-        Bm    C  
+    Bm    C  
 I had a dream that no one else could see  
-            Am       D    C    D    C  
+    Am       D    C    D    C  
 You gave me love for free  
   
 chorus  
 D  
 Candy Candy Candy  
-         C    Bm7 Am   G  
+    C    Bm7 Am   G  
 I can't let you go  
   
 All my life you're haunting me  

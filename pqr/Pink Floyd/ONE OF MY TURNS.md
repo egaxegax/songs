@@ -1,7 +1,7 @@
 <!--2020-09-05 04:49:00-->
 C              Em  
 Day after day, love turns grey  
-        F                   C  
+    F                   C  
 Like the skin of a dying man  
 C                            Em  
 And night after night, we pretend it's all right  
@@ -26,7 +26,7 @@ Run to the bedroom, in the suitcase on the left
 You'll find my favourite axe  
 Bb  
 Don't look so frightened  
-       Eb                   Bb  
+    Eb                   Bb  
 This is just a passing phase  
       Dm  
 One of my bad days  
@@ -34,19 +34,19 @@ Bb        Eb              Bb
 Would you like to watch T.V.?  
    Eb                    Bb  
 Or get between the sheets?  
-        Dm  
+    Dm  
 Or contemplate the silent freeway?  
 Dm  
 Would you like something to eat?  
-         Eb  
+    Eb  
 Would you like to learn to fly?  Would you?  
-         Dm  
+    Dm  
 Would you like to see me try?  
   
 D       G   C   Eb   Bb   Eb   Bb   Dm     Eb   Bb   Eb   Bb   Dm  
   
 Am7  Dm7  C           Eb  
-           Would you like to call the cops?  
+    Would you like to call the cops?  
 Eb  
 Do you think it's time I stopped?  
 Gm(9)  

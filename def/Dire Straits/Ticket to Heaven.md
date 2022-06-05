@@ -30,7 +30,7 @@ Intro:  ***D  Bm  G  A*** } twice
   
   ***D***  
   Now there's nothing left for luxuries nothing left to pay my  
-            ***A***  
+    ***A***  
   heating bills  
   ***G                           A    G           D***  
   but the good lord will provide    I know he will  

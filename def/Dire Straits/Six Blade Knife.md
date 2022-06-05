@@ -41,11 +41,11 @@ Six Blade Knife
   Yeah, six blade knife, (it) do anything for you  
   ***Dm            C                 (G) G***  
   I want to be free from it now    mm mm  
-          ***D***  
+    ***D***  
   I dont want it no more  
   ***Dm            C           G***  
   I want to be free from it now  
-          ***D***  
+    ***D***  
   mm mm I dont want it no more  
   
 solo:  ***Am/C/D*** } repeat like verse  

@@ -6,11 +6,11 @@ Polythene Pam
   
   ***E                D   A         E***  
   Well, you should see Polythene Pam  
-                 ***D              A            E***  
+    ***D              A            E***  
   She's so good looking but she looks like a man  
-                     ***G                             B***  
+    ***G                             B***  
   Well, you should see her in drag, dressed in her polythene bag  
-                  ***C   D         E***  
+    ***C   D         E***  
   Yes, you should see Polythene Pam.  
   ***C     D     E***  
   Yeah, yeah, yeah  
@@ -35,7 +35,7 @@ Polythene Pam
   protected by a silver spoon  
   ***A           F#m                 D***  
   But now she sucks her thumb and wonders  
-         ***D7                      A***  
+    ***D7                      A***  
   by the banks of her own lagoon  
   
   ***(A)                Dm***  

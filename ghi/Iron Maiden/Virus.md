@@ -111,8 +111,8 @@
   E-----------------------------------|------------------|]  
   
   *Chorus:*  
-           All in your mind    All in your head  
-           All in your mind    All in your head  
+    All in your mind    All in your head  
+    All in your mind    All in your head  
   [E-------------------------|--------------------|  
   B-------------------------|--------------------|  
   G-------------------------|--------------------|  

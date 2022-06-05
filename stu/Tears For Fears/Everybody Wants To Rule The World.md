@@ -9,14 +9,14 @@ Songs From The Big Chair (1985)
   *this one.*  
   
 Intro:  4 times |***A/D G/D***- -| |  
-           ***A/D G/D***  
+    ***A/D G/D***  
   *(Keith suggests tuning the E bass string down to a 'D' to get the bass*  
   *rhythm to the song)*  
   *(I like to use ([xx022x]) for ***A/D*** and ([xx000x]) for ***G/D***)*  
   
-                     ***A/D G/D                     A/D G/D***  
+    ***A/D G/D                     A/D G/D***  
   Welcome to your life,      there's no turning back,  
-                     ***A/D G/D***  
+    ***A/D G/D***  
   Even while we sleep,        we will find you  
   ***Em             F#m***  
   Acting on your best behavior  
@@ -32,11 +32,11 @@ Intro:  4 times |***A/D G/D***- -| |
   ***Em   F#m   G       A        G***  
   Everybody wants to rule the world  
   
-                           ***D           A***  
+    ***D           A***  
   There's a room where the light won't find you  
   ***G                        D         A        G***  
   Holding hands while the walls come tumbling down  
-                         ***D      A***  
+    ***D      A***  
   When they do, I'll be right behind you  
   
   ***Em            F#m***  

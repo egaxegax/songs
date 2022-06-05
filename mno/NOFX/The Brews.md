@@ -14,11 +14,11 @@
   As long as we're home by saturday mornin'  
   ***B          E***  
   'cause hey we're the brews  
-              ***F#              B***  
+    ***F#              B***  
   Sportin' anti swastika tattoos  
-        ***E***  
+    ***E***  
   Oi oi we're the boys  
-               ***F#         B***  
+    ***F#         B***  
   Orthodox, hesidic, O.G.OIS  
   
   ***B  F#  E  D#  F#***  
@@ -36,22 +36,22 @@
   We can't lose a fight as we are the chosen ones  
   Chutspam, we battle then we feast  
   We celebrate, we'll separate our milkplates  
-           ***D***  
+    ***D***  
   From our meat  
   ***G***  
   We're the brews  
-              ***A                D***  
+    ***A                D***  
   Sportin' anti swastika tattoos  
-        ***G***  
+    ***G***  
   Oi oi we're the boys  
-                  ***A                    D***  
+    ***A                    D***  
   The fairfax ghetto boys skinheaded jews  
   (Yells, scream, cry and all the kind of noise you can think of)  
   ***G***  
   We're the brews  
-              ***A                D***  
+    ***A                D***  
   Sportin' anti swastika tattoos  
-        ***G***  
+    ***G***  
   Oi oi we're the boys  
-               ***A          D***  
+    ***A          D***  
   Orthodox, hesidic, O.G.OIS

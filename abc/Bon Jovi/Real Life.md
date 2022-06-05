@@ -79,7 +79,7 @@ And no one wrote me new lines for what I said wrong
 This is real life, this is real love  
 This is real pain, that much I'm sure of  
 These are real tears, these are real fears inside that  
-                                                  I can't hide  
+    I can't hide  
   
  [Rhythm Fig. 1]  
 I wish that I could be a white knight in armor  
@@ -95,7 +95,7 @@ When the orchestra plays and you come back to me
 This is real life, this is real love  
 This is real pain that much I'm sure of  
 These are real tears, these are real fears inside that  
-                                                  I can't hide  
+    I can't hide  
 This is real life, this is real love  
 These are real wounds that I'm bleeding from  
 And I realize this is real  
@@ -108,7 +108,7 @@ God knows that I'd never dream in the end it would fail
 'Cause this is real life, this is real love  
 This is real pain that much I'm sure of  
 These are real tears, these are real fears  
-                                      inside that I can't hide  
+    inside that I can't hide  
 This is real life, this is real love  
 These are real wounds that I'm bleeding from  
 And I realize this is real  

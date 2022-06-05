@@ -19,13 +19,13 @@ New Kid On the Block
   You can wear my clothes  
   ***Em      C                  Em                  C***  
   You can see my name its as plain as the face under your nose  
-        ***G   Am         F***  
+    ***G   Am         F***  
   I'm a new kid on the block  
   ***G                   Am             F***  
   Well I may not be Johann Sebastian Bach  
-         ***G       Am                 F***  
+    ***G       Am                 F***  
   And we may not write the songs we sing  
-              ***G                 Am                       F***  
+    ***G                 Am                       F***  
   But look at Elvis he sold his soul and you crowned him king  
   
   *Listen to the song to see how these progressions fit into the structure,*  

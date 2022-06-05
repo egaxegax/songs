@@ -4,29 +4,29 @@ Time (1981)
   
   ***C                          D***  
   The visions dancing in my mind  
-                                 ***F***  
+    ***F***  
   The early dawn, the shades of time  
-                                ***C***  
+    ***C***  
   Twilight crawling through my windowpane  
   
   Am I awake or do I dream?  
   The strangest pictures I have seen  
   Night is day and twilight's gone away  
   
-             ***F                        G***  
+    ***F                        G***  
   With your head held high and your scarlet lies  
-            ***C                  F***  
+    ***C                  F***  
   You came down to me from the open skies  
-       ***G               F***  
+    ***G               F***  
   It's either real or it's a dream  
-           ***Em             G***  
+    ***Em             G***  
   There's nothing that is in between...  
   
     ***C     Am        F               Fm***  
 Chorus:  Twilight, I only meant to stay awhile  
     ***C     Am           F                Fm***  
   Twilight, I gave you time to steal my mind  
-             ***C   (Fm C Fm)***  
+    ***C   (Fm C Fm)***  
   Away from me.  
   
   Across the night I saw your face  
@@ -39,15 +39,15 @@ Chorus:  Twilight, I only meant to stay awhile
   
 Solo:  ***C Am Em F***  
   
-       ***G              F***  
+    ***G              F***  
   It's either real or it's a dream  
-           ***Em             G***  
+    ***Em             G***  
   There's nothing that is in between..  
     ***C Am      F Fm      C Am***  
   Twilight, Twilight, Twilight,  
-              ***F               Fm***  
+    ***F               Fm***  
   I gave you time to steal my mind  
-             ***C***  
+    ***C***  
   Away from me.  
    ***Am                Em                F             G***  
   You brought me here, but can you take me back again?  

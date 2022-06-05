@@ -5,7 +5,7 @@
   
   ***Am          C        G D***  
   I'm better red than dead,  
-              ***C         D    C   Am***  
+    ***C         D    C   Am***  
   I'm better red, red, red than dead,  
   
   I better eat my brain for breakfast,  
@@ -14,7 +14,7 @@
   I can not live, I can not die,  
   I'm so confused - I'm forced to lie!  
   
-           ***C       G      D***  
+    ***C       G      D***  
   Gotta a fucking reason now,  
   Gotta fucking reason, gotta fucking reason  
   
@@ -26,7 +26,7 @@
   MOA - they're all insane!  
   ***Am C     D***  
   MOA - militia on acid, militia on acid, militia on acid -  
-                ***Am***  
+    ***Am***  
   We are all insane!  
   
   I'm not a mouse, I'm not a man,  
@@ -49,11 +49,11 @@
   
   ***C           G            Am***  
   They know that I've got Lenins and Hitlers dicks in my arse,  
-         ***C                  G                Am***  
+    ***C                  G                Am***  
   They know that I'm sick, dead or red, that I need injections and not their sticks,  
       ***C               G                 E***  
   I know their hopes: I'm the man and they've got my dope,  
-         ***Am               C                              D***  
+    ***Am               C                              D***  
   Well, FUCK YOU COP, I know what you want, I know your men-ta-li-ty!!!  
   
   Whatcha gonna do when the gang is wearing blue?  

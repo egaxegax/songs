@@ -11,11 +11,11 @@
   Да, и вот ещё что - все мужики, все, кто сидел там внизу, все, с кем я  
   разговаривал, все они там из-за женщины...  
   
-           ***Dm***  
+    ***Dm***  
   Falling James in the Tahoe mud  
-                                   ***A***  
+    ***A***  
   Stick around to tell us all the tale  
-           ***Dm***  
+    ***Dm***  
   Well he fell in love with a Gun Street girl  
   And now he's dancing in the Birmingham jail  
   Dancing in the Birmingham jail  
@@ -32,7 +32,7 @@
   Now he left for Waukegan at the slamming of the door  
   Left for Waukegan at the slamming of the door  
   
-          ***Dm***  
+    ***Dm***  
   I said John, John, he's long gone  
   Gone to Indiana, ain't never coming home  
   I said John, John, he's long gone  

@@ -26,7 +26,7 @@ Like A Rolling Stone
   Threw the bums a dime in your prime, didn't you  
   ***C                         Dm***  
   People called you, said "Beware doll,  
-         ***Em                  F                    G***  
+    ***Em                  F                    G***  
   You're bound to fall", you thought they were all kidding you  
   ***F          G***  
   You used to laugh about  
@@ -36,19 +36,19 @@ Like A Rolling Stone
   Now you don't talk so loud  
   ***F       Em   Dm       C***  
   Now you don't seem so proud  
-        ***Dm                            F                G***  
+    ***Dm                            F                G***  
   About having to be scrounging around for your next meal  
-                 ***C  F  G***  
+    ***C  F  G***  
   How does it feel,  
-                 ***C  F  G***  
+    ***C  F  G***  
   How does it feel  
-                  ***C  F  G***  
+    ***C  F  G***  
   To be on your own  
-                    ***C  F  G***  
+    ***C  F  G***  
   In no direction home  
-                       ***C  F  G***  
+    ***C  F  G***  
   Like a complete unknown  
-                    ***C  F  G  G7***  
+    ***C  F  G  G7***  
   Like a rolling stone.  
   
   *The chord positions try to capture the phrasing, but you'll really have*  

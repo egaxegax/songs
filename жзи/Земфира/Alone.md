@@ -3,7 +3,7 @@ Alone
   
    ***Am                E***  
   You, you go in now,  
-                ***Am***  
+    ***Am***  
   You brake my on  
    ***Gm***  
   I'm ready some,  

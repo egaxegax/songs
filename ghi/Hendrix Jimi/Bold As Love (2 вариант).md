@@ -231,7 +231,7 @@ F#m D C# D
 her fiery green gown sneers at the grassy ground.  
 A Bm G D  
 Blue are the life-giving waters taken for granted,  
-                                       they quietly understand.  
+    they quietly understand.  
 D A  
 Once happy turquoise armies lay opposite ready,  
 Bm G G#  
@@ -252,10 +252,10 @@ D
 and ribbons of euphoria.  
 A E F#m D C#5 A  
 Orange is young, full of daring, but very unsteady  
-                                        for the first go round.  
+    for the first go round.  
 D A Bm  
 My yellow in this case is not so mellow,  
-                                     in fact I'm trying to say,  
+    in fact I'm trying to say,  
 G D  
 it's frightened like me.  
 A  

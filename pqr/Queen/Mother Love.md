@@ -23,14 +23,14 @@ Verse:  I don't want to sleep with you...
   ***Eb        Cm       F     Bb***  
 Chorus:  I've walked too long in this lonely lane. I've Had enough of this same  
   old  
-        ***Dm         Gm       C***  
+    ***Dm         Gm       C***  
   game. I'm a man of the world and they say I'm strong. But my heart is heavy,  
-         ***D***  
+    ***D***  
   and my hope is gone.  
   ***Eb   Cm       Ebm         ?***  
   Out in the city, in the cold world outside. I don't want pity, just a  
   safe  
-          ***D***  
+    ***D***  
   place to hide. Mama please, let me back inside.  
   
 Riff:    ***Gm***  

@@ -13,22 +13,22 @@ Verse:  Seventen and strung out
   
     ***F#***  
 Chorus 1: I found out what it takes  
-          ***E***  
+    ***E***  
   to be a man  
   ***F#***  
   Mom and Dad will never  
-       ***E***  
+    ***E***  
   understand  
   
     ***F#***  
 Chorus 2: I found out what it takes  
-          ***E***  
+    ***E***  
   to be a man  
   ***F#***  
   Mom and Dad will never  
-       ***E***  
+    ***E***  
   understand  
-                      ***C***  
+    ***C***  
   What's happening to me  
   
   *Song:*  

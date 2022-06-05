@@ -14,21 +14,21 @@
   как ни крути - это половой акт, хотя и необычный. Впрочем это наверное для  
   тех, кто... Не знаю... Любит экшн...  
   
-                  ***C***  
+    ***C***  
   I'll shoot the moon  
-                     ***A7***  
+    ***A7***  
   Right out of the sky  
-        ***Dm***  
+    ***Dm***  
   For you baby  
   I'll be the pennies  
-          ***G***  
+    ***G***  
   On your eyes  
   ***C***  
   For you baby  
   
-             ***C7***  
+    ***C7***  
   I want to take you  
-              ***F***  
+    ***F***  
   Out to the fair  
   ***D7***  
   Here's a red rose  
@@ -37,11 +37,11 @@
   
   ***C***  
   I'll shoot the moon  
-                     ***A7***  
+    ***A7***  
   Right out of the sky  
-        ***Dm***  
+    ***Dm***  
   For you baby  
-                  ***G***  
+    ***G***  
   I'll shoot the moon  
   ***C***  
   For you  

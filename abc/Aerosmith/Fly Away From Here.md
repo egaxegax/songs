@@ -9,28 +9,28 @@ A|--------------------------|
 E|--------------------------|  
   
 1 куплет:  
-             F  
+    F  
 Gotta find a way  
-                    Am  
+    Am  
 Yeah, I can?t wait another day  
-                    Hb  
+    Hb  
 Ain?t nothing gonna change  
       Hbm  
 If we stay ?round here  
-                 F  
+    F  
 Gotta do what it takes  
-           Am  
+    Am  
 Вывод сообщений и переключение режима отображения команд на экране.  
   
   ECHO [ON | OFF]  
   ECHO [сообщение]  
   
 Введите ECHO без параметра для определения текущего значения этой команды.  
-              Hb  
+    Hb  
 We all make mistakes  
-               Hbm  
+    Hbm  
 Yeah, but it?s never too late  
-          Dm  
+    Dm  
 To start again  
 Am            Hb      Hb C Dm  
 Take another breath  
@@ -43,7 +43,7 @@ And say another prayer
 And fly away from here  
 Hb              Hbm  
 Anywhere, yeah, I don?t care  
-              F     Am  
+    F     Am  
 We?ll just fly away from here  
     Hb                    Hbm  
 Our hopes and dreams are out there somewhere  

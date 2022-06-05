@@ -29,9 +29,9 @@ Make All Our Dreams Come True
   Our way, yeah, our way  
   ***Em   Em  Em  C           D***  
   Make all our dreams come true  
-              ***G              Em***  
+    ***G              Em***  
   We'll do it our way, yeah, our way  
   ***Em           C                      D***  
   Make all our dreeeeeeaaaams coooome trueeee  
-             ****C***   (bass line ***C***-***B***-***A***-***G***) ***G****  
+    ****C***   (bass line ***C***-***B***-***A***-***G***) ***G****  
   For me and you

@@ -1,6 +1,6 @@
 <!--2020-09-05 02:22:54-->
 Интро: Am(V) F(VIII) Am(V) F(VIII)  
-        Am(V) F(VIII) Am(V) F(VIII)  
+    Am(V) F(VIII) Am(V) F(VIII)  
   
  Примечание:  
  F(VIII) можно брать и на 3-ем ладу-  
@@ -60,17 +60,17 @@
   
  Am(V)                         F(VIII)  
     As I sat sadly by her side  
-                                     Am(V)  
+    Am(V)  
     At the window, through the glass  
     She stroked a kitten in her lap  
-            F(VIII)                          Am(V)  
+    F(VIII)                          Am(V)  
     And we watched the world as it fell past  
-                                       F(VIII)  
+    F(VIII)  
     Softly she spoke these words to me  
-                                       Am(V)  
+    Am(V)  
     And with brand new eyes, open wide  
     We pressed our faces to the glass  
-       F(I)         G      Am  
+    F(I)         G      Am  
     As I sat sadly by her side  
   
  She said, "Father, mother, sister, brother,  

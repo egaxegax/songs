@@ -6,20 +6,20 @@ Already Gone
 intro:  ***G    D    C***  
   ***G    D    C***  
   
-          ***G                 D                C         Bb***  
+    ***G                 D                C         Bb***  
 verse 1: Well, I heard some people talking just the other day  
-           ***G                   D            C***  
+    ***G                   D            C***  
   And they said you were gonna put me on a shelf  
-                             ***G                 D***  
+    ***G                 D***  
   Well, let me tell you I've got some news for you  
-             ***C***  
+    ***C***  
   And you'll soon find out it's true  
-                  ***G                 D                C***  
+    ***G                 D                C***  
   And then you'll have to eat your lunch all by yourself  
   
-          ***G          D        C             G    D           C***  
+    ***G          D        C             G    D           C***  
 chorus:  Coz I'm al      -     ready gone, and I'm fee--ee--eeling strong  
-         ***G   D                C             G      D          C***  
+    ***G   D                C             G      D          C***  
   I will si--ing this vict'ry song,  woo-oo-oo, my my, woo-oo-oo  
   
 verse2:  The letter that you wrote me made me stop and wonder why  
@@ -38,9 +38,9 @@ verse4:  Well, I know it wasn't you who held me down
 chorus:  Me, I'm already gone, and I'm feeling strong  
   I will sing this vict'ry song, coz I'm already gone  
   
-          ***C          G         F              C  G          F***  
+    ***C          G         F              C  G          F***  
 chorus:  Coz I'm al      -     ready gone, and I'm fee--ee--eeling strong  
-         ***C   G                F              C      G             F***  
+    ***C   G                F              C      G             F***  
   I will si--ing this vict'ry song,  coz I'm al      -     ready gone  
   
 outro:  Yes, I'm already gone, already gone (awright, nighty night)  

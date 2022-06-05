@@ -8,7 +8,7 @@ Radio London (1990)
   They are here again, brought by summer haze.  
   ***F#           F#7              H                 Hm***  
   The world inside of me was split and bored and fighting -  
-       ***F#      D#m          H           C#***  
+    ***F#      D#m          H           C#***  
   But now it stands still, silent and amazed.  
   
   Words will come later,  
@@ -16,7 +16,7 @@ Radio London (1990)
   If blessed are promises given to be broken -  
   How more so You, love, for You're the Love fulfilled.  
   
-         ***F#                        D#m***  
+    ***F#                        D#m***  
   And I can't stop repeating Your Name,  
    ***Hm                        E***  
   Can't stop repeating Your Name;  

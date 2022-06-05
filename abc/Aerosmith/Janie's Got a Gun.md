@@ -15,17 +15,17 @@ Janie's Got a Gun
   Nah, nah, nah.....  
    ***F      Gm7   Csus4   F      Gm7  Csus4***  
   Janie's got a gun,    Janies got a gun  
-       ***F            Gm7   Csus4        F               Gm7     Csus4***  
+    ***F            Gm7   Csus4        F               Gm7     Csus4***  
   Her whole world's come undone, from looking straight at the sun  
   ***F            Bb     C    F          Bb        C***  
   What did her daddy do?  What did he put you through?  
-                 ***Dm(add9)***  
+    ***Dm(add9)***  
   They said when Janie was arrested,  
-       ***Bb(add#11)                 F. F5. Eb5/F. Ab5/F. Eb5/F.  F5***  
+    ***Bb(add#11)                 F. F5. Eb5/F. Ab5/F. Eb5/F.  F5***  
   They found him underneath a train,  
       ***Dm(add9)                        Bb(add#11)***  
   But man he had it coming, now that Janie's got a gun  
-             ***Gm7                   C  F/C C7..***  
+    ***Gm7                   C  F/C C7..***  
   She ain't never gonna be the same  
   Janie's got a gun. Janie's got a gun  
   Her dog day's just begun, Now everybody is on the run  

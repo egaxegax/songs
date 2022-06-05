@@ -8,13 +8,13 @@ The Game 1980
   Open up your mind and let me step inside  
     ***Am                                 Fm***  
   Rest your weary head and let your heart decide  
-         ***C   Am7 Dm              G7***  
+    ***C   Am7 Dm              G7***  
   It's so easy when you know the rules  
-         ***C  Am7 F            Fm***  
+    ***C  Am7 F            Fm***  
   It's so easy all you have to do  
-            ***C***  
+    ***C***  
   Is fall in love  
-           ***G***  
+    ***G***  
   Play the game,  
   ***C                   Gm9       AЬ   BЬ***  
   Everybody play the game of love  
@@ -28,19 +28,19 @@ The Game 1980
   Play the game, everybody play the game of love  
   ***F         BЬ               F***  
   My game of love has just begun  
-                     ***Dm7             G***  
+    ***Dm7             G***  
   Love runs from my head down to my toes  
-             ***C                  Em***  
+    ***C                  Em***  
   My love is pumping through my veins  
      ***C                    Em***  
   Driving me insane  
   ***C     D            Em         C             Gm7        AЬ  BЬ***  
   Come come come play the game play the game play the game  
-            ***C   Am7    Dm                G7***  
+    ***C   Am7    Dm                G7***  
   This is your life - don't play hard to get  
-          ***C     CBЬ F          Fm                  C***  
+    ***C     CBЬ F          Fm                  C***  
   It's a free world all you have to do is fall in love  
-            ***G        C            Gm9        AЬ     BЬ***  
+    ***G        C            Gm9        AЬ     BЬ***  
   Play the game everybody play the game of love...  
   
 -  

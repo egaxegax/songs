@@ -1,18 +1,18 @@
 <!--2020-09-06 05:35:03-->
 Banks of Ohio  
   
-              ***C                               G7                  C***  
+    ***C                               G7                  C***  
   I asked my love, to take a walk, to take a walk, just a little walk.  
-          ***C7                     F                C    G7        C***  
+    ***C7                     F                C    G7        C***  
   Down beside where the waters flow, down by the banks of the Ohio.  
   
-            ***C                   G7***  
+    ***C                   G7***  
   And only say, that you'll be mine.  
-                        ***C***  
+    ***C***  
   In no others arms entwine.  
-          ***C7                     F***  
+    ***C7                     F***  
   Down beside where the waters flow,  
-               ***C    G7        C***  
+    ***C    G7        C***  
   down by the banks of the Ohio.  
   
   I held a knife against her breast, as into my arms she pressed.  

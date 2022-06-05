@@ -27,7 +27,7 @@ Intro:    ***A5***
   |------------------------------------------------------------|  
      Baby let me follow you     down.  Let me take a peak dear.  
   *Right before the solo it goes like this...*  
-        ***D5       C5         D5  E5                     G5***  
+    ***D5       C5         D5  E5                     G5***  
    Baby let me follow you down..  Do me, do me, do me, sue me.  
   *Just follow this for the rest of the song. I think that the solo is in A,*  
   *so just make it up.*

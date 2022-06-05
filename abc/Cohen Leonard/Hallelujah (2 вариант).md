@@ -7,13 +7,13 @@ Baby, I've been here before
 I know this room, I've walked this floor  
   Eb             F              Bb     F  
 I used to live alone before I knew you  
-               Bb  
+    Bb  
 Yeah and I've seen your flag  
-        Eb    F  
+    Eb    F  
 On the marble arch  
-          Gm                               Eb  
+    Gm                               Eb  
 But this love, love is not some kind of a victory march  
-            F                     D7         Gm  
+    F                     D7         Gm  
 No, it's a cold and it's a very broken Hallelujah!  
       Eb          Gm          Eb        Bb F Bb         F  
 Hallelujah, Hallelujah, Hallelujah, Hallelujah, Hallelujah  

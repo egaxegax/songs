@@ -31,7 +31,7 @@ Chattahoochee
   
   ***C***  
 (1)  Way down yonder on the Chattahoochee  
-          ***G    C***  
+    ***G    C***  
   Its get hotter than a Hoochie-Koochie  
   ***C***  
   We laid rubber on the Georgia asphalt  
@@ -48,7 +48,7 @@ Chattahoochee
   
   ***C***  
 Chorus:  Way down yonder on the Chattahoochee  
-           ***G***  
+    ***G***  
   never knew how much that muddy water meant to me  
   ***C***  
   But I learned how to swim and I learned who I was  

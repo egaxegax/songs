@@ -16,10 +16,10 @@ Songs From The Big Chair (1985)
   
   *Verse One:*  
   ***A9   A                     CMaj7     C***  
-           I wanted to be with you alone  
+    I wanted to be with you alone  
   ***A9   A                           CMaj7     C***  
-          And talk about the weather  
-             ***A9             A                       CMaj7                    C***  
+    And talk about the weather  
+    ***A9             A                       CMaj7                    C***  
   But traditions I can trace against the child in your face  
   ***A9             A                      CMaj7           C***  
       Won't escape my attention  
@@ -27,7 +27,7 @@ Songs From The Big Chair (1985)
       You keep your distance with a system of touch  
   ***A9             A                   CMaj7             C***  
       And gentle persuasion  
-       ***A9          A                     CMaj7           C***  
+    ***A9          A                     CMaj7           C***  
   I'm lost in admiration, could I need you this much  
   ***A9                            A                   CMaj7      C***  
   Oh you're wasting my time, you're just,     just, just wasting time  
@@ -35,16 +35,16 @@ Songs From The Big Chair (1985)
   *Chorus:*  
   ***G                                       Em***  
   Something happens and I'm head over heels  
-            ***G                  Em***  
+    ***G                  Em***  
   I never find out 'til I'm head over heels  
   ***G                                      Em***  
   Something happens and I'm head over heels  
-               ***Am/D***  
+    ***Am/D***  
   Ah don't take my heart don't break my heart don't don't don't throw it away  
   ***A9      A       CMaj7     C***  
-                     Throw it away  
+    Throw it away  
   ***A9      A       CMaj7     C***  
-                     Throw it away  
+    Throw it away  
   
   *Verse two (as verse one):*  
   I made a fire and watching it burn  
@@ -60,7 +60,7 @@ Songs From The Big Chair (1985)
   
   *Verse Three (add tab intro throughout):*  
   ***C                               Dsus4***  
-              And this is my      four leaf clover  
+    And this is my      four leaf clover  
   ***C                                                          Dsus4***  
   I'm on the line, one open mind, this is my       four leaf clover  
   ***C                                    Dsus4***  

@@ -13,9 +13,9 @@ Listen to the pretty sound of music as she flies
 Do do do do do do do do do do do  
 D           G           D   Dmaj7  D7  
 do do do do do do do do do  
-                  G     Gm  
+    G     Gm  
 Do do do do do do do do  
-            D  
+    D  
 Yeah yeah yeah  
   
  D      Dsus4            D      Bm             E  
@@ -27,9 +27,9 @@ Swaying daisies sing a lazy song beneath the sun
 Do do do do do do do do do do do  
 D           G           D   Dmaj7  D7  
 do do do do do do do do do  
-                  G     Gm  
+    G     Gm  
 Do do do do do do do do  
-            D  
+    D  
 Yeah yeah yeah  
   
 D  Dsus4  D  Bm  E  A  D  Dm  G  D  
@@ -74,8 +74,8 @@ G|-4---2---1--------------------2--2--2--2-2--2-2-2-2-2-2-2-2--|
 D|------------------------------0--0--0--0-0--0-0-0-0-0-0-0-0--|  
 A|-------------------------------------------------------------|  
 E|-------------0-----------------------------------------------|  
-               (let ring, then  
-              slap guitar a bit)  
+    (let ring, then  
+    slap guitar a bit)  
   
  D      G/D               D    Bm      D  E9  (hit low E string)  
 Born a poor young country boy  Mother Nature`s son  
@@ -88,7 +88,7 @@ Sit beside a mountain stream  See her waters rise
  A  D/A A D/A   A     D/A       A   D/A      D   Dm  G/D  D  
 Listen to the pretty sound of music as she flies  
   
-             G/D          D  
+    G/D          D  
 Do do do do, do-yoo do do do  
 D            G/D          D  Dmaj7  D7  
 do do do do, do-yoo do do do  
@@ -98,11 +98,11 @@ N
 Find me in my field of grass  Mother Nature`s son  (riff)  
 Swaying daisies sing a lazy song beneath the sun  
   
-             G/D          D  
+    G/D          D  
 Do do do do, do-yoo do do do  
 D            G/D          D  Dmaj7  D7  
 do do do do, do-yoo do do do  
-         D7sus4 D7    G/D Gm/D           D  
+    D7sus4 D7    G/D Gm/D           D  
 Do do do do     do do do     yeah yeah yeah  
   
 (repeat verse chords while singing/humming the tune)  

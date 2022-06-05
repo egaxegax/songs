@@ -12,15 +12,15 @@ From the Album Original Soundtracks No.1
   *(barre [B --2--]  (barre [B --4--]*  
   *at 2nd [G --2--]  at 2nd [G --4--]*  
   *fret) [D --4--]  fret) [D --4--]*  
-          [A --4--   A --2--]  
-          [E --2--   E --2--]  
+    [A --4--   A --2--]  
+    [E --2--   E --2--]  
   
   ***E*** [e --0--]  ***Ab m***    [e --4--]  
   *(open) [B --0--]  (barre  [B --4--]*  
-          *[G --1--]         at 4th  [G --4--]*  
-          *[D --2--]  fret) [D --6--]*  
-          [A --2--   A --6--]  
-          [E --0--   E --4--]  
+    *[G --1--]         at 4th  [G --4--]*  
+    *[D --2--]  fret) [D --6--]*  
+    [A --2--   A --6--]  
+    [E --0--   E --4--]  
   
   *Verse:*  
   *Repeat ***Fm B****  

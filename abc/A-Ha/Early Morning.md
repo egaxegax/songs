@@ -2,11 +2,11 @@
 Early Morning (2:58)  
   *(Pal Waaktaar/Magne Furuholmen)*  
   
-          ***Hm***  
+    ***Hm***  
   Early morning  
-           ***Em        G***  
+    ***Em        G***  
   Eight o'clock precise  
-            ***Hm            Em      G***  
+    ***Hm            Em      G***  
   I see the lonely August sun arise  
   ***Hm***  
   Say you know  
@@ -20,11 +20,11 @@ Early Morning (2:58)
   I'm waiting the whole night through  
   ***Hm    F#m    G  A    F#m       Hm    A***  
   Early morning, early morning, yeah  
-           ***Hm       F#m***  
+    ***Hm       F#m***  
   Ran the whole way  
-              ***Em     G***  
+    ***Em     G***  
   Down to the tracks  
-              ***Hm      F#m      Em       G***  
+    ***Hm      F#m      Em       G***  
   Through the doorway, then a last look back  
   Say you know  
   You will  
@@ -32,11 +32,11 @@ Early Morning (2:58)
   Out on the fields...  
   I've waited the whole night through  
   Early morning, early morning, yeah  
-                    ***Hm***  
+    ***Hm***  
   I climbed all the stairways  
   ***Em                   G***  
   To find the rooftop clear  
-          ***Hm            Em      G***  
+    ***Hm            Em      G***  
   Got the shotgun lying with me here  
   Say you know  
   You will  
@@ -53,7 +53,7 @@ Early Morning (2:58)
   Early morning  
   ***Em      Dm           F***  
   Eight o'clock precise  
-            ***Am     Em     Dm***  
+    ***Am     Em     Dm***  
   I see the lonely August sun arise  
   
   ***Am***  
@@ -66,7 +66,7 @@ Early Morning (2:58)
   Out on the fields...  
       ***F                       Em***  
   I'm waiting the whole night through  
-        ***Am     Em Dm F       Am     Em Dm  F***  
+    ***Am     Em Dm F       Am     Em Dm  F***  
   Early morning,       early morning,  yeah  
   
   Ran the whole way  

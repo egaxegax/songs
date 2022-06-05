@@ -36,7 +36,7 @@ Where were the ladies from here?
   
  G  
 With no loving in our souls  
-       Dm               Am  
+    Dm               Am  
 and no money in our coats  
 C               F                 G  
 (( Oh you can`t say we`re satisfied ))  

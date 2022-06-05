@@ -31,7 +31,7 @@ bass:  ----------------------------------------------------
   But he never hurt nobody  
   ***G                C         G***  
   He just loved to live that way  
-         ***C        D          G***  
+    ***C        D          G***  
   And he loved to steal your money  
   ***G                 C       G***  
   Some is rich, and some is poor  

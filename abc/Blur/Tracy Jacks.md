@@ -22,7 +22,7 @@
   Everyday he got closer  
   ***B                  E***  
   He knew in his heart he was over  
-          ***F#m          B***  
+    ***F#m          B***  
   Saying I'd love to stay here and be normal  
   ***B7***  
   But its just so overrated  

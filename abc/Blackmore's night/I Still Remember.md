@@ -3,7 +3,7 @@ I Still Remember
   
     ***Dbm        H             Dbm***  
   I thought of you the other day  
-       ***A       H             Dbm***  
+    ***A       H             Dbm***  
   How worlds of change led us astray  
   ***Dbm     H              Dbm***  
   Colors seem to fade to gray  

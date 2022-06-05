@@ -58,7 +58,7 @@ Chords used:     [E  A D  G B  e]
   ****G***:  [3  5 5  X X  X]*  
   ****D***:  [X  5 7  7 X  X]*  
   ****E***:  [0  1 2  2 0  0]*  
-               *Fast up tempo beat*  
+    *Fast up tempo beat*  
   
   *Intro, verses and bridge: ***A    G  D****  
   
@@ -70,7 +70,7 @@ Verse1:  Sombody keep my balance
   It's leaving behind a rank  
   
   *Chorus: ***D           A    G D  A    G  D****  
-              ****D          E*** (these aren't met to match the words I put below)*  
+    ****D          E*** (these aren't met to match the words I put below)*  
   Always go forward going straight will get you nowhere  
   There is no progress... Evolution killed it all I found my place in nowhere  
   
@@ -98,7 +98,7 @@ Verse2:  I'm taking one step sideways
   ****D#*** ([x688xx])*  
   ****E***  ([022xxx])*  
   ****E(type 2)***  ([x799xx]) or ([0799xxx])  The second one I use it when I palm mute*  
-                                    *that chord, but using only the ([0xxxxx])*  
+    *that chord, but using only the ([0xxxxx])*  
   ****B(type 2)***  ([xx9-11-12-x])  or ([x-9-9-11-12-x])*  
   
 Intro/Verse: ***A, G, D***  

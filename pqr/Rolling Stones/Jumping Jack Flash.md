@@ -17,7 +17,7 @@ The chorus is
   
   B        D     A         E  
   But it`s al----right     now,  
-                 B  
+    B  
   in fact it`s a gas....  
   
   B        D     A  

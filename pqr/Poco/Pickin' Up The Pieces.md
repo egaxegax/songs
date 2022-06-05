@@ -1,38 +1,38 @@
 <!--2020-09-04 19:07:45-->
 Pickin' Up The Pieces  
   
-                        ***F#***  
+    ***F#***  
 Chorus:  Well, there's just a little bit o' magic  
-                              ***E***  
+    ***E***  
   in the country music we're singin'  
-              ***B***  
+    ***B***  
   So let's begin  
-          ***F#***  
+    ***F#***  
   We're bringin' ya back down home  
-                       ***E***  
+    ***E***  
   Where the folks are happy  
-                            ***B***  
+    ***B***  
   Sittin', pickin', and a-grinnin'  
-       ***C#m          F#***  
+    ***C#m          F#***  
   Casually, you and me  
-                    ***E      F#***  
+    ***E      F#***  
   Will pick up the pieces, uh-huh  
   
-            ***E            F#***  
+    ***E            F#***  
 Verse:  Somebody yelled out at me  
-           ***B              E***  
+    ***B              E***  
   Country music and company  
-         ***G#m***  
+    ***G#m***  
   Kinda makes it  
-        ***E           F#***  
+    ***E           F#***  
   On a Sunday afternoon  
-          ***E                F#***  
+    ***E                F#***  
   Picnic lunches of yesterday  
-                        ***B                    E***  
+    ***B                    E***  
   Should still have a place in your heart today  
-           ***G#m***  
+    ***G#m***  
   Think it over  
-               ***E            F#       E     B***  
+    ***E            F#       E     B***  
   'Cause we'll all be going home so soon  
   
   *Repeat Chorus*  

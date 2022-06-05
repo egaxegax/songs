@@ -3,18 +3,18 @@ Map Of Your Head
   
   ***A            D          A***  
   I'm sick of feeling my soul  
-               ***D            A***  
+    ***D            A***  
   Some people who'll never know  
-             ***E            F#m         D***  
+    ***E            F#m         D***  
   Just how purposely and empty they grow  
   ***A               D          A***  
   Because their language confuses  
-          ***D         A             E***  
+    ***D         A             E***  
   Like computers refuse to understand  
-           ***F#m       D***  
+    ***F#m       D***  
   How I'm feeling today  
   
-        ***A     D         A        D***  
+    ***A     D         A        D***  
 Chorus:  I'm fre-e-ezing and losing my way  
   ***A         E          F#m          D***  
   I don't need another map of your head  

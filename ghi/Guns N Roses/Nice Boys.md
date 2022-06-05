@@ -38,13 +38,13 @@ E|-----------------------------|
 verse 1,2,3  
 B5                  A5           E5  
 she hit town like a rose in bloom,  
-                                 A5 B5  
+    A5 B5  
 smellin sweet said sweet perfume  
-                         A5        E5  
+    A5        E5  
 the colour faded and the petals died,  
-                             A5 D  
+    A5 D  
 down in the city no one cried  
-                              E5(7)           E    E5(7)  E  
+    E5(7)           E    E5(7)  E  
 in the streets the garbage lies protected by a million flies  
     B5                      A5                 E5  
 the roaches so big you know that they got bones  
@@ -60,7 +60,7 @@ nice boys don`t play rock and roll i`m not a nice boy
 i said nice boys don`t play rock and roll  
 B5                              A5  
 nice boys don`t play rock and roll  
-          E5  
+    E5  
 i`m not a nice boy and i never was  
   
 [VERSE 2]  

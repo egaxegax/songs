@@ -46,4 +46,4 @@
   
   On "I Live in Connecticut":  
   "On a boxed set there's room for some weird stuff,I guess."  
-                                   -Joe Perry
+    -Joe Perry

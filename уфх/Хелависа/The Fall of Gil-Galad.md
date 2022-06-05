@@ -6,7 +6,7 @@ The Fall of Gil-Galad
   Gil-Galad was an Elven -king.  
       ***D               C***  
   Of him the harpers sadly sing:  
-        ***Em                  C***  
+    ***Em                  C***  
   The last whose realm was fair and free  
       ***C7            H7            Em C D Hm***  
   Between the Mountains and the Sea  
@@ -18,9 +18,9 @@ The Fall of Gil-Galad
   The countless stars of heaven's field were mirrored in his silver shield  
   ***C          D           Em***  
   But long ago he rode away,  
-                 ***C       D        Em***  
+    ***C       D        Em***  
   And where he dwelleth none can say,  
-             ***D                 C***  
+    ***D                 C***  
   For into darkness fell his star  
     ***C7                    H7    Em  C D Hm C D Em***  
   In Mordor where the shadows are.

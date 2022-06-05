@@ -5,18 +5,18 @@ Balance Of Power (1986)
   (Heaven only knows...)  
       ***D            G***  
   Oh, I know it's strange  
-         ***Bb                       D***  
+    ***Bb                       D***  
   But I think that it's about to change  
-            ***D        G***  
+    ***D        G***  
   So I'll take the chance  
-         ***Bb                        D***  
+    ***Bb                        D***  
   To get back into the straight again  
   
-                ***G         Am            Hm***  
+    ***G         Am            Hm***  
 CHORUS:  Heaven only knows (I'm really on the level)  
-               ***G          Am              Hm***  
+    ***G          Am              Hm***  
   Heaven only knows (I'm trying to find a way)  
-                ***G         Am                Hm         Am      G      Bb***  
+    ***G         Am                Hm         Am      G      Bb***  
   Heaven only knows (I'm walking down the straight & lonely road today)  
   
   (Again...)  

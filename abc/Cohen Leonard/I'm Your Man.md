@@ -1,24 +1,24 @@
 <!--2020-09-04 23:30:42-->
 Intro: Fm . . . |. . . . |Cm . . . |. . . . |  
-       G# . . . |G . . . |Cm . . . |. . . . |  
+    G# . . . |G . . . |Cm . . . |. . . . |  
   
-                  Fm  
+    Fm  
 If you want a lover  
-                     D#  
+    D#  
 I'll do anything you ask me to  
-                  Fm  
+    Fm  
 If you want another kind of love  
-                     D#  
+    D#  
 I'll wear my little mask for you  
-               Cm  
+    Cm  
 If you want a partner  
   
 Take my hand  
-                     G#  
+    G#  
 Or if you want to strike me down in anger  
  A#  
 Here I stand  
-          Cm  
+    Cm  
 I'm your man  
   
 If you want a boxer  
@@ -31,35 +31,35 @@ Or if you want to take me for a ride
 Well you know you can  
 I'm your man  
   
-          D#  
+    D#  
 Yeah the moon's too bright  
-          G#  
+    G#  
 And the chain's too tight  
-         A#                 D#  
+    A#                 D#  
 And the beast won't go to sleep  
-           Gm  
+    Gm  
 I've been running through these promises to you  
-        Cm  
+    Cm  
 That I made and I could not keep  
-          G  
+    G  
 Ah but a man never got a woman back  
-        Cm  
+    Cm  
 Not by begging on his knees  
-         G#  
+    G#  
 Or I'd crawl to you baby  
-         G  
+    G  
 And I'd fall at your feet  
-         G#  
+    G#  
 And I'd howl at your beauty  
-        G  
+    G  
 Like a dog in heat  
-          G#  
+    G#  
 And I'd claw at your heart  
-         F  
+    F  
 And I'd tear at your sheet  
-          A#  
+    A#  
 I'd say please  
-          Cm  
+    Cm  
 I'm your man  
   
 Fm . . . |. . . . |Cm . . . |. . . . |  

@@ -5,18 +5,18 @@ Avenue и Чиж - Капель (2004)
   
    ***C***  
   Vihma sajab, как с ведра  
-               ***G***  
+    ***G***  
   Cкоро будет Нарва  
    ***D***  
   Hevle utles ничего,  
-                  ***C***  
+    ***C***  
   Sind saab naha harva  
   
-       ***F               C***  
+    ***F               C***  
   Дорогая, sind jatan maha  
-             ***G              C***  
+    ***G              C***  
   Возьму другую, kui palju raha  
-       ***F  C G C***  
+    ***F  C G C***  
   Дорогая...  
   
   Teda я уж не люблю,  

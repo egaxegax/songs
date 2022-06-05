@@ -10,48 +10,48 @@ Cuts Like a Knife (1983)
   ***Fadd9***  
   ***C          Em    Am***  
   Another day goes by  
-             ***F                    C***  
+    ***F                    C***  
   Still you wonder what happened  
-                      ***Em              Am***  
+    ***Em              Am***  
   You'd give the world for one more try  
-              ***F***  
+    ***F***  
   But you're too shy to ask him  
-        ***Fm                       Am***  
+    ***Fm                       Am***  
   You don't want to ask him now  
-                   ***C                 F***  
+    ***C                 F***  
   I know your heart will pull you through  
-                      ***G***  
+    ***G***  
   If he means that much to you, yeah  
   
-                     ***C***  
+    ***C***  
 CHORUS:  You gotta let him know (Let him know, know that you love him)  
-                         ***Em***  
+    ***Em***  
   Let him know that you love him (Let him know, know that you need him)  
-                     ***Bb                                         F***  
+    ***Bb                                         F***  
   You gotta let him know (Let him know, know that you want him now)  
   ***C              Em            Am***  
   What can I say? It's up to you  
-            ***F                   C***  
+    ***F                   C***  
   You gotta make up your own mind  
-              ***Em                Am***  
+    ***Em                Am***  
   It's your life, it's up to you  
-              ***F***  
+    ***F***  
   Cause you didn't believe me  
-       ***Fm                           Am***  
+    ***Fm                           Am***  
   You still don't believe me now  
-                ***C                    F***  
+    ***C                    F***  
   You're gonna see it's all coming true  
-                            ***G***  
+    ***G***  
   That's why I'm leaving it up to you, yeah  
   
   *CHORUS*  
   
   ***Ab  Eb Db***  
-                                                ***Eb  Db  Ab***  
+    ***Eb  Db  Ab***  
   The news is out I guess you heard  
-                                                   ***Eb  Db  Ab***  
+    ***Eb  Db  Ab***  
   You shouldn't breathe a single word  
-                                                        ***Eb     Db***  
+    ***Eb     Db***  
     ***G***  
   The bottom line is nothing's going to stop you now  
   You gotta let him know....

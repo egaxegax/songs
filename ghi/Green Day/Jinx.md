@@ -107,7 +107,7 @@ Intro:  ***G5 C5 D5*** } x4
   A slap on the wrist.  A stab in the back.  
   ***C5                          G5***  
   Torture me, I've been a bad boy.  
-       ***C5                    G5  D5   E5***  
+    ***C5                    G5  D5   E5***  
   Nail me to the cross until you have won.  
     ***B5          F5        D5***  
   I lost before I did any wrong.  

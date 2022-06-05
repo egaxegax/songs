@@ -12,7 +12,7 @@
   As queer as a bug  
   I'm in love!  
   I'm All Shook Up.  
-            ***C         D          C***  
+    ***C         D          C***  
   Uh uh huh.   Mmm  Yeah, Yeah.  
   
 (2)  My hands are shaky  

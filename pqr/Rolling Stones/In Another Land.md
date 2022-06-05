@@ -9,11 +9,11 @@ Intro:  ***C***, ***Bb***, ***Ab***, ***G***
   
   ***C    C7     F***  
   In another land  
-            ***Ab             Eb        Ab***  
+    ***Ab             Eb        Ab***  
   Where the breeze and the trees and flowers were blue  
   ***C           C7        F***  
   I stood and held your hand  
-          ***Ab         Eb           Ab***  
+    ***Ab         Eb           Ab***  
   And the grass grew high and the feathers floated by  
   ***Ab         D         G***  
   I stood and held your hand  
@@ -21,12 +21,12 @@ Intro:  ***C***, ***Bb***, ***Ab***, ***G***
   And nobody else's hand will ever do  
   ***F                C***  
   Nobody else will do  
-           ***D***  
+    ***D***  
   Then I awoke  
-                        ***F***  
+    ***F***  
   Was this some kind of joke?  
-             ***D***  
+    ***D***  
   Much to my surprise  
-              ***F        G***  
+    ***F        G***  
   I opened my eyes  
   Ad naseum. Enjoy!

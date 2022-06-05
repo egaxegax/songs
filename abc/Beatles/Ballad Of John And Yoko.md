@@ -18,13 +18,13 @@ Bass riff: ***E*** and ***E7***      ***A***
   You gotta go back  
   
   you know they didnt even give us a chance  
-                   ***A***  
+    ***A***  
   you know it aint easy  
-                           ***E***  
+    ***E***  
   you know how hard it can be  
-                     ***B7***  
+    ***B7***  
   the way things are going ...  
-                       ***E***  
+    ***E***  
   theyre gonna crucify me.  
   
   Finally made the plane into paris  
@@ -50,7 +50,7 @@ Bass riff: ***E*** and ***E7***      ***A***
   ***B7***  
   last nite the wife said  
   oh boy when youre dead  
-                                       ***B***  
+    ***B***  
   You dont take nothing with you but your soul  
   
   ***E***  

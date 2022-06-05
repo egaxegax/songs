@@ -5,11 +5,11 @@ Roll Over Beethoven
   I'm gonna write a little letter,  
   ***E***  
   Gonna mail it to my local DJ.  
-         ***A***  
+    ***A***  
   It's a rockin' rhythm record  
-                      ***E***  
+    ***E***  
   I want my jockey to play.  
-       ***B                                       E***  
+    ***B                                       E***  
   Roll over Beethoven, I gotta hear it again today.  
   You know, my temperature's risin'  
   And the jukebox blows a fuse.  

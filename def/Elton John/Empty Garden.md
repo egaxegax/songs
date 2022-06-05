@@ -54,11 +54,11 @@ Empty Garden
       ***B***  
       ***C#m***  
   But he'd have said that roots grow stronger if only he could hear  
-       ***A***  
+    ***A***  
   Who lived there  
      ***E***  
   He must have been a gardener that cared a lot  
-       ***B***  
+    ***B***  
   Who weeded out the tears and grew a good crop  
    ***C#m B/A  A***  
   Now we pray for rain, and with every drop that falls  

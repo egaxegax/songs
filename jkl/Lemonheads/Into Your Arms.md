@@ -20,9 +20,9 @@ Into Your Arms
    I know a place where I can go when I'm alone  
     ***G         Em               G         Em***  
    into your arms     whoa    into your arms  
-          ***D  D6***  
+    ***D  D6***  
    I can go  
-                                   ***G             Em***  
+    ***G             Em***  
    I know a place that's safe and warm from the crowd  
     ***G         Em               G         Em***  
    into your arms     whoa    into your arms  

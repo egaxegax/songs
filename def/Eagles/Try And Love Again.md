@@ -1,13 +1,13 @@
 <!--2020-09-04 22:58:00-->
 C  
 When you're out there on your own  
-                        Fmaj7  
+    Fmaj7  
 Where your memories can find you  
-                    C  
+    C  
 Like a circle goes around  
   
 You were lost until you found out  
-                  Fmaj7  
+    Fmaj7  
 What it all comes down to  
 F   Em  Dm       Em        G      C  
 One by one, the lonely feelings come  

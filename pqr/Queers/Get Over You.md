@@ -8,11 +8,11 @@ from the Surf Goddess EP
   
   ***C***  
   Dressing like a faggot  
-       ***F                     G***  
+    ***F                     G***  
   Must living in a different world  
-           ***C***  
+    ***C***  
   And your momma doesn't know  
-          ***F                             G***  
+    ***F                             G***  
   Why you can't look like all the other girls  
   ***F                                 G***  
   Stop you on the street they wanna know your name  
@@ -30,15 +30,15 @@ from the Surf Goddess EP
   I just can't get over you  
   ***G***  
   oh-yeah  
-              ***C***  
+    ***C***  
   You say the boys with the bikes  
-          ***F                            G***  
+    ***F                            G***  
   And the leathers want to beat you to hell  
-          ***C                    F***  
+    ***C                    F***  
   And the girls where you work  
-                     ***G***  
+    ***G***  
   Don't treat you to well  
-       ***F                                       G***  
+    ***F                                       G***  
   They think your something fucked up, but you ain't so bad  
   ***F             G***  
   ???????  what looks like that  
@@ -57,11 +57,11 @@ from the Surf Goddess EP
   *Play the ***C F G*** progression twice under the solo.*  
   ***C***  
   Dressing like a faggot  
-       ***F                     G***  
+    ***F                     G***  
   Must living in a different world  
-           ***C***  
+    ***C***  
   And your momma doesn't know  
-          ***F                             G***  
+    ***F                             G***  
   Why you can't look like all the other girls  
   ***F                                 G***  
   Stop you on the street they wanna know your name  

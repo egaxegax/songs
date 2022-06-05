@@ -10,11 +10,11 @@ No hint, no word her honour to defend
   
 Eb                                Gm(add4)  
 I will, I will she sighed to my request  
-                Eb                                             Fsus4 F Fsus4  
+    Eb                                             Fsus4 F Fsus4  
 And then she tossed her mane while my resolve was put to the test  
     C                                       Eb  
 Then drowned in desire, our souls on fire, I lead the way to the funeral pyre  
-       F  
+    F  
 And without a thought of the consequence, I gave into my decadence  
   
 C(add9)                          Ebmaj7/Bb  
@@ -30,7 +30,7 @@ Eb  Gm/D  Gm  Eb  Gm/D  Gm
   
 Eb                                       Gm(add4)  
 Was it love, or was it the idea of being in love?  
-             Eb                                              Fsus4  F  Fsus4  
+    Eb                                              Fsus4  F  Fsus4  
 Or was it the hand of fate, that seemed to fit just like a glove?  
    C                                         Eb  
 The moment slipped by and soon the seeds were sown  

@@ -3,15 +3,15 @@ INTRO:   F     Bb    C     F      
   
    C      Bb                                        F  
 Makin somebody happy is a question of give and take  
-             Bb                                              F  
+    Bb                                              F  
 You can learn how to show it so come on give yourself a break  
 Dm                        A   Dm  
 Every smile every little touch  
-                                    G7  
+    G7  
 Don't you know that it means so much  
 Gm  
 Sweet sweet kisses so tender  
-                                 C  
+    C  
 Always will return to sender like a  
   
 CHORUS:  
@@ -22,20 +22,20 @@ Bang a boomer boomerang dum mi dum dum
 Mi dum mi dum dum a bang a boomer boomerang  
     Gm                    C7  
 Love is a tune you hum mi hum hum  
-        F             F/Eb  
+    F             F/Eb  
 By givin away I think you'll learn  
 Bb                          G7   F  
 You'll get love in return so bang  
-          C                   Bb              C7  
+    C                   Bb              C7  
 A boomer boomerang is love a boomer boomerang  
      Bb  
 Is love  
   
 BRIDGE:  
   
-                    F                  Bb  F  
+    F                  Bb  F  
 And if you're warm and tender I'll kiss you  
-       C                    D  
+    C                    D  
 Return to sender, please surrender  
   
 CHORUS:  

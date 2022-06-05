@@ -4,20 +4,20 @@ The Masterplan (1998)
   
   *Intro..   ***Bm   G   A****  
    ***Bm                       G        A                           Bm           G***  
-          ***A***  
+    ***A***  
   All we need is the sky or ????????, theres a storyteller sleeping alone  
-        ***Bm       G               A                            Bm***  
+    ***Bm       G               A                            Bm***  
       ***G        A***  
   He has no face and he has no name and his whereabouts are sort of unknown  
   *Chorus*  
   ***Bm       G             A          Bm               G            A***  
   ***Bm***  
   All he needs is his life in a suitcase, it belongs to a friend of a friend  
-                     ***G                A           Bm                    G***  
+    ***G                A           Bm                    G***  
   And as we drink to ourselves to amuse ourselves underneath the sky  
    ***A                           Bm***  
   underneath the sky again  
-        ***Bm            G              A                                  Bm***  
+    ***Bm            G              A                                  Bm***  
     ***G                A***  
   So wish me away to an unknown place, and were livin in a land with no name  
   I`ll be making a start with my brand new mouth, to stop me trying to make  
@@ -88,27 +88,27 @@ The Masterplan (1998)
   
   *Pre-chorus*  
   ***F#7    G     A        Bm***  
-         *(w/ Fill 3)*  
+    *(w/ Fill 3)*  
   All he needs is his life in a suitcase  
-       ***G  A     Bm***  
-       *(w/ Fill 3)*  
+    ***G  A     Bm***  
+    *(w/ Fill 3)*  
   It belongs to a friend of a friend  
      ***G       A     Bm***  
-            *(w/ Fill 4)*  
+    *(w/ Fill 4)*  
   And as we drink to ourselves we'll amuse ourselves  
   
   *Chorus*  
   ***G***  
   Underneath the sky  
   ***F#        A     G#m  G  Bm     A  G#m  G***  
-                               *(Fill 5)*  
+    *(Fill 5)*  
   Underneath the sky again  
   ***Bm        A     G#m  G  Bm  A  G     F#7  A***  
   *(Fill 5)*  
   Underneath the sky again  
   
   ***Bm G A     Bm G A Bm   F#7***  
-                   *(Fill 5)   (Fill 5)*  
+    *(Fill 5)   (Fill 5)*  
   
   *Verse 2*  
   So wish me away to an unknown place  
@@ -117,18 +117,18 @@ The Masterplan (1998)
   stop me making sense once again (Fill 5)  
   
   *Pre-chorus*  
-         *(Fill 3)*  
+    *(Fill 3)*  
   All we need is our lives in a suitcase  
-         *(Fill 3)*  
+    *(Fill 3)*  
   They belong to a friend of a friend  
-            *(Fill 3)*  
+    *(Fill 3)*  
   And as we drink to ourselves we amuse ourselves  
   
   *Chorus*  
   Underneath the sky  
-                      *(Fill 5)*  
+    *(Fill 5)*  
   Underneath the sky again  
-                 *(Fill 5)    (Fill 5)*  
+    *(Fill 5)    (Fill 5)*  
   Underneath the sky again  
   
   *SOLO:*  

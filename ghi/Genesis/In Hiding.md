@@ -15,15 +15,15 @@
   In hiding  
   ***G            Em      C***  
   Far from the city of night  
-          ***D7           G***  
+    ***D7           G***  
   and the factories of truth  
     ***Bm***  
   I stand upon the mountain  
     ***Am                     D7***  
   A million miles from my home  
-                   ***G***  
+    ***G***  
   And the faces of fear  
-         ***A7sus4       A7***  
+    ***A7sus4       A7***  
   I have freedom to think  
   ***D***  
   In hiding  

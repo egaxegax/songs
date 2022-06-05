@@ -11,13 +11,13 @@ The Leaving Song
   
   ***Em        G             D***  
   Walked away.. heard them say..  
-             ***Am              C***  
+    ***Am              C***  
   Poisoned hearts will never change..  
    ***G   (*note)   Em***  
   Walk away, again..  
   ***Em        G          D***  
   Turned away, in disgrace..  
-           ***Am        c***  
+    ***Am        c***  
   Felt the chill upon my face..  
   ***G      (*note)   Em***  
   Cooly climb within..  
@@ -35,7 +35,7 @@ The Leaving Song
   With eyes lowered..  
   ***Em            G           D***  
   You Walked away.. heard them say..  
-             ***Am              C***  
+    ***Am              C***  
   Poisoned hearts will never change..  
    ***G   (*note)   Em***  
   Walk away, again..  
@@ -49,13 +49,13 @@ The Leaving Song
   And they fell apart...  
   ***Em        G             D***  
   As I Walk away.. heard them say..  
-             ***Am              C***  
+    ***Am              C***  
   Poisoned hearts will never change..  
    ***G   (*note)   Em***  
   Walk away, again..  
   ***Em        G          D***  
   Turned away, in disgrace..  
-           ***Am        c***  
+    ***Am        c***  
   Felt the chill upon my face..  
   ***G      (*note)   Em***  
   Cooly climb within..  

@@ -41,7 +41,7 @@ You better run
   D|------(5)-(7)-(8)-(9)--|  
   A|---2---5---7---8---9---|  
   E|---0---3---5---6---7---|]  
-       ***E   G   A   A#  B***  
+    ***E   G   A   A#  B***  
   
   *Note: the majority of the ***E*** chords are played with heavy palm muting*  
   
@@ -64,13 +64,13 @@ You better run
   
   *-=Verse1=-*  
   *Main Riff E               Main Riff E*  
-            I got no reason,          to lie to you  
+    I got no reason,          to lie to you  
   *Main Riff E                   Main Riff E*  
-            What's in the cards,          that's what I do  
+    What's in the cards,          that's what I do  
   *Main Riff E                    Main Riff E*  
-            I was born a-running           & laughing out loud  
+    I was born a-running           & laughing out loud  
   *Main Riff E                          Main Riff E*  
-            With my feet on the ground           & my head in the clouds  
+    With my feet on the ground           & my head in the clouds  
   
   *-=Chorus=-*  
   ****E          A                       E***   Main Riff E*  

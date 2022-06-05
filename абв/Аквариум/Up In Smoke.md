@@ -14,7 +14,7 @@ Radio London (1990)
   I wish I had a heart  
       ***Hm             A***  
   To walk me like a dog -  
-       ***D     A   G     D***  
+    ***D     A   G     D***  
   But life's a sweet thing,  
    ***G            D***  
   Going up in smoke.  

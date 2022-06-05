@@ -4,9 +4,9 @@ Just For Love (1970)
   *(Dino Valenti)*  
   
   *(Part One)*  
-           ***Gm         Bb            F***  
+    ***Gm         Bb            F***  
   Just for love, like the wings of some high-flying bird,  
-         ***Gm           Bb                   F***  
+    ***Gm           Bb                   F***  
   Of the songs I will sing to you, you can hear every word,  
   ***Eb                D            Eb D***  
   That I ever heard come to you.  
@@ -22,7 +22,7 @@ Just For Love (1970)
   Free as the wind, free as the rain falling,  
   Free as the night, free as nature calling ...  
   *(Part Two)*  
-          ***Gm              Bb            F***  
+    ***Gm              Bb            F***  
   Now the songs have been sung, all the games have been played,  
   ***Gm            Bb       F                Eb***  
   This love has won over all masquerades, it's the end of charades,  

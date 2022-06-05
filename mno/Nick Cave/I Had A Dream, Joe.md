@@ -1,44 +1,44 @@
 <!--2020-09-05 02:21:33-->
 Cm      F  
 I had a dream  
-        D  
+    D  
 I had a dream  
-         Gm  
+    Gm  
 I had a dream  
 Cm      F      Bb  
 I had a dream, Joe  
 -------- Gm  
 I had a dream, Joe  
-                         Eb                D  
+    Eb                D  
 You were standing in the middle of an open road  
-        Gm  
+    Gm  
 I had a dream, Joe  
 Your hands were raised up to the sky  
-          Eb                  D  
+    Eb                  D  
 And your mouth was covered in foam  
-        Gm  
+    Gm  
 I had a dream, Joe  
-                Eb                   D  
+    Eb                   D  
 A shadowy Jesus flitted from tree to tree  
-         Gm  
+    Gm  
 I had a dream, Joe  
-                              Eb                     D  
+    Eb                     D  
 And a society of whores stuck needles in an image of me  
-        Gm  
+    Gm  
 I had a dream, Joe  
-                        Eb               D  
+    Eb               D  
 It was Autumn time and thickly fell the leaves  
-            Gm  
+    Gm  
 And in that dream, Joe  
-                          Eb  
+    Eb  
 A pimp in seersucker suit sucked a toothpick  
     D                     Cm  
 And pointed his finger at me  
 Cm      F  
 I had a dream,  
-         D  
+    D  
 (I had a dream)  
-        Gm  
+    Gm  
 I had a dream,  
 Cm       F     Bb  
 I had a dream, Joe

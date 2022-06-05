@@ -36,7 +36,7 @@ post-chorus: ***a g d*** } x8
   ***g a d***  
   ***g a g a g a d***  
   *harmonic fill: [G:------7-]*  
-                 [D:--7-9---]  
+    [D:--7-9---]  
   ***d bm g a } x4***  
   
 verse 2: ***d bm g a*** } x8  

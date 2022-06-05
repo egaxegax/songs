@@ -4,13 +4,13 @@ Red
   
   ***G                Bm***  
   Red, you look tired  
-            ***Em***  
+    ***Em***  
   You look older than your mother  
-                       ***C***  
+    ***C***  
   Where should I not touch?  
-                      ***Am***  
+    ***Am***  
   What should I not kiss?  
-                  ***D***  
+    ***D***  
   Where does it hurt?  
   *(SAME CHORDS)*  
   Red, in your slumber  

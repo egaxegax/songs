@@ -65,11 +65,11 @@
   
   ***F                        E7***  
   And it makes me so angry  
-                               ***Am Am- Am7 D7***  
+    ***Am Am- Am7 D7***  
   To know that the flame still burns  
   ***F                     E7***  
   Why can't I get over?  
-                   ***F7*      E7#9. . . .***  
+    ***F7*      E7#9. . . .***  
   When will I ever learn  
       ***Am7 Dm7 G+ G           Am7 Dm7  G+ G***  
   Old love,         leave me alone  
@@ -87,11 +87,11 @@
   
   ***F                        E7***  
   And it makes me so angry  
-                                     ***Am Am- Am7 D7***  
+    ***Am Am- Am7 D7***  
   To know that the flame will always burn  
   ***F                    E7***  
   I'll never get over  
-                             ***F      E7 . . . .***  
+    ***F      E7 . . . .***  
   I know now that I'll never learn  
       ***Am7 Dm7 G+ G           Am7 Dm7  G+ G***  
   Old love,         leave me alone  
@@ -102,7 +102,7 @@
   ******** = Use Moveable ***C7****  
   
   *Additional details:*  
-         ***F7          E7#9             G+       G***  
+    ***F7          E7#9             G+       G***  
   [E ------------------------  ---------3-------3---------------  
   B -----6------------8-----  ---------3-------3---------------  
   G -----8------------7-----  ---------5-------4---------------  

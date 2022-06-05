@@ -23,9 +23,9 @@ Turn The Lights Down
   I'm coming home  
   ***D              A             E***  
   I just want to sleep by your side  
-              ***D    A  E***  
+    ***D    A  E***  
   It makes me feel so alive  
-                 ***D       A   E***  
+    ***D       A   E***  
   I just want to sleep for a while  
   Turn around the night is still young  
   Keep your lights on  

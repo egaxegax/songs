@@ -1,11 +1,11 @@
 <!--2020-09-06 04:33:24-->
 G  
  I don`t want to spoil the party so I`ll go  
-         G                         D  
+    G                         D  
  I would hate my disappointment to show  
-          Em            B       Am          D7  
+    Em            B       Am          D7  
  There`s nothing for me here so I will disappear  
-        G                  F                  G  
+    G                  F                  G  
  If she turns up while I`m gone please let me know  
   
   
@@ -19,7 +19,7 @@ G
  I think I`ll take a walk and look for her  
   
   
-          G  
+    G  
  Though tonight she`s made me sad  
  Em7  A7    C    D  
  I    still love her  
@@ -30,11 +30,11 @@ G
   
  G  
  I don`t want to spoil the party so I`ll go  
-         G                         D  
+    G                         D  
  I would hate my disappointment to show  
-         Em             B       Am     D7  
+    Em             B       Am     D7  
  There`s nothing for me here so I will disappear  
-        G                  F                  G  
+    G                  F                  G  
  If she turns up while I`m gone please let me know  
   
   
@@ -42,7 +42,7 @@ G
  G D Em B Am D7  
   
   
-          G  
+    G  
  Though tonight she`s made me sad  
  Em7  A7    C    D  
  I    still love her  

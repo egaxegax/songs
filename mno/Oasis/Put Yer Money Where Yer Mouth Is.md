@@ -18,11 +18,11 @@ Standing On The Shoulder Of Giants (2000)
   *CHORUS*  
   ***Dsus4***  
   Put yer money where yer mouth is  
-       ***G                       Dsus4    G***  
+    ***G                       Dsus4    G***  
   Your momma said that you was real  
-          ***Dsus4***  
+    ***Dsus4***  
   Put yer money where yer mouth is  
-       ***G                       Dsus4    G***  
+    ***G                       Dsus4    G***  
   Your momma said that you was real  
   
   *VERSE-1*  
@@ -32,11 +32,11 @@ Standing On The Shoulder Of Giants (2000)
   And come what way  
       ***Dsus4                    G***  
   You bet youre going down for judgement day  
-             ***Dsus4                  G***  
+    ***Dsus4                  G***  
   So put yer money in yer mouth and hands right up on the wheel.  
   
   *RIFF-1*  
-         *(Scrape)                         BU BD*  
+    *(Scrape)                         BU BD*  
   [(low D)\\\\\\\\\\|-0-----3--0-----5-----5(6)5--3--5--3----] } x2  
   
   *REPEAT CHORUS W/RIFF-2*  

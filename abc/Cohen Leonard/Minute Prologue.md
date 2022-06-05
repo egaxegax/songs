@@ -3,13 +3,13 @@ Tuning: D G C F A D (standard, full step down)
   
 Intro: A  
   
-           A  
+    A  
 I've been listening  
-                C#m  
+    C#m  
 To all the dissention  
-           A  
+    A  
 I've been listening  
-            C#m  
+    C#m  
 To all the pain  
 Bm  
 And I feel that no matter  
@@ -19,11 +19,11 @@ A
 It's going to come back again  
 C#m                     F#m  
 But I think that I can heal it  
-        C#m             F#m  
+    C#m             F#m  
 But I think that I can heal it  
-       C#m                          D  
+    C#m                          D  
 I'm a fool, but I think that I can heal it  
-           A    E  
+    A    E  
 With this song  
   
   

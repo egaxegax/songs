@@ -25,7 +25,7 @@ INTRO:  ***G C D G F# F D***
   You made a  fool of everyone  
   ***C           D             G    F#***  
   You made a  fool of everyone  
-       ***F       D***  
+    ***F       D***  
   Sexy Sadie ooh what have you done  
   
   Sexy Sadie you broke the rules  

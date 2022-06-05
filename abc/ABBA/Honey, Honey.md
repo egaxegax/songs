@@ -11,9 +11,9 @@ I'd heard about you before
 I wanted to know some more  
     F                    Dm  
 And now I know what they mean,  
-                 B  
+    B  
 You're a love machine  
-                  C  
+    C  
 Oh, you make me dizzy.  
   
 Honey honey, let me feel it, a-ha, honey honey  
@@ -36,9 +36,9 @@ You better not get too high
 But I'm gonna stick to you boy,  
       D#        Gm     G#  
 You'll never get rid of me  
-                              C#  
+    C#  
 There's no other place in this world  
-                    Gm7  Gm6  
+    Gm7  Gm6  
 Where I rather would be  
   
 Honey honey, touch me baby, a-ha, honey honey  

@@ -72,7 +72,7 @@ BREAK:
 D    C     Bb C Bb G C G G  
 D    C     Bb C Bb G C G G  
 D     G D  
-          -- 4x`s  
+    -- 4x`s  
   
 VERSE:  
   

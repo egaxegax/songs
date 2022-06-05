@@ -6,16 +6,16 @@ G#dim:        456464  or  xx0101
 Fmaj7:        xx3210  
   
 Intro: E.. ...|  
-       E.. Am6/e..|E7.. Am/e..|E7.. Am/e..|E.. ...|         (see tab below)  
+    E.. Am6/e..|E7.. Am/e..|E7.. Am/e..|E.. ...|         (see tab below)  
   
-       E.. Am/e..|E7.. Am/e..|E7.. Am/e..|Cadd9.. ...|  
-       G#7.. ...|G7.. ...|G7.. ...|  
+    E.. Am/e..|E7.. Am/e..|E7.. Am/e..|Cadd9.. ...|  
+    G#7.. ...|G7.. ...|G7.. ...|  
   
 G         G#dim             Am  
 Do you remember all those pledges  
-           G            G#dim      Am  
+    G            G#dim      Am  
 That we pledged in the passionate night  
-              C                              G  
+    C                              G  
 Ah, they're soiled now, they're torn at the edges  
       Cm                      G#7     G7  
 Like moths on a stale yellow light  
@@ -26,15 +26,15 @@ Why not even revenge can undo them
      Cm                        G  
 So twisted these vows and so crushed  
   
-                         A#  
+    A#  
 And you say you've been humbled in love  
      F  
 Cut down in your love  
-            A#  
+    A#  
 Forced to kneel in the mud  
-        F  
+    F  
 Next to me  
-        A#  
+    A#  
 Ah, but why so bitterly  
  F  
 Turn from the one  

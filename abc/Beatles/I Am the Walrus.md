@@ -37,7 +37,7 @@ CHORUS:           ***C            
   Mister city p'liceman sitting pretty little p'lice men in a row  
   ***C                                            D***  
   See how they fly like Lucy in the Sky see how they run  
-        ***A                Dsus4      A            E     D   D7***  
+    ***A                Dsus4      A            E     D   D7***  
   I'm crying     I'm cry - ing  I'm crying   I'm cry - ing  
   
   *BRIDGE*  

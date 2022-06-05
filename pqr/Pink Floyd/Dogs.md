@@ -7,7 +7,7 @@ You gotta be crazy, you gotta have a real need
       Bb  
 Gotta sleep on your toes and when you?re on the street  
   
-                                                           Am9(sus4)  
+    Am9(sus4)  
 You gotta be able to pick out the easy meat with your eyes closed  
   
 Then moving in silently downwind and out of sight  
@@ -18,7 +18,7 @@ You gotta strike when the moment is right without thinking
      Dm9  
 And after a while you can work on points of style  
   
-         Bb  
+    Bb  
 Like the club tie and the firm handshake  
   
 A certain look in the eye and an easy smile  
@@ -26,7 +26,7 @@ A certain look in the eye and an easy smile
     Am9(sus4)  
 You have to be trusted by the people that you lie to  
   
-        Bb7  
+    Bb7  
 So that when they turn their backs on you  
   
 You?ll get the chance to put the knife in  
@@ -34,10 +34,10 @@ You?ll get the chance to put the knife in
 Dm9  Bb  Am9(sus4)  Bb7  
 [Guitar solo]  
   
-       Dm9  
+    Dm9  
 You?ve gotta keep one eye looking over your shoulder  
   
-              Bb  
+    Bb  
 You know it?s gonna get harder, harder and harder as you get older  
   
     Am9(sus4)  
@@ -70,7 +70,7 @@ And it?s too late to lose the weight you used to need to
 C         Bb   C            Bb  C          Dm   A  
 So have a good drown as you go down all alone  
   
-        F    A      Dm  
+    F    A      Dm  
 Dragged down by the stone  
   
   
@@ -95,7 +95,7 @@ Deaf, dumb and blind you just keep on pretending
      Bb  
 That everyone?s expendable and noone has a real friend  
   
-       Am9(sus4)  
+    Am9(sus4)  
 And it seems to you the thing to do would be to isolate the winner  
   
     Bb7  
@@ -106,7 +106,7 @@ And you believe at heart everyone?s a killer
 Dm  C  Dm  C  Dm  C  Dm  Bb  F  E  F  E  Dm  
 [Half tempo]  
   
-        F         C             Dm  
+    F         C             Dm  
 Who was born in a house full of pain  
   
 C       F              C           Dm  
@@ -139,5 +139,5 @@ Who was found dead on the phone
 C       F       C           Bb       A  
 Who was dragged down by the stone  
   
-                F    A7     Dm9  
+    F    A7     Dm9  
 Who was dragged down by the stone

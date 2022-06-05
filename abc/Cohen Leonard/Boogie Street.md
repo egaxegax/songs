@@ -1,14 +1,14 @@
 <!--2020-09-04 23:35:21-->
 F#m               Bm7  
 (O Crown of Light, O Darkened One)  
-                       C#7  
+    C#7  
 (I never thought we'd meet)  
-              F#m                   Bm7  
+    F#m                   Bm7  
 (You kiss my lips, and then you're gone)  
 C#7                           F#m  
 (And I'm back on Boogie Street)  
   
-          F#m  
+    F#m  
 A sip of wine, a cigarette  
 C#m7  
 And then it's time to go  
@@ -18,7 +18,7 @@ I tidied up the kitchenette
 I tuned the old banjo  
      Dmaj7  
 I'm wanted at the traffic-jam  
-       F#m  
+    F#m  
 They're saving me a seat  
    E6  
 I'm what I am, and what I am  
@@ -35,17 +35,17 @@ By such instructions you prepare
    Dnaj7            F#m  
 A man for Boogie Street  
   
-             F#m             A6  
+    F#m             A6  
 (O Crown of Light, Crown of Light)  
-            D6                                    Bm  
+    D6                                    Bm  
 (O Darkened One, Darkened One, Darkened One)  
-                       C#7  
+    C#7  
 (I never thought we'd meet, never thought we'd meet)  
-              F#m           A6  
+    F#m           A6  
 (You kiss my lips, kiss my lips)  
-                D6  
+    D6  
 (And then it's done, then it's done, then it's done)  
-          Bm6   C#7              D      E      F#m  
+    Bm6   C#7              D      E      F#m  
 (And I'm back, back on Boogie Street)  
   
 So come, my friends, be not afraid  
@@ -88,16 +88,16 @@ Cmaj7:    x32000  or  x35453
 D6:       xx0202  
 Am6:      x02212  
   
-             Em                Am7  
+    Em                Am7  
 (O Crown of Light, O Darkened One)  
-                       B7  
+    B7  
 (I never thought we'd meet)  
-              Em                    Am7  
+    Em                    Am7  
 (You kiss my lips, and then you're gone)  
 B7                            Em  
 (And I'm back on Boogie Street)  
   
-          Em  
+    Em  
 A sip of wine, a cigarette  
 Bm7  
 And then it's time to go  
@@ -107,7 +107,7 @@ I tidied up the kitchenette
 I tuned the old banjo  
      Cmaj7  
 I'm wanted at the traffic-jam  
-       Em  
+    Em  
 They're saving me a seat  
    D6  
 I'm what I am, and what I am  
@@ -124,17 +124,17 @@ By such instructions you prepare
    Cmaj7            Em  
 A man for Boogie Street  
   
-             Em              G6  
+    Em              G6  
 (O Crown of Light, Crown of Light)  
-            C6                                    Am  
+    C6                                    Am  
 (O Darkened One, Darkened One, Darkened One)  
-                       B7  
+    B7  
 (I never thought we'd meet, never thought we'd meet)  
-              Em            G6  
+    Em            G6  
 (You kiss my lips, kiss my lips)  
-                C6  
+    C6  
 (And then it's done, then it's done, then it's done)  
-          Am6   B7               C      D      Em  
+    Am6   B7               C      D      Em  
 (And I'm back, back on Boogie Street)  
   
 So come, my friends, be not afraid  

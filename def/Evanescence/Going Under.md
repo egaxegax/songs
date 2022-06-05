@@ -97,15 +97,15 @@ Going Under
   B  ----------33-3\----------------  
   Gb -0-0--000-11-1\-3-3--333/33-33-  
   B  -0-0--000-------3-3--333/22-22-]  
-             ***B5 A5 D5 D/B5***  
+    ***B5 A5 D5 D/B5***  
   I'm going under  
-              ***B5 A5 D5 C/D5***  
+    ***B5 A5 D5 C/D5***  
   Drowning in you  
-                  ***B5 A5 D5 D/B5***  
+    ***B5 A5 D5 D/B5***  
   I'm falling forever  
-                       ***B5 A5 D5 C/D5***  
+    ***B5 A5 D5 C/D5***  
   I've got to break through  
-                  ***D5***  
+    ***D5***  
   I'm going under  
   *---------------*  
   *Bridge*  
@@ -116,17 +116,17 @@ Going Under
   B  --3333-3333--2222-2222----------------------  
   Gb --1111-1111--0000-0000--0000-0000-0000-0000-  
   B  ------------------------0000-0000-0000-0000-]  
-                ***A5***  
+    ***A5***  
   So go on and scream  
-            ***G#5***  
+    ***G#5***  
   Scream at me  
-           ***B5***  
+    ***B5***  
   So far away {so far away}  
     ***B5***  
   I won't be broken again  
   ***A5             G#5***  
     I've got to breathe  
-                      ***B5 (guitar solo)***  
+    ***B5 (guitar solo)***  
   I can't keep going under  
   *--------------*  
   *Solo*  
@@ -187,11 +187,11 @@ Going Under
   I've got to break through  
   ***A               G***  
   So go on and scream  
-            ***F#              Hm***  
+    ***F#              Hm***  
   Scream at me I 'm so far away  
   ***Hm7                 G***  
   I won't be broken again  
-               ***F#                         Hm***  
+    ***F#                         Hm***  
   I.ve got to breathe I can't keep going under  
   
   *Пpипeв*

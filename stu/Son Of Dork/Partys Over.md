@@ -16,47 +16,47 @@ Intro:  [E|--2------0--2----2------0--2----2-----0--2---0--2----|
   
     ***D***  
   Party's over  
-           ***G                                   D***  
+    ***G                                   D***  
   I just watched my girlfriend get laid on the sofa  
    ***G***  
   Does that seem weird to you?  
-               ***D***  
+    ***D***  
   The guy was older  
-                 ***G                                  D***  
+    ***G                                  D***  
   Heard someone say he got her clothes off playing poker  
-          ***Cadd9***  
+    ***Cadd9***  
   When I wasn't in the room  
-          ***Bm                        G         A***  
+    ***Bm                        G         A***  
   Can I assume this spells the end for me and you?  
   
    ***D***  
   Morning after  
-         ***G                          D***  
+    ***G                          D***  
   I go outside and the garden's a disaster  
-               ***G***  
+    ***G***  
   The kitchen table's in the pool  
-                 ***D***  
+    ***D***  
   The sound of laughter  
-         ***G                                D***  
+    ***G                                D***  
   Echoes on inside my mind, holes in the plaster  
-         ***Cadd9***  
+    ***Cadd9***  
   And I feel like such a tool  
-           ***Bm                      G              A***  
+    ***Bm                      G              A***  
   And so abused, don't think I've ever felt this used  
   
    ***D***  
 Chorus:  And goodbye  
    ***G***  
   Feels so sore  
-        ***D***  
+    ***D***  
   My relationship's over  
-       ***Cadd9***  
+    ***Cadd9***  
   I'm lost without a cause  
-           ***D***  
+    ***D***  
   I wonder why  
-                               ***Bm              D***  
+    ***Bm              D***  
   She strung me up and left me hanging out to dry  
-            ***A            Bm***  
+    ***A            Bm***  
   Tell the guys ... the party's over  
   
   [E|--2------0--2----0--2----|  
@@ -68,32 +68,32 @@ Chorus:  And goodbye
   
    ***D***  
   It's complicated  
-           ***G                              D***  
+    ***G                              D***  
   Stranded at first base I never saw her naked  
-           ***Cadd9***  
+    ***Cadd9***  
   Now I'll never get a chance  
    ***D***  
   I'm aggravated  
-           ***G                                  D***  
+    ***G                                  D***  
   When I think of all the precious time I've wasted  
       ***Cadd9***  
   On another dead romance  
-              ***Bm              G            A***  
+    ***Bm              G            A***  
   The days go by, they fade away and so do I  
   
    ***D***  
 Chorus:  And goodbye  
    ***G***  
   Feels so sore  
-       ***D***  
+    ***D***  
   My relationship's over  
-       ***Cadd9***  
+    ***Cadd9***  
   I'm lost without a cause  
-            ***D***  
+    ***D***  
   I wonder why  
-                                ***Bm             D***  
+    ***Bm             D***  
   She strung me up and left me hanging out to dry  
-            ***A***  
+    ***A***  
   Tell the guys ... the party's over  
   
    ***Bm              D***  
@@ -102,27 +102,27 @@ Bride:  And I can't get over
   Face the fact, it's over  
    ***Bm           G         D***  
   I don't know why I even try  
-         ***D           A***  
+    ***D           A***  
   My relationship's over  
-       ***Cadd9***  
+    ***Cadd9***  
   I'm lost without a cause  
-            ***D***  
+    ***D***  
   I wonder why  
-                               ***Bm              D***  
+    ***Bm              D***  
   She strung me up and left me hanging out to dry  
       ***A***  
   Tell the guys ... the party's over  
-             ***G         D***  
+    ***G         D***  
   It takes a while to realise  
-         ***G               D***  
+    ***G               D***  
   Funny how the feeling dies  
-               ***G           D***  
+    ***G           D***  
   Don't wanna hear your alibis  
-                 ***G            D***  
+    ***G            D***  
   For something you can't justify  
-                  ***G             D***  
+    ***G             D***  
   There's nothing here for me to say  
-                ***G              D***  
+    ***G              D***  
   It's not for me to save the day  
-                  ***G         D***  
+    ***G         D***  
   The lights are on so go away

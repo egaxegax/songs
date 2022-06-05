@@ -1,23 +1,23 @@
 <!--2020-09-05 01:17:12-->
 Bm  
 Oh, my love it makes me sad  
-         G#  
+    G#  
 Why did things turn out so bad?  
-               C#  
+    C#  
 Was it just a dream,  
-             Bm  
+    Bm  
 Everything we did,  
-              D#  
+    D#  
 Everything we had?  
 Baby, give me one more...  
   
 G#                               C#  
 Dance, while the music still goes on  
-            D#  
+    D#  
 Don't think about tomorrow  
 G#                            C#  
 Dance, and forget our time is gone,  
-           D#  
+    D#  
 Tonight's a night we borrow.  
       G#  
 Let's make it a memory, a night of our own  
@@ -25,7 +25,7 @@ Let's make it a memory, a night of our own
 A thing to remember when we're all alone  
    G#             Fm             C#  
 So dance, it's our way to say goodbye  
-                  D#  
+    D#  
 Yes, all we have to do is...  
   
 Dance, while the music still goes on  
@@ -35,7 +35,7 @@ God knows that we've been trying,
 But we didn't make it 'cause nothing's the same,  
 We just couldn't help it, nobody's to blame,  
 So dance, while the music still goes on  
-          D#              G#  
+    D#              G#  
 And let it be our last goodbye.  
   
 Yet, it seems to make me sad  

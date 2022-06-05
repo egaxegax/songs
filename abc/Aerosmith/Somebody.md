@@ -63,7 +63,7 @@
   D----9----7--7------2----------------2--------------|  
   A----7----5--5-----------------------2--------------|  
   E-------------------------3---2---0--0--------------|]  
-       Now won't you send me somebody  
+    Now won't you send me somebody  
   *(repeat twice)*  
   
   *I used two barre chords in this transcription without tabbing them. Here*  

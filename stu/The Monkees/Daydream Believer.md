@@ -17,15 +17,15 @@ Intro:  (piano, 2X)
   ***G       Am7/D***  
   / / / /   / / / /  
   
-               ***G               Am7***  
+    ***G               Am7***  
 Verse 1: Oh, I could hide 'neath the wings  
-         ***Bm              CaddD***  
+    ***Bm              CaddD***  
   Of the bluebird as she sings  
-       ***G           Em7              Aadd2   D***  
+    ***G           Em7              Aadd2   D***  
   The six o'clock alarm would never ring  
-           ***G         Am7***  
+    ***G         Am7***  
   But it rings and I rise  
-            ***Bm             CaddD***  
+    ***Bm             CaddD***  
   Wipe the sleep out of my eyes  
      ***G       Em7     Am11  D7      G***  
   My shaving razor's cold and it stings  

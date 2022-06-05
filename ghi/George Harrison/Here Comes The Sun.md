@@ -24,7 +24,7 @@
   Little darling, it seems like years sinc it's been clear.  
   
   *middle section:                   repeat x4    after last repeat play:*  
-                                                                  **1*  
+    **1*  
   ***F     C     G            D      A7 :|       |A7  | A7sus | A7 | A7 |***  
   Sun,  sun,  sun, here it comes.  
   

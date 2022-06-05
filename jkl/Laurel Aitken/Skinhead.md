@@ -1,9 +1,9 @@
 <!--2020-09-05 13:42:06-->
 Skinhead  
   
-          ***C             F***  
+    ***C             F***  
   When a skinhead walks down the street,  
-          ***C           F***  
+    ***C           F***  
   Every chick heart skips a beat,  
   When a skinhead walks down the street,  
   Every chick heart skips a beat.  

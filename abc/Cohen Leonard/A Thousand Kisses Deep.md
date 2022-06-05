@@ -1,19 +1,19 @@
 <!--2020-09-04 23:37:00-->
 Intro: Fm . . . |C . . . |Fm . . . |. . /c . |  
   
-            Fm                 C  
+    Fm                 C  
 The ponies run, the girls are young  
-               Fm           /c  
+    Fm           /c  
 The odds are there to beat  
-            Fm                  C  
+    Fm                  C  
 You win a while, and then it's done  
-             Db  
+    Db  
 Your little winning streak  
-              Bbm    C  
+    Bbm    C  
 And summoned now to deal  
-         Fm       (/g)  Dm-5  
+    Fm       (/g)  Dm-5  
 With your invincible defeat  
-               Bbm7            C  
+    Bbm7            C  
 You live your life as if it's real  
 Db          Eb     Fm  
 A Thousand Kisses Deep  
@@ -30,11 +30,11 @@ A Thousand Kisses Deep
 Fm . . . |C . . . |Fm . /c . |Fm . /c . |  
 Fm . . . |C . . . |Db . . . |. . . . |  
   
-                Bbm               C  
+    Bbm               C  
 And sometimes when the night is slow  
 Fm           (/g)     Dm-5  
 The wretched and the meek  
-          Bbm7               C  
+    Bbm7               C  
 We gather up our hearts and go  
 Db          Eb     Fm  
 A Thousand Kisses Deep  
@@ -86,19 +86,19 @@ Em/f#:    222000
   
 Intro: Em . . . |B . . . |Em . . . |. . /b . |  
   
-            Em                 B  
+    Em                 B  
 The ponies run, the girls are young  
-               Em           /b  
+    Em           /b  
 The odds are there to beat  
-            Em                  B  
+    Em                  B  
 You win a while, and then it's done  
-             C  
+    C  
 Your little winning streak  
-              Am     B  
+    Am     B  
 And summoned now to deal  
-         Em      (/f#)  C#m-5  
+    Em      (/f#)  C#m-5  
 With your invincible defeat  
-               Am7             B  
+    Am7             B  
 You live your life as if it's real  
 C           D      Em  
 A Thousand Kisses Deep  

@@ -50,30 +50,30 @@ Verse(Voice melody):
  |----------------------|-----------------------------------|  
  |----------------------|-----------------------------------|  
   
-        E     H        A         H  
-        Near, far, wherever you are,  
-          Cm#              H           A H  
-        I believe that the heart does go on.  
-        E    H         A        H  
-        Once more, you open the door  
-                   Cm#        H  
-        And you're here in my heart,  
-            A               Cm#  H   E  
-        And my heart will go on and on.  
+    E     H        A         H  
+    Near, far, wherever you are,  
+    Cm#              H           A H  
+    I believe that the heart does go on.  
+    E    H         A        H  
+    Once more, you open the door  
+    Cm#        H  
+    And you're here in my heart,  
+    A               Cm#  H   E  
+    And my heart will go on and on.  
   
-        Love can touch us one time and last for a lifetime,  
-        And never let go till we're gone.  
-        Love was when I loved you, one true time I hold to  
-        In my life we'll always go on.  
+    Love can touch us one time and last for a lifetime,  
+    And never let go till we're gone.  
+    Love was when I loved you, one true time I hold to  
+    In my life we'll always go on.  
   
-        Near, far, wherever you are,  
-        I believe that the heart does go on.  
-        Once more, you open the door  
-        And you're here in my heart,  
-        And my heart will go on and on.  
+    Near, far, wherever you are,  
+    I believe that the heart does go on.  
+    Once more, you open the door  
+    And you're here in my heart,  
+    And my heart will go on and on.  
   
-        You're here, there's nothing I fear  
-        And I know that my heart will go on.  
-        We'll stay forever this way,  
-        You are safe in my heart,  
-        And my heart will go on and on.
+    You're here, there's nothing I fear  
+    And I know that my heart will go on.  
+    We'll stay forever this way,  
+    You are safe in my heart,  
+    And my heart will go on and on.

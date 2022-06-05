@@ -1,6 +1,6 @@
 <!--2020-09-06 04:52:45-->
 intro: H(Vll)   A#  A G# G  
-               Right! now ha,ha  
+    Right! now ha,ha  
   
 Проигрыш: (G  C E)-играть четыре раза  
   
@@ -11,7 +11,7 @@ G             C  E
  I am an anarchist.  
 G  
  dont Know what i want  
-                   C   E  
+    C   E  
  but i know how to get it.  
 G                      C E  
  I wanna destroy passer by  

@@ -19,7 +19,7 @@
   e---------------------------------------]  
   *play fig 1 and fig 2 wherever u feel its reqrired in the song*  
   *the rythm guitar starts off like this*  
-                ***C#5                 B5     F#5***  
+    ***C#5                 B5     F#5***  
   [e-------------------------------------------------------------  
   b-------------------------------------------------------------  
   g-------------6-6-6------6----6---4-4-4-----------------------  
@@ -27,7 +27,7 @@
   a-------------4-4-4-4--4-4--4-4---2-2-2-------5--5-5----------  
   e----------------------------------------3--3-3----3----------]  
   *then play this till the song ends*  
-         ***C#5                 B5     F#5***  
+    ***C#5                 B5     F#5***  
   [e-------------------------------------------------------------  
   b-------------------------------------------------------------  
   g------6-6-6------6----6---4-4-4------------------------------  
@@ -58,8 +58,8 @@ veres 2: I'm not satisfied with Versace style.
   *chorus 2:(same as before)*  
   
   *Bridge:(think the chords r quite different here for the first 5 lines, its*  
-           ****E***, ***B***, ***C#***, ***E***, ***G#5***, try to find out where it changes. last line its*  
-           *same as other part of the song)*  
+    ****E***, ***B***, ***C#***, ***E***, ***G#5***, try to find out where it changes. last line its*  
+    *same as other part of the song)*  
   
   yeah, it's you.  
   it could only be you.  

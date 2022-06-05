@@ -7,11 +7,11 @@ Running to Paradise (1996)
   
     ***G           D          C         G***  
 (1)  Sing all ye joyful, now sing all together?  
-       ***G              D             C             G***  
+    ***G              D             C             G***  
   The wind's in the free-top, the wind's in the heather;  
-        ***Am            Em        Am(C)         D***  
+    ***Am            Em        Am(C)         D***  
   The stars are in blossom, the moon is in flower,  
-        ***C                         D           G***  
+    ***C                         D           G***  
   And bright are the windows of Night in her tower.  
   
 (2)  Dance all ye joyful, now dance all together!  

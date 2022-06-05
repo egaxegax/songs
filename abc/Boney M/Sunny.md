@@ -26,7 +26,7 @@ Sunny
   Sunny, thank you for the facts from A to C.  
     ***C#m                   E***  
   My life was torn like a windblown sand,  
-          ***A                        D***  
+    ***A                        D***  
   And the rock was formed when you held my hand.  
   ***G#7sus4      G#7         C#m    A7***  
   Sunny one so true, I love you.  

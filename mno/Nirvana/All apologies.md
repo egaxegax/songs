@@ -72,6 +72,6 @@ Intro/Verse: 3|-------------------------------------------
   6|-0----0-0---0----------0-0----0------------  
   
 Chorus:  ***G5*** (3rd fret bar on low ***D A*** and ***D*** strings)  
-          "Married" ***A5***  
+    "Married" ***A5***  
   
 Outro:  Play verse riff about a million times

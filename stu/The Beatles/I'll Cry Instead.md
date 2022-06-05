@@ -5,7 +5,7 @@ I`ve got every reason on earth to be mad,
 Cos I just lost the only girl I had  
    C7  
 If I could see you now, I`d try to make you say it somehow  
-       G               D      G  
+    G               D      G  
 But I can`t, so I`ll cry instead.  
   
 I got a chip on my shoulder that`s bigger than my feet  
@@ -13,9 +13,9 @@ I can`t talk to people that I meet
 If I could get my way, I`d get myself locked up today  
 But I can`t, so I`ll cry instead.  
   
-             Bm  
+    Bm  
 Don`t wanna cry when there`s people there  
-        A  
+    A  
 I get shy when they start to stare,  
       D                          E7               A7       D7  
 I`m gonna hide myself away, but I`ll come back again some day  

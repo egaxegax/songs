@@ -12,13 +12,13 @@ Radio Silence (1989)
   I know what I found is true  
   ***A                     E***  
   But the bitter gray sky  
-              ***F#m    Hm***  
+    ***F#m    Hm***  
   Fades into silence  
   ***F#m       E***  
   Only the fire is left  
-       ***D             Hm***  
+    ***D             Hm***  
   And some say it's not enough  
-                 ***F#m***  
+    ***F#m***  
   To carry us through  
   
   Days of apple bloom white  

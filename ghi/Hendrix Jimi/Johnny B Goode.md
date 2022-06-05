@@ -6,7 +6,7 @@ G|/8-------------------------------------7h8---8-8-8-8-8-8-8-8-|
 D|-------------------------------------------9-7-7-7-7-7-7-7-7-|  
 A|---------------------------------------------9-9-9-9-9-9-9-9-|  
 E|---------------------------------------------7-7-7-7-7-7-7-7-|  
-                        2x(chorus riff)  
+    2x(chorus riff)  
 E|---------------------||---------------------------------||  
 B|----7-9-7------------||-7-----7--7----7--7----7--7----7-||  
 G|-/8-------86-4-------||-9(11)----9(11)---9(11)---9(11)--||  
@@ -32,7 +32,7 @@ A||---------------------||
 E||---------------------||  
   
 Solo:  
-                      slow bend     slow trill  
+    slow bend     slow trill  
 E|----------------------------------------------------|  
 B|-9(11)9(11)9(11)9(11)-7-----------------------------|  
 G|-9(11)9(11)9(11)9(11)-9(11)~~9p7----9p7h9p7h9p7h9p7-|  
@@ -158,18 +158,18 @@ There stood a log cabin made of earth and wood
 Where lived a country boy named Johnny B. Goode  
     F#  
 Who never ever learned to read or write so well,  
-             B  
+    B  
 But he could play the guitar just like a ringin' a bell.  
   
 CHORUS:  
   
 B  
 Go! Go! Go, Johnny, go! Go!  
-                  E  
+    E  
 Go, Johnny, go! Go!  
-                 B  
+    B  
 Go, Johnny, go! Go!  
-                F#             B  
+    F#             B  
 Go, Johnny, go! Go! Johnny B. Goode  
   
 He used to carry his guitar in a gunny sack,  

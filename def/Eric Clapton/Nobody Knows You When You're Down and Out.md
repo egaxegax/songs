@@ -27,9 +27,9 @@
   Said it's mighty strange  
   ***D7                D#7 E7 F7***  
   Nobody knows you  
-                    ***F7 E7 D#7 D7***  
+    ***F7 E7 D#7 D7***  
   Nobody knows you  
-                   ***G7                      C  F7  C G7 C***  
+    ***G7                      C  F7  C G7 C***  
   Nobody knows you   when you're down and out  
   
   ****D#7***: [x x 1 3 2 3]  ***E7***: [x x 2 4 3 4]  ***F7***: [x x 3 5 4 5]*  
@@ -153,7 +153,7 @@ End:    ***D7                G7   
   I said it's strange without any doubt,  
   Nobody knows you when you're down and out.  
   *( rpt verse 3,4 )*  
-           *Nobody Loves You When You're Down & Out*  
+    *Nobody Loves You When You're Down & Out*  
   [E --1---  
   B --1---  
   G --2---  
@@ -167,9 +167,9 @@ End:    ***D7                G7   
   ***12/8 C E7 A7 Dm A7 Dm F F#КC/G A7 D7 G7***  
   *note desending  bass  - -    - -*  
    *END  ***D7***/// //***Eb7***([xx1323]) ***E7*** ([xx2434])*  
-        Nobody ...  
-        ****F7*** ([xx3535]) /// // ***Eb7***([xx1323]) ***E7*** ([xx2434]) ***D7***/      ***G7***/ ***C***/// ***C7***///*  
-        Nobody ...                                 Nobody.. When.....Out  
+    Nobody ...  
+    ****F7*** ([xx3535]) /// // ***Eb7***([xx1323]) ***E7*** ([xx2434]) ***D7***/      ***G7***/ ***C***/// ***C7***///*  
+    Nobody ...                                 Nobody.. When.....Out  
   *According to the Sheet Ending adds Bass and guitar notes i.e*  
   *I haven tried this yet.*  
   *Guitar   ***C  C  C C C  C  E****  

@@ -8,22 +8,22 @@ To let you know you're always on my mind
   
 Pre-Chorus1:  
   
-            A              E                 F#m  
+    A              E                 F#m  
 Ya this is love - n' I've learned enough to know  
      D(Dm)         A  
 I'm never lettin' go  
-        F#m             E  
+    F#m             E  
 No, no, no - won't let go  
   
 Chorus:  
   
-          A                  F#m  
+    A                  F#m  
 When you want it - when you need it  
-       D                E  
+    D                E  
 You'll always have the best of me  
-         A           F#m  
+    A           F#m  
 I can't help it - believe it  
-       D               E  
+    D               E  
 You'll always get the best of me  
   
 Verse2:  

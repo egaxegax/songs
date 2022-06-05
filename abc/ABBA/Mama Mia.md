@@ -9,7 +9,7 @@ D            F#+5
 Look at me now, will I ever learn?  
 D             F#+5              G  
 I don't know how but I suddenly lose control  
-                   A  
+    A  
 There's a fire within my soul  
  G   D    A  
 Just one look and I can hear a bell ring  

@@ -4,7 +4,7 @@ Intro: E A
 Verse:  
 E G#m A Am  
 E G#m A Am...  
-             C#m  
+    C#m  
 ...to start again  
 B A (B C#m)  
 B A  

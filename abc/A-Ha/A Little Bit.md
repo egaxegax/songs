@@ -1,32 +1,32 @@
 <!--2020-09-06 02:14:30-->
 A Little Bit  
   
-             ***Am                  F***  
+    ***Am                  F***  
   And it will take a little bit of extra time  
-        ***Dm                       G***  
+    ***Dm                       G***  
   To make it shine, to make it shine  
-           ***Am                             F***  
+    ***Am                             F***  
   And it will take a little bit of extra care  
-       ***Dm         G                        F G***  
+    ***Dm         G                        F G***  
   To bring it where you think it's there  
   
   ***Am          G               Dm***  
   And there's no one else around  
   ***C              Dm                    Am***  
   This is what I've found Anyone you see  
-            ***G***  
+    ***G***  
   Anyone you meet  
-                   ***Dm***  
+    ***Dm***  
   Some one at your feet  
-                   ***G***  
+    ***G***  
   Anyone could be that one  
-                 ***Am***  
+    ***Am***  
   Anyone you know  
-                        ***G***  
+    ***G***  
   Anywhere you go  
-                  ***Dm***  
+    ***Dm***  
   Some one in a show  
-                  ***G***  
+    ***G***  
   Could be that one  
   And it will take a little bit of all you've got  
   To get a shot, get a shot  
@@ -42,38 +42,38 @@ A Little Bit
   Pages of a book  
   All the years it took  
   Everything got you down  
-             ***F#m                             E***  
+    ***F#m                             E***  
   And it will take a little while to get back home  
-       ***Hm                       E***  
+    ***Hm                       E***  
   The road is long, the road is long  
-            ***F#m                           E***  
+    ***F#m                           E***  
   And it will take a little work to get it back  
-          ***Hm                                 E***  
+    ***Hm                                 E***  
   To mend the cracks, to bridge the gaps  
   
-                  ***Bm***  
+    ***Bm***  
   Anyone you see  
-                     ***A***  
+    ***A***  
   Could be the one  
-                     ***Em***  
+    ***Em***  
   Anyone you meet  
-                     ***A***  
+    ***A***  
   Could be that one  
-                  ***Bm***  
+    ***Bm***  
   Some one at your feet  
-                  ***A***  
+    ***A***  
   Could feel the same  
-                  ***Em***  
+    ***Em***  
   Maybe you'd complete  
-                  ***A***  
+    ***A***  
   Could share your name  
-                  ***Abm***  
+    ***Abm***  
   Anywhere you look  
-                 ***F#m***  
+    ***F#m***  
   Pages of a book  
-                  ***C#m***  
+    ***C#m***  
   Everything she took  
-          ***F#m***  
+    ***F#m***  
   Never let it keep you down  
   Holding out for used  
   Broken up and bruised  

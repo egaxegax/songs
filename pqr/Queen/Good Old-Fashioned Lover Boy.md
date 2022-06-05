@@ -18,17 +18,17 @@ A Day At The Races 1976
   What're you doin' tonight, hey boy -  
     ***Cm      Gm         Cm        Gm***  
   Set my alarm, turn on my charm  
-             ***Fm                 AЬm      BЬ7    EЬ***  
+    ***Fm                 AЬm      BЬ7    EЬ***  
   That's because I'm a good old-fashioned loverboy  
     ***AЬm                   EЬ                   EЬ7***  
   Ooh let me feel your heartbeat (grow faster, faster)  
      ***AЬm      GЬ7            CЬ***  
   Ooh Ooh can you feel my love heat  
-                         ***CЬ           GЬ7***  
+    ***CЬ           GЬ7***  
   Come on and sit on my hot-seat of love  
-               ***CЬ               BЬ       EЬ***  
+    ***CЬ               BЬ       EЬ***  
   And tell me how do you feel right after-all  
-                    ***AЬ            Gm Cm***  
+    ***AЬ            Gm Cm***  
   I'd like for you and I to go romancing  
       ***Fm            AЬm      BЬ7      EЬ   BЬ***  
   Say the word - your wish is my command  
@@ -40,7 +40,7 @@ A Day At The Races 1976
   Write my letter  
    ***Cm       Gm***  
   Feel much better  
-       ***Fm          AЬm            BЬ7     EЬ***  
+    ***Fm          AЬm            BЬ7     EЬ***  
   I'll use my fancy patter on the telephone  
    ***EЬ***  
   When I'm not with you  
@@ -58,9 +58,9 @@ A Day At The Races 1976
    ***Fm***  
   Hey boy where do you get it from  
   Hey boy where did you go?  
-                            ***AЬm***  
+    ***AЬm***  
   I learned my passion in the good old  
-             ***BЬ7           EЬ***  
+    ***BЬ7           EЬ***  
   fashioned school of loverboys-  
   *(***BЬ Cm Gm AЬ EЬ BЬ Cm G   Cm Gm Cm Gm Fm AЬ Gm AЬm EЬ BЬ Cm Gm Fm AЬm BЬ7***)*  
   Dining at the Ritz we'll meet at nine precisely  

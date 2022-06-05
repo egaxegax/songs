@@ -22,13 +22,13 @@
    I?d been staring out the window most of the morning  
  Am  
    I?d watched the rain claw at the glass  
-          G  
+    G  
    And a vicious wind blew hard and fast  
-                                Am  
+    Am  
    I should have taken it as a warning  
-         G        Am  
+    G        Am  
    As a warning A-a-as a warning  
-         G  
+    G  
    As a warning  
   
  [так же, как и выше:]  
@@ -41,9 +41,9 @@
  All its teeth bared All its teeth bared  
  All its teeth bared.  
   
-       Am         G  
+    Am         G  
  Hallelujah Hallelujah  
-       Am         G  
+    Am         G  
  Hallelujah Hallelujah  
   
  Bridge:  

@@ -102,19 +102,19 @@
      *guitar*  
   
   *Verse 1 (w/ Verse riff - clean guitar)*  
-        ***E   B5 D A5          E     B5    D A5***  
+    ***E   B5 D A5          E     B5    D A5***  
   I see you,     down in the front line.  
-         ***E              B5             D  A5       E     B5 D A5***  
+    ***E              B5             D  A5       E     B5 D A5***  
   Such a sight for sore eyes, you're a suicide makeover.  
-          ***E    B5 D A5                E     B5   D A5***  
+    ***E    B5 D A5                E     B5   D A5***  
   Plastic eyes,     lookin' through a numbskull.  
-       ***E***  
+    ***E***  
   Self effaced.  
-             ***B5***  
+    ***B5***  
   What's his face.  
       ***D         A5      E        B5***  
   You erase yourself so shut up.  
-            ***D       A5***  
+    ***D       A5***  
   You don't let up.  
   
   *Pre-Chorus (w/ Pre-Chorus riff - distorted guitar)*  
@@ -136,11 +136,11 @@
   *Verse 2 (w/ Verse riff - clean guitar)*  
       ***E    B5 D A5            E          B5 D A5***  
   Hey you,      where did you come from.  
-        ***E            B5              D      A5      E    B5 D A5***  
+    ***E            B5              D      A5      E    B5 D A5***  
   Got a head full of lead, you're an inbred bastard son.  
-        ***E         B5           D       A5        E       B5***  
+    ***E         B5           D       A5        E       B5***  
   Do or die, no reply, don't deny that you're synthetic.  
-            ***D      A5***  
+    ***D      A5***  
   You're pathetic.  
   
   *Pre-chorus*  

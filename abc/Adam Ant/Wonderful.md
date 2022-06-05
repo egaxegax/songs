@@ -30,48 +30,48 @@ CHORDS USED:    ***A#m C# C#maj7 E Emaj7 Em F  Fm F#
      *Notes        ***B  B        A#    A#    A# B     C# C  B****  
   *I: Beats  1  .  .  .  2  .  .  .  3  .  .  .  4  .  .  .*  
      *Chords ***C# C# C# C# C# C# C# C# C#          C#****  
-                  *mj mj       mj mj             mj*  
-                  *7  7        7  7              7*  
+    *mj mj       mj mj             mj*  
+    *7  7        7  7              7*  
   *J: Beats  1  .  .  .  2  .  .  .  3  .  .  .  4  .  .  .*  
      *Chords ***E  E  E  E  E  E  E  E  E           E****  
-                  *mj mj       mj mj             mj*  
-                  *7  7        7  7              7*  
+    *mj mj       mj mj             mj*  
+    *7  7        7  7              7*  
   *K: Bars   1    2    3    4*  
      *Chords      ***F    F#   A#m****  
   
   *Order of riffs:*  
     *Intro:  A*2*  
-            *(E on bars 4 & 8 of intro)*  
+    *(E on bars 4 & 8 of intro)*  
   *Verse 1:  A*2*  
-            *(E on bar 8 of verse)*  
+    *(E on bar 8 of verse)*  
    *Chorus:  A*4         - These 2 lines (16 bars)*  
-            *D*8, B*2    - play at the same time.*  
-            *(E on bars 4,8,12 & 16 of chorus)*  
+    *D*8, B*2    - play at the same time.*  
+    *(E on bars 4,8,12 & 16 of chorus)*  
   *Verse 2:  A*2         - These 2 lines (8 bars)*  
-            *C*2         - play at the same time.*  
-            *(E on bar 8 of verse)*  
+    *C*2         - play at the same time.*  
+    *(E on bar 8 of verse)*  
    *Chorus:  A*4         - These 2 lines (16 bars)*  
-            *D*8, B*2    - play at the same time.*  
-            *(K on bar 14)*  
-            *(E on bars 4,8 & 12 of chorus)*  
+    *D*8, B*2    - play at the same time.*  
+    *(K on bar 14)*  
+    *(E on bars 4,8 & 12 of chorus)*  
    *Fill 1:  I*2, J*2, I*2, J*2*  
   *Verse 3:  I*2, J*2    - These 2 lines (4 bars)*  
-            *F*2, G*2    - play at the same time.*  
+    *F*2, G*2    - play at the same time.*  
   *Verse 4:  I*2, J*2      - These 2 lines (4 bars)*  
-            *F*2, H*1, G*1 - play at the same time.*  
+    *F*2, H*1, G*1 - play at the same time.*  
    *Fill 2:  I*2, E chord  - play lines together.*  
-            *F*2, B note 1/2 way through beat 1*  
-            *(E on bar 4 of fill)*  
-                          *- fill 2 is 4 bars.*  
+    *F*2, B note 1/2 way through beat 1*  
+    *(E on bar 4 of fill)*  
+    *- fill 2 is 4 bars.*  
     *Outro:  A*1*  
-            *A*1    - These 2 lines (4 bars)*  
-            *B*1    - play at the same time.*  
-            *A*6    - These 3 lines (24 bars)*  
-            *B*6    - play at the same time.*  
-            *D*24   -*  
-            *(E on bars 4,8,12,16,20,*  
-                       *24,28 & 32 of outro)*  
-            *Finish with ***C#*** chord.*  
+    *A*1    - These 2 lines (4 bars)*  
+    *B*1    - play at the same time.*  
+    *A*6    - These 3 lines (24 bars)*  
+    *B*6    - play at the same time.*  
+    *D*24   -*  
+    *(E on bars 4,8,12,16,20,*  
+    *24,28 & 32 of outro)*  
+    *Finish with ***C#*** chord.*  
   
   *LYRICS:*  
 Intro:  do do doooo do doo  do do dooo  

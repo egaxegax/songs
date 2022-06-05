@@ -6,18 +6,18 @@
   So far we've not really stayed in touch  
   ***C                      Bb9                   C              G***  
   Well I knew as much, it's no surprise that today  
-         ***C                  G    C                    Bb9***  
+    ***C                  G    C                    Bb9***  
   I'll get up round two, with nothing to do  
   ***C                           Am***  
   Except get a touch of flu  
   
       ***Am   D***  
 Chorus:  And I might as well just grin and bear it  
-                ***C                    A***  
+    ***C                    A***  
   'Cos its not worth the trouble of an argument  
-              ***Am                         D***  
+    ***Am                         D***  
   And in any case I'd rather wear it  
-                     ***C                         A***  
+    ***C                         A***  
   Your like a bad head in the morning  
   
   And I know......  

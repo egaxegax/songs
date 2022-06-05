@@ -21,7 +21,7 @@ HEATHEN CHEMISTRY (2002)
   
   ***AM                       AM/F  Am***  
 Verse 1: Born on a different cloud  
-            ***G***  
+    ***G***  
   From the ones that i pass 'round town  
   ***F                      F/D  F***  
   It's no surprise to me  
@@ -30,20 +30,20 @@ Verse 1: Born on a different cloud
   
   ***Am                    Am/f   Am***  
 Verse 2: Loaded just like a gun  
-             ***G***  
+    ***G***  
   You're the hero that's still unsung  
   ***F                      F/D  F***  
   Livin' on borrowed time  
-            ***E***  
+    ***E***  
   You're my sun and you're gonna shine  
   
   ***Dm***  
 Bridge 1: Talkin' to myself again  
-                           ***A***  
+    ***A***  
   This time I think I'm getting through.  
-        ***Dm***  
+    ***Dm***  
   It's funny how you think,  
-       ***A                      E***  
+    ***A                      E***  
   It's funny how, it's funny how when you do.  
   
   *Repeat Verse 1*  
@@ -52,15 +52,15 @@ Bridge 1: Talkin' to myself again
   
   ***G***  
 Bridge 2: Lonely soul,  
-               ***Am***  
+    ***Am***  
   Busy working over time.  
   ***G***  
   Nothing ever gets done,  
-                        ***Am***  
+    ***Am***  
   Especially when your hands are tied.  
   ***G***  
   Lonely soul,  
-                   ***Am***  
+    ***Am***  
   Breaking up your mother's pride.  
   ***G***  
   Nothing ever gets done,  

@@ -8,25 +8,25 @@ Phoenix From The Flames
   So you say nothing  
   ***Ab           Db          F#***  
   Feel they've rigged the game  
-           ***Ebm***  
+    ***Ebm***  
   And your done with lovin'  
   ***F     Bbm-Ab         F#              Db***  
   Only you can see the darkness in the northern lights  
   ***Db      Db7/Bbm  F#***  
   Phoenix from the flames  
-          ***Db***  
+    ***Db***  
   We will rise together  
   ***Db       Db7/Bbm    F#***  
   They will know our names  
-           ***Db***  
+    ***Db***  
   Can you feel it  
   ***Db     Db7/Bbm      F#m***  
   Shelter me from the pain  
-                           ***Eb***  
+    ***Eb***  
   I always wanna feel this way  
   ***F#***  
   Oh yeah  
-                               ***Db***  
+    ***Db***  
   Just like a phoenix from the flame  
   Wish they'd take you back  
   'Cos you miss heaven  
@@ -49,17 +49,17 @@ Phoenix From The Flames
   Everybody said you're gonna take it  
   ***Ab           F#-Ab***  
   Too far baby now  
-         ***Db H***  
+    ***Db H***  
   Well come on  
-              ***F#         Db     Db  H***  
+    ***F#         Db     Db  H***  
   When you're done with lovin  
-           ***F#            Db  H***  
+    ***F#            Db  H***  
   It comes down to nothing  
-               ***F#***  
+    ***F#***  
   Can you feel it  
-              ***Abm***  
+    ***Abm***  
   Can you feel it  
-              ***Ab***  
+    ***Ab***  
   Can you feel it  
   Phoenix from the flames  
   We will rise together  

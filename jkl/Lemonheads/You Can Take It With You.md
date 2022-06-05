@@ -22,15 +22,15 @@ Intro:  ***A F#m Bm G*** } 2x
   
 Bridge intro: ***A  A  Fmaj7 E*** } 2x  
   
-       ***A          D***  
+    ***A          D***  
   found myself a breathing place  
-       ***A          D***  
+    ***A          D***  
   got room to stand up straight  
-       ***A                     C#m             E***  
+    ***A                     C#m             E***  
   and if I wanna lay around I can  
-       ***D               A***  
+    ***D               A***  
   find way to pass the time  
-       ***D               A***  
+    ***D               A***  
   flat down or on my side  
   ***Fmaj7                E***  
   and in a while I close my eyes  

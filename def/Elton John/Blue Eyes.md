@@ -4,25 +4,25 @@ Blue Eyes
   
   ***Bb        Fm              Abm Gm***  
   Blue eyes baby's got blue eyes  
-                   ***Eb***  
+    ***Eb***  
   Like a deep blue sea  
-        ***Bb       F***  
+    ***Bb       F***  
   On a blue blue day  
   ***Bb        Fm          Abm  Gm***  
   Blue eyes baby's got blue eyes  
-                   ***Eb***  
+    ***Eb***  
   When the morning comes  
-          ***Bb   Gm***  
+    ***Bb   Gm***  
   I'll be far away  
   ***A***  
   And I say  
   ***Dm                          Bb***  
   Blue eyes holding back the tears  
-                   ***F***  
+    ***F***  
   Holding back the pain  
   ***Fm          Abm  Gm***  
   Baby's got blue eyes  
-            ***Eb   Bb-C-F***  
+    ***Eb   Bb-C-F***  
   And she's alone again  
   Blue eyes baby's got blue eyes  
   Like a clear blue sky  

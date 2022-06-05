@@ -55,5 +55,5 @@ Intro E | A
   
  End  
  E  A  f#m  A  
-           Baby, I can take it c'mon lie to me.  
+    Baby, I can take it c'mon lie to me.  
  E  A (repeat til' fade)

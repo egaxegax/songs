@@ -4,26 +4,26 @@ F
 Chorus:  
 B        C                F              B  
 Hey, Mr. Tambourine Man, play a song for me,  
-          F              B               C  
+    F              B               C  
 I'm not sleepy and there is no place I'm going to.  
 B        C                F              B  
 Hey, Mr. Tambourine Man, play a song for me,  
-       F             B                 C         F  
+    F             B                 C         F  
 In the jingle jangle morning I'll come following you.  
   
-          B                C  
+    B                C  
 Though I know that evenings empire  
     F             B  
 Has returned into sand,  
 F                B  
 Vanished from my hand,  
-         F               B                     C  
+    F               B                     C  
 Left me blindly here to stand, but still not sleeping.  
     B         C              F            B  
 My weariness amazes me, I'm branded on my feet,  
   F               B  
 I have no one to meet,  
-       F                 B                    C  
+    F                 B                    C  
 And the ancient empty street's too dead for dreaming.  
   
 Chorus.  

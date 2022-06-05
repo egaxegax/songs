@@ -1,7 +1,7 @@
 <!--2020-09-05 00:13:18-->
 F  
 Close your eyes, close the door  
-                   G          G7  
+    G          G7  
 You don?t have to worry any more  
  Bb         C         F         C  
 I?ll be your baby tonight  
@@ -11,7 +11,7 @@ You don?t have to be afraid
 I?ll be your baby tonight  
   
 BRIDGE:  
-             Bb  
+    Bb  
 Well, that mockingbird?s gonna sail away  
 F  
 We?re gonna forget it  

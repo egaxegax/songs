@@ -46,19 +46,19 @@ INTRO:  ***A G-G D-D A-A*** all barre chords
   
   ***A          G***  
 verse 1: Now I rest my head from  
-            ***D  A***  
+    ***D  A***  
   Such an endless dreary time.  
   ***A                          G***  
   A time of hope and happiness  
-          ***D                    A***  
+    ***D                    A***  
   That had you on my mind.  
   ***A                                   G***  
   Those days are gone and now it seems  
-       ***D                   A***  
+    ***D                   A***  
   As if I'll get some rest.  
   ***A                      G***  
   But now and then I'll see you again  
-         ***D                          A***  
+    ***D                          A***  
   And put my heart to the test.  
   
   ***D                           E                      A-A D-A***  
@@ -67,7 +67,7 @@ chorus:  So when are all my problems going to end?
   I'm understanding now that we are  
   ***A      D***  
   Only friends.  
-            ***G                    D***  
+    ***G                    D***  
   To this day I'm asking why  
   ***(N.C.)                        A G-G D-D A-A***  
   I still think about you.  

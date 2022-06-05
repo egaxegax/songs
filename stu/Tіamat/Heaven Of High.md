@@ -14,7 +14,7 @@ INTRO:  ***G D/F# Em C***
   I'm the one to blame for everything  
       ***C                           G***  
   A substitute for God, a sacred muse  
-       ***C                               G***  
+    ***C                               G***  
   The hell with it, it's just a lame excuse  
   ***D7                               G***  
   Everything I ever used I have abused  

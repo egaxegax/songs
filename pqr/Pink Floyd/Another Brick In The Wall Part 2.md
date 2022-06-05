@@ -37,7 +37,7 @@ The Wall (1979)
   *s  =  sixteenth note = ¬ beat*  
   *R  =  rest*  
   **-----* =*  
-            *Repeat*  
+    *Repeat*  
   **-----* =*  
   *That's the song in a nutshell. Enjoy!*  
   
@@ -50,7 +50,7 @@ The Wall (1979)
   Hey teacher .. leave them kids alone  
    \      \    \  \\    \ \      \\\        \      \  
   ***Dm(10) C(8) Dm(10)    Dm(5)    Am(5)      G      F***  
-                           ***C                        Dm(5)***  
+    ***C                        Dm(5)***  
   All in all you're just a-nother brick in the wall  
   *The numbers refer to the postion the chord is played in.*  
   *By the way there are some different chords played by the keyboard behind the*  
@@ -74,7 +74,7 @@ The Wall (1979)
     +-+-+-+-+-+    +-+-+-+-+-+    +-+-+-+-+-+    +-+-+-+-+-+  
   3 | o | | | | 12 | o o | | | 10 | o o | | |  3 | | o o o |  
     +-+-+-+-+-+    +-+-+-+-+-+    +-+-+-+-+-+    +-+-+-+-+-+]  
-         ***C           Dm (X)         C (VIII)         Bb***  
+    ***C           Dm (X)         C (VIII)         Bb***  
   
   *Words:*  
   ***Dm(v)***  
@@ -140,7 +140,7 @@ The Wall (1979)
   |-x----------------------------------------------------------  
   |------------------------------------------------------------  
   |------------------------------------------------------------  
-                                                         *cont..*  
+    *cont..*  
   |-------10---------------------------------------------------  
   |----10----13p10---------------------------------------------  
   |-12-------------12--b(14)rb(12)-p-10---12-p-10-------10-----  

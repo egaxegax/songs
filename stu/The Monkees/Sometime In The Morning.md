@@ -5,7 +5,7 @@ Sometime In The Morning
   Sometime in the morning  
     ***Em                   Dm7    G7***  
   A simple thought may occur to you  
-             ***C***  
+    ***C***  
   And you'll hold her  
   ***Dm   G            Em***  
   And tell her all the things you  
@@ -15,19 +15,19 @@ Sometime In The Morning
   Your love has shown me things  
     ***F                     C***  
   I never thought I could see  
-           ***G7       C***  
+    ***G7       C***  
   I didn't know  
-              ***F       C***  
+    ***F       C***  
   It could be done so easily  
-        ***G7         C***  
+    ***G7         C***  
   Now I know  
-         ***F        C      G7***  
+    ***F        C      G7***  
   You're where it is for me.  
   ***C               Dm      G***  
   Sometime in the evening  
-         ***Em                   Dm7 G7***  
+    ***Em                   Dm7 G7***  
   You're sitting there by the fireside  
-             ***C***  
+    ***C***  
   And she'll touch you  
   ***Dm G     Em        Dm       G7***  
   And then you'll realize how much you  
@@ -35,17 +35,17 @@ Sometime In The Morning
   Never knew before  
       ***F                 C***  
   How much you couldn't see  
-             ***G7    C***  
+    ***G7    C***  
   You didn't know  
-              ***F       C***  
+    ***F       C***  
   It could be done so easily  
-          ***G7    C***  
+    ***G7    C***  
   Now you know  
-        ***F     C          G7***  
+    ***F     C          G7***  
   She's all a girl could be  
   ***F    C***  
   Now  
-         ***G7        C***  
+    ***G7        C***  
   In her childlike eyes  
   ***F           C***  
   You see the beauty there  
@@ -57,7 +57,7 @@ Sometime In The Morning
   Sometime in the morning  
   ***F                 C***  
   You'll just reach out  
-               ***G7     C***  
+    ***G7     C***  
   and she will be there  
   ***F            C      G7***  
   Close as the summer air  

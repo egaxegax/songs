@@ -12,23 +12,23 @@ Regrets (duet with Jean-Luis Murat)
 (1)  Loin tres loin du monde  
       ***G#m***  
   Ou rien ne meurt jamais  
-        ***A#***  
+    ***A#***  
   J'ai fait ce long,  
-            ***D#m***  
+    ***D#m***  
   Ce doux voyage.  
   ***D#m***  
   Nos ames se confondent  
-       ***G#m***  
+    ***G#m***  
   Aux neiges eternelles  
       ***A#***  
   L'amour cachait  
-             ***D#m***  
+    ***D#m***  
   Son vrai visage  
   ***D#m                     G#m***  
   Oh viens, ne sois plus sage  
      ***A#           D#m***  
   Apres tout qu'importe  
-                ***G#m***  
+    ***G#m***  
   Je sais la menace  
    ***A#         D#m***  
   Des amours mortes  
@@ -36,22 +36,22 @@ Regrets (duet with Jean-Luis Murat)
   Gardons l'innocence  
   ***A#        D#m***  
   Et l'insouciance  
-                  ***G#m       A#***  
+    ***G#m       A#***  
   De nos jeux d'antan, troublants  
   
-        ***D#m       G#***  
+    ***D#m       G#***  
 Припев:  N'aie pas de regret  
-            ***F#           A#m***  
+    ***F#           A#m***  
   Fais moi confiance, et pense  
      ***D#m         G#***  
   A tous les no way  
-            ***F#        A#m***  
+    ***F#        A#m***  
   L'indifference des sens  
-        ***D#m       G#***  
+    ***D#m       G#***  
   N'aie pas de regret  
-            ***F#         A#m***  
+    ***F#         A#m***  
   Fais la promece, tu sais que  
-       ***D#m        G#              A#***  
+    ***D#m        G#              A#***  
   L'hiver et l'automne n'ont pu s'aimer  
   
 (2)  Debout la tete ivre  

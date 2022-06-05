@@ -22,9 +22,9 @@ You're beautiful
   You're beautiful,  it's true.  
      ***Ab         B      Eb Eb+7/G  Cm***  
   I saw your face in a crowded   place,  
-         ***Ab          B     Cm***  
+    ***Ab          B     Cm***  
   And I don't know what to do,  
-              ***Ab     B       Eb***  
+    ***Ab     B       Eb***  
   'Cause I'll never be with you.  
   
   Yeah, she caught my eye,  

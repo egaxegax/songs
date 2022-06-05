@@ -5,11 +5,11 @@ Favorite T
   
   ***Am                       Dm***  
   I thought we had an understanding there  
-                ***C***  
+    ***C***  
   that wouldn't leave too soon  
   ***F                         Dm***  
   Figure it over and you'll find out where  
-       ***Em                  G***  
+    ***Em                  G***  
   your green shirt's gone  
   ***Am                     Dm***  
   Had to hear about your Danish boyfriend  
@@ -17,7 +17,7 @@ Favorite T
   I forced a swoon  
   ***F                     Dm***  
   So I went over to your dresser drawer  
-            ***Em          G***  
+    ***Em          G***  
   and now I got it on  
   
   *Chorus. Weird chords (Don't know the names of these chords. Perhaps you do?)*  
@@ -44,19 +44,19 @@ Favorite T
   *(etc - listen to the record and you'll get it, I hope)*  
   ***Am                       Dm***  
   Fill in the shadows of a certain corner  
-              ***C***  
+    ***C***  
   you used to sit there  
   ***F                        Dm***  
   got me a brand new lamp, plugged it in  
-              ***Em                   G***  
+    ***Em                   G***  
   and now the dark don't fit there  
   ***Am                        Dm***  
   Ain't got the time or the inclination  
-              ***C***  
+    ***C***  
   to see this through  
   ***F                       Dm***  
   I'm lookin up, climbing out of the station  
-           ***Em            G***  
+    ***Em            G***  
   and the sky's too blue  
   *Chorus:*  
   The sky's too blue  

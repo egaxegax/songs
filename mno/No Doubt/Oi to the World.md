@@ -14,15 +14,15 @@ Verse 1: (Use rock riffs)
   E--5-5-------------------------------------------------]  
   ***A          C#m            D         E***  
   Haji was a punk just like any other boy  
-          ***A            C#m              D             E***  
+    ***A            C#m              D             E***  
   And he never had no trouble until he started up his Oi band,  
   ***A           C#m       D              E***  
   safe in the garage or singing in the tub.  
-       ***C#m          D    B     A***  
+    ***C#m          D    B     A***  
   Till Haji went to far and he plugged in at the pub  
   ***A              C#m                D              E***  
   It was a cold Christmas eve when Trevor and the skins  
-         ***A        C#m         D              E***  
+    ***A        C#m         D              E***  
   popped in for a pint and to nick a back of crisps  
   
   *Second part of the verse:(Play only the notes):*  
@@ -41,9 +41,9 @@ Chorus:  (rock riffs)
   If god came down on Christmas Day  
     ***A            F#m***  
   I know exactly what he'd say  
-            ***C#m                 D***  
+    ***C#m                 D***  
   He'd say "Oi to the punks and Oi to the skins-  
-       ***C#m        D         A***  
+    ***C#m        D         A***  
    but Oi to the world and everybody wins!"  
   
 Verse 2: (play ska riffs)  

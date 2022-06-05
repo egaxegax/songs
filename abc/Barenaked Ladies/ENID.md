@@ -49,7 +49,7 @@ ENID
   Enid, Enid you caught a cold  
   ***G                         Am***  
   I could get a job I could pay the phone bills  
-          ***Cm                       G***  
+    ***Cm                       G***  
   I could cut the lawn cut my hair cut out my cholesterol  
   ***G                       Am***  
   I could work overtime I could work in a mine  

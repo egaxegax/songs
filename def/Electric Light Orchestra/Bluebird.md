@@ -6,13 +6,13 @@ Secret Messages (1983)
   The streets, the signs are pointing all one way  
    ***G       C***  
   But you don't realize just what they say  
-           ***G             G/F#         F                Em***  
+    ***G             G/F#         F                Em***  
   You may fight, you may run, you may know what you've done  
   ***Eb          Bb             Eb         Bb         Eb Bb***  
   It makes me feel so sad to think what I might've had  
   ***Bb                 Bb/A             Bb/Ab           C***  
   I watch the stars, I watch the sun, now I watch for anyone  
-                ***Eb   D***  
+    ***Eb   D***  
   But it's only make believe  
   
   You work, you work, you work so hard and then  

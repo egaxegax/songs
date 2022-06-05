@@ -19,42 +19,42 @@ INTRO:  ***G***-***G***
   
   ***G***  
 VERSE-1: Found What I'd Lost inside  
-       ***G***  
+    ***G***  
   My Spirit has been Purified  
   ***G***  
   Take a thorn from my Pride  
-         ***G***  
+    ***G***  
   And hand in hand we'll take a walk outside  
   
   ***Gm/Bb***  
 CHORUS-1: Thank you for the sun  
-                ***A7sus4***  
+    ***A7sus4***  
   The one that shines on everyone  
-       ***Cadd9         G/B***  
+    ***Cadd9         G/B***  
   Who Feels Love  
-           ***Gm/Bb***  
+    ***Gm/Bb***  
   Now there's a million years  
-              ***A7sus4***  
+    ***A7sus4***  
   Between my fantasies and fears  
       ***G***  
   I feel Love  
   
       ***G***  
 VERSE-2: I'm leaving all that I see  
-        ***G***  
+    ***G***  
   Now all my emotions fill teh air that i breathe  
   
   ***Gm/Bb***  
 CHORUS-2: Now you understand  
-               ***A7sus4***  
+    ***A7sus4***  
   that this is not the promised land  
-         ***Cadd9       G/B***  
+    ***Cadd9       G/B***  
   They spoke of  
-           ***Gm/Bb***  
+    ***Gm/Bb***  
   There's nothing more to be  
-              ***A7sus4***  
+    ***A7sus4***  
   If you can be the remedy  
-         ***G***  
+    ***G***  
   Who heals love  
   
 INSTRUMENTAL BREAK + SOLO:  
@@ -66,25 +66,25 @@ INSTRUMENTAL BREAK + SOLO:
   ***G/B     Gm/Bb***  
   
 CHORUS-3: I thank you for the sun  
-                 ***A7sus4***  
+    ***A7sus4***  
   The one that shines on everyone  
-        ***Cadd9        G/B***  
+    ***Cadd9        G/B***  
   Who Feels love  
-        ***Gm/Bb***  
+    ***Gm/Bb***  
   Now there's a million years  
-              ***A7sus4***  
+    ***A7sus4***  
   Between my fantasies and fears  
       ***Cadd9         G/B***  
   I feel love  
-       ***Gm/Bb***  
+    ***Gm/Bb***  
   I thank you for the sun  
-                 ***A7sus4***  
+    ***A7sus4***  
   The one that shines on everyone  
-        ***Cadd9        G/B***  
+    ***Cadd9        G/B***  
   Who Feels love  
-        ***Gm/Bb***  
+    ***Gm/Bb***  
   Now there's a million years  
-              ***A7sus4***  
+    ***A7sus4***  
   Between my fantasies and fears  
       ***Cadd9         G***  
   I feel love  

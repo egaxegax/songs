@@ -46,16 +46,16 @@ INTRO:  ***G***
   
   ***G                   D***  
 (1)  She, she screams in silence  
-                    ***C                           G         C G***  
+    ***C                           G         C G***  
   a sullen riot penetrating through her mind  
   ***G               D***  
   wai ting for a sign  
-                            ***C                                 G5***  
+    ***C                                 G5***  
   to smash the silence with the bricks of self control  
   ***D5                                  C5                   G5***  
 (2)  Are you locked up in a world  that's been planned out for you  
   are you feeling like a social tool without a use  
    ***G5       D5           G5     D5***  
   scream at me until my ears bleed  
-           ***G5    D5            A5***  
+    ***G5    D5            A5***  
   i'm taking heed just for you

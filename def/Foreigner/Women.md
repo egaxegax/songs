@@ -50,7 +50,7 @@
   Women you dream about all your life  
    ***B***  
   Women that stab you in the back  
-                       ****E5*** + (Intro/Main Riff)*  
+    ****E5*** + (Intro/Main Riff)*  
   With a switchblade knife  
   
   *Outro: Repeat intro and fade w/ad lib lyrics*

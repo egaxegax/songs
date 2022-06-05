@@ -5,23 +5,23 @@ Cold
   You don't love him any more  
   ***C             F                C***  
   He threw your rag doll out the door  
-            ***Db                  Ab***  
+    ***Db                  Ab***  
   I keep my distance, I held my breath  
-              ***Eb                   F***  
+    ***Eb                   F***  
   Love always ends up hanging by a thread  
-                ***Bbm***  
+    ***Bbm***  
   Love hurts so much  
-                ***Ab***  
+    ***Ab***  
   Love leaves a scar  
   ***F#***  
   'I don't love you' is like a stake  
   ***F***  
   Being driven through your heart  
-              ***F#***  
+    ***F#***  
   But I don't care  
-          ***Db***  
+    ***Db***  
   I came back for you  
-          ***F#                 Db***  
+    ***F#                 Db***  
   Love is cruel, but I don't care  
   ***Db-Cm    Bbm      F#        F    Bbm***  
   I wanted you, and I'm cold, cold, cold  

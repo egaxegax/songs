@@ -93,7 +93,7 @@ Intro:  [e------------------------------------------------------------------
   I dont have happy hours  
   ***A         D           B                  E***  
   I dont have anything since I dont have you  
-                           ***B           A***  
+    ***B           A***  
   Happiness and I guess I never will again  
   ***B***  
   When you walked out on me  

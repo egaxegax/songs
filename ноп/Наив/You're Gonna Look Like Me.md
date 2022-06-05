@@ -25,11 +25,11 @@
   ***F                               D    C    Am***  
   Have a well-balanced breakfast: eat! eat! eat!  
   
-                ***D    C    Am***  
+    ***D    C    Am***  
   You're gonna look like me!  
-                ***D    C    Am***  
+    ***D    C    Am***  
   You're gonna look like me!  
-                ***D    C    Am***  
+    ***D    C    Am***  
   You're gonna look like me!  
   
   Eat your meat and tie your shoes  
@@ -59,12 +59,12 @@
   Wash behind your ears and put away those toys  
   ***F#                                        G***  
   Show respect for authority and get a haircut  
-                              ***E        D     Hm***  
+    ***E        D     Hm***  
   Don't talk to strangers... FUCK IT! LET'S ROCK!  
   
-                ***E        D     Hm***  
+    ***E        D     Hm***  
   You're gonna FUCK IT! LET'S ROCK!  
-                ***E        D     Hm***  
+    ***E        D     Hm***  
   You're gonna FUCK IT! LET'S ROCK!  
-                ***E       D E D Hm***  
+    ***E       D E D Hm***  
   You're gonna FUCK IT!

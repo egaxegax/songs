@@ -7,9 +7,9 @@
   Heut bin ich ьber Rungholt gefahren, die Stadt ging unter vor sechshundert Jahren  
   ***Em                                                                          C                       Em***  
   Noch schlagen die Wellen da wild und empцrt, wie damals als sie die Marschen zerstцrt.  
-        ***A                                   G                                         D                    H7***  
+    ***A                                   G                                         D                    H7***  
   Die Maschine des Dampfers schьtterte, stцhnte, aus den Wassern rief es unheimlich und hцhnte  
-        ***G           Em***  
+    ***G           Em***  
   Trutz blanke Hans!  
   Von der Nordsee, der Mordsee vom Festland geschieden liegen die friesischen Inseln in Frieden.,  
   und Zeugen weltenvernichtender Flut taucht Hallig auf Hallig aus fliehender Flut.  

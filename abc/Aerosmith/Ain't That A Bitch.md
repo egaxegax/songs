@@ -4,44 +4,44 @@
   
    ***Gm                               C***  
    Up in smoke you've lost another lover  
-           ***Gm                          C***  
+    ***Gm                          C***  
    As you take a hit of your last cigarette  
       ***Ab        Bb***  
    Strung out, burnt out, yeah  
-           ***Cm                        Bb***  
+    ***Cm                        Bb***  
    you're down on your luck and you don't give a huh  
-             ***Ab                Bb***  
+    ***Ab                Bb***  
    'til the best part of you starts to switch  
    Ain't that a bitch  
      ***Cm             F***  
    Freak out, I'm alone now  
       ***Bb                           Eb***  
    I feel just like I'm losin' my mind  
-           ***Bb               Cm***  
+    ***Bb               Cm***  
    'cause love is like the right dress  
-            ***Ab***  
+    ***Ab***  
    On the wrong girl  
-        ***Eb                           Bb***  
+    ***Eb                           Bb***  
    You never know what you're gonna find  
-         ***Cm                   F***  
+    ***Cm                   F***  
    You think you're high and fine as wine  
-             ***Bb                      Eb***  
+    ***Bb                      Eb***  
    Then you wind up like a dog in a ditch  
-           ***Bb              Cm***  
+    ***Bb              Cm***  
    'Cause love is like a wrong turn  
-         ***Ab         F***  
+    ***Ab         F***  
    On a cold night     yeah  
-                 ***Eb     Cdim   Ab   Eb***  
+    ***Eb     Cdim   Ab   Eb***  
    Ain't that a bitch  
-         ***Cm                     F***  
+    ***Cm                     F***  
    In a daze,in the throes of emotion  
-            ***Cm                F***  
+    ***Cm                F***  
    You see God in the Devil's eyes  
-             ***Ab      Bb***  
+    ***Ab      Bb***  
    Then you fall so far from grace  
-        ***Cm                            Bb***  
+    ***Cm                            Bb***  
    You wouldn't know a kiss If it was on your face  
-            ***Ab                         Bb***  
+    ***Ab                         Bb***  
    You can tell it to the jury But you ain't got no case  
    Freak out, I'm alone now  
    I feel just like I'm losin'my mind  
@@ -66,9 +66,9 @@
    You never know what you're gonna find  
    You think you're high and fine as wine  
    Then you wind up with your face in the ditch  
-                          ***Cm      Cm/Bb***  
+    ***Cm      Cm/Bb***  
    'cause love is like a warm gun  
-         ***Ab       Ab/G  F                    Eb  Cdim Ab Eb***  
+    ***Ab       Ab/G  F                    Eb  Cdim Ab Eb***  
   
 -  
   
@@ -80,7 +80,7 @@
   D--3\(7)------------3\(7)---------------------3\(7)-------------|  
   A---------------------------------------------------------------|  
   E---------------------------------------------------------------|]  
-                                   "Strung out..."  
+    "Strung out..."  
   [E--------------------------------------8-------8----------------|  
   B---------------------------------11p8----11p8----11p8-----11p8-|  
   G---------8~~~~~-\11-10~~~~~~~~~--------------------------------|  
@@ -93,31 +93,31 @@
   G------------------------------------------|  
   D------------------------------------------|]  
   Up in smoke, you lost another lover  
-         ***Gm                            C***  
+    ***Gm                            C***  
   As you take a hit off your last cigarette  
   ***G#          Bb***  
   Strung out, burn out  
-               ***Cm                        Bb***  
+    ***Cm                        Bb***  
   Yeah, you're down on your luck and you don't give a... huh  
-           ***G#               Bb***  
+    ***G#               Bb***  
   Till the best part of you starts to twitch... ain't that a bitch  
   ***Cm              Fm***  
   Freak out! I'm alone now!  
     ***Bb                           Eb***  
   I feel just like I'm losing my mind  
-         ***Eb/D             Cm                 G#***  
+    ***Eb/D             Cm                 G#***  
   'Cause love is like the right dress on the wrong girl  
       ***Eb                           Bb***  
   You never know what you're gonna find  
       ***Cm                    Fm***  
   You think you're high and fine as wine  
-           ***Bb                      Eb***  
+    ***Bb                      Eb***  
   Then you wind up like a dog in a ditch  
-         ***Eb/D           Cm              G#***  
+    ***Eb/D           Cm              G#***  
   'Cause love is like a wrong turn on a cold night  
   ***Fm                 Eb***  
   Yeah, ain't that a bitch!  
-                                                         *gliss*  
+    *gliss*  
   [E---------------------------------------------------------------|  
   B---------------------------------------------------------------|  
   G---------13--12~~~~~~~~~~~----------11--/9~~~~~~~~-/(1)--------|  
@@ -135,10 +135,10 @@
   D----------------8\10------------|  
   A--------------------------------|  
   E--------------------------------|]  
-           ***G#      Bb***  
+    ***G#      Bb***  
       ***Cm              Bb***  
   You wouldn't know a kiss if it was on your face  
-            ***G#                          Bb***  
+    ***G#                          Bb***  
   You could tell it to the jury but you ain't got no case  
      *solo:             gradual                                gradual*  
   [E---------------------------------------------------------------|  
@@ -154,14 +154,14 @@
   D------------------5---------------------------------------5----|  
   A---------------------------------------------------------------|  
   E---------------------------------------------------------------|]  
-                                   *P.H.                  |-----v----|*  
+    *P.H.                  |-----v----|*  
   [E-----------3----6p3-----3--------------------13~~~-13----------|  
   B-------------3------3-6--------------------x----------13-------|  
   G-3b-rp0--------------------0-3b-rp0--------x-------------16p13-|  
   D--------3---------------------------5\(13)---------------------|  
   A---------------------------------------------------------------|  
   E---------------------------------------------------------------|]  
-                                                                   *|----v----|*  
+    *|----v----|*  
   [E----------------13-13~~~~~------------------------------------------------|  
   B----------------------------15-17b-r~~~-15-17-17b-r-15-13-13--13----------|  
   G----13-16b-r-13--------------------------------------------------13-------|  

@@ -60,7 +60,7 @@ Play for me, minstrel, play
 And take away our sorrows...  
   C  
 Play for me, minstrel, play  
-           G  Am  
+    G  Am  
 And we?ll follow...  
  C  
 Hear, listen, can you hear,  

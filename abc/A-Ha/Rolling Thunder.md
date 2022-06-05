@@ -2,30 +2,30 @@
 Rolling Thunder (5:40)  
   *(Pal Waaktaar/Magne Furuholmen)*  
   
-           ***E      H***  
+    ***E      H***  
   It's the weight below us  
-           ***Dbm   H***  
+    ***Dbm   H***  
   And our fate before us  
-          ***E       H***  
+    ***E       H***  
   Like a rolling thunder  
-          ***Dbm     H***  
+    ***Dbm     H***  
   Rolling up from under  
-              ***E         H***  
+    ***E         H***  
   Don't ever leave this way  
-              ***Dbm             E***  
+    ***Dbm             E***  
   I know it's getting harder, but hey  
-          ***E     F#    Abm***  
+    ***E     F#    Abm***  
   If your world should crumble, yeah  
-          ***Dbm***  
+    ***Dbm***  
   And the rain gets in  
-          ***E***  
+    ***E***  
   Running through your skin  
   ***F#***  
   Soaking you outside in  
   
       ***E               H***  
 chorus:  The rain ... see it falling  
-        ***Dbm              Abm        F#***  
+    ***Dbm              Abm        F#***  
   But I don't know how long it will be  
    ***E               H***  
   Until the storm's over  
@@ -34,29 +34,29 @@ chorus:  The rain ... see it falling
   ***H***  
   I will  
   ***E F# Db E***  
-           ***E        H***  
+    ***E        H***  
   Like the years of silence  
-         ***Dbm     H***  
+    ***Dbm     H***  
   To the growing violence  
-          ***E      H***  
+    ***E      H***  
   Like a rolling thunder  
-          ***E       H***  
+    ***E       H***  
   Rolling up from under  
-              ***E            H***  
+    ***E            H***  
   Don't ever leave me this way  
-                ***Dbm           E***  
+    ***Dbm           E***  
   Wait a little longer, yeah, stay  
-                  ***E       F#     Abm***  
+    ***E       F#     Abm***  
   Through all the night I tumble, yeah  
-           ***Dbm***  
+    ***Dbm***  
   When the rain comes in  
-         ***E***  
+    ***E***  
   I will shed my skin  
   ***F#***  
   Losing it from within  
-          ***E             H***  
+    ***E             H***  
   See the rain ... it's falling  
-        ***Dbm         Abm       F#***  
+    ***Dbm         Abm       F#***  
   But I won't be leaving your side  
    ***E           H***  
   Until all is over  
@@ -72,11 +72,11 @@ chorus:  The rain ... see it falling
   You hesitate  
   It's come too late  
   You hear the sound  
-          ***H***  
+    ***H***  
   Of when wheels engage  
-           ***E***  
+    ***E***  
   When the rain comes in  
-          ***H***  
+    ***H***  
   I will shed my skin  
       ***Db         F#m***  
   Losing it from within  

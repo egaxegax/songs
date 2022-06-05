@@ -9,15 +9,15 @@ Bb                 Am
 When I was sick in bed  
       Bb                    Am  
 I suppose that he told you everything  
-        Bb                     Am  
+    Bb                     Am  
 That I keep locked away in my head  
       Bb               Dm  
 Your master took you travelling  
-         F                    G  
+    F                    G  
 Well at least that's what you said  
      C      Em/b     C        Em/b  
 And now do you come back to bring  
-       F                 E       Am      C  
+    F                 E       Am      C  
 Your prisoner wine and bread?  
   
 You met him at some temple  

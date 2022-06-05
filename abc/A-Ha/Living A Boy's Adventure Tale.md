@@ -4,9 +4,9 @@
   
   Aaaahaahaaahahaaaa  
   ***D7+ E | F#- | B- C#- | D  E   | D7+ E | F#- | B- C#- | D E |***  
-                              Aaaahaahaaahahaa  
+    Aaaahaahaaahahaa  
   ***D7+ E | F#- | B- C#- | D E | D7+ E | F#- | B- C#- | D E |***  
-        ***A                 /E            /A                   F#-***  
+    ***A                 /E            /A                   F#-***  
   I've fixed my dwelling for the night lights in pairs come passing by  
     ***D7+        | D7+ | D7+ |***  
   where I hide  
@@ -29,10 +29,10 @@
   ***(D7+) | (D7+) |***  
       ***A                                               /E     F#-***  
   a change of weather the rain pours down my head in hands pressed to  
-                     ***d.   |***  
-        ***D7+  | D7+ | N.C. A***  
+    ***d.   |***  
+    ***D7+  | D7+ | N.C. A***  
   the ground  
-        ***C#-/G#  C#/F           D           D-***  
+    ***C#-/G#  C#/F           D           D-***  
   and where           am I supposed to go now  
    ***D7+       E      F#-         B- C#-     D        E***  
   living a boy's adventure tale        in so many ways  
@@ -49,13 +49,13 @@
   living a boy's adventure tale        because of you  
    ***D7+       E      F#-         B-    C#-     D_|            E_|***  
   living a boy's adventure tale           oh you know it's true  I'm  
-                                                                 ***f#***  
+    ***f#***  
    ***D7+       E      F#-         B-  C#-     D       E***  
   living a boy's adventure tale         in so many ways  
    ***c#c#  c# c#   c# g# g#   g#***  
    ***D7+       E       F#-     B-  C#-      D       E    D   E   F#-***  
   aaaah         ahhaaaaaa            for so many da.....ys   Ilove you I  
-           ***| B- C#- | D          E    D   E | F#- | B- C#- | D E |***  
+    ***| B- C#- | D          E    D   E | F#- | B- C#- | D E |***  
   love you              so many wa.....ys  
   ***D   E   F#-    | B- C#- | D E |***  
   aaaaaaahaaahaaa  

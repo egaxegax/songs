@@ -41,19 +41,19 @@ CHORUS:  I've got a pocket full of money (oh yes I do)
     ***D                                   C          G***  
   I just can't get you off my mind, yeah  
   
-              ***C#maj7                                             F#maj7***  
+    ***C#maj7                                             F#maj7***  
 INTERLUDE: Am I a fool to think that there's a little hope?  
   ***C#maj7***  
   Yeah......  
   ***G***  
   Tell me baby  
-                       ***C#maj7                                 F#maj7***  
+    ***C#maj7                                 F#maj7***  
   What are the rules, the reasons, and the do's and don'ts?  
   ***C#maj7       G***  
   Yeah......  
-             ***Bm                F***  
+    ***Bm                F***  
   Tell me baby, tell me baby  
-                               ***C***  
+    ***C***  
   What do you feeel inside?  
   
   *-solo- ***G***, ***Am*** } 2x*  

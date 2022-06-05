@@ -5,7 +5,7 @@ The Hurting (1983)
   
   ***Fmaj7***  
   How can I be sure  
-       ***G***  
+    ***G***  
   when your intrusion is my illusion?  
   ***Fmaj7***  
   How can I be sure?  
@@ -18,15 +18,15 @@ The Hurting (1983)
   
   ***C                      Am***  
   When you don't give me love  
-       ***G            D***  
+    ***G            D***  
   (you give me Pale Shelter)  
   ***C                 Am***  
   You don't give me love  
-       ***G            D***  
+    ***G            D***  
   (you give me cold hands)  
       ***C           Am    G      D***  
   And I can't operate on this failure  
-       ***C             Am***  
+    ***C             Am***  
   When all I want to be is  
      ***D                 C      F    B7***  
   Completely in command  

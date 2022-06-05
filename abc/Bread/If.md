@@ -50,9 +50,9 @@ Chorus:  |------2-----2---|------2-----2---|------2-----2---|------2-----2--
   *[|----------------|--2-------------|----------------|] goes here*  
   |4---------------|----------------|2---------------|  
   |----------------|2---------------|----------------|  
-                    *^this^is^easiest^*  
-                     *by barring the*  
-                        *2nd fret*  
+    *^this^is^easiest^*  
+    *by barring the*  
+    *2nd fret*  
   *Play:*  
   **Chorus/Lead-in I w/lyrics:*  
   And when my love for life is running dry,  

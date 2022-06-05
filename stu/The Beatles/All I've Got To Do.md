@@ -1,7 +1,7 @@
 <!--2020-09-06 04:44:30-->
 Am          C  
 Whenever I want you around, yeah,  
-           Am     Dm  
+    Am     Dm  
 All I gotta do, is call you on the phone,  
  Dmi7  
 And you`ll come running home,  
@@ -14,9 +14,9 @@ the words you want to hear,
 And I`ll be kissing you.  
   
 {Middle:}  
-                       F  
+    F  
   And the same goes for me, whenever you want me at all,  
-         Am  
+    Am  
   I`ll be here, yes I will, whenever you call,  
      F                  C   Am  
   You just gotta call on me, yeah,  

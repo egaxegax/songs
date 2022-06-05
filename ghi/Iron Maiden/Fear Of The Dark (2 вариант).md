@@ -25,7 +25,7 @@ E|-----------------------------|-------------------------------|
   
 The chord in the Verse are: D Bb C  
   
-        The chords are played in the following form:  
+    The chords are played in the following form:  
   
 (for example C:)  
   
@@ -49,22 +49,22 @@ E|---------------------------------------------------------|
   
 D        Bb             C                  Bb      C      D  
 __I am a man who walks alone, and when I`m walking a dark road  
-               Bb                 C       Bb C  D  
+    Bb                 C       Bb C  D  
 at night or strolling through the park  
-         Bb              C  
+    Bb              C  
 When the lights begin to change,  
-             F      G      D  
+    F      G      D  
 I sometimes feel a little strange  
-         Bb                C  
+    Bb                C  
 a little anxious when it`s dark  
   
 C               Bb     C               D     C  
 ___ Fear of the dark ,____ Fear of the dark,____  
-         Bb                 F           G      D  
+    Bb                 F           G      D  
 I have a constant fear that something`s always near  
-            Bb     C               D      C  
+    Bb     C               D      C  
 Fear of the dark, ____ Fear of the dark, ____  
-         Bb          F         G      D  
+    Bb          F         G      D  
 I have a phobia that someone`s always there  
   
 Chorus: (w/distortion)  

@@ -15,9 +15,9 @@ Intro:  | ***B5*** | ***A5*** | ***G5*** | ***A5*** | } 
       But you say that it's all right.  
   ***B5                   A5***  
       You go out night after night.  
-         ***E5         A5   C5         E5            A5   A#5***  
+    ***E5         A5   C5         E5            A5   A#5***  
   You're sad girl.       Ain't it a shame?  
-         ***E5         A5   C5           E5       A5  A#5***  
+    ***E5         A5   C5           E5       A5  A#5***  
   You're sad girl.       Aren't you a pain?  
   ***B5              A5                        G5                  A5***  
   Been around for quite some time,  there's other's been around longer still.  

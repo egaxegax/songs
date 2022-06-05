@@ -11,11 +11,11 @@ G              F            
  where will it lead us from here  
 C         G  
  with no loving in our souls  
-         Dm             Am  
+    Dm             Am  
  and no money in our coats  
 C            F              G  
  You can't say were satisfied  
-        Am       E7  
+    Am       E7  
     But Angie... Angie...  
    G           F              H  F G C E7  
   
@@ -46,19 +46,19 @@ C            F              
  and no money in our coats  
  You can't say were satisfied  
   
-            Dm                         Am  
+    Dm                         Am  
 Припев: But Angie, I still love you, baby  
-       Dm                                Am  
-        ev'rywhere I look I see your eyes  
-       Dm                                Am  
-        There ain't a woman that comes close to you  
-       C           F              G  
-        come on baby dry your eyes  
-            Am       E7  
-        But Angie... Angie...  
-       G             F          H F G C E7  
-        Ain't it good to be alive...  
-            Am       E7  
-        But Angie... Angie...  
-       G              F             H F G C  
-        They can't say we never tried
+    Dm                                Am  
+    ev'rywhere I look I see your eyes  
+    Dm                                Am  
+    There ain't a woman that comes close to you  
+    C           F              G  
+    come on baby dry your eyes  
+    Am       E7  
+    But Angie... Angie...  
+    G             F          H F G C E7  
+    Ain't it good to be alive...  
+    Am       E7  
+    But Angie... Angie...  
+    G              F             H F G C  
+    They can't say we never tried

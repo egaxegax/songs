@@ -27,7 +27,7 @@ Intro:                      Main R
  |--7-7-7---7-7-7--7-7-7--7-7-7--|-----------------------------------  
  |-------------------------------|---------0-2-3-4-5-----------------  
  |-------------------------------|-0-2-3-4---------------------------  
-              yeah                  yeah             ive got a feel  
+    yeah                  yeah             ive got a feel  
   
   w/ Main Riff Git 1 x 10  
    A            D/A           A            D/A  
@@ -58,7 +58,7 @@ Intro:                      Main R
  |------------------|----------------------|------------------------------  
  |------------------|----------------------|------------------------------  
    yeah       Oh yeah.                      And if you leave me        I  
-              Oh yeah.                      Ive got a feeling I think that  
+    Oh yeah.                      Ive got a feeling I think that  
   
   
    A                 D/A          A     D/A           A     D/A  
@@ -79,8 +79,8 @@ Intro:                      Main R
  |--7-7-7--7-7-7--7-7-7--7-7-7--|-----------------------------------  
  |------------------------------|---------0-2-3-4-5-----------------  
  |------------------------------|-0-2-3-4---------------------------  
-             yeah                  yeah             Ive got a feel  
-             yeah                  yeah             Ive got a feel  
+    yeah                  yeah             Ive got a feel  
+    yeah                  yeah             Ive got a feel  
   
   
    A            D/A           A              D/A  
@@ -167,7 +167,7 @@ Intro:                      Main R
  |-------------------------------|-0------------------|-0-------------------||  
  |-------------------------------|--------------------|---------------------||  
   
-                                                      ______  
+    ______  
     w/ Main riff 4x                                  |1.  
      A        D/A            A        D/A              A        D/A  
  ||-------12-12b14~r12-----|---9------------------12-|------------------------  
@@ -179,8 +179,8 @@ Intro:                      Main R
   Ev`rybody had a good year Ev`rybody had a hard time Ev`rybody had a wet dream  
   Ev`rybody had a good year,Ev`ry let their hair down  
   
-                               _____  
-                              |2.  
+    _____  
+    |2.  
    A         D/A                     A           D/A  
  |----------------------------||-----5--------------------------  
  |-----------7---8--7---7----x||-----5----5------7---8--7----7--  
@@ -214,7 +214,7 @@ Intro:                      Main R
  |-------------------------|-----------------------  
  |-------------------------|---------------Ive-got-  
  |-------------------------|----------------a-feel-  
-           Oh yeah  
+    Oh yeah  
   
   [C#dim/A  Ddim/A D#dim/A]  A  
  |-9----9-9-9-8-8-8-7-7-7--|----------------------------||  
@@ -240,17 +240,17 @@ Intro:                      Main R
   
  Guitar 1 wierd shape info  
   
-                     The tab here is shows the timing that should  
-                     be used. They are triplets.  
+    The tab here is shows the timing that should  
+    be used. They are triplets.  
   
-                    [Edim/A    D#dim/A Ddim/A] [C#dim/A Cdim/A Bdim/A]  
+    [Edim/A    D#dim/A Ddim/A] [C#dim/A Cdim/A Bdim/A]  
  Bdim/A    x0343x  |-------------------------|--------------------------|  
  Cdim/A    x0454x  |-8-8-8-8-8-8--7-7-7-6-6-6|-5-5-5-5-5-5--4-4-4-3-3-3-|  
  C#dim/A   x0565x  |-9-9-9-9-9-9--8-8-8-7-7-7|-6-6-6-6-6-6--5-5-5-4-4-4-|  
  Ddim/A    x0676x  |-8-8-8-8-8-8--7-7-7-6-6-6|-5-5-5-5-5-5--4-4-4-3-3-3-|  
  D#dim/A   x0787x  |-------------------------|--------------------------|  
  Edim/A    x0898x  |---I got a feeling-------|--------------------------|  
-                                  these are overdubbed voices  
+    these are overdubbed voices  
   
  These D shapes     [Edim/A    D#dim/A Ddim/A] [C#dim/A    Ddim/A D#dim/A]  
  are moved up &    |-------------------------|---------------------------  
@@ -259,4 +259,4 @@ Intro:                      Main R
  to what Git 2     |-8-8-8-8-8-8--7-7-7-6-6-6|-5-5-5-5-5-5--6-6-6-7-7-7--  
  is playing but    |-------------------------|---------------------------  
  not always        |-------------------------|---------------------------  
-                    these two bars are repeated three times
+    these two bars are repeated three times

@@ -7,13 +7,13 @@ Dig A Pony
   All I want is you...  
   ***A        f#m***  
   I, dig a pony  
-                       ***hm                  G                       hm***  
+    ***hm                  G                       hm***  
   Well you can celebrate any thing you want, yes  
-                ***G                    E7            A***  
+    ***G                    E7            A***  
   You can celebrate any thing you want, oh  
   ***A       f#m***  
   I, do a roadhog  
-                       ***hm                  G***  
+    ***hm                  G***  
   Well you can penetrate any place you go  
   ***hm                              G***  
   Yes you can penetrate any place you go  

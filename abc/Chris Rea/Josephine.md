@@ -16,7 +16,7 @@ Intro:  ***Dm  Dm  Gm7  Gm7/C  C*** } repeat once
   Josephine, I'll send you all my love,  
   ***Am  Bbmaj7 C  Dm Gm7 Gm7***  
   Josephine, I'll send you all my love  
-         ***Dm     Gm7 Gm7/C C***  
+    ***Dm     Gm7 Gm7/C C***  
   Now there's a storm on my radar, but I can still fly  
       ***Dm      Gm7 Bb/C  C  Bb/C  C***  
   but you are the reason for the blue in my sky  
@@ -24,7 +24,7 @@ Intro:  ***Dm  Dm  Gm7  Gm7/C  C*** } repeat once
   Josephine, I'll send you all my love,  
       ***Dm  Gm7 Gm7/C C***  
   Josephine  
-        ***Dm        Gm7 Gm7/C C***  
+    ***Dm        Gm7 Gm7/C C***  
   Life without meaning, I was walking away  
    ***Dm        Gm7***  
   In the coldest of winters the night becomes day  

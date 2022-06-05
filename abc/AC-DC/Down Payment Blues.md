@@ -56,7 +56,7 @@ Down Payment Blues
   ****E A E A E A E E***  etc...*  
   *Extro: (there's a little riff before this but I haven't been*  
   *able to figure it out yet...):*  
-                                *slight bend on these notes*  
+    *slight bend on these notes*  
   [e------------------------------------------------------  
   B------------------------------------------------------  
   G---2-----2-----------0--------------------------------  

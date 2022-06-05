@@ -18,13 +18,13 @@ Knows not where he`s going to
 Em           Gm             D  
 Isn`t he a bit like you and me  
   
-        F#m        G  
+    F#m        G  
 Nowhere man please listen  
   
-            F#m            G  
+    F#m            G  
 You don`t know what you`re missing  
   
-        F#m     Em7                     A7  
+    F#m     Em7                     A7  
 Nowhere man the world is at your command  
   
 Solo:  

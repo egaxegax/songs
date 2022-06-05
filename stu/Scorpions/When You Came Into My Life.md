@@ -5,31 +5,31 @@
 2) 1st Verse  
    Gtr.1: plays Rhy.Fig.2  
    Vocal:  
-                    Bm  
+    Bm  
    You give me your smile  
-                   D  
+    D  
    A piece of your heart  
-                   A              G  
+    A              G  
    You give me the feel I?ve been looking for  
-                    Bm  
+    Bm  
    You give me your soul  
-                 D  
+    D  
    Your innocent love  
-               A             G  
+    A             G  
    You are the one I?ve been waiting for  
-             Em          F#  
+    Em          F#  
    I?ve been waiting for  
   
 3) 2nd Verse  
    Gtr.1: plays Rhy.Fig.2A  
    Vocal:  
-                   Bm  
+    Bm  
    We?re lost in a kiss  
-               D  
+    D  
    A moment in time  
-           A  
+    A  
    Forever young  
-          G             Em       F#  
+    G             Em       F#  
    Just forever, just forever in love  
   
 4) Chorus  
@@ -37,13 +37,13 @@
    Gtr.2(distortion): plays chords written in vocal part  
    Gtr.3(distortion): Plays Rhy.Fig.4 (in original playing on keyboards)  
    Vocal:  
-                         G  
+    G  
    When you came into my life  
-                      Em  
+    Em  
    It took my breath away  
   G  
    Cause your love has found it?s way  
-         F#  
+    F#  
    To my heart  
   
 5) Gtr.1: plays Rhy.Fig.5  
@@ -52,19 +52,19 @@
 6) 3rd Verse  
    Gtr.1: plays Rhy.Fig.2  
    Vocal:  
-                Bm  
+    Bm  
    You make me dream  
-                       D  
+    D  
    By the look in your eyes  
-                   A               G  
+    A               G  
    You give me the feel, I?ve been longing for  
-                       Bm  
+    Bm  
    I wanna give you my soul  
-          D  
+    D  
    All my life  
-                     G             A  
+    G             A  
    Cause you are the one I?ve been waiting for  
-             Em             F#  
+    Em             F#  
    I?ve been waiting for so long  
   
 7) Chorus  
@@ -72,31 +72,31 @@
    Gtr.2: plays chords written in vocal part  
    Gtr.3: Plays Rhy.Fig.7  2 times  
    Vocal:  
-                         G  
+    G  
    When you came into my life  
-                      Em  
+    Em  
    It took my breath away  
   G  
    And the world stopped turnin? round  
-            F#  
+    F#  
    For your love  
-                         G  
+    G  
    When you came into my life  
-                      Em  
+    Em  
    It took my breath away  
   G  
    Cause your love has found it?s way  
-         F#  
+    F#  
    To my heart  
   
 8) Solo  
    Gtr.1: plays Rhy.Fig.2  
    Gtr.3(acoustic): plays Rhy.Fig.8  
    Vocal  
-           Bm  
+    Bm  
    Into my heart  
    .......  
-          Em       F#  
+    Em       F#  
    Just forever in love  
   
 9) Repeat order 7 and fading out...  

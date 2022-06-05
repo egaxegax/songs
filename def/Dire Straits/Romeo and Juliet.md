@@ -29,7 +29,7 @@ Verse I: A lovestruck Romeo sings the streets a serenade
   Laying everybody low with a love song that he made  
   ***C                         Bb C            F***  
   Finds a street light steps out into the shade  
-          ***Bb                           C***  
+    ***Bb                           C***  
   Says something like you and me babe, how about it?  
   ***F                          C Dm                        C F***  
   Juliet says hey it's Romeo, you nearly gave me a heart attack  

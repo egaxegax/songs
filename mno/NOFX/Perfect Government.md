@@ -39,7 +39,7 @@ Perfect Government
   about the (#3) money political power is taking it protecting the rich denying  
   the poor (#7) yeah they love to whatch the world from the white house and I  
   wonder  
-        ***G*** how can they sleep at night ***C*** how can they sleep at night  
+    ***G*** how can they sleep at night ***C*** how can they sleep at night  
   (#4) how did the cat get so fat  
   (#4) how did the cat get so fat  
   (#4) how did the cat get so fat  

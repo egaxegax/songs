@@ -1,7 +1,7 @@
 <!--2020-09-06 05:17:57-->
 INTRO:  
-                                              (part I)  
-          (part I)             (part II)             IMPLIED  
+    (part I)  
+    (part I)             (part II)             IMPLIED  
   D C G  D D D D D11 D  D C  G D D D11 D D - ( BARRE CHORDS)  
 E|--------------------|---------------------|------------------|  
 B|--------------------|---------------------|------------------|  
@@ -23,20 +23,20 @@ VERSE:            (fast barred C slide to D)
   
 CHORUS:  
   
-                *C  C  Csus4  C     * (PLAY THIS BEAT UNTIL  
+    *C  C  Csus4  C     * (PLAY THIS BEAT UNTIL  
  (All down the line)                    G CHORD THEN PLAY **)  
   
-                                    **G  G C G    G G C G  
+    **G  G C G    G G C G  
  We`ll be watching out for trouble, yeah  
-                  *C                                        **G  
+    *C                                        **G  
  (All down the line) And we better keep the motor running, yeah  
-                 C  
+    C  
  (All down the line) Well you can`t say yes and you can`t say no  
   G  
  Just be there when the whistle blows  
-            C  
+    C  
  I need a sanctified girl  
-                                    D***  ***(play INTRO  
+    D***  ***(play INTRO  
  With a sanctified mind to help me now         part I) -- 2x`s  
   
 VERSE:  

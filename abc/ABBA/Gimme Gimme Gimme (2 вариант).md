@@ -17,7 +17,7 @@ D|-12-------------------12~-12-------------------12------------|
 A|-------------------------------------------------------------|  
 E|-------------------------------------------------------------|  
   
-                     G    Am                           Dm  
+    G    Am                           Dm  
 e|-----------13--13/12--------------------12--10---------------|  
 B|--------13-----------13--------------13--------10------------|  
 G|-----14-----------------14~-------14--------------10--------*|  
@@ -58,13 +58,13 @@ Song:
   
 Dm   C     Am Dm  
 Half past twelve  
-        F  G                      F  G  
+    F  G                      F  G  
 And I'm watching the late show in my flat all alone  
     F G                            C  Dm  
 How I hate to spend the evening on my own  
 Dm   C    Am   Dm  
 Au - tumn winds  
-        F  G                 F G  
+    F  G                 F G  
 Blowing outside my window as I look around the room  
     F  G                            C    Dm  
 And it makes me so depressed to see the gloom  
@@ -76,11 +76,11 @@ no one to hear my pray - er
   
 Dm          Bb6     C9        Dm  
 Gimme gimme gimme a man after midnight  
-               Bb6               C9       Dm  
+    Bb6               C9       Dm  
 Won't somebody help me chase the shadows away  
-            Bb6     C9        Dm  
+    Bb6     C9        Dm  
 Gimme gimme gimme a man after midnight  
-                    Bb6             C9           Dm  
+    Bb6             C9           Dm  
 Take me through the darkness to the break of the day  
   
 Dm   C    Am Dm  
@@ -104,9 +104,9 @@ no one to hear my pray - er
   
 Dm          Bb6     C9        Dm  
 Gimme gimme gimme a man after midnight  
-               Bb6               C9       Dm  
+    Bb6               C9       Dm  
 Won't somebody help me chase the shadows away  
-            Bb6     C9        Dm  
+    Bb6     C9        Dm  
 Gimme gimme gimme a man after midnight  
-                    Bb6             C9           Dm  
+    Bb6             C9           Dm  
 Take me through the darkness to the break of the day

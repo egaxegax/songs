@@ -3,11 +3,11 @@
   Don't Let the Sun Go Down on Me (with George Michael)  
   *(Music: Elton John; Lyrics: Bernie Taupin)*  
   
-           ***G                    F  C***  
+    ***G                    F  C***  
   I can't light no more of your darkness  
   ***F                                          G***  
   All my pictures seem to fade to black and white  
-       ***G                                   F     C***  
+    ***G                                   F     C***  
   I'm growing tired and time stands still before me  
   ***F                               G***  
   Frozen here on the ladder of my life  
@@ -21,7 +21,7 @@
   Although I search myself, it's always someone else I see  
   ***C                                 F       G        C  Bb***  
   I'd just allow a fragment of your life to wander free  
-       ***F                            D   G     Am-Am/H-C         C***  
+    ***F                            D   G     Am-Am/H-C         C***  
   But losing everything is like the sun going down on me  
   I can't find the right romantic line  
   But see me once and see the way I feel  

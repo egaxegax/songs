@@ -12,7 +12,7 @@ Em
 Brother, my cup is empty  
 And I haven't got a penny  
   
-       Am  
+    Am  
 For to buy no more whiskey  
   
   Em (Riff - tab)  

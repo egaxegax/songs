@@ -10,15 +10,15 @@ Riff:  [E------------------------------------------------
   
   ***Am***  
 (1)  Psychic spies from China  
-        ***F***  
+    ***F***  
   Try to steal your mind's elation  
   ***Am***  
   Little girls from Sweden  
-        ***F***  
+    ***F***  
   Dream of silver screen quotations  
       ***C                G***  
   And if you want these kind of dreams  
-       ***F        Dm***  
+    ***F        Dm***  
   It's Californication  
   
   *riff / Аккорды ***Am F*** } 2 раза*  
@@ -162,7 +162,7 @@ Main Riff: [e|--------------------------------------------
 -  
   
   *intro*  
-        ***a           F***  
+    ***a           F***  
   |-----------------------|  
   |------0-1--------------|  
   |------------------0-2--|  
@@ -307,7 +307,7 @@ Main Riff: [e|--------------------------------------------
   *Wstкp: ***A****  
   *1 zwr: ***AAB AAB CCCD****  
   *2 zwr: ***AAB AAB CCCD D****  
-         *Solo*  
+    *Solo*  
   *3 zwr: ***AAB CCCD D****  
   
 -  

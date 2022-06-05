@@ -58,30 +58,30 @@ Cold As Ice
 -  
   
   ***Esus      Em       Esus     Em       Esus     Em       Esus     Em***  
-                 *(intro)*  
+    *(intro)*  
   ***Esus      Em       Esus     Em       C6       C        C6       C***  
-            You're as cold as ice....  
+    You're as cold as ice....  
   ***Esus      Em       Esus     Em       C6       C        C6       C***  
   ***Esus      Em       Esus     Em       C6       C        C6       C***  
-            You never take advice.....  
+    You never take advice.....  
   ***Am                 G        G        F#       F#       Am       Am***  
-                I've  seen it before, it.....  
+    I've  seen it before, it.....  
   ***C         D        G        G        F#       F#       Am       Am***  
   ***B7                 Esus     Em       Esus     Em       C6       C***  
-                     *(intro repeat)*  
+    *(intro repeat)*  
   ***C6        C        Esus     Em       Esus     Em       C6       C***  
-                             You're as cold as....  
+    You're as cold as....  
   ***C6        C        Esus     Em       Esus     Em       C6       C***  
   ***C6        C        Esus     Em       Esus     Em       C6       C***  
-                               You want paradise...  
+    You want paradise...  
   ***C6        C        Am                G        G        F#       F#***  
-                                  I've seen it before....  
+    I've seen it before....  
   ***Am        Am       C        D        G        G        F#       F#***  
   ***Am        Am       B7                C***  
-                                        *(solo)*  
+    *(solo)*  
   ***Em                                   C                 Am***  
   ***G                  B7                Em       Em       F#m6     F#m7b5***  
-                                        Cold              as  
+    Cold              as  
   ***B7        B7       Adim B7  Adim B7  Em       Em       F#m6     F#m7b5***  
    ice......                           Cold               as  
   ***B7        B7       Adim B7  Adim B7  Em       Em       F#m6     F#m7b5***  
@@ -92,7 +92,7 @@ Cold As Ice
    *(intro repeat)*  
   ***Esus      Em       Esus     Em       C6       C        C6       C***  
   ***Esus      Em       Esus     Em       C6       C        C6       C***  
-            You're as cold as ice..........  
+    You're as cold as ice..........  
   ***Esus      Em       Esus     Em       C6       C        C6       C***  
   ***Esus      Em       Esus     Em       C6       C        C6       C***  
   ***Esus      Em       Esus     Em       C6       C        C6       C***  

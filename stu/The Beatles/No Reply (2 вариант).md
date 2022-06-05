@@ -3,21 +3,21 @@ n.c.                 C        
 This happened once before  When I came to your door  
      G6  
 No reply  
-                    C       D7  
+    C       D7  
 They said it wasn`t you  But I saw you peep through  
      G  
 Your window  
-           Em       Bm  
+    Em       Bm  
 I saw the light  
-           Cmaj7    Bm  
+    Cmaj7    Bm  
 I saw the light  
-                   Am7        D7  
+    Am7        D7  
 I know that you saw me  `Cause I looked up to see  
      G  
 Your face  
   
 -VERSE 2-  
-               C        D7  
+    C        D7  
 I tried to telephone  They said you were not home  
   G6  
 That`s a lie  

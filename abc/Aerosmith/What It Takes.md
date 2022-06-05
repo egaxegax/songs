@@ -5,11 +5,11 @@ Intro:  ***G D4 Em7 D C***
   
   ***G                                      D***  
   There goes my old girlfriend, there's another diamond ring.  
-           ***Em                        D     C***  
+    ***Em                        D     C***  
   And, uh, all those late night promises I guess they don't mean a thing.  
      ***G                           D***  
   So baby what's the story? Did you  find another man?  
-        ***Em***  
+    ***Em***  
   Is it easy to sleep in the bed that we made?  
   ***D        C                                                   D***  
   When you don't look back I guess the feeling starts to fade away.  
@@ -23,9 +23,9 @@ Intro:  ***G D4 Em7 D C***
   Tell me how's the pain supposed to go.  
   ***A#             A+               Dm            Dm/C***  
   Tell me how it is  that you can sleep, in the night  
-           ***Dm/B***  
+    ***Dm/B***  
   Without thinking you lost ev'rything that was good in your  
-                               ***A#                 C#                 F***  
+    ***A#                 C#                 F***  
   life to the toss of the dice?,  Tell me what it takes to let you go,  yeah.  
   Girl before I met you I was F.I.N.E, fine  
   But your love made me a prisoner, yeah my heart's been doing time.  
@@ -39,9 +39,9 @@ Intro:  ***G D4 Em7 D C***
   Yeah, tell me that is better when you're all alone.  
   ***Fm                              D#    C#***  
   Tell me that your body doesn't miss my touch.  
-                                           ***G#***  
+    ***G#***  
   Tell me that my loving didn't mean that much.  
-                                               ***C***  
+    ***C***  
   Tell me you ain't dying when you're crying for me.  
   ***A#***  
   Tell me what it takes to let you . . .  
@@ -52,5 +52,5 @@ Intro:  ***G D4 Em7 D C***
   'Cause I don't wanna burn in paradise.    Oh  
   ***A#                      F***  
   Let go, let go, let go  I don't wanna burn in paradise.  
-         ***Dm                        A#    F***  
+    ***Dm                        A#    F***  
   Let it go, let it go, let it go . . .      (one million times, fading)

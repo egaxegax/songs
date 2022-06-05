@@ -10,7 +10,7 @@ DOINA HAIDUCULUI
   *===============================*  
   *LEGENDA:*  
   *Acordur folosite in cyntec:*  
-         *EADGBe   &lt;- strunele de sus in jos*  
+    *EADGBe   &lt;- strunele de sus in jos*  
   ***Em     [022000]***  
   ***Am     [002210]***  
   ***D      [000232]***  

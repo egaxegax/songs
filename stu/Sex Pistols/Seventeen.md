@@ -31,7 +31,7 @@ chorus:  I'm a lazy sod
   ***D          E***  
   I'm a lazy sod  
   
-                 ***A***  
+    ***A***  
 bridge:  that's what we say  
   ***F# G  A D A D***  
   

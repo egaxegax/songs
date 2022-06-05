@@ -13,10 +13,10 @@ Should I Stay Or Should I Go
   
   *Intro*  
   -----  
-                                       1 Just 1 guitae  
-                                       1      "  
-                                       1with bass and drums  
-                                       1      "  
+    1 Just 1 guitae  
+    1      "  
+    1with bass and drums  
+    1      "  
   -----------  
   Darling you gotta let me know      1  
   Should I stay orshould I go      1  
@@ -31,7 +31,7 @@ Should I Stay Or Should I Go
   So if you want me up your back       1  
   Wow ! Come on and let me know       3  
   Should I stay or dhould I go       1  
-                                        The music stops  
+    The music stops  
   *Chorus*  
   -------  
   Should I stay or should I go now      Music starts again, fast part  
@@ -71,50 +71,50 @@ Should I Stay Or Should I Go
   ***D  G  D   D  G  D***  
   ***D  G  D***  
   Darling you gotta let me know  
-                                   ***D  G  D***  
+    ***D  G  D***  
   Should I stay or should I go?  
-                                   ***G  F  G***  
+    ***G  F  G***  
   If you say that you are mine  
-                                   ***D  G  D***  
+    ***D  G  D***  
   I'll be here 'till the end of time  
-                                   ***A***  
+    ***A***  
   So you gotta let me know  
-                                   ***D  G  D***  
+    ***D  G  D***  
   Should I stay or should I go?  
-                                   ***D  G  D***  
+    ***D  G  D***  
   It's always tease, tease, tease  
-                                   ***D  G  D***  
+    ***D  G  D***  
   You're happy when I'm on my knees  
-                                   ***G  F  G***  
+    ***G  F  G***  
   One day is fine - next day is black  
-                                   ***D  G  D***  
+    ***D  G  D***  
   So if you want me off your back  
-                                   ***A***  
+    ***A***  
   So you gotta let me know  
-                                   ***D  G  D***  
+    ***D  G  D***  
   Should I stay or should I go?  
-                                   ***D  G  D***  
+    ***D  G  D***  
   Should I stay or should I go now?  
-                                   ***D  G  D***  
+    ***D  G  D***  
   Should I stay or should I go now?  
-                                   ***G  F  G***  
+    ***G  F  G***  
   If I go there will be trouble  
-                                   ***D  G  D***  
+    ***D  G  D***  
   If I stay it will be double  
-                                   ***A***  
+    ***A***  
   So you gotta let me know  
-                                   ***D  G  D***  
-                                   ***D  G  D***  
+    ***D  G  D***  
+    ***D  G  D***  
   This indecisions bugging me  
-                                   ***D  G  D***  
+    ***D  G  D***  
   If you don't want me set me free  
-                                   ***G  F  G***  
+    ***G  F  G***  
   Tell me who I'm supposed to be?  
-                                   ***D  G  D***  
+    ***D  G  D***  
   Don't you know which clothes even fit me?  
-                                   ***A***  
+    ***A***  
   Come on you gotta let me know  
-                                   ***D  G  D***  
+    ***D  G  D***  
   Should I cool it or should I blow?  
   ***D  G  D***  
   ***D  G  D***  
@@ -122,27 +122,27 @@ Should I Stay Or Should I Go
   ***D  G  D***  
   ***A***  
   ***D  G  D***  
-                                   ***D  G  D***  
+    ***D  G  D***  
   Should I stay or should I go now?  
-                                   ***D  G  D***  
+    ***D  G  D***  
   Should I stay or should I go now?  
-                                   ***F  G  G***  
+    ***F  G  G***  
   If I go there will be trouble  
-                                   ***D  G  D***  
+    ***D  G  D***  
   If I stay it will be double  
-                                   ***A***  
+    ***A***  
   So you gotta let me know  
-                                   ***D  G  D***  
+    ***D  G  D***  
   Should I cool it or should I blow?  
-                                   ***D  G  D***  
+    ***D  G  D***  
   Should I stay or should I go now?  
-                                   ***D  G  D***  
+    ***D  G  D***  
   Should I stay or should I go now?  
-                                   ***G  F  G***  
+    ***G  F  G***  
   If I go there will be trouble  
-                                   ***D  G  D***  
+    ***D  G  D***  
   If I stay it will be double  
-                                   ***A***  
+    ***A***  
   So you gotta let me know  
   ***D         G               D***  
   Should I stay or should I go?  

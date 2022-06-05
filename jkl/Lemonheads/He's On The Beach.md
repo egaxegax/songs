@@ -10,13 +10,13 @@ He's On The Beach
   ***C       F            G               F      C   G***  
   He said the time had come for him to take a holiday  
   
-                  ***C                                  F***  
+    ***C                                  F***  
 Chorus:  And he says its brilliant there, there's something in the air,  
-               ***C                        G***  
+    ***C                        G***  
   and sunshine everywhere.  He's on the beach.  
-              ***C                            F***  
+    ***C                            F***  
   I know he's changed somehow, it's in his postcards now  
-               ***C                            G***  
+    ***C                            G***  
   I'm not sure where he is, but he's out of reach.  
   
   ***C                                G***  
@@ -28,13 +28,13 @@ Chorus:  And he says its brilliant there, there's something 
   ***C       F            G               F      C    G***  
   He said the time had come for him to make a move away.  
   
-                  ***C                                  F***  
+    ***C                                  F***  
 Chorus:  And he says its brilliant there, there's something in the air,  
-               ***C                        G***  
+    ***C                        G***  
   and sunshine everywhere.  He's on the beach.  
-              ***C                            F***  
+    ***C                            F***  
   I know he's changed somehow, it's in his postcards now  
-               ***C                         G***  
+    ***C                         G***  
   He's on his own again, and he's out of reach.  
   
 Bridge:  And I don't blame him.  Leaving was the best thing he could do.  
@@ -44,13 +44,13 @@ Bridge:  And I don't blame him.  Leaving was the best th
   I think he's trying to be someone else, and he says, he says, he says,  
   ***C                                      F***  
   it's really unfair...there's something in the air,  
-               ***C                        G***  
+    ***C                        G***  
   and sunshine everywhere.  He's on the beach.  
-              ***C                            F***  
+    ***C                            F***  
   I know he's changed somehow, it's in his postcards now  
-               ***C                   G***  
+    ***C                   G***  
   He's in Australia, so far out of reach.  
-              ***C                           F   C   G***  
+    ***C                           F   C   G***  
   And he says it's pretty(?) there.  
   
   ****C F C G*** progression to end...*

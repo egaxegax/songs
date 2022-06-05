@@ -4,7 +4,7 @@ Radio London (1990)
   
   ***G#             D#                     C#           G#      D#***  
   These are the best years of our lives - sweet and peaceful  
-       ***G#           D#                         C#***  
+    ***G#           D#                         C#***  
   The best years of our lives - enchanted and fey  
   ***D#***  
   Like the seeds we're sown,  
@@ -30,7 +30,7 @@ Radio London (1990)
   And I would honestly ask you to help me, babe,  
       ***Bm***  
   To work with me, trust in me,  
-       ***D#                                 G#    D#***  
+    ***D#                                 G#    D#***  
   And cover my ass - and then I'll look away...  
   
   These are the best years of our lives -  

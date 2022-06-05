@@ -4,29 +4,29 @@ Crocodile Rock
   
     ***G***  
   I remember when rock was young  
-                 ***Bm***  
+    ***Bm***  
   Me and Suzie had so much fun  
-                ***C***  
+    ***C***  
   holding hands and skimming stones  
-                ***D***  
+    ***D***  
   Had an old gold Chevy and a place of my own  
-                 ***G***  
+    ***G***  
   But the biggest kick I ever got  
-                       ***Bm***  
+    ***Bm***  
   was doing a thing called the Crocodile Rock  
-                   ***C***  
+    ***C***  
   While the other kids were Rocking Round the Clock  
-                  ***D***  
+    ***D***  
   we were hopping and bopping to the Crocodile Rock  
   ***Em***  
   Well Crocodile Rocking is something shocking  
-                     ***A7***  
+    ***A7***  
   when your feet just can't keep still  
   ***D7    G***  
   I never knew me a better time and I guess I never will  
   ***E***  
   Oh Lawdy mama those Friday nights  
-              ***A7***  
+    ***A7***  
   when Suzie wore her dresses tight  
   ***D7    C***  
   and the Crocodile Rocking was out of sight  

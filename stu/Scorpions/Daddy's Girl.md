@@ -16,7 +16,7 @@ Daddy's Girl
   Sweet little child  
   ***'         '***  
   You know nothing  
-           ***'             '***  
+    ***'             '***  
   About a cold world outside  
   ***'           '            D       '***  
   You are too young to realize  
@@ -31,15 +31,15 @@ Daddy's Girl
   In the darkness of the night  
   What he's doing is a crime  
   
-        ***A        G***  
+    ***A        G***  
   Your mother denies  
   ***A           '***  
   There's a problem -  
-          ***F#       G***  
+    ***F#       G***  
   She is looking away.  
   ***A          F#              '***  
   She don't wanna hear you cry  
-        ***G***  
+    ***G***  
   She will pray,  
   ***A         '           Hm***  
   Then it's over for a while  
@@ -52,11 +52,11 @@ Daddy's Girl
   *4-й куплет*  
      ***Em        Hm***  
   An ocean of silence  
-       ***G            A***  
+    ***G            A***  
   Is drowning your heart  
-        ***Em           Hm***  
+    ***Em           Hm***  
   What never should be  
-        ***G             A***  
+    ***G             A***  
   Will remain in the dark  
   
   ***A } 3 раза***  

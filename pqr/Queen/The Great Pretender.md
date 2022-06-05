@@ -9,11 +9,11 @@ The Great Pretender
   *it would be most appreciated.*  
   
 Intro:  ***G  C  G  C***  
-       ***G   C  D     G  G7***  
+    ***G   C  D     G  G7***  
   Oh yes, I'm the Great    Pretender,  
   ***C     G   G7***  
   Pretending I'm doing well.  
-       ***C  D G  C   C #***  
+    ***C  D G  C   C #***  
   My need is such, I pretend too much,  
    ***G  C  D  G***  
   I'm lonely but no one can tell  
@@ -42,7 +42,7 @@ Intro:  ***G  C  G  C***
    ***C    G  D    D #***  
   Too real when I fell what my heart can't conceal  
   *(everything moves up 1/2 step)*  
-       ***G #       C #  C #  G # G#7***  
+    ***G #       C #  C #  G # G#7***  
   Oh yes, I'm the great  pretender  
       ***C#        G#  G#7***  
   Just lauging and gay like a clown  

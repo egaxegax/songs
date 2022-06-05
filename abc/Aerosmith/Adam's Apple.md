@@ -33,7 +33,7 @@
   Lightning struck right down from the sky  
   *At this point, the guitar plays this:*  
   *rhy.fig 2:*  
-       ***D5    C#5 C5  B5    B***  
+    ***D5    C#5 C5  B5    B***  
   [E------------------------2----|  
   B------------------------4----|  
   G----7----7--6--5--4-----4----|  
@@ -46,14 +46,14 @@
   Conscience was related  
   Man, he was created  
   Lady Luck took him by surprise(rhy.fig.2)  
-                                                    ***E***  
+    ***E***  
   Her sweet and bitter fruit it surely opened his eyes  
   *chorus:*  
-          ***D***  
+    ***D***  
   Well, she ate it  
   ***F***  
   Lordy it was love at first bite(rhy.fig 1)  
-           ***D***  
+    ***D***  
   Well she ate it  
    ***G                         F#m         E***  
   Never knowin' wrong from right right right  

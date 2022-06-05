@@ -6,25 +6,25 @@ CHORUS:
 D  
 Rock and roll music  
 Any old way you choose it  
-           G  
+    G  
 It's got a back beat, you can't lose it  
 Da  
 Any old time you use it  
      A7  
 It's gotta be rock and roll music  
-                        D  
+    D  
 If you wanna dance with me  
 A7                      D  
 If you wanna dance with me  
   
 Verse 1:  
-                       A  
+    A  
 I have no kick against modern jazz  
 A7                          D  
   Unless you try to play it too darn fast  
-                       G  
+    G  
 I lose the beauty of a melody  
-                            A7  
+    A7  
 Until it sounds just like a symphony  
 That's why I go for that...  
   

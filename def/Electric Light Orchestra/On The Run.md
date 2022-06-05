@@ -3,9 +3,9 @@ On The Run
   
   ***C             C/Hm                 Am***  
   Whatever I do,where-ever I go,the same afterglow  
-       ***G         F           C***  
+    ***G         F           C***  
   Is keepin' me low,don't wanna lose it,  
-       ***Dm                       G***  
+    ***Dm                       G***  
   But don't wanna stay here too long.  
   They see you go by,I tell you no lie,  
   You're up in the sky,make everyone cry,  
@@ -13,7 +13,7 @@ On The Run
   
   ***Dm             G     Dm  G***  
 CHORUS:  I'm on the run again:  
-            ***Em7                        A7***  
+    ***Em7                        A7***  
   But it's like what they say when it happens this way  
   ***Dm        F       C        G***  
   You gotta do it again and again.  

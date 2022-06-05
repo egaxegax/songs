@@ -1,16 +1,16 @@
 <!--2020-09-04 23:13:18-->
 Am     G/B            C  
 Feels like the end  
-            Dm                    Am  
+    Dm                    Am  
 When you?re closer to losing your dreams  
-              G  
+    G  
 Than losing a friend  
   
 Am       G/B    C  
 Flying blind  
 Dm                    Am  
 I?m shooting into the dark  
-           G  
+    G  
 Who will I find  
   
 F    G    Am  
@@ -28,13 +28,13 @@ On     my      way
   
      Dm                  Am  
 Tomorrow I rise with the sun  
-             G  
+    G  
 Soon I?ll be gone  
 Am    G/B   C  
 Words can?t say  
 Dm                              Am  
 How the memories of feelings of love  
-            G  
+    G  
 They linger on  
 F     G     Am  
       Oh girl  
@@ -48,13 +48,13 @@ Love conquers all
   
 Eb                  Bb/D  
 Somewhere there?s a place in your heart  
-          Fm           Cm  
+    Fm           Cm  
 Where the wounds never heal  
-        Eb  
+    Eb  
 (You?re not alone)  
-                Bb  
+    Bb  
 Well you?re not alone  
-       F  
+    F  
 That?s just how I feel  
   
 (instrumental)  

@@ -76,17 +76,17 @@ VERSE 4: ***C/G***Please don't put your ***Csus2/B***life in the
   *Verse 1*  
   ***C               G               Am***  
   Slip inside the eye of your mind  
-            ***E7             F     G***  
+    ***E7             F     G***  
   Don't you know you might find  
-                      ***C***  
+    ***C***  
   A better place to play  
   ****Am***, ***G*** - Transition chords, played quickly*  
   *Verse 2*  
   ***C             G               Am***  
   You said that you'd never been  
-              ***E7                 F    G***  
+    ***E7                 F    G***  
   But all the things that you've seen  
-              ***C***  
+    ***C***  
   Slowly fade away  
   *Prechorus*  
   ***F            Fm                 C***  
@@ -104,7 +104,7 @@ VERSE 4: ***C/G***Please don't put your ***Csus2/B***life in the
   *Chorus*  
   ***C   G        Am        E7             F***  
   So Sally can wait, she knows it's too late  
-           ***G          C***  
+    ***G          C***  
   As we're walking on by  
   ***C        G      Am        E7         F***  
   Her soul slides away, but don't look back in anger  
@@ -141,10 +141,10 @@ VERSE 4: ***C/G***Please don't put your ***Csus2/B***life in the
   But don't look back in anger  
   ***Fm***  
   Dont look back in anger  
-              ***C***  
+    ***C***  
   I heard you say  
   *Once more through the verse progression, then end on:*  
-               ***C***  
+    ***C***  
   At least not today  
   
 -  

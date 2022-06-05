@@ -21,7 +21,7 @@ Verses  (Capo 3rd Fret)
   *(***C***)***A***-[x02220]*  
   *(***C7***)***A7***-[x02020]*  
   
-              ***G      F#m  Em     D***  
+    ***G      F#m  Em     D***  
   It's been a long   long   long time  
   
   [E-------------------2--  

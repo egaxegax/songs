@@ -8,19 +8,19 @@ Main Riff: [E----5-----0-4-
   G--2-----------]  
   
   There are places I'll remember  
-            ***A             F#m***  
+    ***A             F#m***  
   All my life though some have changed  
-         ***Bm Dm       A***  
+    ***Bm Dm       A***  
   Some for ever not for better  
-           ***A            F#m***  
+    ***A            F#m***  
   Some have gone, and some remain.  
-            ***Bm Dm     A***  
+    ***Bm Dm     A***  
   All these places have their moments  
-            ***F#m               Bm***  
+    ***F#m               Bm***  
   With lovers and friends, I still can recall  
-       ***G                     A***  
+    ***G                     A***  
   Some are dead and some are living  
-           ***F#m               Bm***  
+    ***F#m               Bm***  
   In my life, I've loved them all  
      ***D  Dm         A***  
   
@@ -39,7 +39,7 @@ Main Riff: [E----5-----0-4-
   *At the end, there is the first riff above, then a higher Dm (played as a bar*  
   *chord at the 5th fret) then the riff below:*  
   
-                    ***E7       A***  
+    ***E7       A***  
 Last Riff: [E----5-----0-4----4--2--4--5  
   B--2---2-3--------3--------5  
   G--2--------------4--------6  
@@ -92,7 +92,7 @@ Last Riff: [E----5-----0-4----4--2--4--5
   
   *=====================================*  
   
-       ***A            E***  
+    ***A            E***  
   |-----5-------------|--------|  
   |----------------9--|-----/--|  
   |--6-----6h7--9-----|--.-/---|  
@@ -100,15 +100,15 @@ Last Riff: [E----5-----0-4----4--2--4--5
   |-------------------|--/-----|  
   |-------------------|--------|  
   
-            ***A       E7   F#m    A7        D   Dm      A***  
+    ***A       E7   F#m    A7        D   Dm      A***  
   There are places I'll remember, all my life, though some have  
   changed  
-                E7      F#m   A7          D  Dm    A  
+    E7      F#m   A7          D  Dm    A  
   Some forever, not for better, some have gone and some remain.  
-            F#m              Bm            G                     A  
+    F#m              Bm            G                     A  
   All these places had their moments, with lovers and friends, I still  
   can recal.  
-           F#m               B           D            A  
+    F#m               B           D            A  
   Some are dead and some are living.  In my life I've loved them all.  
   
   *(OPENING RIFF)*  

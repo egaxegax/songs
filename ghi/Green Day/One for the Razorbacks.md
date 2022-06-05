@@ -17,13 +17,13 @@ VERSE:  Juliet's tryin
   ***B            F#                       B***  
   I want to bring you up again now.  
   
-        ***F#                    E            B***  
+    ***F#                    E            B***  
 CHORUS:  I'm losing what's left of my dignity  
-              ***F#                   E***  
+    ***F#                   E***  
   A small price to pay to see that you're happy.  
-             ***F#              E                            B***  
+    ***F#              E                            B***  
   Forget all the disappointments you have faced  
-           ***F#                   E                       B***  
+    ***F#                   E                       B***  
   Open up your worried world and let me in  
   
 VERSE 2: Juliet's crying  

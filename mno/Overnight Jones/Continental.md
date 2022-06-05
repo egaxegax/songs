@@ -3,7 +3,7 @@ Continental
   
   ***G         Em               C      D***  
 VERSE 1: We parted company at the railway track  
-            ***G                 Em        C             D***  
+    ***G                 Em        C             D***  
   I had a chance for feeling sorry, or never looking back  
   ***C              D               G             C***  
   I got on that train I must confess I shed a tear  

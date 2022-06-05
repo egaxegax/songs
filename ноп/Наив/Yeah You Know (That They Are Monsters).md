@@ -11,9 +11,9 @@
   I'm drunk, I'm stoned I love it everyday.  
   ***D                     A***  
   I will turn on mу TV set,  
-                             ***Hm***  
+    ***Hm***  
   Instead of having evening sex,  
-                        ***G***  
+    ***G***  
   And wank till our aerials are red.  
   
   ***D                 F F#m***  
@@ -22,7 +22,7 @@
   I do not trust myself, but it's that pain in me.  
   ***A                              G***  
   Don't need no one to tall me what the hell to do,  
-               ***Hm                  A     G***  
+    ***Hm                  A     G***  
   You can not wear me out - ain't gonna live like you.  
   
   But you have your own vision,  

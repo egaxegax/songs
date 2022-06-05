@@ -15,7 +15,7 @@ Wonderful Tonight
   And then she asks me  
   ***G    Bm/F#   Em***  
   Do I look alright  
-             ***C             D           G     D/F#  C  D***  
+    ***C             D           G     D/F#  C  D***  
   And I say yes, you look wonderful tonight  
   ***G        D/F#***  
   We go a party  
@@ -29,17 +29,17 @@ Wonderful Tonight
   And then she asks me  
   ***G      Bm/F#   Em***  
   Do you feel alright  
-             ***C           D           G***  
+    ***C           D           G***  
   And I say yes, I feel wonderful tonight  
-          ***C***  
+    ***C***  
   I feel wonderful  
      ***D               G         Bm/F#   Em***  
   Because I see the love light in your eyes  
-           ***C           D***  
+    ***C           D***  
   And the wonder of it all  
-               ***C             D***  
+    ***C             D***  
   Is that you just don't realize  
-              ***G        D/F#  C  D  G  D/F#  C  D***  
+    ***G        D/F#  C  D  G  D/F#  C  D***  
   How much I love you  
   ***G                D/F#***  
   It's time to go home now  
@@ -53,9 +53,9 @@ Wonderful Tonight
   And then I tell her  
   ***G    Bm/F#         Em***  
   As I turn out the light  
-            ***C                 D           G     Bm/F#  Em Em/D***  
+    ***C                 D           G     Bm/F#  Em Em/D***  
   I say my darling, you were wonderful tonight  
-         ***C                 D           G   D/F#  C  D  G  D/F#  C  D  G***  
+    ***C                 D           G   D/F#  C  D  G  D/F#  C  D  G***  
   Oh my darling, you were wonderful tonight  
   
 -  

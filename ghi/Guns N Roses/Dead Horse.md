@@ -2,28 +2,28 @@
 Intro:  
 A5                B5 G#5  F#5      G#5   A5  G#5 A5 G#5 A5  
   sick of this life,     not that you`d care  
-             B5      E5  
+    B5      E5  
 i`m not the only one with  
   
-                      F#5 G5 G#5 A5      B5        C#5 G#5  
+    F#5 G5 G#5 A5      B5        C#5 G#5  
 whom these feelings i share       nobody understands  
-       A5   B5   A5  
+    A5   B5   A5  
 quite why we`re here  
   
 G#5 A5 G#5 A5          G#5  A5  B5     E5  
-            we`re searchin` for answers  that never appear  
+    we`re searchin` for answers  that never appear  
  F#5 G5 G#5 A5  
 but maybe if i looked  
   
-               G#5       F#5 G#5 A5   G#5 A5 G#5 A5  
+    G#5       F#5 G#5 A5   G#5 A5 G#5 A5  
 real hard i`d, i`d see ya tryin` to,  
    B5                  E5  
 to understand this life,  
   
-                             F#5 G5 G#5 A5 B5 G#m A A  
+    F#5 G5 G#5 A5 B5 G#m A A  
 that we`re all goin` through  
   
-           A                           B     E   Esus4  
+    A                           B     E   Esus4  
 (then when she said she was gonna like wreck  
 my car i didn`t know what to do) woh!  
   
@@ -32,13 +32,13 @@ A5                        E5
 sometimes i feel like i`m beating a dead horse and i  
  A5  
 don`t know why  
-         E5                A5  
+    E5                A5  
 you`d be bringing me down, i`d like to think that our  
  E5  
 love`s worth  
-             A5                   E5  
+    A5                   E5  
 a tad more it may sound funny but you`d think  
-                 F#5  
+    F#5  
 by now i`d be smiling  
 G#5 A5                          E5 E6 E5 E6 E5  
 i guess some things never change  
@@ -48,7 +48,7 @@ woh,  never change
 Verse:  
 A5           B5     G#5                    A5 G#5 F#5 E5 A5  
 i met an old cowboy, i saw the look in his eyes  something  
-                                                        tells me  
+    tells me  
      B5                     E  
 he`s been here before cause  
  E5                         A5  
@@ -57,7 +57,7 @@ B5                    G#5
 small child when the thought first came  
    A5  
 to me that i`m the son of a  
-            B5                E5  
+    B5                E5  
 gun and the gun of a son that brought back the devil in me  
   
 [chorus]  
@@ -69,9 +69,9 @@ i aint quite what you`d call an old soul
 still wet behind the ears i  
       C#m                F#  
 been around this track a couple of times  
-             A5  
+    A5  
 but now the    dust is starting  
-       B5  
+    B5  
 to clear_______ oh_______  yeah!  
   
  Solo:  
@@ -110,16 +110,16 @@ D|-------------------------------------------------------------|
 A|-------------------------------------------------------------|  
 E|-------------------------------------------------------------|  
   
-                      chorus: A5                        E5  
+    chorus: A5                        E5  
 E|-------------------------------------------------------------|  
 B|-16------16--------------------------------------------------|  
 G|----18fb----18-16-18-16-----14~~~~~~~~~~~~~~~~~~(14)13~~~~~~-|  
 D|-------------------------------------------------------------|  
 A|-------------------------------------------------------------|  
 E|-------------------------------------------------------------|  
-                      some times i feel like i`m beating a dead  
+    some times i feel like i`m beating a dead  
   
-              A5                      E5  
+    A5                      E5  
 E|------------------------------------------------------|  
 B|------------------------------------------------------|  
 G|-11fb----------------------r--------9~~~~~~~~~~~~~~~~-|  
@@ -130,7 +130,7 @@ E|------------------------------------------------------|
   
 A5                          E5                        A5  
 i`d like to think that our love`s worth a tad more it may sound  
-               E5  
+    E5  
 funny but you`d think by now i`d be  
  A5     E5               A5  
 smiling Ooh yeah i`d be smilin`  
@@ -160,7 +160,7 @@ E|-----------------------------------------|
   
 A5                B5 G#5  F#5     G#5   A5  G#5 A5 G#5 A5 B5 E5  
 sick of this life, not that you`d care i`m not the only one with  
-                      F#5 G5 G#5 A5  
+    F#5 G5 G#5 A5  
 whom these feelings i share  
   
 Version 2: (intro)  
@@ -176,7 +176,7 @@ A|-7----7---------7----9-|-9------9-----6-|-6-------4-/-6----7-|
 E|-5----5----x----5----7-|-7---x--7-----4-|-4---x---2-/-4----5-|  
   Sick of this life not that you`d care  
   
-        G#5 A#5 G#5 A#5         B5            E5  
+    G#5 A#5 G#5 A#5         B5            E5  
 E|--------------------|------------------|---------------------|  
 B|--------------------|------------------|---------------------|  
 G|--------------------|------------------|---------------------|  
@@ -185,7 +185,7 @@ A|-7----6-/-7---6-/-7-|-7-----7--9--9----|-9--2--2-----2-----2-|
 E|-5-x--4-/-5---4-/-5-|-5--x--5--7--7--x-|-7--0--0--0--0--0--0-|  
   I`m not the only one with whom these feelings I share  
   
-         F#5   G    G#5   A5          B5    C#5 G#5    A5  B5 A5  
+    F#5   G    G#5   A5          B5    C#5 G#5    A5  B5 A5  
 E|--------------------------|-----------------|----------------|  
 B|--------------------------|-----------------|----------------|  
 G|--------------------------|-----------------|----------------|  

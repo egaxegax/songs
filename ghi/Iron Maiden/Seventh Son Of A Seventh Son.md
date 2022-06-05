@@ -43,9 +43,9 @@ Play C . . .  /////// . . . //// Em  . . . .
 --------------------------------------------------------------------------  
   
 note : . := 1 tick rest  
-       h := hamer on  
-       p := pull off  
-        := slide down  
+    h := hamer on  
+    p := pull off  
+    := slide down  
   
 repeat playing verse  
   

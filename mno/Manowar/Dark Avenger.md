@@ -45,7 +45,7 @@ Dark Avenger
   ...clap like thunder!  
   
   *Part III:(two times)         Part IV:(two times)*  
-                               Burning, Death, Destruction..  
+    Burning, Death, Destruction..  
   [e|--------------------------|----------------------------------|  
   b|--------------------------|----------------------------------|  
   g|-------------------------o|----------------------------------|  

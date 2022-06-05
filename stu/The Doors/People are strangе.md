@@ -9,7 +9,7 @@ Streets are uneven when you're down
   When you're strange  
    G                     H  
   Faces come out of the rain  
-                 H  
+    H  
   When you're strange  
    G                     H  
   No one remembers your name  

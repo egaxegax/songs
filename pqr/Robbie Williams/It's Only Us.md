@@ -8,7 +8,7 @@ It's Only Us
   But we don't want to get a job  
   ***E                H***  
   We all need a decent rock  
-            ***F#m       H***  
+    ***F#m       H***  
   Where it's all kicking off  
   ***A***  
   Baby it's alright  

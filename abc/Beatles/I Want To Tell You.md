@@ -12,32 +12,32 @@ Intro:  [E---------------------------------------
   
   ***A***  
   I want to tell you  
-                         ***B***  
+    ***B***  
   my head is filled with things to say  
   ***E7***  
   When you're here, all those words  
-               ***A***  
+    ***A***  
   they seem to slip away  
   
   ***A***  
   When I get near you  
-                     ***B***  
+    ***B***  
   the games begin to drag me down  
   ***E7***  
   It's alright, I'll make you maybe  
-       ***A***  
+    ***A***  
   next time around  
   
   ***Bm       E7            A***  
   But if I seem to act unkind  
-            ***B7              Bm***  
+    ***B7              Bm***  
   It's only me, it's not my mind  
   ***Dm6        A***  
   that is confusing things  
   
   ***A***  
   I want to tell you  
-                       ***B***  
+    ***B***  
   I feel hung up and I don't know why  
   ***E7***  
   I don't mind, I could wait forever  
@@ -46,14 +46,14 @@ Intro:  [E---------------------------------------
   
   ***Bm          E7              A***  
   Sometimes I wish I knew you well  
-               ***B7                Bm***  
+    ***B7                Bm***  
   Then I could speak my mind and tell you  
   ***Dm6         A***  
   Maybe you'd understand.  
   
   ***A***  
   I want to tell you  
-                       ***B***  
+    ***B***  
   I feel hung up and I don't know why  
   ***E7***  
   I don't mind, I could wait forever  

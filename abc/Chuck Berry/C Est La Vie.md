@@ -14,7 +14,7 @@ D
 And the old folks wished them well  
 D  
 You could see that Pierre  
-                       A  
+    A  
 Truly loved the mademoiselle  
 A  
 And now the young Monsieur and Madame  
@@ -22,7 +22,7 @@ A
 Have rung the chapel bell  
 A  
 C'est La Vie say the old folks  
-                              D  
+    D  
 It goes to show you never can tell  
   
 They furnished off the apartment  

@@ -10,7 +10,7 @@ intro:  ***Em D G C Em D Em C G D Em***
   a mighty Indian tribe  
   ***C                  C Em     D             G***  
   but the winds of change   have made them realize  
-              ***Am          D***  
+    ***Am          D***  
   that the promises were lies  
   ***Em                    B***  
   The white man's greed   in search of gold  
@@ -18,11 +18,11 @@ intro:  ***Em D G C Em D Em C G D Em***
   made the nation bleed  
   ***C                     C  Em       D               G***  
   They had lost their faith    and now they had to learn  
-            ***Am             Bm    C                  D***  
+    ***Am             Bm    C                  D***  
   there was no place to return   nowhere they could turn  
-           ***Em D G C               Em        D      Em C G D***  
+    ***Em D G C               Em        D      Em C G D***  
   Cherokee        marching on the trail of tears  
-           ***Em D G C               Em        D      Em C G D     Em***  
+    ***Em D G C               Em        D      Em C G D     Em***  
   Cherokee        marching on the trail of tears  
   
 verse 2: They were driven hard across the plains  

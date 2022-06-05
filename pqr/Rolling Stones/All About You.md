@@ -1,15 +1,15 @@
 <!--2020-09-06 05:18:06-->
 INTRO: BARRE CHORDS  
-       LOW E STRING --0--1--  
+    LOW E STRING --0--1--  
 THEN:  F C STRUMMED SLOWLY  
-                             2x`s  
+    2x`s  
 VERSE:  
   
 F            C  
 Well if you call this a life  
 Bb  Bbm              F  
 Why must I spend it with you  
-        C  
+    C  
 If the show must go on  
 Bb       Bbm          F  
 Let it go on without you  
@@ -41,7 +41,7 @@ CHORUS:
       Let me think they`re true, yeah  
       I heard one or two  
       They weren`t about me, weren`t about her  
-                                 C  Bb  Bbm  F  
+    C  Bb  Bbm  F  
       They were all about you  
   
 VERSE:  

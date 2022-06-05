@@ -128,7 +128,7 @@ Temptation makes us fall from grace
 But the angels were sinnerS  
       ***D***  
 And the sinners saints  
-       ***Em           C       D***  
+    ***Em           C       D***  
 Forgive yourself cause we're all the same  
       ***C                D***  
 Everybody rides on the karma train  

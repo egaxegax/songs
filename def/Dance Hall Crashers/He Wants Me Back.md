@@ -1,7 +1,7 @@
 <!--2020-09-04 19:11:21-->
 He Wants Me Back  
   
-        ***E     Dbm   Ebm    B      Dbm    F#    Abm***  
+    ***E     Dbm   Ebm    B      Dbm    F#    Abm***  
   [e     7     9     6      7      4      2     4  
   B     9     9     7      7      5      2     4  
   G     9     9     8      8      6      3     4  
@@ -45,7 +45,7 @@ He Wants Me Back
   *Verse 1*  
   
   *Vocals*  
-       Yester  day the leaves were brown  
+    Yester  day the leaves were brown  
   
   *Guitar1*  
      ***B            Abm                 Dbm        F#***  
@@ -58,7 +58,7 @@ He Wants Me Back
   E--------------------------------------------------------]  
   
   *Vocals*  
-       And I was  wearing a big   frown  
+    And I was  wearing a big   frown  
   
   *Guitar1*  
      ***B            Abm                  Dbm        F#***  
@@ -96,7 +96,7 @@ Lyrics:  Because my lover left me for the girl
      ***B             Abm          Dbm       F#***  
   
   *Vocals*  
-        Now we'll  see  whos    crying  
+    Now we'll  see  whos    crying  
   *Guitar1*  
      ***B             Abm          Dbm       F#***  
   

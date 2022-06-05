@@ -26,7 +26,7 @@ Let's lynch the landlord
   -7---7-7-7-7-7-7---5---5-5-5-5-5-5---9-  
   -5---5-5-5-5-5-5---3---3-3-3-3-3-3---7-  
   -5---5-5-5-5-5-5---3---3-3-3-3-3-3---7-]  
-                                       *^I think this is right*  
+    *^I think this is right*  
   
   *In the L7 cover of this song (on the virus 100 album) this is*  
   *how they play it.*  
@@ -53,7 +53,7 @@ Let's lynch the landlord
   -7---7-7-7-7-7-7---5---5-5-5-5-5-5---9-  
   -7---7-7-7-7-7-7---5---5-5-5-5-5-5---9-  
   -5---5-5-5-5-5-5---3---3-3-3-3-3-3---7-]  
-                                       *^I think this is right*  
+    *^I think this is right*  
   
 -  
   

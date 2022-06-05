@@ -18,7 +18,7 @@
      Pray for the stranger you know so well  
   ***Am                        C G          G             C D***  
      'cause I'm coming home     Now the time has come  
-        ***G      C D                        C D    G     C D***  
+    ***G      C D                        C D    G     C D***  
      oh yeah        Now the time has come      oh my  
     ***Em***  
      oohhoohh for me to come back home  

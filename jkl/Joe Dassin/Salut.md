@@ -1,6 +1,6 @@
 <!--2020-09-05 10:31:27-->
 (intro: Dm Dm7 Dm6 Dm7 Dm Dm7 Dm6 Dm7  
-        Dm Gm C F Dm Gm A Dm Dm7 G G7 A)  
+    Dm Gm C F Dm Gm A Dm Dm7 G G7 A)  
   
     Dm             Gm  
     Salut, c?est encore moi.  
@@ -8,13 +8,13 @@
     Salut, comment tu vas?  
     Gm      A      Dm      Dm7  
     Le temps m?a paru tres long.  
-            G         G7       A  
+    G         G7       A  
     Loin de la maison j?ai pense a toi.  
 Dm                   Gm  
 J?ai un peu trop navigue  
 C                 F   Dm Gm  
 Et je me sens fatigue.  
-       A    Dm    Dm7  
+    A    Dm    Dm7  
 Fais-moi un bon cafe,  
 G             G7       A  
 J?ai une histoire a te raconter.  
@@ -32,12 +32,12 @@ Il s?est perdu, il est revenu.
     Salut, comment tu vas?  
     Bm      C7     Fm      Fm7  
     Le temps m?a paru tres long.  
-             G        G7       C      C7  
+    G        G7       C      C7  
     Loin de la maison j?ai pense a toi.  
 (solo: Fm Gm)  
    Gm                      Cm F  
 Tu sais, j?ai beaucoup change.  
-                     B    Gm Cm  
+    B    Gm Cm  
 Je m?etais fait des idees,  
       D        Gm     Gm7  
 Sur toi, sur moi, sur nous,  

@@ -29,8 +29,8 @@ Urban Struggle
   |--3^2^0-----0---|                 |--3^2^0-----0------|  
   |----------------|                 |-------------------|  
   |----------------|                 |-------------------|  
-                                             *drop last note*  
-                                             *with trem. bar.*  
+    *drop last note*  
+    *with trem. bar.*  
   *Ho! (Start Fast part)*  
   ***D A D A (C) D A D A***  
   ***D A D A (C) D A D A***  

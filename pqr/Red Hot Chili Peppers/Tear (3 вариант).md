@@ -6,29 +6,29 @@ C G Am Am x2
 Verse:  
 C             G  
   This is my time  
-              Am  Am  
+    Am  Am  
   This is my tear  
 C             G  
   I can see clearly now  
-         Am  
+    Am  
   That this is not a place  
-               Am  
+    Am  
   For playing solitaire  
 C           G        Am     Am  
   Tell me where you want me  
 C             G  
   This is my time  
-              Am  Am  
+    Am  Am  
   This is my tear  
 C              G  
   Comin? on strong  
-        Am   Am  
+    Am   Am  
   Baudelaire  
 C           G  
   Seems to me like  
-           Am  
+    Am  
   All the world gets high  
-             Am  
+    Am  
   Where you take a dare  
 C        G       Am      Am  
   Let it rise before you  
@@ -40,7 +40,7 @@ C        G
   All in all and I?m  
   Am            G  
   Loving every rise and fall  
-       F                C  
+    F                C  
   The sun will make and I will take  
     F           G  
   Breath to be sure of this  

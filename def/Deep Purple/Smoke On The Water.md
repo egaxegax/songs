@@ -5,7 +5,7 @@ intro:  ***Em G A Em G A# A Em G A G Em***
   
      ***Am***  
   We all came out to Montreux  
-          ***G            Am***  
+    ***G            Am***  
   On the Lake Geneva shoreline  
   ***Am***  
   To make records with a mobile  

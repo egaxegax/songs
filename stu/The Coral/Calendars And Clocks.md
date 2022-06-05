@@ -54,9 +54,9 @@ Calendars And Clocks
   
   ***E F#m } x2***  
   
-       ***Bm***  
+    ***Bm***  
   Calendars and clocks and hickory docks  
-       ***C#m***  
+    ***C#m***  
   Calendars and clocks and hickory docks } repeat x7  
   
   ***D E F#m***

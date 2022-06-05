@@ -41,8 +41,8 @@
   A|--5---------------------3--5--|  
   E|---------------------------3--|]  
       Im feelin low so get me high ..  
-                           */\/\/\*  
-                           *NOT SURE ABOUT THIS?!*  
+    */\/\/\*  
+    *NOT SURE ABOUT THIS?!*  
   
   *RhythmFig.4*  
       ***A         G                    D    D  D    D     C  C***  

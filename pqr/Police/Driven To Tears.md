@@ -2,7 +2,7 @@
 Driven To Tears  
   
   *VERSE: (Repeating pattern)*  
-         +e q e q e e+  
+    +e q e q e e+  
   |---|----------------|  
   |4:-|*----7---5-7---*|  
   |4:-|*------7-------*|  

@@ -7,15 +7,15 @@ Running to Paradise (1996)
   
    ***Am     Am C        G                          D***  
 (1)  To the Sea, to the Sea! The white gulls are crying,  
-                 ***F                             Am   Em Am***  
+    ***F                             Am   Em Am***  
   The wind is blowing, and the white foam is flying.  
   
-               ***Am C                     G***  
+    ***Am C                     G***  
 (2)  West, west away, the round sun is falling.  
-         ***D          F                     Am***  
+    ***D          F                     Am***  
   Grey ship, grey ship, do you hear them calling.  
   
-        ***A        A               D           Dm***  
+    ***A        A               D           Dm***  
 R:  The voices of my people that have gone before me?  
      ***A             A              D           E7***  
   I will leave, I will leave the woods that bore me;  

@@ -6,23 +6,23 @@ Diamonds and Rust
   
   ***Em   Em***  
   Well I'll be damned  
-                  ***C***  
+    ***C***  
   Here comes your ghost again  
-                  ***G***  
+    ***G***  
   But that's not unusual  
-                    ***D***  
+    ***D***  
   Its just that the moon is full  
-                      ***Em***  
+    ***Em***  
   And you happened to call  
       ***Em***  
   And here I sit  
-              ***C***  
+    ***C***  
   Hand on the telephone  
-                  ***G***  
+    ***G***  
   I'm hearing a voice I'd known  
-              ***D***  
+    ***D***  
   A couple of light years ago  
-                         ***Em***  
+    ***Em***  
   Heading straight for a fall  
   As I remember,  
   Your eyes were bluer than robins' eggs  
@@ -44,21 +44,21 @@ Diamonds and Rust
   The madonna was yours for free  
   The girl on the half-shell  
   Could keep you unharmed  
-        ***Bm***  
+    ***Bm***  
   Now I see you standing with brown leaves falling all around  
-                   ***Am***  
+    ***Am***  
   And snow in your hair  
-       ***Bm***  
+    ***Bm***  
   Now you're smiling out of the window of that crummy hotel  
-                  ***Am***  
+    ***Am***  
   Over Washington square  
-        ***C***  
+    ***C***  
   Our breath comes out of white clouds  
-                           ***G***  
+    ***G***  
   Mingles and hangs in the air  
-          ***Fmaj7***  
+    ***Fmaj7***  
   Speaking strictly for me  
-                                   ***G     B7***  
+    ***G     B7***  
   We both could have died then and there  
   Now your telling me  
   Your not nostalgic  

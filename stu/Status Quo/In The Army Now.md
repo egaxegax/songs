@@ -7,9 +7,9 @@
   ***Dm***  
 (1)  A vacation in the foreign land  
   Uncle Sam does the best he can  
-                ***Gm***  
+    ***Gm***  
   You're in the army now  
-                       ***Dm***  
+    ***Dm***  
   Oh, oh you're in the army - now  
   
 (2)  Now you remember what the draft man said  
@@ -20,7 +20,7 @@
   ***Dm***  
 (3)  You'll be a hero of the neighbourhood  
   Nobody knows that you left for good  
-                ***Gm***  
+    ***Gm***  
   You're in the army now  
   ***Am                   Dm***  
   Oh, oh you're in the army - now  
@@ -38,7 +38,7 @@
   ***Em***  
 (4)  The sun's flying over your head  
   If you wanna survive you're out of bet  
-                ***Am***  
+    ***Am***  
   You're in the army now  
   ***Hm                   Em***  
   Oh, oh you're in the army - now  
@@ -67,9 +67,9 @@ Intro:  ***Dm Am7 Dm C***
   ***Dm7***  
   A vacation in the foreign land  
   Uncle Sam does the best he can  
-               ***Gm***  
+    ***Gm***  
   You?re in the army now  
-                      ***Dm***  
+    ***Dm***  
   Oh, oh you?re in the army - now  
   
   Now you remember what the draft man said  
@@ -85,7 +85,7 @@ Intro:  ***Dm Am7 Dm C***
   ***Dm7****  
   Smiling faces on the way to ?Nam  
   But once you get there no one gives a damn  
-               ***Gm***  
+    ***Gm***  
   You?re in the army now  
   ***C*                  Dm****  
   Oh, oh you?re in the army - now  
@@ -97,7 +97,7 @@ Intro:  ***Dm Am7 Dm C***
   ***Em7****  
   The sun?s flying over your head  
   If you wanna survive you?re out of bet  
-                ***Am****  
+    ***Am****  
   You?re in the army now  
   ***Hm*                 Em****  
   Oh, oh you?re in the army - now  
@@ -134,23 +134,23 @@ Intro:  ***- Dm - Am - Dm - C***
   ***Dm***  
   A vacation in the foreign land  
   Uncle Sam does the best he can  
-                ***Gm***  
+    ***Gm***  
   You?re in the army now  
-                       ***Dm***  
+    ***Dm***  
   Oh, oh you?re in the army - now  
   
   ***Dm***  
   Now you remember what the draft man said  
   Nothing to do all day but stay in bed  
-                ***Gm***  
+    ***Gm***  
   You?re in the army now  
-                       ***Dm          (Bass fill)***  
+    ***Dm          (Bass fill)***  
   Oh, oh you?re in the army - now  
   
   ***Dm***  
   You?ll be a hero of the neighbourhood  
   Nobody knows that you left for good  
-                ***Gm***  
+    ***Gm***  
   You?re in the army now  
   ***Am                   Dm***  
   Oh, oh you?re in the army - now  
@@ -158,7 +158,7 @@ Intro:  ***- Dm - Am - Dm - C***
   ***Dm                                (Fill 1)***  
   Smiling faces on the way to ?Nam  
   But once you get there no one gives a damn  
-                ***Gm***  
+    ***Gm***  
   You?re in the army now  
   ***Am                   Dm***  
   Oh, oh you?re in the army - now  
@@ -171,7 +171,7 @@ Break:  ***- Dm - Am - Dm - C***
   ***Em***  
   The sun?s flying over your head  
   If you wanna survive you?re out of bet  
-                ***Am***  
+    ***Am***  
   You?re in the army now  
   ***Hm                   Em***  
   Oh, oh you?re in the army - now  
@@ -179,7 +179,7 @@ Break:  ***- Dm - Am - Dm - C***
   ***Em***  
   Shots ring out in the dead of night  
   The sergeant calls : "Stand up and fight!"  
-                ***Am***  
+    ***Am***  
   You?re in the army now  
   ***Hm                   Em***  
   Oh, oh you?re in the army - now  
@@ -187,7 +187,7 @@ Break:  ***- Dm - Am - Dm - C***
   ***Em***  
   You?ve got your orders to shoot on sight  
   your finger?s on the trigger but it don?t seem right  
-                ***Am***  
+    ***Am***  
   You?re in the army now  
   ***Hm                  Em***  
   Oh, oh you?re in the army - now  
@@ -198,12 +198,12 @@ Break:  ***- Dm - Am - Dm - C***
   Night is falling and you just can?t see  
   
   Is this illusion or reality  
-                ***Am***  
+    ***Am***  
   You?re in the army now  
   ***Hm                   Em***  
   Oh, oh you?re in the army - now  
   
-                ***Am***  
+    ***Am***  
   You?re in the army now          \  
   ***Hm                   Em          } - playing N times with fill 2***  
   Oh, oh you?re in the army - now /  
@@ -250,21 +250,21 @@ Fill 2:  [E|---------------------------------------|
    ***Am - Em - Am - G     Am***  
 (1)  A vacation in a foreign land,  
   Uncle Sam does the best he can,  
-                       ***Dm             F  Em                      Am***  
+    ***Dm             F  Em                      Am***  
   you're in the army now, oh, oh, you're in the army now.  
   Now you remember what the draftsman said,  
   nothing to do all day but stay in bed,  
-                       ***Dm            F  Em                      Am***  
+    ***Dm            F  Em                      Am***  
   you're in the army now, oh, oh, you're in the army now.  
   
   ***Am***  
 (2)  You`ll be the hero of the neighbourhood,  
   nobody knows, that you left for good,  
-                       ***Dm            F  Em                       Am***  
+    ***Dm            F  Em                       Am***  
   you're in the army now, oh, oh, you're in the army now.  
   Smiling faces as you wait to land,  
   but once you get there no one gives a damn,  
-                   ***Dm            F  Em                       Am***  
+    ***Dm            F  Em                       Am***  
   you're in the army now, oh, oh, you're in the army now.  
   
      ***Am-Em-Am-G   Am                   ~***  
@@ -272,28 +272,28 @@ Fill 2:  [E|---------------------------------------|
   ***Am***  
   missiles flying over your head,  
   if you want to survive get out of bed,  
-                       ***Dm            F  Em                      Am***  
+    ***Dm            F  Em                      Am***  
   you're in the army now, oh, oh, you're in the army now.  
   ***Am***  
   Shots ring out in the dead of night,  
-                     - - - - - - - - - - - -  
+    - - - - - - - - - - - -  
   the sergeant calls, "Stand up and fight!"  
-                        ***Dm            F  Em                       Am***  
+    ***Dm            F  Em                       Am***  
   You're in the army now, oh, oh, you're in the army now.  
   
   ***Am***  
 (4)  You've got your orders, better shoot on sight,  
   your finger's on the trigger, but it don't seem right,  
-                       ***Dm            F   Em                      Am***  
+    ***Dm            F   Em                      Am***  
   you're in the army now, oh, oh, you're in the army now,  
-                       ***Dm            F  Em                       Am***  
+    ***Dm            F  Em                       Am***  
   you're in the army now, oh, oh, you're in the army now.  
   ***Am-Em-Am-G   Am***  
   Night is falling and you just can't see,  
   is this illusion or reality,  
-                       ***Dm            F  Em                       Am***  
+    ***Dm            F  Em                       Am***  
   you're in the army now, oh, oh, you're in the army now.  
-                       ***Dm             F  Em                       Am***  
+    ***Dm             F  Em                       Am***  
   You're in the army now, oh, oh, you're in the army now,  
   ***Dm   F  Em                       Am***  
   oh, oh, you're in the army now.....  

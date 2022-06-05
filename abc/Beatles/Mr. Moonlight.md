@@ -15,7 +15,7 @@ Beatles for sale (1964), also Anthology 1, DC
   
   ***C                    G              E***  
   And now she is mine, I think you're fine  
-       ***A        D             G***  
+    ***A        D             G***  
   Cause we love you, Mr. Moonlight.  
   ***G                             G***  
   Mr. Moonlight, come again please,  
@@ -24,14 +24,14 @@ Beatles for sale (1964), also Anthology 1, DC
   
   ***C                                    G                        E***  
   On the nights you don't come my way, I pray and pray for each day  
-        ***A       D          G***  
+    ***A       D          G***  
   Cause we love you, Mr.Moonlight.  
   
   *SOLO*  
   
   ***C                                    G                        E***  
   On the nights you don't come my way, I pray and pray for each day  
-        ***A       D          G***  
+    ***A       D          G***  
   Cause we love you, Mr.Moonlight.  
   ***G              G                G***  
   Mr. Moonlight, come again please,  
@@ -40,5 +40,5 @@ Beatles for sale (1964), also Anthology 1, DC
   
   ***C                                       G                           E***  
   On the nights you don't come my way, whoa, I pray and pray for each day  
-        ***A       D           G***  
+    ***A       D           G***  
   Cause we love you, Mr. Moonlight.

@@ -3,13 +3,13 @@ INTRO:  STRUM D CHORD SLOWLY
   
 VERSE:  
   
-        G                     Em    Em7  Em  
+    G                     Em    Em7  Em  
 If you really want to be my friend  
-        C                        D  
+    C                        D  
       Let me live it up like I used to do  
-               G                   Em     Em7  Em  
+    G                   Em     Em7  Em  
       If you really want to understand me  
-                     C                 G   D  
+    C                 G   D  
       There`s some giving up we got to do  
   
 VERSE:  

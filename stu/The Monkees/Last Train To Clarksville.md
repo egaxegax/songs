@@ -14,11 +14,11 @@ Last Train To Clarksville
   ----------3---2---0----|------3--2--0---|--------3-----2-----0---------------  
   -----------------------|----------------|------------------------------------  
   ----3------------------|--3-------------|--3---------------------------------]  
-                                             *^*  
-                                             *|*  
-                                            *this figure is repeated thruout the*  
-                                            *verses, up until the chord change to*  
-                                            ***C7***  
+    *^*  
+    *|*  
+    *this figure is repeated thruout the*  
+    *verses, up until the chord change to*  
+    ***C7***  
   ***G***  
   take the last train to clarksville and i'll meet you at the station  
   you can be here at 4:30 cause i've made my reservation don't be  
@@ -30,7 +30,7 @@ Last Train To Clarksville
   i must  
   ***C7***  
   go, oh no no no, oh no no no  
-        ****D*** (i think - this is from memory right now)*  
+    ****D*** (i think - this is from memory right now)*  
   and i  don't know if i'm ever coming  
   ***G***  
   home  

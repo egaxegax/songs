@@ -3,7 +3,7 @@ Cruel Summer
   
   *Chords used (***G***, ***Em***, ***C***, ***D***)*  
   
-          ***G    Em                C           D***  
+    ***G    Em                C           D***  
   Hot summer streets and the pavements are burning  
       ***G     Em,  C  , D***  
   I sit around  

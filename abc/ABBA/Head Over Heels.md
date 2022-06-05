@@ -6,13 +6,13 @@
   ***Am Dm G C Am F E7 Am E7 Am Am***  
   ***Am       E7        E7-9***  
   I have a very good friend  
-                                ***Am***  
+    ***Am***  
   The kind of girl who likes to follow a trend  
-            ***E7       E7-9***  
+    ***E7       E7-9***  
   She has a personal style  
-                              ***Am***  
+    ***Am***  
   Some people like it, others tend to go wild  
-               ***G***  
+    ***G***  
   You hear her voice everywhere  
   ***E7***  
   Taking the chair  
@@ -22,21 +22,21 @@
   And with no trace of hesitation she keeps going  
   ***Dm7       G7***  
   Head over heels  
-               ***G6***  
+    ***G6***  
   Breaking her way  
   ***G                               E     Am***  
   Pushing through unknown jungles every day  
-          ***G    F      Esus          Am***  
+    ***G    F      Esus          Am***  
   She's a girl with a taste for the world  
-       ***Am                      A7           Dm***  
+    ***Am                      A7           Dm***  
   (The world is like a playing-ground where she goes rushing)  
   ***Dm7       G7***  
   Head over heels  
-              ***G6***  
+    ***G6***  
   Setting the pace  
   ***G                         E        Am***  
   Running the gauntlet in a whirl of lace  
-           ***G    F       E           Am***  
+    ***G    F       E           Am***  
   She's extreme, if you know what I mean  
   Her man is one I admire  
   He's so courageous but he's constantly tired  
@@ -71,7 +71,7 @@
   She's extreme, if you know what I mean  
     (She's just one of those who always has to do whatever she please)  
   And she goes  
-            ***F       Am.***  
+    ***F       Am.***  
   Head over heels  
   
   ****E7-9*** = [020101]*

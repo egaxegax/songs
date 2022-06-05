@@ -19,11 +19,11 @@ All Because Of You
   I could reach every star in the sky  
   ***H                          F#***  
   I could lose myself when I look  
-            ***Db***  
+    ***Db***  
   Into your eyes…  
   ***F#***  
   Is the happening?  
-                 ***Ebm***  
+    ***Ebm***  
   Is this fantasy?  
   ***F#                   Ebm***  
   All my dreams coming true…  

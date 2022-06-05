@@ -21,19 +21,19 @@ intro:  ***f c1*** } x2
   
   ***Bb c***  
   
-            ***f        gm          f        gm***  
+    ***f        gm          f        gm***  
   there's a ska band    on my street  
-           ***f        gm***  
+    ***f        gm***  
   a little ska band everybody thinks  
-               ***f           gm***  
+    ***f           gm***  
   that they're so fuckin' neat,  
-            ***f              gm***  
+    ***f              gm***  
   there was nothin' on the radio  
-            ***f                 gm***  
+    ***f                 gm***  
   was gonna make my own band, play my own shows  
       ***f               gm***  
   but that don't work  
-                    ***f        gm***  
+    ***f        gm***  
   so i'm givin' up again,  
   ***Bb1                               f***  
       she said she loved me cause i played guitar  
@@ -55,13 +55,13 @@ fill:  ***f dm c1***
   ***f dm c1***  
   ***Bb c***  
   
-          ***f         gm           f     gm***  
+    ***f         gm           f     gm***  
   well, i went down    to the show  
-       ***f              gm                 f     gm***  
+    ***f              gm                 f     gm***  
   everybody was there    i didn't wanna go  
-             ***f                   gm***  
+    ***f                   gm***  
   cause everything they do is so    fuckin' cool  
-        ***f                       gm***  
+    ***f                       gm***  
   every song is a hit and the girls like 'em too  
   ***f                   gm             f     gm***  
   i can't do that so i'm givin' up again  
@@ -79,7 +79,7 @@ fill:  ***f dm c1***
   i know everything sucks  
       ***Bb                        c                     dm***  
   and this is gonna be the last time you hear me complain  
-                       ***g***  
+    ***g***  
   she said, some day, we'll get back together maybe  
   ***dm                     g***  
       she said, some day things'll be much better baby  

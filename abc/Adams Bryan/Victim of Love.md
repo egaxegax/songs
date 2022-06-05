@@ -6,18 +6,18 @@ Into the Fire (A&M)
 VERSE:  Livin' on your own can be a lonely game  
      ***C***  
   A face in the crown, no one knows your name  
-           ***Bb                                    Am7***  
+    ***Bb                                    Am7***  
   It's a table for one and a broken heart to go  
   ***F***  
   She's the kind of lover that you always dreamed  
-         ***C***  
+    ***C***  
   would come to stay and never wanna leave  
-        ***Bb                                            Am7***  
+    ***Bb                                            Am7***  
   But that's all changed; she's dealt the final blow  
   
   ***G***  
 CHORUS:  Heaven knows what you were thinkin of  
-         ***Dm                            Bb             C***  
+    ***Dm                            Bb             C***  
   Don't blame yourself, you're just a victim of love  
   
 VERSE:  It doesn't matter who was right or wrong  
@@ -32,7 +32,7 @@ VERSE:  It doesn't matter who was right or wrong
   It ain't no secret you're a victim of love  
   ***G***  
   Heaven knows what you were thinkin' of  
-         ***Dm                           Bb***  
+    ***Dm                           Bb***  
   Don't blame youself, you're just a victim of love  
   
 VERSE:  One goodbye was really all it took  

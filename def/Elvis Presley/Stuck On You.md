@@ -4,11 +4,11 @@ Stuck On You
   ***E***  
 (A)  You can shake an apple off an apple tree  
   Shake a shake, Oh sugar, but you'll never shake me  
-        ***A7                 E***  
+    ***A7                 E***  
   Ah ah ah, no siree, ah ah ah.  
-              ***B             A7              (E -E)***  
+    ***B             A7              (E -E)***  
   I'm gonna stick like glue, stick because I'm  
-            ***E***  
+    ***E***  
   Stuck on you.  
   
 (A)  I'm gonna run my fingers through your long black hair  

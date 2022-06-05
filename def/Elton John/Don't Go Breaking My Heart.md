@@ -15,13 +15,13 @@ Don't Go Breaking My Heart (with Ru Paul)
   Honey when you knock on my door  
   I gave you my key  
   ***Em***  
-           ***Gm***  
+    ***Gm***  
   Nobody knows it  
   ***Gm          C***  
   When I was down  
   ***Gm         D      Em***  
   I was your clown  
-          ***Gm***  
+    ***Gm***  
   Nobody knows it  
   ***Gm             C***  
   Right from the start  

@@ -5,13 +5,13 @@ Intro
   
  G   C             D            Am7  
 Stay and help me to end the day.  
-          G           C  
+    G           C  
 And of you don't mind,  
-            D                Am7  
+    D                Am7  
 We'll break a bottle of wine.  
      G      C              D              Am7  
 Stick around and maybe we'll put one down,  
-               G    C           D               Am7  
+    G    C           D               Am7  
 Because I wanna find what lies behind those eyes.  
   
  Gm   C(III)   Gm   C(III)  
@@ -25,7 +25,7 @@ A yellow moon is growing cold.
 I rise, looking through my morning eyes,  
      G   C           D           Am7  
 Surprised to find you by my side.  
-       G     C           D                 Am7  
+    G     C           D                 Am7  
 Rack my brain to try to remember your name  
  G     C            D                 Am7  
 To find the words to tell you goodbye.  

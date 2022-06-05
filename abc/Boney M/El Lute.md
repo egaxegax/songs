@@ -12,49 +12,49 @@ El Lute
   He was only nineteen  
   And was sentenced to die  
   For something, that somebody else did  
-                   ***D    Hm***  
+    ***D    Hm***  
   And blamed on El Lute.  
   Then they changed it to life  
   And so he could escape  
-                   ***E***  
+    ***E***  
   From there they chased him  
   And searched for him  
-               ***A***  
+    ***A***  
   Day and night all over Spain.  
-           ***E***  
+    ***E***  
   But the search was in vane  
-         ***A***  
+    ***A***  
   For El Lute.  
   
   *Refrain:*  
   ***A                    D***  
   He had only seen the dark side of life  
-                         ***A***  
+    ***A***  
   The man they called El Lute.  
-                  ***E***  
+    ***E***  
   And he wanted a home just like you and like me  
-                      ***A***  
+    ***A***  
   In the country where all would be free  
-                              ***D***  
+    ***D***  
   Though he taught himself to read and to write  
-                    ***A***  
+    ***A***  
   He didn't have El Lute.  
-                       ***E***  
+    ***E***  
   He was one, who have dared to escape over night  
-              ***D       A***  
+    ***D       A***  
   They had to find El Lute.  
   
-           ***Am***  
+    ***Am***  
   Soon the fame of his name  
-                           ***E              Dm***  
+    ***E              Dm***  
   Spread like wild fire all over the land  
   With a price on his head  
   People still gave him bread  
-           ***Am***  
+    ***Am***  
   And they gave him a hand  
-            ***E***  
+    ***E***  
   For they knew he was right  
-          ***Am***  
+    ***Am***  
   And his fight was their fight.  
   
   No one gave him a chance  

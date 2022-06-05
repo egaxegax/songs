@@ -3,7 +3,7 @@
   Semi-detached Suburban Mr. James  
   
   *intro:*  
-       ***D         G        A      G***  
+    ***D         G        A      G***  
   [--2-2-2-5|-3-2--------0-0-0|-3-3-3---  
   ---------|-----3--0---2-2-2|-0-0-0---  
   ---------|------------2-2-2|-0-0-0---  
@@ -14,17 +14,17 @@
   *Verse 1:*  
   ***(G)     D      A          G***  
   So ... finally named ... day  
-         ***A       G         D***  
+    ***A       G         D***  
   .... wedding bells .... chime  
   ***(D)            A        G***  
   .............. hear ... say  
-          ***A        G       D***  
+    ***A        G       D***  
   ..... gonna ...his not mine  
-         ***Bm                 G***  
+    ***Bm                 G***  
   ...... think ........... happy  
   ***E7               A***  
   Giving ....... friends?  
-           ***D               G           A      G***  
+    ***D               G           A      G***  
   ........ semi-detached suburban Mr. James  
   
   *Verse 2:*  
@@ -51,7 +51,7 @@
   Semi-detached suburban Mr. James  
   
   *Wedding March Interlude (Organ):*  
-                 ***G***  
+    ***G***  
   [-------------------------------------  
   ---3--2------------------------------  
   ---------2--4--2--0------------------  
@@ -62,10 +62,10 @@
   *Coda:*  
   ***(G)    D       A         G***  
   So you finally named the day ...  
-         ***D       A         G***  
+    ***D       A         G***  
   So you finally named the day ...  
-         ***D       A         G***  
+    ***D       A         G***  
   So you finally named the day ...  
-         ***D       A          G***  
+    ***D       A          G***  
   Semi-detached suburban Mr. James  
   Semi-detached suburban Mr. James (repeated to fade)

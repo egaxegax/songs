@@ -2,11 +2,11 @@
 Wined & Dined  
   
   *Note: For most of the ***F*** chords, you can play this fill: [E -1-3-1-0-]*  
-                                                          [B -1-1-1-0-  
-                                                          G -2-2-2-2-  
-                                                          D -3-3-3-3-  
-                                                          A ---------  
-                                                          E ---------]  
+    [B -1-1-1-0-  
+    G -2-2-2-2-  
+    D -3-3-3-3-  
+    A ---------  
+    E ---------]  
 Intro:  ***A  F*** } x3  
   
   ***A    F   A       D    A            E        A***  

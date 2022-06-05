@@ -11,7 +11,7 @@ Wanton Song
   *play this four times    then this*  
   *then this 4X again                    then this*  
   *bridge: (this bit's tough to get sounding good on one guitar*  
-           *coz Page double-tracks so much)*  
+    *coz Page double-tracks so much)*  
   [----------------------------------------------------------------------  
   --1--1--4---3--3--4---4--4-6-8---5--5-6-8-----------------------------  
   --1--1------1---------3----------3------------------------------------  
@@ -28,7 +28,7 @@ Wanton Song
      ***Dm7sus2      Am7                Gm7***  
      *repeat this a few times*  
      *(I've put some notes in brackets that are "representative" ... a*  
-          *different thing gets played each time)*  
+    *different thing gets played each time)*  
   *that reverse fade roaring guitar ....*  
   [------------  
   ------------  

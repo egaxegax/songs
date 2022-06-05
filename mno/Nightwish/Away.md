@@ -21,11 +21,11 @@ Over The Hills And Far Away (2001)
   
    ***Am     G     F      Am***  
 Chorus:  Away, away, away in time  
-          ***C         G      Am***  
+    ***C         G      Am***  
   Every dream?s a journey away  
     ***С     G        F              Am***  
   Away, away to a home away from care  
-         ***C              G      Am***  
+    ***C              G      Am***  
   Everywhere?s just a journey away  
   
   The days departed  

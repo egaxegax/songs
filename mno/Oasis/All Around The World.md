@@ -27,35 +27,35 @@ VERSE 1: Its a bit early in the midnight hour for me
   To go through all the things I wanna be  
   ***B                               F#***  
   I dont beleive in everything I see  
-       ***E                             Abm  F#***  
+    ***E                             Abm  F#***  
   You know Im blind so why dyou disagree?  
   
   ***C#                     E***  
 BRIDGE:  Take me away, cause I just dont wanna stay  
-          ***Abm***  
+    ***Abm***  
   And the lies you make me say  
-               ***F#***  
+    ***F#***  
   Are getting deeper every day  
   ***G7                             B***  
   These are crazy days but they make me shine  
   ***E                     F#   F E***  
   Time keeps rolling by  
   
-                            ***B***  
+    ***B***  
 CHORUS 1: All Around The World,  
-                                  ***C#***  
+    ***C#***  
   you gotta spread the word  
-                              ***E***  
+    ***E***  
   Tell em what you heard,  
-                                          ***B***  
+    ***B***  
   were gonna make a better day  
   
   All Around The World,  
-                                 ***C#***  
+    ***C#***  
   you gotta spread the word  
-                              ***E***  
+    ***E***  
   Tell em what you heard,  
-                                        ***B     A   Bb***  
+    ***B     A   Bb***  
   you knows its gonna be okay  
   
 VERSE 2: (Same chords as verse 1)  
@@ -68,66 +68,66 @@ VERSE 2: (Same chords as verse 1)
   
   *NA NA CHORUS: (Same chords as chorus 1)*  
   
-                           ***C***  
+    ***C***  
 CHORUS 2: All Around The World,  
-                                   ***D***  
+    ***D***  
   you gotta spread the word  
   ***Dsus4    D         Fadd9***  
   Tell em what you heard,  
-                                         ***C***  
+    ***C***  
   were gonna make a better day  
   
   All Around The World,  
-                                   ***D***  
+    ***D***  
   you gotta spread the word  
   ***Dsus4    D         Fadd9***  
   Tell em what you heard,  
-                                        ***C***  
+    ***C***  
   you knows its gonna be okay  
-                                    ***C    B  Bb  A  G***  
+    ***C    B  Bb  A  G***  
   Cause all around the world  
-                     ***A   G***  
+    ***A   G***  
   It's gonna be okay  
-                     ***A   G***  
+    ***A   G***  
   It's gonna be okay  
-                     ***A   G***  
+    ***A   G***  
   It's gonna be okay  
-                     ***A   G***  
+    ***A   G***  
   It's gonna be okay  
   
-                           ***D***  
+    ***D***  
 CHORUS 3: All Around The World,  
-                                  ***E***  
+    ***E***  
   you gotta spread the word  
-                               ***G***  
+    ***G***  
   Tell em what you heard,  
-                                          ***D***  
+    ***D***  
   were gonna make a better day  
   All Around The World,  
-                                   ***E***  
+    ***E***  
   you gotta spread the word  
-                              ***G***  
+    ***G***  
   Tell em what you heard,  
-                                       ***D***  
+    ***D***  
   you knows its gonna be okay  
-                             ***D***  
+    ***D***  
   It's all around the world  
   
   *LA LA CHORUS: (Chords as chorus 3)*  
   
-             ***D***  
+    ***D***  
 OUTRO:  And I know what I know  
-             ***E***  
+    ***E***  
   What I know what I know  
-              ***G***  
+    ***G***  
   Yeah! I know what I know  
-                  ***D***  
+    ***D***  
   It's gonna be OK  
-            ***G***  
+    ***G***  
   And I know what I know  
     ***D                             D   G***  
   Please don't cry, never say die  
-       ***D                             D   G***  
+    ***D                             D   G***  
   So please don't cry, never say die  
   
 -  

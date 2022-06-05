@@ -13,7 +13,7 @@ CHORUS:
     F        G/F      F                       G/F  F        F/C  C  
 I dreamed you had left my side. No warmth not even pride remained--  
     F/C           F           G/F    F                        G/F     F  
-             And even though you needed me, it was clear that I could not  
+    And even though you needed me, it was clear that I could not  
      F/C  C         C   G/C   G/B  
 do a thing for you.  
   

@@ -4,37 +4,37 @@ The Miracle 1989
   
   I want it all, I want it all,  
   I want it all, and I want it now.  
-            ***Bm                 G***  
+    ***Bm                 G***  
   Adventure seeker on an empty street,  
-                ***A                     Bm    A***  
+    ***A                     Bm    A***  
   Just an alley creeper, light on his feet,  
-                  ***Bm                          G***  
+    ***Bm                          G***  
   A young fighter screaming, with no time for doubt  
-                        ***A                     Bm   A***  
+    ***A                     Bm   A***  
   With the pain and the anger can't see a way out,  
-                    ***D                   A***  
+    ***D                   A***  
   It ain't much I'm asking, I heard him say,  
   ***G               A                     G***  
   Gotta find me a future move out of my way,  
-            ***Bm             G              A                  Bm     A***  
+    ***Bm             G              A                  Bm     A***  
   I want it all, I want it all, I want it all, and I want it now.  
-            ***Bm             G              A                  Bm     A***  
+    ***Bm             G              A                  Bm     A***  
   I want it all, I want it all, I want it all, and I want it now.  
-                 ***Bm                  G***  
+    ***Bm                  G***  
   Listen all you people, come gather round,  
-                   ***A                      Bm                 A***  
+    ***A                      Bm                 A***  
   I gotta get me a game plan, gotta shake you to the ground,  
-       ***Bm                     G***  
+    ***Bm                     G***  
   Just give me what I know is mine,  
-                ***A             Bm                A***  
+    ***A             Bm                A***  
   People do you hear me, just give me the sign,  
-                    ***D                       A***  
+    ***D                       A***  
   It ain't much I'm asking, if you want the truth  
   ***G             A                        G***  
   Here's to the future for the dreams of youth,  
-            ***Bm             G              A                  Bm     A***  
+    ***Bm             G              A                  Bm     A***  
   I want it all, I want it all, I want it all, and I want it now.  
-            ***Bm             G              A                  B      E F#***  
+    ***Bm             G              A                  B      E F#***  
   I want it all, I want it all, I want it all, and I want it now.  
   ***B***  
   I'm a man with a one track mind,  
@@ -44,23 +44,23 @@ The Miracle 1989
   Not a man for compromise and  
   ***E                     F#***  
   where's and why's and living lies  
-         ***G***  
+    ***G***  
   So I'm living it all, yes I'm living it all,  
-          ***A***  
+    ***A***  
   And I'm giving it all, and I'm giving it all,  
   
   *(During SOLO:) ***Bm G A E****  
   
   ***Bm G A G A***  
   
-                    ***D                       A***  
+    ***D                       A***  
   It ain't much I'm asking, if you want the truth,  
   ***G             A                       G***  
   Here's to the future, hear the cry of youth,  
   
-            ***Bm             G              A                  Bm     A***  
+    ***Bm             G              A                  Bm     A***  
   I want it all, I want it all, I want it all, and I want it now.  
-            ***Bm             G              A                  Bm     A***  
+    ***Bm             G              A                  Bm     A***  
   I want it all, I want it all, I want it all, and I want it now.  
   
 -  

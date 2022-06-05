@@ -40,7 +40,7 @@
  Carve your name into my arm...  
  Instead of stressed I lie here charmed  
  Cuz there`s nothing else to do  
-             Every me and every you  
+    Every me and every you  
   
  Sucker love a box I choose  
  No other box I choose to use  

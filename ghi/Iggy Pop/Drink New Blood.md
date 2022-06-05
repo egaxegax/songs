@@ -1,6 +1,6 @@
 <!--2020-09-05 10:44:48-->
 Drop D - (tune the 7th fret of the bottom E string so it sounds exactly the same  
-          as the open A string above it)  
+    as the open A string above it)  
   
   
 Main Riff  

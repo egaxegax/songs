@@ -1,20 +1,20 @@
 <!--2020-09-06 04:55:36-->
 Am  
 Have you ever seen the morning  
-                  G  
+    G  
 When the sun comes out the shore  
-                  Am                     G  
+    Am                     G  
 And the silence makes the beauty for a sound  
-                  C  
+    C  
 Have you ever sat awaiting  
-                G  
+    G  
 For the time to stand still  
-                  Am                    G  
+    Am                    G  
 For all the world to stop from turning around  
   
-         C  
+    C  
 And you run  
-       G            Am  
+    G            Am  
 Вывод сообщений и переключение режима отображения команд на экране.  
   
   ECHO [ON | OFF]  
@@ -65,24 +65,24 @@ And you run
   
 Введите ECHO без параметра для определения текущего значения этой команды.  
   
-                  F  
+    F  
 There?s a time that turns  
     C  
 Turn back time  
-        G           Am  
+    G           Am  
 But I don?t say: "I can"  
-          F            G              Am  
+    F            G              Am  
 And only words if you believe in the truth  
   
-                  F  
+    F  
 There?s a time to live  
-            C  
+    C  
 And a time to cry  
-        G            Am  
+    G            Am  
 But if you?re by my side  
-        F              C  
+    F              C  
 I will try to catch a star  
-        F           C              G  
+    F           C              G  
 I?ll try to catch a star just for you  
   
 And I run  

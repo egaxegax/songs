@@ -34,7 +34,7 @@ Nothing Compares to You
   I can eat my dinner in a fancy restaurant  
       ***Dm                                A***  
   but nothing, I said nothing can take away these blues  
-       ***D#         Bb***  
+    ***D#         Bb***  
   'cos nothing compares  
   ***Dm         C***  
   nothing compares 2 U.  

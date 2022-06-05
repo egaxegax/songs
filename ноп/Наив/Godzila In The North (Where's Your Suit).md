@@ -23,11 +23,11 @@ Dehumanized States of America (1994)
   
    ***Hm***  
   Suit? Where's your suit? You corporate hippie!  
-                      ***D     C#    C***  
+    ***D     C#    C***  
   Suit! Where's your suit? Yeah! Yeah!  
    ***Hm***  
   Suit? Where's your suit? You corporate hippie!  
-                      ***D     C#    C     Hm***  
+    ***D     C#    C     Hm***  
   Suit! Where's your suit? Yeah! Yeah! Yeah!  
   
   And they all play on the golf course,  

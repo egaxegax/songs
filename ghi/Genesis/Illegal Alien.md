@@ -7,11 +7,11 @@ Illegal Alien
   *Lyric*  
   ***G          D           Bb          F***  
   Got out of bed, wasn't feeling too good  
-                        ***C           Cm          Bb***  
+    ***C           Cm          Bb***  
   With my wallet and my passport, a new pair of shoes  
   ***G           D            Bb          F***  
   The sun was shining so I head for the park  
-                       ***C        Cm           Bb***  
+    ***C        Cm           Bb***  
   With a bottle of tequila and a new pack of cigarrettes  
   I got a cousin, and sge got a friend  
   Who thought that her aunt knew a man who could help  
@@ -33,13 +33,13 @@ Illegal Alien
   *(Chorus)*  
   *Lead in to bridge (the keyboard solo)*  
   ****Bb*** (2 bars)  ***Ab***(2 bars)*  
-             An illegal alien, OK  
+    An illegal alien, OK  
   *Bridge (background chords)  whole phrase x2*  
   ****G***(no 3rd)  2 bars   ***G***(no 3)/***C***  2 bars  ***G***(no 3)/***Eb*** 1 bar*  
   ****G***(no 3)/***D***  ***G***(no 3)/***F***  half bar each*  
   ***D             G***  
   Consideration for your fellow man  
-            ***C             D7sus4***  
+    ***C             D7sus4***  
   Would not hurt anybody, sure fits in with my plan  
   *Where everything comes easy, you just hold out your hand*  
   *there's a bit where the chords are ***Bm | Em  |D  |A  |*** } x2*  

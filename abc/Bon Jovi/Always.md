@@ -10,7 +10,7 @@ Intro:  ***E        A***
   but you can't see his blood  
   ***A***  
   it's nothing but some feelings  
-            ***F#m            B***  
+    ***F#m            B***  
   that this old dog kicked up  
   ***C#m***  
   it's been raining since you left me  
@@ -18,15 +18,15 @@ Intro:  ***E        A***
   now I'm drowning in the flood  
   ***A***  
   you see I've always been a fighter  
-          ***F#m            B***  
+    ***F#m            B***  
   but without you I give up  
   ***C#m***  
   now I can't sing a love song  
-            ***B***  
+    ***B***  
   like the way it's meant to be  
-           ***A                  B***  
+    ***A                  B***  
   well, I guess I'm not that good anymore  
-       ***A                 B***  
+    ***A                 B***  
   but baby, that's just me  
     ***E           B***  
   yeah, I will love you  
@@ -39,42 +39,42 @@ Intro:  ***E        A***
   
   ***E***  
   I'll be there till the stars don't shine  
-            ***B***  
+    ***B***  
   till the heavens burst and  
-       ***A***  
+    ***A***  
   the words don't rhyme  
-               ***A***  
+    ***A***  
   and I know when I die, you'll be on my mind  
-            ***B         A  B  C#m***  
+    ***B         A  B  C#m***  
   and I'll love you - Al---ways  
   ***C#m***  
   now you're pictures that you left behind  
-            ***B***  
+    ***B***  
   are just memories of a different life  
-             ***A***  
+    ***A***  
   some that made us laugh, some that made us cry  
-            ***F#m              B***  
+    ***F#m              B***  
   one that made you have to say goodbye  
   ***C#m***  
   what I'd give to run my fingers through  
   your hair  
       ***B***  
   to touch your lips, to hold you near  
-            ***A***  
+    ***A***  
   when you say your prayers  
   try to understand  
-        ***F#m                B***  
+    ***F#m                B***  
   I've made mistakes, I'm just a man  
-           ***C#m***  
+    ***C#m***  
   when he holds you close, when he pulls you near  
-           ***B***  
+    ***B***  
   when he says the words you've been  
   needing to hear  
-            ***A***  
+    ***A***  
   I'll wish I was him `cause those words are mine  
       ***B                  A       B***  
   to say to you till the end of time  
-        ***E       B***  
+    ***E       B***  
   yeah, I will love you  
      ***A   C#m B***  
   baby - Al--ways  
@@ -87,7 +87,7 @@ Intro:  ***E        A***
   if you told me to cry for you  
   ***A   D***  
   I could  
-                       ***G***  
+    ***G***  
   if you told me to die for you  
       ***Bm***  
   I would  
@@ -106,14 +106,14 @@ Intro:  ***E        A***
   ***A***  
   well, there ain't no luck  
   in these loaded dice  
-       ***B***  
+    ***B***  
   but baby if you give me just one more try  
-          ***A***  
+    ***A***  
   we can pack up our old dreams  
   and our old lives  
-         ***B                      A          B***  
+    ***B                      A          B***  
   we'll find a place where the sun still shines  
-        ***E       B***  
+    ***E       B***  
   yeah, I will love you  
      ***A   C#m B***  
   baby - Al--ways  
@@ -123,13 +123,13 @@ Intro:  ***E        A***
   Alw-ays  
   ***E***  
   I'll be there till the stars don't shine  
-            ***B***  
+    ***B***  
   till the heavens burst and  
-       ***A***  
+    ***A***  
   the words don't rhyme  
-               ***A***  
+    ***A***  
   and I know when I die, you'll be on my mind  
-            ***B         A  B  E***  
+    ***B         A  B  E***  
   and I'll love you - Al---ways  
   ***E  B***  
   

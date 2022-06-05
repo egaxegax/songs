@@ -5,13 +5,13 @@ Cuts Like A Knife (1983 A&M)
   
 INTRO:  ***Am  C  F  Am  Am  C  F  Am  Dm***  
   
-                           ***Am        Dm***  
+    ***Am        Dm***  
   I should have seen it coming baby  
-                               ***Am***  
+    ***Am***  
   I should have seen the signs  
   ***Dm                             Am***  
   Didn't really think that she needs me  
-                       ***C     G***  
+    ***C     G***  
   I must have been blind  
   ***Dm                     Am***  
   She didn't give me a warning  
@@ -19,19 +19,19 @@ INTRO:  ***Am  C  F  Am  Am  C  F  Am  Dm***
   Said I shouldn't treat you wrong  
   ***Dm                       Am***  
   But when I woke up this morning  
-             ***C            G***  
+    ***C            G***  
   She was gone, gone, gone  
   
-                ***Am***  
+    ***Am***  
 CHORUS:  She said take me back won't you  
-       ***C                    F***  
+    ***C                    F***  
   Take me back won't you  
-                     ***Am***  
+    ***Am***  
   I changed my ways  
   Said take me back won't you  
-        ***C                  F***  
+    ***C                  F***  
   Take me back won't you  
-                   ***Am     Dm***  
+    ***Am     Dm***  
   I'm not the same  
   
   She didn't tell me about it  
@@ -47,9 +47,9 @@ CHORUS:  She said take me back won't you
   
   ***F               Am         C  F  C  F***  
   I'm not the same, yeah  
-                              ***G   C  F  C  F***  
+    ***G   C  F  C  F***  
   Ah won't you take me back?  
-                              ***G***  
+    ***G***  
   Ah won't you take me back?  
   
   ****Am  C  F  Am*** (repeat to fade)*

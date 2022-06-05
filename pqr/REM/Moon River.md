@@ -6,17 +6,17 @@ Moon River
   Moon River, wider than a mile  
   ***Fmaj7                C        Bm7-5  E7***  
   I'm crossing you in style some day  
-       ***Am    C7/G***  
+    ***Am    C7/G***  
   You dream maker  
-       ***F   Fm***  
+    ***F   Fm***  
   You heartbreaker  
       ***Am7         D7***  
   Wherever you're going  
-       ***Dm7       G7***  
+    ***Dm7       G7***  
   I'm going your way  
   Two drifters off to see the world  
   There's such a lot of world to see  
-       ***Am Am7/G   D7/F# Fm            C***  
+    ***Am Am7/G   D7/F# Fm            C***  
   We're after the same     rainbow's end  
   ***F                  C***  
   Waitin' round the bend  

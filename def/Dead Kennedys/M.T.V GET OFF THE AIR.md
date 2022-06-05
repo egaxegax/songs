@@ -8,9 +8,9 @@ M.T.V GET OFF THE AIR!
      ***B               A               B            A***  
   To tranquilize our minds with your sugar-coated swill  
   
-         ***F#                             B A***  
+    ***F#                             B A***  
   You've turned rock and roll rebellion  
-       ***F#                 B A***  
+    ***F#                 B A***  
   Into Pat Boone sedation  
   ***B           A              B           D***  
   Making sure nothing's left of the imagination  
@@ -29,23 +29,23 @@ M.T.V GET OFF THE AIR!
   See the latest rejects     from the muppet show  
   ***B                        A***  
   Wag their tits and their dicks  
-          ***B            A***  
+    ***B            A***  
   As they lip-synch on screen  
   
-          ***F#***  
+    ***F#***  
   There's something I don't like  
    ***B    A F#                     B A***  
   About a band who always smiles  
     ***B         A***  
   Another tax write-off  
-           ***B                   D***  
+    ***B                   D***  
   For some schmuck who doesn't care  
   
   M.T.V. Get off the air...  
   
   Get off the air  
   Get off the air  
-              ***F# F E D# C#***  
+    ***F# F E D# C#***  
   Get off the air  
   
   *(bass break - following line twice: 1st time with bass only, 2nd time with*  
@@ -82,20 +82,20 @@ M.T.V GET OFF THE AIR!
   
   ***C#m                      B***  
   "It's the new frontier," they say  
-       ***A                       G#***  
+    ***A                       G#***  
   It's wide open, anything can happen  
       ***C#m***  
   But you've got a lot of nerve  
-              ***B***  
+    ***B***  
   To call yourself a pioneer  
-                  ***A***  
+    ***A***  
   When you're too god-damn conservative  
-          ***G#***  
+    ***G#***  
   To take real chances.  
   
   ***C#        B***  
   Tin-eared  
-        ***C#    B         F#***  
+    ***C#    B         F#***  
   Graph-paper brained accountants  
   ***E                F#   E***  
   Instead of music fans  
@@ -110,7 +110,7 @@ M.T.V GET OFF THE AIR!
   Forget creativity  
       ***A***  
   The dumbest buy the mostest  
-             ***G#***  
+    ***G#***  
   That's the name of the game  
   
       ***C#m***  

@@ -64,7 +64,7 @@ second verse: Don't ask us to attend cos we're not all the
   
   *chorus*  
   
-       ***G   E       A***  
+    ***G   E       A***  
 post chorus: but now we don't care  
   
   *repeat first verse*  

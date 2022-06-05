@@ -49,13 +49,13 @@ Feels Like
 verse:  I can feel your sadness  
     ***Eb-Cm***  
   From what I said to you  
-       ***G#***  
+    ***G#***  
   I'm drinking my forgiveness  
       ***Bb***  
   So restless and confused  
   ***Eb-Cm***  
   I don't know what I see  
-          ***Eb-Cm***  
+    ***Eb-Cm***  
   But it looks a lot like love  
     ***G#***  
   Showing me something  

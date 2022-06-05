@@ -8,7 +8,7 @@ F#m7:     242222
 C#m7:     x46454  
   
 Intro: Bm7.. ...|G.. ...|Em.. ...|F#m7.. ...|  
-       Bm7.. ...|G.. ...|Em.. ...|F#m7.. ...|  
+    Bm7.. ...|G.. ...|Em.. ...|F#m7.. ...|  
   
      Bm7                      G  
 It's four in the morning, the end of December  
@@ -16,18 +16,18 @@ Em                          
 I'm writing you now just to see if you're better  
  Bm7                   G  
 New York is cold, but I like where I'm living  
-       Em                       F#m7  
+    Em                       F#m7  
 There's music on Clinton Street all through the evening  
 Bm7                 C#m7                 Bm7               C#m7  
 I hear that you're building your little house deep in the desert  
 Bm7                A                          Bm7                  A  
 You're living for nothing now, I hope you're keeping some kind of record  
   
-          D                                A  
+    D                                A  
 Yes, and Jane came by with a lock of your hair  
-                              Bm7  
+    Bm7  
 She said that you gave it to her  
-                                    C#m7   A  
+    C#m7   A  
 That night that you planned to go clear  
 G                 F#m7  
 Did you ever go clear?  

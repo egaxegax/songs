@@ -23,15 +23,15 @@ D|-8-9---8-9-----9-------------------9-|
 A|-------------------------------------|  
 E|-------------------------------------|  
   
-                   D       F#  
+    D       F#  
 I?ve exposed your lies, baby  
-                      G  
+    G  
 The underneath is no big surprise  
-          D         F#  
+    D         F#  
 Now it?s time for changing  
-              G  
+    G  
 And cleansing everything  
-                D  
+    D  
 To forget your love  
   
   
@@ -41,15 +41,15 @@ G              Hm
   My plug in baby  
 F#           G  
 Crucifies my enemies  
-                   Hm  
+    Hm  
 When I?m tired of giving  
-               F#  
+    F#  
     wooohoohoo  
 G               Hm  
   My plug in baby  
-       F#            G  
+    F#            G  
 In unbroken virgin realities  
-                D  
+    D  
 And tired of living  
   
 Riff A  

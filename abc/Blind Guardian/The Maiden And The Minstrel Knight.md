@@ -46,15 +46,15 @@ The Maiden And The Minstrel Knight
   Will you still cry for me  
   Come and take my hand  
   
-       ***Am***  
+    ***Am***  
   There’s a moment in life  
-              ***C***  
+    ***C***  
   When all years will pass by  
-                 ***D***  
+    ***D***  
   And the eyes filed with tears  
-           ***Am***  
+    ***Am***  
   We once shed  
-       ***C***  
+    ***C***  
   We recognize failures  
       ***Am***  
   The desperate cries  
@@ -95,39 +95,39 @@ The Maiden And The Minstrel Knight
   Are gone with the wind so sad  
   ***Bm              C                   Em***  
   Snow-white her hands and golden her hair  
-                    ***D    Bm          Em***  
+    ***D    Bm          Em***  
   But she's not the one out in the emptiness  
   ***D                   Am***  
   Where everything's pale  
-              ***G        D***  
+    ***G        D***  
   There is no sign of you  
-         ***Em***  
+    ***Em***  
   I'm alone  
   ***G                         Am***  
   How I wish you should be here  
-         ***Em***  
+    ***Em***  
   I'm alone  
   ***G                 Am***  
   Telling me it's alright  
     ***C            Bm***  
   Come rest your head  
-                 ***C***  
+    ***C***  
   Come rest your head  
-                 ***Bm***  
+    ***Bm***  
   Come rest your head  
-                 ***C***  
+    ***C***  
   Come rest your head  
   ***Em            Am***  
   I'm alone and sadness  
-         ***C***  
+    ***C***  
   Reigns in my heart  
   ***F***  
   As long as we live  
-              ***Bb***  
+    ***Bb***  
   It won't go away  
   ***C***  
   We are one  
-            ***Em***  
+    ***Em***  
   But torn apart  
   ***Bm                 Em***  
   will you still wait for me  
@@ -142,6 +142,6 @@ The Maiden And The Minstrel Knight
   Proudly it stands  
   ***Em***  
   Until the worlds end  
-       ***Bb           Am       G***  
+    ***Bb           Am       G***  
   The victorious banner of love  
   ***G Am G Am G Am…..***

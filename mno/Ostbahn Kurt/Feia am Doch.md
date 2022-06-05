@@ -14,7 +14,7 @@ Intro:  ***e G A C e G A C***
   Biagst de Tдg o Joa fia Joa  
   ***A             C***  
   Nur ka Wossa bis ois morsch is  
-       ***e             G           A***  
+    ***e             G           A***  
   Und daun stehst an. Weus auf amoi brennt  
   
   ***e                            A***  

@@ -3,23 +3,23 @@ What's Up
   
   *Chord progression goes like this throughout the entire song*  
   ***A Bmin D A***  
-                              *v v v v v v v ^ v v v v ^*  
+    *v v v v v v v ^ v v v v ^*  
   *The rhythm goes like this:  4 8 8 4 8 8 8 8 8 4 8 8 8   This is a little crude*  
   *but listen to the song to get the exact rhythm.  There's a little more*  
   *swing to it than how I wrote it.  The apostrophe represents a dotted note*  
   *(in this case, a dotted quarter note).*  
   *The first ***A*** is like this: [5--]   the second ***A*** is: [o--]*  
-                            [5--                    3--  
-                            -6-                    3--  
-                            --7                    3--  
-                            x                      x  
-                            x                      x]  
+    [5--                    3--  
+    -6-                    3--  
+    --7                    3--  
+    x                      x  
+    x                      x]  
   *The ***Bmin*** is: [2--]                the ***D*** is: [2--]*  
-               [-3-                          -3-  
-               --4                          2--  
-               --4                          --4  
-               x                            x  
-               x                            x]  
+    [-3-                          -3-  
+    --4                          2--  
+    --4                          --4  
+    x                            x  
+    x                            x]  
   *The progression is easy to play if you treat them all as bar chords.*  
   *Just leave your forefinger on the second fret over strings 1,2,3,and 4*  
   *except for the second ***A*** where you have to slightly raise your finger so that*  

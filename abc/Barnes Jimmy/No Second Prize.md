@@ -16,7 +16,7 @@ Intro:  ***G Em C D***
   And he kept it all inside the guilt and all the pain  
       ***CaddD    D***  
   You know I say I tried to warn him  
-       ***CaddD                     D***  
+    ***CaddD                     D***  
   They had him backed up against the wall  
   I hope I'm not to late  
   ***G      Em***  
@@ -31,7 +31,7 @@ Intro:  ***G Em C D***
   
 Instramental: ***G Em C D***  
   
-           ***CaddD     D***  
+    ***CaddD     D***  
   You know I say I tried to warn him  
   ***CaddD                     D***  
   They had him backed up against the wall  
@@ -46,7 +46,7 @@ Instramental: ***G Em C D***
   You've got to stand your ground and fight to save your life  
       ***G     Em***  
   It may be hard but oooh it's the only way  
-                 ***C            D***  
+    ***C            D***  
   And always remebering there ain't no second prize  
   There aint no second prize  
   

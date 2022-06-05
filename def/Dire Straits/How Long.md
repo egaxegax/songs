@@ -12,7 +12,7 @@ How Long
   How long you gonna keep me wondering  
   ***D***  
   How long before you see  
-                  ***Em  A7     D***  
+    ***Em  A7     D***  
   Stallin' me was wroooong- how long  
   ***D***  
   How long, how long you gonna keep  
@@ -21,7 +21,7 @@ How Long
   How long you gonna keep my love at bay  
   ***D***  
   How long before you're sure  
-              ***Em    A7       D***  
+    ***Em    A7       D***  
   my love is stroooong- how long  
   ***D***  
   How long, how long you gonna keep  
@@ -30,33 +30,33 @@ How Long
   How long until I'm gonna make you mine  
   ***D***  
   How long before you wake(up)  
-                         ***Em   A7       D***  
+    ***Em   A7       D***  
   and find your good man goooone- how long  
   ***Em   A7***  
   goooone, how long....  
   
   *Chord Formations:*  
-         [E A D G B E]  
+    [E A D G B E]  
   ****D***---&gt;  [___________]*  
-         [|-|-|-|-|-|]  
-         [|-|-|-x-|-x]  
-         [|-|-|-|-x-|]  
-         [|-|-|-|-|-|]  
-         [E A D G B E]  
+    [|-|-|-|-|-|]  
+    [|-|-|-x-|-x]  
+    [|-|-|-|-x-|]  
+    [|-|-|-|-|-|]  
+    [E A D G B E]  
   ****Em***---&gt; [___________]*  
-         [|-|-|-|-|-|]  
-         [|-x-x-|-|-|]  
-         [|-|-|-|-|-|]  
-         [|-|-|-|-|-|]  
-         [E A D G B E]  
+    [|-|-|-|-|-|]  
+    [|-x-x-|-|-|]  
+    [|-|-|-|-|-|]  
+    [|-|-|-|-|-|]  
+    [E A D G B E]  
   ****G***----&gt; [___________]*  
-         [|-|-|-|-|-|]  
-         [|-x-|-|-|-|]  
-         [x-|-|-|-|-x]  
-         [|-|-|-|-|-|]  
-         [E A D G B E]  
+    [|-|-|-|-|-|]  
+    [|-x-|-|-|-|]  
+    [x-|-|-|-|-x]  
+    [|-|-|-|-|-|]  
+    [E A D G B E]  
   ****A7***---&gt; [___________]*  
-         [|-|-|-|-|-|]  
-         [|-|-x-|-x-|]  
-         [|-|-|-|-|-|]  
-         [|-|-|-|-|-|]
+    [|-|-|-|-|-|]  
+    [|-|-x-|-x-|]  
+    [|-|-|-|-|-|]  
+    [|-|-|-|-|-|]

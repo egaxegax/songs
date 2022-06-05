@@ -28,7 +28,7 @@
   In your head  
   ***Am***  
   You're sad and you're lonely  
-       ***C        G             D***  
+    ***C        G             D***  
   Cause no one, no one gave a damn  
   ***Am                 C***  
   Well G-d only knows the hardships  

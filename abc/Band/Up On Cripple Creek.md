@@ -2,7 +2,7 @@
 Up On Cripple Creek  
   *(Robbie Robertson)*  
   
-       ***A                                 D***  
+    ***A                                 D***  
   When I get off of this mountain, you know where I want to go?  
   ***A                  D                        E***  
   Straight down the Mississippi River to the Gulf of Mexico.  

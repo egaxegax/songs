@@ -13,7 +13,7 @@ Intro:  ***G/D    A    D  F#m***
   Look up the number  
   ***G           D    Em***  
   You know my name  
-              ***A7***  
+    ***A7***  
   Look up the number  
   ***D    F#m        G           A7***  
   You, you know, you know my name,  
@@ -27,7 +27,7 @@ Intro:  ***G/D    A    D  F#m***
   featuring Denis O'Bell"  
   
   ***D           A7***  
-             Ah Ringo  
+    Ah Ringo  
   ***D***  
   Let's hear it for Denis  
   ***A7***  
@@ -53,9 +53,9 @@ Intro:  ***G/D    A    D  F#m***
   You know my name  
   ***G              F#+***  
   You know my name  
-                             ***Bm***  
+    ***Bm***  
   Ba Ba Ba Ba Ba Ba Ba Ba Ba Ba  
-              ***E7***  
+    ***E7***  
   Look up my number  
   ***G           D***  
   You know my name  
@@ -67,23 +67,23 @@ Intro:  ***G/D    A    D  F#m***
   You know my name  
   ***D             Em               A7***  
   You know, you know you know my name,  
-              ***G***  
+    ***G***  
   Huh huh huh huh  
-               ***F#+***  
+    ***F#+***  
   You know my name  
   ***F#       Bm***  
   Ba ba ba pum  
-               ***E7***  
+    ***E7***  
   Look up the number  
   ***G             D     Em***  
   You know my name  
-               ***A7***  
+    ***A7***  
   Look up the number  
   ***D                Em***  
   You-a, you know, you know my name  
   ***A7    D               Em7          A13     D***  
   Baby you-a, you know, you know my name  
-           ***Em7          A13***  
+    ***Em7          A13***  
   You know you know my name  
   ***D                     Em7    A13***  
   You know you know my name  
@@ -115,17 +115,17 @@ Intro:  ***G/D    A    D  F#m***
   
       ***D***  
   You know my number three  
-       ***G             A7***  
+    ***G             A7***  
   You know my number two  
-       ***D***  
+    ***D***  
   You know my number three  
-        ***G             A7***  
+    ***G             A7***  
   You know my number four  
   ***D***  
   You know my name  
     ***G                G#dim7***  
   You know my number too  
-       ***A7***  
+    ***A7***  
   You know my name, you know my number  
   
   What's up with you?  
@@ -179,7 +179,7 @@ Intro:  ***G/D    A    D  F#m***
   
   *end*  
   
-        *E A D G B E*  
+    *E A D G B E*  
   ***G/D   [X X 0 0 0 3]***  
   ***A     [X 0 2 2 2 0]***  
   ***D     [X X 0 2 3 2]***  

@@ -31,7 +31,7 @@
   and we can't build our dreams, on Suspicious Minds...  
   ***Em          Bm            C***  
   Oh, let our love survive,  
-               ***D***  
+    ***D***  
   I'll dry the tears from your eyes.  
   ***Em                Bm             C***  
   Let's don't let a good thing die,  when honey,  

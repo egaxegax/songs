@@ -16,10 +16,10 @@ Visas pazaudeetas atsleedzinjas.
   
 Dm                            C  
 Ahaaa... Dziive kaa intervijas. Vari  
-        Dm                       C  
+    Dm                       C  
 Ahaaa... Un kaa tev iet un ko tu dari?  
 Ahaaa... Es raustu plecus, saku:  
-                        G  
+    G  
 "Gaidu plaukstas lieluma pavasari".  
   
   

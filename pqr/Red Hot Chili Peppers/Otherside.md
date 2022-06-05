@@ -129,7 +129,7 @@ Otherside
   I thought it up it brought up the past  
   ***Am                           E***  
   Once you know you can never go back  
-               ***G                Am***  
+    ***G                Am***  
   I've got to take it on the otherside  
   ***Am                           E***  
   Centuries are what it meant to me  
@@ -137,7 +137,7 @@ Otherside
   A cemetery where I marry the sea  
   ***Am                                  E***  
   Stranger things could never change my mind  
-               ***G                Am***  
+    ***G                Am***  
   I've got to take it on the otherside  
   ***G                Am***  
   Take it on the otherside  
@@ -185,7 +185,7 @@ Otherside
   It thought it up it brought up the past  
   ***Am                     Em***  
   Once you know you can never go back  
-               ***G              Am***  
+    ***G              Am***  
   I've got to take it on the otherside  
   ***Am                     Em***  
   Centuries are what it meant to me  
@@ -193,7 +193,7 @@ Otherside
   A cemetery where I marry the sea  
   ***Am                           Em***  
   Stranger things could never change my mind  
-               ***G              Am***  
+    ***G              Am***  
   I've got to take it on the otherside  
    ***G              Am***  
   Take it on the otherside  
@@ -208,7 +208,7 @@ Otherside
   The ashtray's full and I'm spilling my guts  
   ***Am                      Em***  
   She wants to know am I still a slut  
-               ***G              Am***  
+    ***G              Am***  
   I've got to take it on the otherside  
   ***Am                         Em***  
   Scarlet starlet and she is in my bed  
@@ -216,7 +216,7 @@ Otherside
   A candidate for my soul mate bled  
   ***Am                   Em***  
   Push the trigger and pull the thread  
-               ***G              Am***  
+    ***G              Am***  
   I've got to take it on the otherside  
    ***G              Am***  
   Take it on the otherside  
@@ -231,9 +231,9 @@ Otherside
   Burn me out leave me on the otherside  
      ***Em***  
   I fell and tell it that it's not my friend  
-             ***C***  
+    ***C***  
   I tear it down I tear it down  
-                      ***Am F C G***  
+    ***Am F C G***  
   And it's born again  
   
   *CHORUS*  

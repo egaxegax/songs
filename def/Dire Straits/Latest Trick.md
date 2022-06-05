@@ -5,7 +5,7 @@ Latest Trick
   *Its in ***C#m***inor.*  
   *Occaisionally you hear another little whine or two from the sax*  
   *but theyre no included*  
-                                           *full*  
+    *full*  
   [E----------||--------------------------|---------------------|  
   B----------||--------------------------|---------------------|  
   G----------||o-------------------------|---------------------|  

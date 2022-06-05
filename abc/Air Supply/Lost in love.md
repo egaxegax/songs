@@ -19,45 +19,45 @@ Intr:  [e---------------------------------|------------------------0--------
     ***G(9)                                     C***  
   I realize the best part of love is the thinnest slice  
   And it don't count for much  
-          ***Am***  
+    ***Am***  
   but I'm not letting go  
-                                    ***G***  
+    ***G***  
   I believe there's still much to believe in  
   So lift your eyes if you feel you can  
   ***C***  
   Reach for a star and I'll show you a plan  
       ***Am***  
   I figured it out  
-                                ****G***       (***G F# G B*** - bass only)*  
+    ****G***       (***G F# G B*** - bass only)*  
   What I needed was someone to show me  
   ***Am                  Bm***  
   You know you can't fool me  
-             ***C              G    (G F#)***  
+    ***C              G    (G F#)***  
   I've been loving you too long  
   ***Em             Am***  
   It started so easy  
-       ***A/C#                           C***  
+    ***A/C#                           C***  
   You want to carry on (want to carry on)  
   *Chorus:*  
   ***G***  
   Lost in love and I don't know much  
-         ***C***  
+    ***C***  
   Was I thinking aloud  
   Fell out of touch  
-           ***Am***  
+    ***Am***  
   But I'm back on my feet  
-                        ***G***  
+    ***G***  
   Eager to be what you wanted  
   So lift your eyes if you feel you can  
   ***C***  
   Reach for a star and I'll show you a plan  
     ***Am***  
   I figured it out  
-                                ***G***  
+    ***G***  
   What I needed was someone to show me  
   ***Am                  Bm***  
   You know you can't fool me  
-             ***C             G***  
+    ***C             G***  
   I've been loving you too long  
   ***Em            Am***  
   It started so easy  
@@ -66,7 +66,7 @@ Intr:  [e---------------------------------|------------------------0--------
   *Chorus*  
   ***Am                  Bm***  
   You know you can't fool me  
-             ***C             G***  
+    ***C             G***  
   I've been loving you too long  
   ***Em            Am***  
   It started so easy  

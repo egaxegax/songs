@@ -18,7 +18,7 @@
   *1.5 2.0 1.5  1.5*  
   ***C  / Am / Dm / G / Am***  
   *1.5  2.0  1.0 1.0 1.0*  
-          ***Am                                 D***  
+    ***Am                                 D***  
   SOME PEOPLE GET A CHEAP LAUGH BREAKING UP SPEED LIMIT  
   ***Am                                      D***  
   SCARING A PEDESTRIAN ON FOR A MINUTE  
@@ -30,15 +30,15 @@
   SOMEDAY DRIVER NEVER TOOK A TEST  
       ***Dm    G                     Am***  
   OH YEAH! ONCE UPON A TIME IN THE WEST  
-               ***Am                                          D***  
+    ***Am                                          D***  
   THEY SAY ITS NO USE SAYING THAT YOU DONT KNOW NOTHING  
     ***Am                                              D***  
   STILL GONNA GET YOU IF YOU DONT KNOW SOMETHING  
   ***Am                                      G***  
   SITTING ON A FENCE, THAT'S A DANGEROUS CALL  
-                  ***D                                        Am***  
+    ***D                                        Am***  
   YEAH YOU COULD EVEN CATCH A BULLET FROM THE PEACE KEEPING FORCE  
-        ***C                            Am***  
+    ***C                            Am***  
   EVEN A HERO GETS A BULLET IN THE CHEST  
       ***Dm     G                       Am***  
   OH YEAH, ONCE UPON A TIME IN THE WEST  
@@ -51,17 +51,17 @@
   ***C  / Am / Dm / G / Am***  
   ****Am / F*** (double time rythym)*  
   ***Am / G / F***  
-            ***Am                                    D***  
+    ***Am                                    D***  
   MOTHER MARY YOUR CHILDREN ARE SLAUGHTERED  
   ***Am                                              D***  
   SOMEDAY YOUR MAMA'S GONNA LOCK UP YOUR DAUGHTER  
   ***Am                              G***  
   WHO'S PROTECTING THE INNER GENTEEL  
-             ***D                       Am***  
+    ***D                       Am***  
   IT SPELLS TROUBLE IN THE LAND OF PLENTY  
-          ***C                       Am***  
+    ***C                       Am***  
   TELL ME HOW WE GONNA DO OUT SPARES??  
-          ***Dm          G                     Am***  
+    ***Dm          G                     Am***  
   YEAH, YOU GUESS... ONCE UPON A TIME IN THE WEST  
       ***Dm     G                        Am***  
   OH YEAH, ONCE UPON A TIME IN THE WEST  
@@ -69,7 +69,7 @@
   OH YEAH ONCE UPON A TIME IN THE WEST  
       ***Dm     G                      Am***  
   OH YEAH, ONCE UPON A TIME IN THE WEST  
-                            ***G                     Am***  
+    ***G                     Am***  
   ONCE UPON A TIME IN THE, ONCE UPON A TIME IN THE WEST  
   ONCE UPON A TIME IN THE WEST...  
   ONCE UPON A TIME IN THE WEST..  

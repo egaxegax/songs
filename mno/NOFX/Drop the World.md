@@ -5,28 +5,28 @@ Heavy Petting Zoo (Epitaph 1996)
   ***A                                  F#***  
   He won the race, the judges concluded  
   He was the better man  
-              ***B       E***  
+    ***B       E***  
   He had the will to win  
   ***A    G  A***  
   Aahhhh...  
   ***A***  
   A hesitate  
-                       ***F#***  
+    ***F#***  
   A one time show and place  
   Himself would not allow  
-            ***D       E***  
+    ***D       E***  
   He had to be the best  
   ***A  G  A***  
   Ahh  
-            ***F#***  
+    ***F#***  
   He had denied  
-        ***D                                           E***  
+    ***D                                           E***  
   His urges 'cause they would have drained his strength  
-                        ***A         G             F#***  
+    ***A         G             F#***  
   That battle had been won with side effects a few  
       ***E                    A***  
   He may have dropped the world  
-                       ***F#***  
+    ***F#***  
   He would not let us down  
   ***D                               E***  
   Away I hope she's in a better place  

@@ -28,7 +28,7 @@ Intro:  ***C Em F G   C Em F G***
 (2)  Oh! Don't get me wrong it's not that I'm knockin'  
       ***G***  
   it's just that I'm not in the market  
-        ***F                 G         C***  
+    ***F                 G         C***  
   for a girl who wants to love only me  
       ***F                  G***  
   Yes And I ain't saying you ain't pretty  
@@ -41,9 +41,9 @@ Intro:  ***C Em F G   C Em F G***
   
       ***C      Em  F          G      C***  
 (3)  So  Goodbye    I'll be leavin' I see no sense  
-          ***F           G***  
+    ***F           G***  
   in this cry-in' and grievin'  
-            ***C           Em     F       G7      C***  
+    ***C           Em     F       G7      C***  
   We'll both live a lot longer If you live without me  
   ***C Em F G   C    F    G***  
   *Repeat 2 and 3                Fade With Intro*

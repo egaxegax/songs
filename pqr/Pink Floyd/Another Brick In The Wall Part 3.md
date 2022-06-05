@@ -7,7 +7,7 @@ Dm                          
  I have seen the writing on the wall  
  Dm                             G  
  Don`t think I need anything at all  
-                                   Dm  
+    Dm  
  No don`t think I need anything at all  
  F                 C                      Dm  
  All in all it was all just bricks in the wall  

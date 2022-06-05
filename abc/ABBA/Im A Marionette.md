@@ -2,10 +2,10 @@
 Cm  
 You're so free  
 That's what everybody's telling me  
-                     Ab             Bb             Cm  
+    Ab             Bb             Cm  
 Yet I feel I'm like an outward-bound, pushed around, refugee  
 Something's wrong, got a feeling that I don't belong  
-                      Ab           Bb            Cm  
+    Ab           Bb            Cm  
 As if I have come from outer space, out of place, like King Kong  
   
  no chord  

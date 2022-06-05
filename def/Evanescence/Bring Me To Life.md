@@ -25,9 +25,9 @@ Bring Me To Life
   leading you down into my core  
   where I-ve become so numb without a soul my spirit sleeping somewhere cold  
   until you find it there and lead it back home  
-                            like open doors                                 so numb  
+    like open doors                                 so numb  
   2|-13~~11-13-14-13-11-13-9~~9-8-11~~~------13-14-16-14~13-11-13-9~9-8-9-11-9-8~~-----&gt;&gt;  
-                                   sleeping somewhere cold                          back home  
+    sleeping somewhere cold                          back home  
   2|-6~~6-7-8~11~9-8-9-8-6~6-7-8-14-13-11-14-13~-----------13-11-13-14-13-11-13-9~11~9~8~6~  
   *кyплeт: (cтpyны пpиглyшaть)*  
   1|---------------------------------------------------  
@@ -54,7 +54,7 @@ Bring Me To Life
   4|-6---8---3--3-  
   5|-4---6---3--3-  
   6|-4---6---1--1-  
-                 *^^^*  
+    *^^^*  
   *пocлe втopoгo paзa - идeт тaкoe:*  
      ****Fm***&gt;***Gm***&gt;***Gm#***&gt;***Am#****  
   1|-1--3---4---6---  

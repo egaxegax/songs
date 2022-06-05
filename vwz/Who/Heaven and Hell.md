@@ -11,15 +11,15 @@ Who's Missing (1970)
   *barre chords...*  
   ***A  F  D  A } x2***  
   ****A G A G*** &lt;-- cool punchy rock type riffin' continues through first lines...*  
-       ***A         G          A              G             A***  
+    ***A         G          A              G             A***  
   On top of the sky is the place where you go if you've done nothing wrong  
-             ***G            E***  
+    ***G            E***  
   If you've done nothing wrong  
-       ***A                          G                          C         C C# D***  
+    ***A                          G                          C         C C# D***  
   And down in the ground is the place where you go if you've been a bad boy  
-             ***C        C C# D***  
+    ***C        C C# D***  
   If you've been a bad boy  
-                ***A            G         Eb    G***  
+    ***A            G         Eb    G***  
   Why can't we have eternal lives and never die?  
   ***Eb     G***  
   Never die?  

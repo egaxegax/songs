@@ -17,38 +17,38 @@ guitar intro: [E|-------------2----|
   D|-------4-----0----|  
   A|-2-4-5---5-0------|  
   E|------------------|]  
-                 (Free me...free me..)  
+    (Free me...free me..)  
   
     ***D        Bm***  
 chorus:  Free me, free me  
-                  ***Em***  
+    ***Em***  
   Why won't you free me  
-                      ***Bm***  
+    ***Bm***  
   Free me from your spell  
-                ***D***  
+    ***D***  
   Come on and free me  
-                  ***Bm***  
+    ***Bm***  
   Why won't you free me  
-                ***Em***  
+    ***Em***  
   Come on and free me  
-                      ***Bm***  
+    ***Bm***  
   Free me from your spell  
   
   *play the guitar intro here*  
   
     ***D***  
 verse:  Why should I worry  
-            ***F#m***  
+    ***F#m***  
   That you might not love me  
-                 ***G***  
+    ***G***  
   You're not the only love  
-                  ***D***  
+    ***D***  
   That I've ever had  
-         ***F#m***  
+    ***F#m***  
   Your sweet memory  
-               ***Bm***  
+    ***Bm***  
   Will always comfort me  
-       ***G                      A***  
+    ***G                      A***  
   So why should I be feeling sad  
   
 verse:  As far as I can tell  
@@ -62,9 +62,9 @@ verse:  As far as I can tell
   
    ***G        F#m  Em***  
 bridge:  So long, easy rider  
-               ***C*       G*    D***  
+    ***C*       G*    D***  
   I know I'll miss you for awhile  
-       ***G***  
+    ***G***  
   But sooner or later  
   ***A                 Bm***  
   I know that I'll forget you  

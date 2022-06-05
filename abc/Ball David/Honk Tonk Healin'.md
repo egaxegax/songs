@@ -1,38 +1,38 @@
 <!--2020-09-05 09:18:51-->
 Honk Tonk Healin'  
   
-                         ***G***  
+    ***G***  
 C:  I did some honky tonk healin'  
-                  ***C***  
+    ***C***  
   To get me over you  
-                     ***D***  
+    ***D***  
   It took some neon nurses around the clock  
-                ***G***  
+    ***G***  
   To pull me through  
-             ***G***  
+    ***G***  
   I was in critical condition  
-                           ***C***  
+    ***C***  
   My heart was broken in two  
-                         ***D***  
+    ***D***  
   But due to honky tonk healin'  
-                       ***G***  
+    ***G***  
   I'm feeling good as new  
   
-                 ***C***  
+    ***C***  
 (1)  Thank you for calling  
-                ***G***  
+    ***G***  
   Is all I can say  
-                        ***C***  
+    ***C***  
   'Cause your get well wishes dear  
-                         ***D***  
+    ***D***  
   Are just a little too late  
-                        ***C***  
+    ***C***  
   Did you think I'd be laid up  
-                    ***G***  
+    ***G***  
   Heartbroken and blue  
-                    ***C***  
+    ***C***  
   And missin' your kissin'  
-                          ***D***  
+    ***D***  
   Well honey, here's the news  
   
   *Repeat chorus*  

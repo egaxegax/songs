@@ -3,32 +3,32 @@ Theres No Way Out Of Here
   
   ***Em                    G6***  
   There's no way out of here...  
-           ***Em                         D       G***  
+    ***Em                         D       G***  
   when you come in you're in for good.  
   ***Em                 G6***  
   There was no promise made...  
-        ***Em                            D                G***  
+    ***Em                            D                G***  
   the part you played...the chance you took.  
   ***Em                G6***  
   There are no boundaries set...  
-        ***Em                        D          G***  
+    ***Em                        D          G***  
   the time, and yet, you waste it still.  
   ***Em           G6***  
   So it slips through your hands...  
-        ***Em                          D          G***  
+    ***Em                          D          G***  
   like grains of sand, you watch it go.  
   ***Em                    G6***  
   There's no time to be lost...  
-          ***Em                     D      G***  
+    ***Em                     D      G***  
   you'll pay the cost, so get it right.  
   ***Em             G6***  
   There's no way out of here...  
-           ***Em                          D      G***  
+    ***Em                          D      G***  
   when you come in you're in for good.  
   
-                  ***D                       C                          Am***  
+    ***D                       C                          Am***  
   And everyone...there's an answer, there's an answer,  
-        ***G               C                          Am***  
+    ***G               C                          Am***  
   but not without listening...without seeing!  
   
   There are no answers here...  

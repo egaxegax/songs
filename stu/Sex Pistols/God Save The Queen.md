@@ -25,7 +25,7 @@ second verse: god save the queen
 bridge:  don't be told what you want  
   don't be told what you need  
   there's no future there's no future  
-                    ***E***  
+    ***E***  
   there's no future for you  
   
 third verse: god save the queen  
@@ -83,5 +83,5 @@ intro:  ***Ab A*** } x5
   don't be told what you want  
   don't be told what you need  
   there's no future there's no future  
-                   ***E***  
+    ***E***  
   no future for you

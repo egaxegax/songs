@@ -27,7 +27,7 @@ Shelter From The Rain
   D|-------------14---------------------------------14-|  
   A|---------------------------------------------------|  
   E|---------------------------------------------------|  
-        ***Cmaj9        D****  
+    ***Cmaj9        D****  
   E|----12-12-14-15--17b19-17-15-17b19r17-15----|  
   B|---12------------------------------------17-|  
   G|--12----------------------------------------|  
@@ -47,7 +47,7 @@ verse:  When our hearts were young
   We put our hands into the flames  
   ***Em7*                          A****  
   Felt the heat from our emotions  
-                      ***Am****  
+    ***Am****  
   We had fire in our veins  
   
   All those night we'd spend  
@@ -64,11 +64,11 @@ chorus:  We would use the power of love
   Free our souls in endless love  
   ***Cmaj9***  
   We would sacrifice  
-       ***Em   D     Bm***  
+    ***Em   D     Bm***  
   Our hopes and dreams  
-           ***Bm*     Cm9****  
+    ***Bm*     Cm9****  
   Because without love  
-       ***D*                 B/D#****  
+    ***D*                 B/D#****  
   Our world would surely die  
   
 verse:  When our hearts were young  
@@ -87,30 +87,30 @@ chorus:  We would use the power of love
   Free our souls in endless love  
   ***Cmaj9***  
   We would sacrifice  
-       ***Em   D     Bm***  
+    ***Em   D     Bm***  
   Our hopes and dreams  
-           ***Bm*     Cm9****  
+    ***Bm*     Cm9****  
   Because without love  
-       ***D*                 B/D#****  
+    ***D*                 B/D#****  
   Our world would surely die  
   
-            ***Em***  
+    ***Em***  
 bridge:  When our hearts were young  
-          ***D***  
+    ***D***  
   We had fire in our veins  
       ***C***  
   And each time we touched  
-        ***Am           B***  
+    ***Am           B***  
   We'd melt in the flames  
-            ***Em***  
+    ***Em***  
   When our hearts were young  
-            ***D***  
+    ***D***  
   We knew pleasure, we knew plain  
       ***C***  
   But each time we kissed  
-        ***Am           Bm****  
+    ***Am           Bm****  
   We'd burn in the flames  
-            ***Cm9*        D*-B/D#****  
+    ***Cm9*        D*-B/D#****  
   Feel the fire in our veins  
   
   *Guitar solo:*  
@@ -157,11 +157,11 @@ chorus:  We would use the power of love
   Free our souls in endless love  
   ***Cmaj9***  
   We would sacrifice  
-       ***Em   D     Bm***  
+    ***Em   D     Bm***  
   Our hopes and dreams  
-           ***Bm*     Cm9****  
+    ***Bm*     Cm9****  
   Because without love  
-       ***D*                 B/D#****  
+    ***D*                 B/D#****  
   Our world would surely die  
   
   ***Cmaj9                      Em7***  
@@ -170,29 +170,29 @@ chorus:  We would use the power of love
   Free our souls in endless love  
   ***Cmaj9***  
   We would sacrifice  
-       ***Em   D     Bm***  
+    ***Em   D     Bm***  
   Our hopes and dreams  
-           ***Bm*     Cm9****  
+    ***Bm*     Cm9****  
   Because without love  
-       ***D*                 B/D#****  
+    ***D*                 B/D#****  
   Our world would surely die  
   
   *Guitar solo:*  
-                            ***Em7****  
+    ***Em7****  
   [E|-12-14-15-17- mute -17b19r17p15-----------|  
   B|---------------------------------17-------|  
   G|------------------------------------------|  
   D|------------------------------------------|  
   A|------------------------------------------|  
   E|------------------------------------------|  
-               ***A*                  Em7****  
+    ***A*                  Em7****  
   E|--------15-14------------17b19-17-15-----|  
   B|-----15-------15-12-15---------------17--|  
   G|--16-------------------------------------|  
   D|-----------------------------------------|  
   A|-----------------------------------------|  
   E|-----------------------------------------|  
-               ***A****  
+    ***A****  
   E|--------15-14----------12--|  
   B|-----15-------15-12--------|  
   G|--16----------------14-----|  

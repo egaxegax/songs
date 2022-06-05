@@ -17,15 +17,15 @@ I Shot The Sheriff
   but I did not shoot the deputy.  
   ***Eb   Dm   Gm    Gm***  
   All around in my home town  
-          ***Eb   Dm    Gm   Gm***  
+    ***Eb   Dm    Gm   Gm***  
   they're trying to track me down.  
-       ***Eb        Dm   Gm     Gm***  
+    ***Eb        Dm   Gm     Gm***  
   They say they want to bring me in guilty  
-          ***Eb      Dm     Gm Gm***  
+    ***Eb      Dm     Gm Gm***  
   for the killing of a deputy,  
-          ***Eb      Dm7    Gm Gm***  
+    ***Eb      Dm7    Gm Gm***  
   for the killing of a deputy.  
-             ***Gm Gm Gm Gm***  
+    ***Gm Gm Gm Gm***  
   But I say:  
   I shot the sheriff,  
   but I swear it was in selfdefence.  

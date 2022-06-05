@@ -25,7 +25,7 @@ Mon destin inscrit en toi
 Mon destin inscrit en toi  
 G                      G#  
 The inner sense won?t feel  
-               F  
+    F  
 The judgement day  
   
   

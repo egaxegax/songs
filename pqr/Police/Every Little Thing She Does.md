@@ -17,25 +17,25 @@ Every Little Thing She Does
   *intro:*  
   %  ***Dsus2/G  Dsus2/A   Dsus2/B  Dsus2/C#*** %  
   
-              ***Dsus2/G         Dsus2/A***  
+    ***Dsus2/G         Dsus2/A***  
   Though I've tried before to tell her  
-         ***Dsus2/B         Dsus2/C#***  
+    ***Dsus2/B         Dsus2/C#***  
   of the feelings I have for her  
-        ***Dsus2/G   Dsus2/A   Dsus2/B  Dsus2/C#***  
+    ***Dsus2/G   Dsus2/A   Dsus2/B  Dsus2/C#***  
   in my heart  
-       ***Dsus2/G           Dsus2/A***  
+    ***Dsus2/G           Dsus2/A***  
   Everytime that I come near her  
-         ***Dsus2/B            Dsus2/C#***  
+    ***Dsus2/B            Dsus2/C#***  
   I just loose my nerves as I've done  
-           ***D        D-G-A  D-G-A  D-G-A***  
+    ***D        D-G-A  D-G-A  D-G-A***  
   from the start  
-               ***A                 D***  
+    ***A                 D***  
   Every little thing she does is magic  
-               ***A                   D***  
+    ***A                   D***  
   Every little thing just turns me on  
-                 ***A                D***  
+    ***A                D***  
   Even though my love before was tragic  
-                ***A                 Dsus2/Bb***  
+    ***A                 Dsus2/Bb***  
   now I know my love for her goes on  
       ***Dsus2/C  Dsus2/G  Dsus2/A  Dsus2/B  Dsus2/C#***  
   Do I have to tell the story  

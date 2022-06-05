@@ -1,11 +1,11 @@
 <!--2020-09-05 04:40:09-->
 Am  
 Coming up beyond belief  
-                     F  
+    F  
 On this coronary thief  
 Am  
 More than just a leitmotif  
-                      F  
+    F  
 More chaotic, no relief  
 I?ll describe the way I feel  
 Weeping wounds that never heal  
@@ -14,15 +14,15 @@ Or are you just my seventh seal?
   
 C                     D  
 No hesitation, no delay  
-                F  
+    F  
 You come on just like special K  
 C                                D  
 Just like I swallowed half my stash  
-            F  
+    F  
 I never ever want to crash  
 C                     D  
 No hesitation, no delay  
-                F  
+    F  
 You come on just like special K  
 Am  
 Now you?re back with dope demand  
@@ -30,11 +30,11 @@ F
 I?m on sinking sand  
 C  
 Gravity  
-                Am  
+    Am  
 No escaping gravity  
 C  
 Gravity  
-                        Am  
+    Am  
 No escaping... not for free  
 F  
 I fall down... hit the ground  

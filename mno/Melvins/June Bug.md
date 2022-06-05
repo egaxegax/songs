@@ -51,9 +51,9 @@ album "Stoner Witch"
   D ----------------------------------------------------------  
   
   *Guitar Riff 3 (I'm shaky on this oneand this is by no means correct.*  
-                 *This is what I play, it's most likely not what Buzz plays.*  
-                 *Either way, do lots of hammer-ons and it'll probably come*  
-                 *out sounding fine.)*  
+    *This is what I play, it's most likely not what Buzz plays.*  
+    *Either way, do lots of hammer-ons and it'll probably come*  
+    *out sounding fine.)*  
   
   E ----------------------------------------------------------  
   B ----------------------------------------------------------  

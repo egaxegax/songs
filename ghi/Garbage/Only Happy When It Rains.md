@@ -8,26 +8,26 @@ Riff:  [e|---5------------------|
   A|----------------------|  
   E|----------------------|]  
   
-                         ***Am     G***  
+    ***Am     G***  
 Verse 1: I'm only happy when it rains  
-                           ***F            D***  
+    ***F            D***  
   I'm only happy when it's complicated  
-                                ***F            G***  
+    ***F            G***  
   And though I know you can't appreciate it  
-                         ***Am     G***  
+    ***Am     G***  
   I'm only happy when it rains  
-                              ***F            D***  
+    ***F            D***  
   You know I love it when the news is bad  
-                          ***F             G***  
+    ***F             G***  
   Why it feels so good to feel so sad  
-                         ***C***  
+    ***C***  
   I'm only happy when it rains  
   
   ***D         Am***  
 Chorus:  Pour your misery down  
   ***Bb        C              D***  
   Pour your misery down on me  
-            ***Am***  
+    ***Am***  
   Pour your misery down  
   ***Bb        C              G***  
   Pour your misery down on me  
@@ -70,7 +70,7 @@ Verse 4: I'm only happy when it rains
   You wanna hear about my new obsession?  
   I'm riding high upon a deep depression  
   I'm only happy when it rains  
-            ***F              D***  
+    ***F              D***  
   Pour some misery down on me  
-                         ***Am***  
+    ***Am***  
   I'm only happy when it rains

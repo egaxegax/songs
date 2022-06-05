@@ -10,7 +10,7 @@ Stand Your Ground
   
   ***Dm*        C****  
   Stand your ground  
-         ***Hm*  Bb****  
+    ***Hm*  Bb****  
   You're big enough  
   ***Dm*        C****  
   Stand your ground  
@@ -18,15 +18,15 @@ Stand Your Ground
   You know too much  
   ***A                 Em   Em****  
   Today drifts into tomorrow  
-          ***A                    G  A***  
+    ***A                    G  A***  
   And you can almost taste the sorrow  
   ***Dm*        C****  
   Stand your ground  
-         ***Hm*  C****  
+    ***Hm*  C****  
   You've had enough  
   ***Dm*        C****  
   Lost and found  
-         ***Hm*     Bb****  
+    ***Hm*     Bb****  
   Diamond in the rock  
   ***A                 Em   Em****  
   Today drifts into tomorrow  
@@ -36,12 +36,12 @@ Stand Your Ground
   Oooh oooh oooh ooh oooh ooooooh ooooooh oooh  
   ***Dm*        C****  
   Stand your ground  
-         ***Hm*  Bb****  
+    ***Hm*  Bb****  
   The water's deep  
   ***Dm*        C*  Hm*          Bb****  
   Feel the sand beneath your feet  
   ***A                        Em Em****  
   I know your prayers seem hollow  
-               ***A         G-A***  
+    ***A         G-A***  
   But when you talk they follow  
   Oooh ooooh oooh oooh oooh

@@ -14,17 +14,17 @@ Deep River Woman
   Just anticipating all my love  
   ***G                 Bm7***  
   Spent a night in LA  
-        ***Am7                   C/D***  
+    ***Am7                   C/D***  
   just another chance to see you  
   ***G    Bm7      Am7     C/D***  
   just you and I  
   ***G                Bm7***  
   Wanted you to know  
-           ***Am7             C/D***  
+    ***Am7             C/D***  
   that my playin days are over  
-       ***Am7               F***  
+    ***Am7               F***  
   cause all I do is think of you  
-                       ***D***  
+    ***D***  
   The writings on the wall  
   *== Chorus ==*  
   I've been out in the world  
@@ -39,9 +39,9 @@ Deep River Woman
   Your kind of love girl is forever  
   ***F                   C/E    G***  
   Took me a long time to realize  
-             ***C               C/D          G***  
+    ***C               C/D          G***  
   that I've come so far to end up going nowhere  
-          ***C              C/D***  
+    ***C              C/D***  
   Girl I need you by my side  
   *== Chorus ==*  
   *== Chorus ==*  

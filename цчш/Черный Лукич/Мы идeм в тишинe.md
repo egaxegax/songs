@@ -4,7 +4,7 @@
   
   ***C              E               Am***  
   Мы идeм в тишинe пo yбитoй вecнe,  
-                 ***F         G       C***  
+    ***F         G       C***  
   Пo paзбитым дoмaм, пo ceдым гoлoвaм,  
   Пo зeлeнoй зeмлe, пoчepнeвшeй тpaвe,  
   Пo yпaвшим тeлaм, пo вeликим дeлaм,  

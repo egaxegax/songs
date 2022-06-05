@@ -1,9 +1,9 @@
 <!--2020-09-05 11:06:24-->
 Intro: Ab Db Gb Db Ab Gb > 4 times  
   
-                                  Ab Db Gb Db Ab Gb  
+    Ab Db Gb Db Ab Gb  
 Don\'t wanna be an American idiot.  
-                                              Ab Db Gb Db Ab  
+    Ab Db Gb Db Ab  
 Don\'t want a nation that under the new media.  
 And can you hear the sound of hysteria?  
 The subliminal mindfuck America.  
@@ -24,7 +24,7 @@ Convincing them to walk you.
   
   
 Bridge: Ab Db Gb Db Ab Gb  
-        Ab Db Gb Db Ab  
+    Ab Db Gb Db Ab  
   
 Well maybe I\'m the faggot America.  
 I\'m not a part of a redneck agenda.  

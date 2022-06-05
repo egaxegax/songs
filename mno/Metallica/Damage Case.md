@@ -28,7 +28,7 @@ Damage Case
   Db--4----------------2-4  
   Ab--2--5---4-2-4-0-4-0-2  
   Eb-----3---2-0-2-0-2----]  
-            *pm........*  
+    *pm........*  
   "Move over for a damage case!"  
    *5)*  
   *(key change after solo #1)*  

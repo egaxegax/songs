@@ -5,16 +5,16 @@ VERSE:
   
 B                          *       NOTE:  * MEANS YOU CAN  
 I know you want to leave me             PLAY THE PIANO RIFF  
-        B             *                 ON GUITAR LIKE THIS:  
+    B             *                 ON GUITAR LIKE THIS:  
 I refuse to let you go                        B   E    B   B  
-                B                        *    //  //   /   /  
+    B                        *    //  //   /   /  
 If I have to beg, plead for your sympathy  
-            B  
+    B  
 I don`t mind, `cause it means that much to me  
   
 CHORUS:  
   
-                   B  E       B  
+    B  E       B  
 Ain`t to proud to beg, sweet darlin`  
   E            B        E        B  
 Please don`t leave me, don`t you go  
@@ -29,7 +29,7 @@ Well I heard a quiet man, half a man
 With no sense of pride  
 If I have to cry to keep ya  
 I don`t mind weepin`  
-                         F#  
+    F#  
 If weepin` gonna keep ya by my side  
   
 *CHORUS:  
@@ -56,7 +56,7 @@ Yeah, yeah, I can
 Ain`t to proud to beg, sweet darlin`  
 Please don`t leave me, don`t you go  
 Ain`t to proud to plead, baby, baby  
-                                 F#  
+    F#  
 Please don`t leave me, don`t you go  
   
 INSTRUMENTAL:  SOLO OVER *VERSE CHORDS  
@@ -68,7 +68,7 @@ INSTRUMENTAL:  SOLO OVER *VERSE CHORDS
 Well your love`s so deep in the pit of my heart  
 Ev`ry day it grows more and more  
 I`m not ashamed to come and plead with you, baby  
-                             F#  
+    F#  
 If pleadin` keeps you from walkin` out the door  
   
 *CHORUS:  

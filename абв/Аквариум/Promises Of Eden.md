@@ -10,7 +10,7 @@ Radio London (1990)
   They have said they're building heaven, so it could  
      ***H                C***  
   Be awkward, if we stay;  
-                             ***D***  
+    ***D***  
   And the watchmen in their towers  
   ***Am                      C***  
   Somehow have failed to see, how  

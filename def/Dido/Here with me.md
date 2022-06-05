@@ -22,32 +22,32 @@ Here with me
   *V1*  
   I didn't hear you leave, I wonder how am I still here,  
   I don't want to move a thing, it might change my memory  
-       ***Emadd9                                 F#add9***  
+    ***Emadd9                                 F#add9***  
   Oh I am what I am, I'll do what I want, but I can't hide  
   *Chorus*  
-          ***G***  
+    ***G***  
   I won't go, I won't sleep  
-          ***D                     Dmaj7***  
+    ***D                     Dmaj7***  
   I can't breathe, until you're resting here  
-          ***Bm***  
+    ***Bm***  
   I won't leave, I can't hide  
-           ***Asus2             Asus              A***  
+    ***Asus2             Asus              A***  
   I cannot be, until you're resting here with me  
   *(pause)*  
   *V2*  
-                         ***G                                     Bm***  
+    ***G                                     Bm***  
   I don't want to call my friends, they might wake me from this dream  
-              ***G                               Bm***  
+    ***G                               Bm***  
   And I can't leave this bed, risk forgetting all that's been  
-       ***Emadd9                                 F#add9***  
+    ***Emadd9                                 F#add9***  
   Oh I am what I am, I'll do what I want, but I can't hide  
-          ***G***  
+    ***G***  
   I won't go, I won't sleep  
-          ***D                     Dmaj7***  
+    ***D                     Dmaj7***  
   I can't breathe, until you're resting here with me  
-          ***Bm***  
+    ***Bm***  
   I won't leave, I can't hide  
-          ***Asus2             Asus              A***  
+    ***Asus2             Asus              A***  
   I cannot be, until you're resting here with me  
   *(repeat chorus)*  
       ***Emadd9            F#add9***  

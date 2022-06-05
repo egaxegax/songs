@@ -15,17 +15,17 @@ Dm         C/e F
   
 F  
 I saw you this morning  
-                    Dm  
+    Dm  
 You were moving so fast  
-               Bb  
+    Bb  
 Can't seem to loosen my grip  
-        C  
+    C  
 On the past  
-       F  
+    F  
 And I miss you so much  
-                   Dm  
+    Dm  
 There's no one in sight  
-            Bbmaj7      C  
+    Bbmaj7      C  
 And we're still making love  
 Dm        C/e F  
 In My Secret Life  
@@ -48,7 +48,7 @@ Hold on, hold on, my brother
 My sister, hold on tight  
    Dm      C     Bb  
 I finally got my orders  
-         Gm7  
+    Gm7  
 I'll be marching through the morning  
  Am7  
 Marching through the night  
@@ -63,7 +63,7 @@ Nobody cares if the people
 Live or die  
 And the dealer wants you thinking  
 That it's either black or white  
-       Bbmaj7  
+    Bbmaj7  
 Thank G-d it's not that simple  
 C  
 In My Secret Life  

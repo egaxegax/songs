@@ -12,9 +12,9 @@ I'd heard about you before,
 I wanted to know some more,  
     E                           C#m  
 And now I know what they mean,  
-                A  
+    A  
 you're a love machine,  
-                   B  
+    B  
 Oh, you make me dizzy.  
   
 E                              A  
@@ -39,7 +39,7 @@ I don't wanna hurt you, baby, I don't wanna see you cry,
 So stay on the ground, girl, you better not get too high,  
     Em                 A                D         D/C#   G  
 But I'm gonna stick to you, boy, you'll never get rid of me,  
-        G                      C                     F#m B(sus4)  
+    G                      C                     F#m B(sus4)  
 There's no other place in this world where I rather would be.  
   
 E                              A  
@@ -61,7 +61,7 @@ So stay on the ground, girl, you better not get too high,
   
 Em A D D/C# G  
   
-        G                      C                     F#m B(sus4)  
+    G                      C                     F#m B(sus4)  
 There's no other place in this world, where I rather would be.  
   
 E                                 A  
@@ -75,5 +75,5 @@ I'd heard about you before,
 I wanted to know some more,  
     E                           C#m  
 And now I know what they mean,  
-                A  
+    A  
 you're a love machine…

@@ -1,45 +1,45 @@
 <!--2020-09-04 23:34:45-->
 Intro: G . . . |. . . . |D . . . |. . . . |  
-       G . . . |. . . . |D . . . |. . . . |  
+    G . . . |. . . . |D . . . |. . . . |  
   
-           G  
+    G  
 Ah we're drinking and we're dancing  
-         G  
+    G  
 And the band is really happening  
-         Em  
+    Em  
 And the Johnny Walker wisdom running high  
-        Bm  
+    Bm  
 And my very sweet companion  
-          Bm  
+    Bm  
 She's the Angel of Compassion  
-       Em  
+    Em  
 She's rubbing half the world against her thigh  
-            C  
+    C  
 And every drinker every dancer  
-         C  
+    C  
 Lifts a happy face to thank her  
      G               B7              Em  
 The fiddler fiddles something so sublime  
-         D  
+    D  
 All the women tear their blouses off  
-         D  
+    D  
 And the men they dance on the polka-dots  
-          C  
+    C  
 And it's partner found, it's partner lost  
-          C  
+    C  
 And it's hell to pay when the fiddler stops:  
-       G  
+    G  
 It's closing time  
   
-          C  
+    C  
 Yeah the women tear their blouses off  
-         C  
+    C  
 And the men they dance on the polka-dots  
-          G                   B  
+    G                   B  
 And it's partner found, it's partner lost  
-          Em                   C  
+    Em                   C  
 And it's hell to pay when the fiddler stops:  
-       G            D  
+    G            D  
 It's closing time  
   
 Ah we're lonely, we're romantic  
@@ -65,33 +65,33 @@ But closing time, closing time
   
    Em  
 I loved you for your beauty  
-          Em  
+    Em  
 But that doesn't make a fool of me:  
  D  
 You were in it for your beauty too  
-       Em  
+    Em  
 And I loved you for your body  
-           Em  
+    Em  
 There's a voice that sounds like God to me  
     A                     D  
 Declaring, declaring, declaring that your body's  
 really, really, really, really you  
   
-       C  
+    C  
 And I loved you when our love was blessed  
-       C  
+    C  
 And I love you now there's nothing left  
      G            B7           Em  
 But sorrow and a sense of overtime  
-       D  
+    D  
 And I missed you since the place got wrecked  
-       D  
+    D  
 And I just don't care what happens next  
  C  
 Looks like freedom but it feels like death  
       C  
 It's something in between, I guess  
-       G  
+    G  
 It's closing time  
   
 Yeah I missed you since the place got wrecked  
@@ -121,11 +121,11 @@ But the Boss don't like these dizzy heights
 We're busted in the blinding lights, busted in the blinding lights  
 Of closing time, closing time  
   
-        G  
+    G  
 Oh the women tear their blouses off  
-         G  
+    G  
 And the men they dance on the polka-dots  
-       D  
+    D  
 It's closing time  
   
 And it's partner found, it's partner lost  

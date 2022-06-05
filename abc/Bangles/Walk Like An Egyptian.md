@@ -6,11 +6,11 @@ Walk Like An Egyptian
   
    ***A***  
   All the old paintings on the tombs  
-                     ***G                A***  
+    ***G                A***  
   They do the sand dance don't you know  
    ***A***  
   If they move too quick (oh whey oh)  
-                         ***G         A***  
+    ***G         A***  
   They're falling down like a domino  
   All the bazaar men by the Nile  
   They got the money on a bet  

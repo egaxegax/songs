@@ -22,7 +22,7 @@ New riff: [e---2-2-4-2-4-5-4-2-0-2-4-2---
   Her hot potatoes  
   Will elevate you  
   Her bad behaviour  
-                                ***B5  A5  E5  B5***  
+    ***B5  A5  E5  B5***  
   Will leave you standing proud  
   Hard as a rock  
   
@@ -31,7 +31,7 @@ New riff: [e---2-2-4-2-4-5-4-2-0-2-4-2---
   Hard as a rock  
   Harder then a rock  
   Hard as a rock  
-                     ***B5 A5 E5 } x2***  
+    ***B5 A5 E5 } x2***  
   Harder then a rock  
   ****B5  Bmin7  B5***(alternate)*  
   The lightning rod, strike it hot  
@@ -44,7 +44,7 @@ New riff: [e---2-2-4-2-4-5-4-2-0-2-4-2---
   ****B5  Bmin7  B5***(alternate)*  
   Hell elevator, I'll see you later  
   No I ain't gonna take it  
-                   ***B5 A5 E5***  
+    ***B5 A5 E5***  
   I'm bustin' out  
   Hard as a rock  
   
@@ -53,7 +53,7 @@ New riff: [e---2-2-4-2-4-5-4-2-0-2-4-2---
   Hard as a rock  
   Harder then a rock  
   Hard as a rock  
-                     ***B5 A5 E5 } x2***  
+    ***B5 A5 E5 } x2***  
   Harder then a rock  
   
   *Chord definitions:*  

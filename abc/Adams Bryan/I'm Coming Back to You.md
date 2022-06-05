@@ -55,7 +55,7 @@
   ***F                  ;F                  ;E                  ;E***  
   that's why...           I'm coming back to you.........       yeah....  
   ***E                  ;E                  ;Am                 ;Dm***  
-            Oh!                   Like a star that guides a ship across  
+    Oh!                   Like a star that guides a ship across  
   ***Dm7                ;G                  ;Am                 ;Dm***  
   the ocean,              that's how your love can take me home back to  
   ***Dm7                ;G                  ;Am                 ;Dm7***  
@@ -65,16 +65,16 @@
   ***G                  ;G                  ;Am                 ;F***  
   soon,          Ahhhh, I'm coming back to you (piano lead thruout)  
   ***G                  ;G                  ;Am                 ;F***  
-                       I'm coming back to you  
+    I'm coming back to you  
   ***G                  ;G                  ;Am                 ;F***  
-                       I'm coming back to you  
+    I'm coming back to you  
   ***G                  ;G                  ;Am                 ;F***  
-                       I'm coming back to you  
+    I'm coming back to you  
   ***G                  ;G                  ;Am                 ;F***  
-                       That day is coming soon.  
+    That day is coming soon.  
   ***G                  ;G                  ;Am                 ;F***  
-                       I'm coming back to you  
+    I'm coming back to you  
   ***G                  ;G                  ;Am                 ;F***  
-                            Yeah........... (piano only.............  
+    Yeah........... (piano only.............  
   ***C***  
   (cold finish)

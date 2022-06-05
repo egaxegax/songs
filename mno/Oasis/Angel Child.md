@@ -68,25 +68,25 @@ Verse 1: Won't you take me,
      ***Am      Em       Dsus2***  
   No lies that you could tell me to make things right,  
   
-        ***F    C    G        D***  
+    ***F    C    G        D***  
 Pre chorus: Cos I gave all my money to people and things,  
-          ***F         C  G      D***  
+    ***F         C  G      D***  
   And the price I'm still paying, for the shit that it brings,  
    ***F      C    G   D***  
   Doesn't fill me with hope for the songs that you sing  
   
      ***Dsus2***  
 Chorus:  To-night,  
-        ***Dsus2/Ab***  
+    ***Dsus2/Ab***  
   This is your life,  
   ***G     D***  
   Angel Child.  
   
     ***Am  Em  Dsus2***  
 Verse 2: When you find out,  
-           ***Am   Em   Dsus2***  
+    ***Am   Em   Dsus2***  
   When you find out who you are  
-         ***Am  Em Dsus2***  
+    ***Am  Em Dsus2***  
   You know you'll, be free  
      ***Am         Em  Dsus2***  
   To see your own appearence to then there'd be no eyes,  
@@ -97,28 +97,28 @@ Verse 2: When you find out,
      ***Am      Em       Dsus2***  
   No lies that you could tell me to make things right,  
   
-        ***F    C    G       D***  
+    ***F    C    G       D***  
 Pre chorus: Cos I gave all my money to people and things,  
    ***F         C  G      D***  
   And the price I'm still paying, for the shit that it brings,  
-         ***F     C    G   Dsus2***  
+    ***F     C    G   Dsus2***  
   Doesnt fill me with hope for, the songs that you sing,  
   
      ***Dsus2***  
 Chorus:  To-night,  
-        ***Dsus2/Ab***  
+    ***Dsus2/Ab***  
   This is your life,  
   ***G     D***  
   Angel Child.  
      ***Dsus2***  
   To-night,  
-        ***Dsus2/Ab              Dsus2/G***  
+    ***Dsus2/Ab              Dsus2/G***  
   This is your life, this is your life  
   ***G     D***  
   Angel Child.  
      ***Dsus2***  
   To-night,  
-        ***Dsus2/Ab              Dsus2/G***  
+    ***Dsus2/Ab              Dsus2/G***  
   This is your life, this is your life  
   ***G     D***  
   Angel Child.  

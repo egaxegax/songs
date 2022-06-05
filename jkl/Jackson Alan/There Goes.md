@@ -3,19 +3,19 @@ There Goes
   
   ***G           C2***  
 VERSE 1: There you standin'  
-           ***D***  
+    ***D***  
   In the shadows  
   ***G             C2***  
   Well I just looked where  
-           ***D***  
+    ***D***  
   I don't see  
   ***G            C2***  
   I'm still pretendin' I don't  
-        ***D***  
+    ***D***  
   Need you  
      ***C2            D***  
   I won't let you know you're  
-          ***G***  
+    ***G***  
   Killin' me  
   
   ***G           C2***  
@@ -24,7 +24,7 @@ VERSE 2: Like some big black widow
   Spider  
   ***G          C2***  
   You know just how to catch  
-        ***D***  
+    ***D***  
   Your prey  
   ***G           C2               D***  
   I'm actin' like it doesn't matter  
@@ -33,21 +33,21 @@ VERSE 2: Like some big black widow
       ***D                  G***  
   Behind and whisper my name  
   
-         ***G           C2***  
+    ***G           C2***  
 CHORUS:  There goes your paralyzin'  
    ***D***  
   Eyes  
-              ***G***  
+    ***G***  
   There goes your tantalizin'  
     ***C2***  
   Smile  
    ***C             D***  
   There goes my act of  
-              ***G***  
+    ***G***  
   Playin' it cool  
   ***G                   C2***  
   And there goes the words  
-              ***D***  
+    ***D***  
   I meant to say  
    ***D               G***  
   There goes the games  
@@ -73,21 +73,21 @@ VERSE 3: Well I think your playin'
       ***G***  
   By you  
   
-         ***G           C2***  
+    ***G           C2***  
 CHORUS:  There goes your paralyzin'  
    ***D***  
   Eyes  
-              ***G***  
+    ***G***  
   There goes your tantalizin'  
     ***C2***  
   Smile  
    ***C             D***  
   There goes my act of  
-              ***G***  
+    ***G***  
   Playin' it cool  
   ***G                   C2***  
   And there goes the words  
-              ***D***  
+    ***D***  
   I meant to say  
    ***D               G***  
   There goes the games  

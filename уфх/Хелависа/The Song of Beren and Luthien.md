@@ -5,21 +5,21 @@ Running to Paradise (1996)
   
   ***Em G A Em D C D Em***  
   
-         ***Em                  G***  
+    ***Em                  G***  
   The leaves was long, the grass was green,  
-        ***A             Em         D***  
+    ***A             Em         D***  
   The hemlock-umbels tall and fair,  
-       ***C               D         G***  
+    ***C               D         G***  
   And in the glade a light was seen  
-        ***C                 D***  
+    ***C                 D***  
   Of stars in shadow shimmering.  
      ***H7           Em***  
   Tinuviel was dancing there  
-       ***D          C***  
+    ***D          C***  
   To music of a pipe unseen,  
-         ***Em               Hm***  
+    ***Em               Hm***  
   And light of stars was in her hair,  
-       ***D                    Em***  
+    ***D                    Em***  
   And in her raiment glimmering.  
   
   There Beren came from mountains cold,  
@@ -31,11 +31,11 @@ Running to Paradise (1996)
   Upon her mantle and her sleeves,  
   And her hair like shadow following.  
   
-       ***C           D         G***  
+    ***C           D         G***  
   Enchantment healed his weary feet  
-                  ***C              D***  
+    ***C              D***  
   That over hills were doomed to roam;  
-       ***G        D           C         A***  
+    ***G        D           C         A***  
   And forth he hastened, strong and fleet,  
    ***Hm               Em***  
   And grasped at moonbeams glistening.  

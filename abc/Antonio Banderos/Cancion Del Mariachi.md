@@ -8,17 +8,17 @@ G|--9------------------------9-11|---7----------------------8-9|
 D|9------------------------------|-7---------------------------|  
 A|-------------------------------|-----------------------------|  
 E|-------------------------------|-----------------------------|  
-                                 B                           Em  
+    B                           Em  
 Verse 1:  
 Em                                           B  
 Soy un hombre muy honrado, Que me gusta lo mejor  
-                                              Em  
+    Em  
 A mujeres no me faltan, Ni al dinero, ni el amor.  
   
 Verse 2:  
 Em                                     B  
 ...En mi caballo, Por la sierra yo me voy  
-                                               Em  
+    Em  
 Las estrellas y la luna, Ellas me dicen donde voy.  
   
 Chrous:  
@@ -36,13 +36,13 @@ De mi corazon
 Verse 3:  
 Em                                           B  
 Me gusta tocar guitarra, me gusta cantar el sol  
-                                          Em  
+    Em  
 Mariachi me acompana, quando canto my cancion.  
   
 Verse 4:  
 Em                                             B  
 Me gustan tomar mis copas, aguardiente es lo mejor  
-                                               Em  
+    Em  
 Tanbien la tequilla blanca, con cu sal le da sabor.  
   
 Chrous:  
@@ -60,13 +60,13 @@ Solo: Em-B-Em-B-Em-B-Em-B-Em-B-Em
 Verse 5:  
 N.C.  
 Me gusta tocar guitarra, me gusta cantar el sol  
-                                           Em  
+    Em  
 Mariachi me acompana, quando canto my cancion.  
   
 Verse 6:  
 Em                                             B  
 Me gustan tomar mis copas, aguardiente es lo mejor  
-                                                Em  
+    Em  
 Tanbien la tequilla blanca, con cu sal le da sabor.  
   
 Chrous:  
@@ -99,17 +99,17 @@ G|--9------------------------9-11|---7----------------------8-9|
 D|9------------------------------|-7---------------------------|  
 A|-------------------------------|-----------------------------|  
 E|-------------------------------|-----------------------------|  
-                                 B                           Em  
+    B                           Em  
 Verse 1:  
-                                          B  
+    B  
 I am an honored man, and I like what is best,  
-                                            Em  
+    Em  
 For I lack no woman, nor the money or the love.  
   
 Verse 2:  
-                                            B  
+    B  
 On my horse I ride, through the mountains I go,  
-                                                   Em  
+    Em  
 And the stars and the moon, they tell me where to go.  
   
 Chrous:  
@@ -127,13 +127,13 @@ Of my heart.
 Verse 3:  
 Em                                         B  
 I like to play guitar, I like to sing the sun,  
-                                              Em  
+    Em  
 Mariachis are my companions, when I sing my song.  
   
 Verse 4:  
 Em                                        B  
 I like to take my drinks, brandy is the best,  
-                                                            Em  
+    Em  
 And also the white tequilla, with the salt that adds the flavor  
   
 Chrous:  
@@ -152,13 +152,13 @@ Verse 5:
   
 N.C.  
 I like to play guitar, I like to sing the sun,  
-                                              Em  
+    Em  
 Mariachis are my companions, when I sing my song.  
   
 Verse 6:  
 Em                                        B  
 I like to take my drinks, brandy is the best,  
-                                                            Em  
+    Em  
 And also the white tequilla, with the salt that adds the flavor  
   
 Chrous:  

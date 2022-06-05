@@ -8,26 +8,26 @@ Cause somewhere in the crowd there's you
   
 C                             Em  
 I was sick and tired of everything  
-       F                           G  
+    F                           G  
 When I called you last night from Glasgow  
 C                               Em  
 All I do is eat, and sleep, and sing  
-       F                   G            F  
+    F                   G            F  
 Wishing every show was the last show  
-                  C  
+    C  
 So imagine I was glad to hear you're coming  
 F                 C  
 Suddenly I feel alright  
 F                    C  
 And it's gonna be so different  
-                        G    G7  
+    G    G7  
 When I'm on the stage tonight  
   
 Chorus:  
-            C  
+    C  
 Tonight the Sup-per-per Trou-per-per  
 Lights are gonna find me  
-                 G  
+    G  
 Shining like the sun  
 Dm               G  
 Smiling, having fun  
@@ -49,13 +49,13 @@ When I'm on the stage tonight.
   
 Chorus.  
   
-            F              Am  
+    F              Am  
 So I'll be there when you arrive  
-            Dm                G              C  
+    Dm                G              C  
 The sight of you will prove to me I'm still alive  
-             G              F  
+    G              F  
 And when you take me in your arms  
-            Dm   A7  Dm                             G     G7  
+    Dm   A7  Dm                             G     G7  
 And hold me tight I know it's gonna mean so much tonight.  
   
 Chorus.

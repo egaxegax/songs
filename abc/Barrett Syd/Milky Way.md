@@ -4,15 +4,15 @@ Milky Way
   
   ***E                                             B***  
   What'd you ever say today when you're in the milky way  
-             ***D       C***  
+    ***D       C***  
   oh tell me please  
-                        ***A***  
+    ***A***  
   just to give you a squeeze  
-       ***Dm          F        A***  
+    ***Dm          F        A***  
   if I met you - I told you what to do  
   ***F       A***  
   seems a while  
-        ***F        C        F       A   B        A  F#  B***  
+    ***F        C        F       A   B        A  F#  B***  
   since I could smile the way you do...  
   how many times, if I try, if I may,  
   when you're in the milky way  

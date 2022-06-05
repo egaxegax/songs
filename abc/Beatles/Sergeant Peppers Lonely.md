@@ -33,7 +33,7 @@ verse:  It was 20 yrs ago today.... Sargent Pepper taught 
   *it might be cool to figure it out on my Guitar.*  
   *It sounds cool with a little distortion...*  
   
-       ***C7***  
+    ***C7***  
   [E|-----------------------|----------------|--8----------------|  
   B|-----11-10-8----------|--10----10-10--|-----11-10-8-------|  
   G|--------------9----9---|-----10--------|--------------10-9-|  

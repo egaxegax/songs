@@ -11,13 +11,13 @@ Bm                          
 I thought you were the crown prince of all the wheels in Ivory Town  
 Bm                               Am  
 Just take a look at your body now, there's nothing much to save  
-       Bm                                       Am  
+    Bm                                       Am  
 And a bitter voice in the mirror cries, "Hey, Prince, you need a shave."  
 Bm                                           C#m  
 Now if you can manage to get your trembling fingers to behave  
      Bm                                    C#m  
 Why don't you try unwrapping a stainless steel razor blade?  
-                  Bm                       Am  
+    Bm                       Am  
 That's right, it's come to this, yes it's come to this  
 A#               D        G   A#              D         G  
 And wasn't it a long way down, wasn't it a strange way down?  

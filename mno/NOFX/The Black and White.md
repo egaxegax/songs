@@ -19,9 +19,9 @@ Heavy Petting Zoo (Epitaph 1996)
   
   ***C      D                  G***  
   Mr. McCarthy killed the light  
-             ***F               C***  
+    ***F               C***  
   He didn't wake his lovely wife  
-               ***D              G***  
+    ***D              G***  
   He left the key inside the door  
   Woke on the wrong side of the bed  
   She can't remember what he said  
@@ -36,7 +36,7 @@ Heavy Petting Zoo (Epitaph 1996)
   Biblic moralization  
   Identity frustration  
   Confused man cannot ruin his heart  
-         ***C       B      F               G            C***  
+    ***C       B      F               G            C***  
   So he may be fucking her, but he's thinking about him  
   
   Catherine McKinnon does exist  
@@ -55,11 +55,11 @@ Heavy Petting Zoo (Epitaph 1996)
   
   ***C         B         A***  
   A little man sits alone  
-       ***C     D                      G***  
+    ***C     D                      G***  
   His sexuality's been carved in stone  
   ***C          D***  
   He don't love her  
-       ***G         D      C***  
+    ***G         D      C***  
   And she don't really care  
   ***C            D                G***  
   Two victims of the black and white  

@@ -2,19 +2,19 @@
 No Good Trying  
   *(Words And Music By Sydney Barrett)*  
   
-       ***G       (G7)      G          (G7)***  
+    ***G       (G7)      G          (G7)***  
   It's no good trying to place your hand  
-        ***G       (G7)          G    (G7)***  
+    ***G       (G7)          G    (G7)***  
   where I can't see because I understand  
-              ***D***  
+    ***D***  
   that you're different from me  
       ***A***  
   yes I can tell  
-                                ***D***  
+    ***D***  
   that you can't be what you pretend  
-             ***G***  
+    ***G***  
   and you're rocking me backwards  
-             ***A#***  
+    ***A#***  
   and you're rocking towards the  
   ***C                        D                   E***  
   red and yellow mane of a stallion horse.  

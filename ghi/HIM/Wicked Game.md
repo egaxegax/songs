@@ -7,7 +7,7 @@ Wicked Game
   I'd never dreamed that I'd need somebody like you  
   And I'd never dreamed that I'd need somebody like you  
   
-       ***Hm A                E***  
+    ***Hm A                E***  
 Припев:  No I don't wanna fall in love  
   this world is always gonna break your heart  
   No I don't wanna fall in love  

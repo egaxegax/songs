@@ -47,7 +47,7 @@
   Pink when I turn out the light, and  
   ***G            F         Cadd D***  
   Pink gets me high as a kite  
-        ***Em                  A               C***  
+    ***Em                  A               C***  
   And I think everything is going to be all right  
   ***C7***  
   No matter what we do tonight  

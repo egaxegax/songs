@@ -6,11 +6,11 @@ California
   
   ***Bm  F#m        Em***  
 (1)  Aeroport, aerogare  
-                  ***F#m***  
+    ***F#m***  
   Mais pour tout l'or m'en aller  
   ***Bm        F#m               Em***  
   C'est le blues, l'coup d'cafard  
-            ***F#m***  
+    ***F#m***  
   Le check out assure  
   ***C                          F#***  
   Vienne la nuit et sonne l'heure  
@@ -20,26 +20,26 @@ California
   Ou je demeure  
   ***Bm           F#m               Em***  
   Changer d'optique, prendre l'exit  
-           ***F#m        Bm***  
+    ***F#m        Bm***  
   Et m'envoyer en Amerique  
-         ***F#m            Em***  
+    ***F#m            Em***  
   Sex appeal, c'est Sunset  
-              ***F#m           C***  
+    ***F#m           C***  
   C'est Marlboro qui me sourit  
-                       ***F#***  
+    ***F#***  
   Mon amour, mon moi, je  
   Sais qu'il existe  
   ***C                    F#***  
   La chaleur de l'abandon  
   C'est comme une symphonie  
   
-         ***Bm                  F#m***  
+    ***Bm                  F#m***  
 Припев:  C'est sexy le ciel de Californie  
-           ***Em                    A***  
+    ***Em                    A***  
   Sous ma peau j'ai L.A. en overdose  
       ***Bm                       F#m***  
   So sexy le spleen d'un road movie  
-             ***Em                     A***  
+    ***Em                     A***  
   Dans l'retro ma vie qui s'anamorphose  
   
 (2)  J'ai plus d'I.D, mais bien l'idee  

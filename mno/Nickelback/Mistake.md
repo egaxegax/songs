@@ -98,17 +98,17 @@ Lyrics:  So i sift and drift through bullshit
   And the lonely souls who said so  
   Get fired  
   
-              ***B***  
+    ***B***  
 Пpипeв:  I'm over the wall  
-            ***F***  
+    ***F***  
   Over the hill  
-        ***D#***  
+    ***D#***  
   Over your place  
-            ***B***  
+    ***B***  
   I'm over the safeteys  
-             ***F***  
+    ***F***  
   Over the phonecalls  
-          ***D#***  
+    ***D#***  
   Over the rage  
   What a mistake  
   I've never been lost  

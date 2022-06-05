@@ -22,14 +22,14 @@ Verse:  Take me now, baby, here as I am.
   the way I feel when I'm in your hand.  
   ***D       G                A***  
   Take my hand; come under cover.  
-       ***C                   Bm       F#***  
+    ***C                   Bm       F#***  
   They can't hurt you now, can't hurt you now, can't hurt you now.  
   
   ***Bm      G                 A***  
 Chorus:  Because the night belongs to lovers.  
   ***Bm      G                 A  Bm***  
   Because the night belongs to lust.  
-          ***G                 A***  
+    ***G                 A***  
   Because the night belongs to lovers.  
   ***Bm      G    A  Bm***  
   Because the night belongs to us.  
@@ -45,7 +45,7 @@ Second verse: Have I doubt when I'm alone?
   
   *Repeat chorus*  
   
-       ***D    A         D        A           Bm   A***  
+    ***D    A         D        A           Bm   A***  
 Ending:  With love we sleep; with doubt the viscious circle turn and turns.  
   ***D A      Bm    A    D        A***  
   Without you I cannot live, forgive the yearning, burning  

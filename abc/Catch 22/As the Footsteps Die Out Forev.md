@@ -12,7 +12,7 @@ As the Footsteps Die Out Forev
   *chord and all the others use a "***E shaped***" bar chord)*  
   
   *Bridge*  
-       ***E                  A***  
+    ***E                  A***  
   Every night for 3 long weeks  
   ***Fsharp minor                     B***  
   She roamed the hallways half asleep  

@@ -15,13 +15,13 @@ TUNING:  [D G D G B D] (open [G])
   Climb it!  
     ***A                                      D***  
   You pick the place and I'll choose the time  
-             ***G                    C***  
+    ***G                    C***  
   And I'll climb that hill in my own way  
     ***G                          C***  
   Just wait a while, for the right day  
-             ***G              C***  
+    ***G              C***  
   And as I rise above the treeline and the clouds  
-           ***D              C                            G***  
+    ***D              C                            G***  
   I look down, hear the sound of the things you said today  
   *RIFF 4 TIMES*  
   *BRIDGE(slide up and down to these shapes):*  

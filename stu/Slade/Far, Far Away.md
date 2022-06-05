@@ -3,11 +3,11 @@ Far, Far Away
   
 Intro:  ***Bm  A  Bm  A  Bm  A***  
   
-                ***Bm               A               Bm     A***  
+    ***Bm               A               Bm     A***  
   I've seen the yellow lights go down the Mississippi  
-                ***Bm             A                      Bm   Bsus2 Bm***  
+    ***Bm             A                      Bm   Bsus2 Bm***  
   I've seen the bridges of the world and they are for real  
-             ***G                 A                D     Dsus2  D***  
+    ***G                 A                D     Dsus2  D***  
   I've had a red light off-the-wrist without me even getting kissed  
      ***G                A***  
   It still seems so unreal  
@@ -16,19 +16,19 @@ Intro:  ***Bm  A  Bm  A  Bm  A***
   I've sang the glory that was Rome  
   And passed the 'Hound Dog' singer's home  
   It still seems for the best  
-          ***D    D/C# D/B  D/A***  
+    ***D    D/C# D/B  D/A***  
   And I'm far, far away  
-          ***G              A***  
+    ***G              A***  
   With my head up in the clouds  
-          ***D    D/C# D/B  D/A***  
+    ***D    D/C# D/B  D/A***  
   And I'm far, far away  
-          ***G                A***  
+    ***G                A***  
   With my feet down in the crowds  
-          ***D       D/C#     D/B  D/A***  
+    ***D       D/C#     D/B  D/A***  
   Letting loose around the world  
-          ***G               F#***  
+    ***G               F#***  
   But the call of home is loud  
-           ***Bm    A  Bm   A   Bm   A***  
+    ***Bm    A  Bm   A   Bm   A***  
   Still as loud  
   I've seen the Paris lights from high upon Montmartre  
   And felt the silence hanging low in No Man's Land  

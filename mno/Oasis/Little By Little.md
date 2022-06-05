@@ -23,19 +23,19 @@ VERSE-1: We the people fight for our existence
   We dream our dreams alone with no resistance  
   Fading like the stars we wish to be  
   
-                      ***D***  
+    ***D***  
 BRIDGE:  You know I didn't mean  
-                ***G    D/F#***  
+    ***G    D/F#***  
   What I just said  
-          ***Em7***  
+    ***Em7***  
   But my God woke up  
-                           ***Asus4***  
+    ***Asus4***  
   On the wrong side of his bed  
   And it just don't matter now  
   
   ***G                 D***  
 CHORUS:  Cause little by little  
-       ***Asus4                  Em7   D/F#***  
+    ***Asus4                  Em7   D/F#***  
   We gave you everything you ever dreamed of  
   Little by little  
   The wheels of your life they're slowly falling off  
@@ -43,7 +43,7 @@ CHORUS:  Cause little by little
   You have to give it all with all your life  
   ***G              D            Cadd9       Em7***  
   And all your time, I just ask myself why  
-                  ***A***  
+    ***A***  
   You're really here.  
   
 VERSE-2: True perfection has to be imperfect  

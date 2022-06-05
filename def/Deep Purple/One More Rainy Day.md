@@ -9,7 +9,7 @@
   Sky             looking so forlorn  
   ***Am C/G            F            Em***  
   It looks like the world's been born  
-         ***Dm         G***  
+    ***Dm         G***  
   On one more rainy day  
   ***C        C/E     F       G***  
   Trying        to see the sunlight  

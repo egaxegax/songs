@@ -14,19 +14,19 @@
   May you never lay your head down  
   ***G            C***  
   Without a hand to hold  
-           ***Am              G               C   F   C***  
+    ***Am              G               C   F   C***  
   May you never make your bed out in the cold  
-       ***G   F   C               Am***  
+    ***G   F   C               Am***  
   And may you never lose your temper  
-              ***G                 C***  
+    ***G                 C***  
   If you get hit in a bar room fight  
-           ***Am              G           C   F   C***  
+    ***Am              G           C   F   C***  
   May you never lose your woman overnight  
-              ***G***  
+    ***G***  
   Well you're just like a great strong sister to me  
-          ***C              F        C***  
+    ***C              F        C***  
   And I know that your love is true  
-           ***G***  
+    ***G***  
   And you hold no blade for to stab me in my back  
      ***C                 F         C***  
   I know that there's some that do  
@@ -36,23 +36,23 @@
   Love is a lesson tonight in our time  
    ***G          C   F   C***  
   Please, won't you please bear it in mind for me  
-       ***G   F   C            Am***  
+    ***G   F   C            Am***  
   And may you never lay your head down  
   ***G            C***  
   Without a hand to hold  
-           ***Am              G               C   F   C***  
+    ***Am              G               C   F   C***  
   May you never make your bed out in the cold  
-       ***G   F   C               Am***  
+    ***G   F   C               Am***  
   And may you never lose your temper  
-              ***G                 C***  
+    ***G                 C***  
   If you get hit in a bar room fight  
-           ***Am              G           C   F   C***  
+    ***Am              G           C   F   C***  
   May you never lose your woman overnight  
-              ***G***  
+    ***G***  
   Well you're just like a great strong brother to me  
-          ***C              F        C***  
+    ***C              F        C***  
   And I know that your love is true  
-           ***G***  
+    ***G***  
   And you never talk dirty behind my back  
      ***C                 F         C***  
   I know that there's some that do  
@@ -62,17 +62,17 @@
   Love is a lesson tonight in our time  
    ***G          C   F   C***  
   Please, won't you please bear it in mind for me  
-       ***G   F   C            Am***  
+    ***G   F   C            Am***  
   And may you never lay your head down  
   ***G            C***  
   Without a hand to hold  
-           ***Am              G               C   F   C***  
+    ***Am              G               C   F   C***  
   May you never make your bed out in the cold  
-       ***G   F   C               Am***  
+    ***G   F   C               Am***  
   And may you never lose your temper  
-              ***G                 C***  
+    ***G                 C***  
   If you get hit in a bar room fight  
-           ***Am              G           C   F   C***  
+    ***Am              G           C   F   C***  
   May you never lose your woman overnight  
     ***Am   G      C   F   C***  
   May you never lose your woman overnight  

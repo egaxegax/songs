@@ -15,14 +15,14 @@ Sick
   *just used some of the words that I could figure out, but the chords are*  
   *the same all the way through and the bridge to this song is just the*  
   *verse chords played with no singing.*  
-            ***A5                                      D5   G5 A5***  
+    ***A5                                      D5   G5 A5***  
   Like a dog that just pissed on your barbeque your sick of me } repeat 4 times  
   ***C5                   G5   D5 G5  C5  A5***  
   Walkin out of the door   I am over you } repeat twice  
   ***A5     C5                           A5               C5***  
-               I know you got your problems......... \   this isn't said  
-                                                      \  every time these  
-                                                       \ chords are played  
+    I know you got your problems......... \   this isn't said  
+    \  every time these  
+    \ chords are played  
   *end ***on A5****  
   
 -  

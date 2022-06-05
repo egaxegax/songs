@@ -7,8 +7,8 @@ Think Again
   *This is my fist go at transcribbling anything, so it might need error*  
   *checking.*  
   *NORMAL TUNING. Verses, acoustic guitar; Chorus, distorted electric*  
-                 *-knock the volume on your guitar down to 2 for the*  
-                  *acoustic bits, then bang it up to full for the chorus.*  
+    *-knock the volume on your guitar down to 2 for the*  
+    *acoustic bits, then bang it up to full for the chorus.*  
   
 CHORDS:     ***Em  CM7  C5  G5  C  A5  D5***  
   [E  0    0   x   3   0  x   x  
@@ -26,7 +26,7 @@ VERSE 1: Everything you've been to__ld is wrong
   Everything that you do as well as that  
   ***Em                           CM7            C***  
   It makes no difference if you...    love or hate  
-               ***A5                         C5***  
+    ***A5                         C5***  
   or if you kill            or like you think  (sounds right)  
   
   ***E5                   G5***  

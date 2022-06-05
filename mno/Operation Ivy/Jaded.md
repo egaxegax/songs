@@ -26,7 +26,7 @@ PreChorus: but sometimes every once in a while
   ***G***  
   sometimes every once in a while  
   
-       ***C            F     G               C           F     G***  
+    ***C            F     G               C           F     G***  
 CHORUS:  it's beautiful, i would say, i wouldn't have it any other way  
   
   *(same chords)*  

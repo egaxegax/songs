@@ -3,7 +3,7 @@
   Halla Ballu Ballay  
   *(Lyrics and Music by Achim Reichel)*  
   
-          ***Am***  
+    ***Am***  
   Wir fahren ьber das weite Meer,  
   ***F                Am       F                      Am***  
   Halla Ballu Ballay, Halla Ballu Ballay  

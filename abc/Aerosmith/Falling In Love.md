@@ -6,7 +6,7 @@
   You're so bad, You're so bad, You're so  
    ***F      G  G    F      G  G    F      G***  
   You're so bad, You're so bad, You're so  
-        ***D              Bb               C          D***  
+    ***D              Bb               C          D***  
   You think you're in love like it's a real sure thing  
       ***D               Bb               C          D***  
   But every time you fall you get your ass in a sling  
@@ -85,7 +85,7 @@
   A-------------------------------------------|  
   E-------------------------------------------|]...  
   *This is where I get lost. When it slows down it looks like this:*  
-                                                                 *full bend*  
+    *full bend*  
   [E--15b--15r-13-15-13------21b--r----21b--r----21b--r----21b--r----21b--r|  
   B--------------------15/---------20--------20--------20--------20-------|  
   G-----------------------------------------------------------------------|]  
@@ -107,13 +107,13 @@
   You're so bad, You're so bad, You're so  
    ***F      G  G    F      G  G    F      G***  
   You're so bad, You're so bad, You're so  
-        ***D              Bb               C          D***  
+    ***D              Bb               C          D***  
   You think you're in love like it's a real sure thing  
       ***D               Bb               C          D***  
   But every time you fall you get your ass in a sling  
       ***D             Bb               C          D***  
   You used to be strong but now it's ooh baby please  
-          ***D          Bb         C            G***  
+    ***D          Bb         C            G***  
   'cause falling in love is so hard on the knees  
   You're so bad, You're so bad, You're so  
   You're so bad, You're so bad, You're so  
@@ -183,19 +183,19 @@
   ***C    Eb      Bb  G***  
   And then you called me someone elses name............  
   
-           ***D  Bb  C  D***  
+    ***D  Bb  C  D***  
 Chorus:  There ain't no more me no more begging or please  
-          ***D         Bb     C  D***  
+    ***D         Bb     C  D***  
   You know what I want and it ain't one of these  
-          ***D       Bb   C   D***  
+    ***D       Bb   C   D***  
   Your bad to the bone and your girlfriend agrees  
-            ***D        Bb C  D***  
+    ***D        Bb C  D***  
   Cause falling in love is so hard on the knees  
   ***F G F G F G  F***  
   Your so bad..Your so bad...Your so bad.... Your sooooo  
   ***G  C***  
   Chip of the ol' block  
-                  ***Bb       Eb***  
+    ***Bb       Eb***  
   When your so much like your sister  
   ***C  Eb     Bb     G***  
   My friend Poseidon must be out of luck  
@@ -204,21 +204,21 @@ Chorus:  There ain't no more me no more begging or please
   ***C     Eb   Bb G***  
   I feel like I have been hit by a Truck?  
   
-          ***D        Bb***  
+    ***D        Bb***  
 Bridge:  I'm joned to your love  
-          ***C        D***  
+    ***C        D***  
   Yeah I got the disease  
-          ***D        Bb***  
+    ***D        Bb***  
   You say that we will yeah  
-                  ***C D***  
+    ***C D***  
   But there ain't no guarantees  
-          ***D Bb***  
+    ***D Bb***  
   I'm major in love  
-          ***C      D***  
+    ***C      D***  
   But in all minor keys  
-          ***D       Bb***  
+    ***D       Bb***  
   Cause falling in love  
-          ***C  Bb***  
+    ***C  Bb***  
   Is so hard on the knees  
   *Right here is all power chords Always play the second PC 2wice(ex. ***G***, ***G#***, ***A***, ***A#***)*  
   ***F- G - A# - G# - G - A - G# - A# - A***  
@@ -229,17 +229,17 @@ Bridge:  I'm joned to your love
   *Guitar Solo*  
   ***G       C***  
   You weren't as good  
-                  ***Bb         Eb***  
+    ***Bb         Eb***  
   As what you said down to the letter  
   ***C      Eb            Bb  G***  
   But you like the way I hold the microphone  
   ***C       G***  
   Sometimes I'm good  
-                  ***Bb   Eb***  
+    ***Bb   Eb***  
   But when I'm bad I'm even better  
   ***C         Eb***  
   Don't give me no lip  
-          ***Bb  G***  
+    ***Bb  G***  
   I got enough on my own  
   *Play the Chorus again then the Bridge ending with PC.*  
   ***F - G - A# - G# - G - A - G# - A# - A - B - A# - C- D***  

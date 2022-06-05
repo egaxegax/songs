@@ -11,7 +11,7 @@ From digging in our pockets for a reason not to say goodby
 F#m           E                D  
 These are the hands that built America  
 F#m  E   D  
-         America  
+    America  
   
 Verse 2  
   

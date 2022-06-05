@@ -11,7 +11,7 @@ INTRO:  ***Asus***, ***A***, ***E/A***, ***A***, ***Bm/F#***, ***F
   I've seen the beauty of diamonds and pearls  
   ***D                             Esus***  
   But they ain't nothin' baby,  
-             ***E          Asus     A    E/A   A***  
+    ***E          Asus     A    E/A   A***  
   Your love amazes me  
   ***A***  
   I've seen a sunset that would make you cry  
@@ -19,12 +19,12 @@ INTRO:  ***Asus***, ***A***, ***E/A***, ***A***, ***Bm/F#***, ***F
   And colors of a rainbow reachin' across the sky  
   ***D                                 Esus***  
   The moon in all its phases, but  
-             ***E         Asus   A   E/A   A***  
+    ***E         Asus   A   E/A   A***  
   Your love amazes me  
   
   ***C#m                       D             A***  
 CHORUS:  Don't you ever doubt this love of mine  
-                          ***Esus   E***  
+    ***Esus   E***  
   You're the only one for me  
   ***Bm***  
   You give me hope, you give me reason  

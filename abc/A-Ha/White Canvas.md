@@ -3,37 +3,37 @@ White Canvas
   
   ***G***  
   Stories are painted  
-                  ***A***  
+    ***A***  
   In lines on your face  
   ***G               F#m  Em***  
   Misunderstandings  
-                    ***A***  
+    ***A***  
   And little mistakes  
-                     ***Bm***  
+    ***Bm***  
   A chance to start over  
    ***Bm/A     A     G     D***  
   Is all that it takes  
-                  ***A***  
+    ***A***  
   You know if you do  
-                  ***G F#m Em***  
+    ***G F#m Em***  
   Your life is a canvas  
-                  ***D***  
+    ***D***  
   The colors are you  
-           ***Bm***  
+    ***Bm***  
   Follow me out  
-                  ***D***  
+    ***D***  
   Follow me 'round  
-                         ***Bm                       (G)***  
+    ***Bm                       (G)***  
   Let's make the road up as we go along  
-                  ***Bm***  
+    ***Bm***  
   Just as we planned  
-                  ***G***  
+    ***G***  
   You want to believe it  
-                     ***A***  
+    ***A***  
   You know that it's true  
-                        ***G  G~Em***  
+    ***G  G~Em***  
   Your life is a canvas  
-                        ***D***  
+    ***D***  
   The colors are you  
   You cannot erase them  
   The words that were said  

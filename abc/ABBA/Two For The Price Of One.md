@@ -1,6 +1,6 @@
 <!--2020-09-05 01:06:42-->
 INTRO:  Dsus2  D      Dsus2  D     Bm11   Bm7  
-               Bm11   Bm7      Em9   Em7    Em9   Em7  
+    Bm11   Bm7      Em9   Em7    Em9   Em7  
   
 (VERSE) (D) He had what you might call a trivial occupation  
 (Bm) he cleaned the platforms of the local railway station  

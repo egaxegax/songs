@@ -5,9 +5,9 @@ Maybellene
   
     ***D#***  
   Maybellene, why can't you be true?  
-            ***B***  
+    ***B***  
   Oh Maybellene, why can't you be true?  
-           ***F                      D#                B***  
+    ***F                      D#                B***  
   You've started back doing the things you used to do.  
   ***B***  
   As I was motivatin' over the hill  

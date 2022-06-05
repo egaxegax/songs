@@ -17,7 +17,7 @@ Home By The Sea
   something doesn't feel quite right  
   ***Em                  C   Am     Em***  
   Help me someone, let me out of here  
-        ***C         Am        D        Bm***  
+    ***C         Am        D        Bm***  
   then out of the dark was suddenly heard  
   ***C              Am          Em***  
   welcome to the Home by the Sea  

@@ -27,13 +27,13 @@ Ocean Gypsy
   She knows she's alone and she is free...  
   ***F#m         Db***  
   Ocean Gypsy of the moon,  
-       ***F#m            D         ~(Ebm)         Db***  
+    ***F#m            D         ~(Ebm)         Db***  
   The sun has made a thousand nights for you to hold...  
   ***F#m          Db***  
   Ocean Gypsy where are you?  
-                       ***A       D                   Db***  
+    ***A       D                   Db***  
   The shadows followed by the stars have turned to gold...  
-            ***F#m***  
+    ***F#m***  
   Turned to gold...  
   Then she met a hollow soul,  
   Filled him with her light and was consoled,  

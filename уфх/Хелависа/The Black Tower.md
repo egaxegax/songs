@@ -7,20 +7,20 @@ Running to Paradise (1996)
   Say that the men of the old black tower,  
     ***Em                         F***  
   Though they but feed as the goatherd feeds,  
-         ***C                  G***  
+    ***C                  G***  
   Their money spent, their wine gone sour,  
-        ***F                      Em    F Em F***  
+    ***F                      Em    F Em F***  
   Lack nothing that a soldier needs,  
   
-       ***Em                  A***  
+    ***Em                  A***  
   That all are oath-bound men:  
-         ***Em              A***  
+    ***Em              A***  
   Those banners come not in.  
     ***C                 Em***  
   There in the tomb stand the dead upright,  
       ***C           D           Em***  
   But winds come up from the shore:  
-         ***C             D     G***  
+    ***C             D     G***  
   They shake when the winds roar,  
   ***A                             Em   F Em F***  
   Old bones upon the mountain shake.  

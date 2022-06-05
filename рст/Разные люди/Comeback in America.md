@@ -2,40 +2,40 @@
 Superбизоны (2002)  
   Comeback in America  
   
-                ***Em   A***  
+    ***Em   A***  
   Мой город в руинах  
-                 ***Em A***  
+    ***Em A***  
   Мой город в огне  
-             ***Em   A***  
+    ***Em   A***  
   И фотки любимых  
-                ***Em A***  
+    ***Em A***  
   Дрожат на стене  
-               ***Em   A***  
+    ***Em   A***  
   Мужчины не плачут  
-              ***Em A***  
+    ***Em A***  
   Мужчины молчат  
-                   ***Em  A***  
+    ***Em  A***  
   Так пожелай им удачи  
-                   ***C  H***  
+    ***C  H***  
   И возвращенья назад  
   
-                ***Em     A***  
+    ***Em     A***  
   Comeback in America  
-                  ***Em A***  
+    ***Em A***  
   My fly in the sky  
-                ***Em    A***  
+    ***Em    A***  
   Вдоль нашего берега  
-              ***Em  A***  
+    ***Em  A***  
   Струится печаль  
-               ***Em    A***  
+    ***Em    A***  
   Но всё-таки верю я  
-                    ***Em A***  
+    ***Em A***  
   Не говори мне прощай  
-                ***Em    A***  
+    ***Em    A***  
   Comeback in America  
-                   ***C  H***  
+    ***C  H***  
   Не плачь и встречай  
-                      ***Em***  
+    ***Em***  
   Comeback, comeback now  
   
   Fucking you year  

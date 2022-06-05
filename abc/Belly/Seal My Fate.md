@@ -58,63 +58,63 @@ Seal My Fate
   ***A***  
   untame my brain  
   give me a name  
-          ***D***  
+    ***D***  
   hear my   faith  
-        ***A***  
+    ***A***  
   seal my fate  
   ***A***  
   unholy and dirty words i gathered to me  
-                                           ***D***  
+    ***D***  
   thinking the point was keep what's mine for me  
-              ***A***  
+    ***A***  
   while he's laughing  
-          ***D***  
+    ***D***  
   hear my   faith  
-        ***A***  
+    ***A***  
   seal my fate  
   -----------------------------------------------  
   -----------------------------------------------  
-           ***E                         A***  
+    ***E                         A***  
   and when you breathe, you breathe for two  
-             ***E***  
+    ***E***  
   and if you think you've finally found the perfect light  
-              ***A***  
+    ***A***  
   i hope it's   true  
   ***A***  
   unholy and dirty words i gathered to me  
-                                           ***D***  
+    ***D***  
   thinking the point was keep what's mine for me  
-               ***A***  
+    ***A***  
   (while he's laughing)  
   ***A***  
   on every track i fractured every back  
-                                   ***D***  
+    ***D***  
   thinking the point was step on every crack  
-             ***A***  
+    ***A***  
   (and he's laughing)  
-          ***D***  
+    ***D***  
   hear my   faith  
-        ***A***  
+    ***A***  
   seal my fate  
-          ***D***  
+    ***D***  
   hear my   faith  
-        ***A***  
+    ***A***  
   seal my fate  
-            ***E                        A***  
+    ***E                        A***  
   and when you breathe, you breathe for two  
-             ***E***  
+    ***E***  
   and if you think you've finally found the perfect light  
-              ***A***  
+    ***A***  
   i hope it's   true  
   ***D***  
   you say you saw him laughing  
-              ***A***  
+    ***A***  
   i hope it's   true  
   ***D***  
   i'd like to see it happen  
-              ***A***  
+    ***A***  
   i hope it's   true  
   ***D***  
   cause i can feel it  
-              ***A***  
+    ***A***  
   i hope it's   true

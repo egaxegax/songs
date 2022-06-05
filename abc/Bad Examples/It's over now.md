@@ -8,7 +8,7 @@
   But now we've passed it and I memorized how you were in it  
   ***D                                                 Dm***  
   Someone has to make the move to say goodbye, so say goodbye  
-        ***A                 E                 G***  
+    ***A                 E                 G***  
   It's over now, it's over now, it's over now  
   ***A                    E                 F#m                  D***  
   Your eyes are still off-center on your face it's strange to mention  
@@ -30,11 +30,11 @@
   But now as the end approaches,  I role my eyes, no not again  
   ***A                 E                 G***  
   It's over now, it's over now, it's over now  
-                  ***D                A            E***  
+    ***D                A            E***  
   And if you change your mind just call me,  
-           ***D                A               E***  
+    ***D                A               E***  
   If you change your mind I'll be here  
-                  ***D      A       E                    G***  
+    ***D      A       E                    G***  
   Oh, You've got about a week or two until forever disappears,  
   ***A               E                     F#m                       D***  
   I'd like to remember you the way you looked the day we met  

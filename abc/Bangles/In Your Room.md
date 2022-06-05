@@ -9,30 +9,30 @@
   *not as bad as I remembered it. Pretty good, in fact. Also, and*  
   *most importantly, a lot of fun to play. Notes:*  
    *1) 2 guitars, as in the recording. This song is EASY to do on*  
-       *a single guitar, and if you can't figure out how, email*  
-       *me.*  
+    *a single guitar, and if you can't figure out how, email*  
+    *me.*  
    *2) Guitar 1 is lead and should be flanged (ouch) when playing*  
-       *the intro and solo. Guitar 2 is crunchy (oooo...) and is*  
-       *usually palm muted. I've tried to indicate this in the*  
-       *transcription wherever possible.*  
+    *the intro and solo. Guitar 2 is crunchy (oooo...) and is*  
+    *usually palm muted. I've tried to indicate this in the*  
+    *transcription wherever possible.*  
    *3) This can be a Ramones song if it wants to be. Just*  
-       *substitute Guitar 2's palm muted root notes with full*  
-       *power chords, and gabba gabba hey, you've got a song*  
-       *that Joey, Johnny, et al would be proud to play.*  
+    *substitute Guitar 2's palm muted root notes with full*  
+    *power chords, and gabba gabba hey, you've got a song*  
+    *that Joey, Johnny, et al would be proud to play.*  
    *4) I've transcribed the organ but not the mellotron. Don't*  
-       *worry about it.*  
+    *worry about it.*  
    *5) Why is every line so short? Because I wanted some sort of*  
-       *symmetry. 4 bars was too long for each line and 3 would*  
-       *have just been too confusing, hence, 2 bars per line.*  
-       *Have a problem with it? Use a text editor.*  
+    *symmetry. 4 bars was too long for each line and 3 would*  
+    *have just been too confusing, hence, 2 bars per line.*  
+    *Have a problem with it? Use a text editor.*  
    *6) Lyrics may be wrong or just in the wrong place. I'm not*  
-       *the one who sings this when I play it, so I can't be*  
-       *sure of everything. Mistakes are most likely to be found*  
-       *in the prechorus ("I come alive when I'm with you").*  
+    *the one who sings this when I play it, so I can't be*  
+    *sure of everything. Mistakes are most likely to be found*  
+    *in the prechorus ("I come alive when I'm with you").*  
    *7) The rhythm is, shall we say, lacking in the 2nd bar of*  
-       *each prechorus couplet (i.e., the whole note is really a*  
-       *bunch of notes). No, I don't know the exact rhythm, but*  
-       *arpeggiations seem to work.*  
+    *each prechorus couplet (i.e., the whole note is really a*  
+    *bunch of notes). No, I don't know the exact rhythm, but*  
+    *arpeggiations seem to work.*  
    *8) Yes, there is a key change after the solo. Deal.*  
   *I'm willing to stray from my usual attitude and welcome*  
   *corrections.:)*  
@@ -44,7 +44,7 @@
   *h - half note*  
   *w - whole note*  
   *. - play note for one and a half times the value before it (just*  
-       *like a dot in standard notation)*  
+    *like a dot in standard notation)*  
   *^ - ties two note lengths together*  
   *3 - between notes means triplets in the time value designated*  
   *NOTE LENGTHS IN CAPITAL LETTERS MEAN REST FOR THAT VALUE OF TIME!*  
@@ -131,7 +131,7 @@
   A-----------------|-----------------  
   E-0-0-0-0-0-0-0-0-|-0-0-0-0-0-0-0-0-]  
     *e e e e e e e e   e e e e e e e e*  
-          I love it in your room tonight, you're the  
+    I love it in your room tonight, you're the  
   [E-----------------|-------------------  
   B-----------------|-------------------  
   G-----------------|-------------------  
@@ -147,7 +147,7 @@
   A-----------------|-----------------  
   E-0-0-0-0-0-0-0-0-|-0-0-0-0-0-0-0-0-]  
     *e e e e e e e e   e e e e e e e e*  
-        In the warm glow of the candlelight, oh I  
+    In the warm glow of the candlelight, oh I  
   [E-----------------|-----------------  
   B-----------------|-----------------  
   G-----------------|-----------------  
@@ -156,7 +156,7 @@
   E-0-0-0-0-0-0-0-0-|-0-0-0-0-0-0-0-0-]  
     *e e e e e e e e   e e e e e e e e*  
     wonder what you're gonna do to me  
-                                   (In your room...)  
+    (In your room...)  
   *(both guitars)*  
   [E-------|-(5)--  
   B-4---4-|--5---  
@@ -181,7 +181,7 @@
   A-2---2-|--2---  
   E-------|------]  
     *e E h.   w*  
-             In your room  
+    In your room  
   [E-------|-(5)--  
   B-4---4-|--5---  
   G-4---4-|--4---  
@@ -205,7 +205,7 @@
   A-----------------|-----------------  
   E-0-0-0-0-0-0-0-0-|-0-0-0-0-0-0-0-0-]  
     *e e e e e e e e   e e e e e e e e*  
-          I love it in your room all day, when you're  
+    I love it in your room all day, when you're  
   [E-----------------|-------------------  
   B-----------------|-------------------  
   G-----------------|-------------------  
@@ -240,7 +240,7 @@
   E-0-0-0-0-0-0-0-0-|-0-0-0-0-0-0-0-0-]  
     *e e e e e e e e   e e e e e e e e*  
    everything that a boy should know  
-                                (In your room...)  
+    (In your room...)  
   *(both guitars)*  
   [E-------|-(5)--  
   B-4---4-|--5---  
@@ -265,7 +265,7 @@
   A-2---2-|--2---  
   E-------|------]  
     *e E h.   w*  
-             In your room  
+    In your room  
   [E-------|-(5)--  
   B-4---4-|--5---  
   G-4---4-|--4---  
@@ -305,7 +305,7 @@
   A-3-3-3-3-3-3-3-3-|-5-5-5-5-5-5-5-5-  
   E-----------------|-----------------]  
     *e e e e e e e e   e e e e e e e e*  
-          Nobody ever made me  
+    Nobody ever made me  
   *(guitar 1)*  
   [E-----------------|-------------0-0-  
   B-----------------|-------------5-5-  
@@ -407,7 +407,7 @@
   A-----------------|-----------------  
   E-1-1-1-1-1-1-1-1-|-1-1-1-1-1-1-1-1-]  
     *e e e e e e e e   e e e e e e e e*  
-          I love it in your room tonight, you're the  
+    I love it in your room tonight, you're the  
   [E-----------------|---------------  
   B-----------------|-------------3-  
   G-----------------|-------------3-  
@@ -423,7 +423,7 @@
   A-3---------------|-----------------  
   E-1---1-1-1-1-1-1-|-1-1-1-1-1-1-1-1-]  
     *q   e e e e e e   e e e e e e e e*  
-        In the warm glow of the candlelight, oh I  
+    In the warm glow of the candlelight, oh I  
   [E-1----|-------------------------------  
   B-1----|-------------------------------  
   G-2----|-------------------------------  
@@ -432,7 +432,7 @@
   E-1----|-------------------------------]  
     *q H.   W*  
     Wonder what you're gonna do to me  
-                                   (In your room...)  
+    (In your room...)  
   *(both guitars)*  
   [E-------|-(6)--  
   B-5---5-|--6---  
@@ -505,7 +505,7 @@
   A-4-4-4-4-4-4-4-4-|-6-6-6-6-6-6-6-6-  
   E-----------------|-----------------]  
     *e e e e e e e e   e e e e e e e e*  
-          Nobody ever made me  
+    Nobody ever made me  
     ***C                 C(7)sus4***  
   [E-----------------|-(6)--  
   B-5---5-----------|--6---  

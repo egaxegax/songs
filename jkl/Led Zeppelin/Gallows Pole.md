@@ -97,7 +97,7 @@ riff:  [e--------------
   Brought a little of everything  
      ***G                D        G A  G A***  
   to keep you from the gallows pole  
-       ***C       D***  
+    ***C       D***  
   Ya I brought you  
      ***G                D        G A  G A***  
   to keep you from the gallows pole  

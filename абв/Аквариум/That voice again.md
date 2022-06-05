@@ -20,7 +20,7 @@ Radio Silence (1989)
   Nothing to explain  
   ***B                               Gm***  
   Just this vision of broken wing  
-           ***Dm             A***  
+    ***Dm             A***  
   And the raven cries in pain  
   
   I hear that voice again  
@@ -28,23 +28,23 @@ Radio Silence (1989)
   
   ***Dm***  
   If darkness surrounds you  
-               ***C***  
+    ***C***  
   I'll be the fire to guard your sleep  
   ***Dm***  
   If there's nothing to stand on  
-          ***C            Am***  
+    ***C            Am***  
   I will lay myself beneath your feet  
   ***B                C***  
   I will show the world to you  
-            ***Dm                  Am***  
+    ***Dm                  Am***  
   And this world will have no stain  
-        ***B***  
+    ***B***  
   Just hold me now, hold me close  
-         ***Gm***  
+    ***Gm***  
   Don't let me go  
-        ***Dm***  
+    ***Dm***  
   But close your eyes  
-       ***A***  
+    ***A***  
   And look away  
   
   I hear that voice again  

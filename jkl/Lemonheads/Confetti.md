@@ -9,9 +9,9 @@ Confetti
   The story's getting closer to the end.  
   ***D                 G              Asus4***  
   He kinda shoulda sorta woulda loved her if he could've.  
-       ***D            G          Asus4***  
+    ***D            G          Asus4***  
   He'd rather be alone than pretend.  
-           ***G                             A***  
+    ***G                             A***  
   She just wanted him to love her but he didn't.  
   ***G                                 A***  
   He took to the woods and wandered in it.  
@@ -25,13 +25,13 @@ Confetti
   The story's getting closer to the end.  
   ***Em                G              Asus4***  
   He kinda shoulda sorta woulda loved her if he could've.  
-       ***Em           G          Asus4***  
+    ***Em           G          Asus4***  
   He'd rather be alone than pretend.  
   
   ***| D  A | Bm G | Em | A |***  
   ***| D  A | Bm G | Em | Asus4 |***  
   
-           ***G                             A***  
+    ***G                             A***  
   She just wanted him to love her but he didn't.  
   ***G                                 A***  
   He took to the woods and wandered in it.  
@@ -51,7 +51,7 @@ Solo:  | ***D  A*** | ***Bm G*** | ***Em*** | ***Asus4**
   The story's getting closer to the end.  
   ***D                 G              Asus4***  
   He kinda shoulda sorta woulda loved her if he could've.  
-       ***D            G          Asus4***  
+    ***D            G          Asus4***  
   He'd rather be alone than pretend.  
   
   *End on ***D***.*  

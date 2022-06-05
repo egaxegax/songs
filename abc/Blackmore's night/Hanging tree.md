@@ -11,13 +11,13 @@ Hanging tree
   Yet it still  
   ***C      G             C***  
   Weaves webs in their minds…  
-         ***C                          G***  
+    ***C                          G***  
   And it seems like she's been here forever  
-       ***Dm                      Am***  
+    ***Dm                      Am***  
   Her branches as black as the seas  
-        ***Am              Am/H***  
+    ***Am              Am/H***  
   She's been through it all  
-         ***C           D***  
+    ***C           D***  
   By the luck of the draw  
       ***C          G          Am***  
   She became the old hanging tree…  
@@ -37,7 +37,7 @@ Hanging tree
   Can make you want to cry  
   ***Dm                Am***  
   Roots could never stop her  
-       ***F        C       G***  
+    ***F        C       G***  
   From reaching for the sky…  
   Those years have all past  
   Lucky for us lucky for her…  

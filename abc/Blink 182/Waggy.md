@@ -66,7 +66,7 @@ F#5                 D5
 Did you expect from me?  What am I supposed to do?  
 A5                                                       F#5  
 You say that you?re starting to feel like you?re getting lost  
-            D5  
+    D5  
 Well, I do, too.  
   
 F#5           D5            B5  

@@ -5,11 +5,11 @@ Down To The Wire
   Ev'ry time you touch her sets your hands on fire,  
       ***G                                   C***  
   and ev'ry thing you've got is all that she requires.  
-           ***B***  
+    ***B***  
   And you hang on, hang on, hang on  
-          ***D***  
+    ***D***  
   to the words of a lier.  
-           ***C                  D       G    C***  
+    ***C                  D       G    C***  
   You can feel it getting down to the wire.  
   All the hurt you thought was gone has now returned,  
   and ev'ry thing she's laughing at is all you learned.  

@@ -26,7 +26,7 @@ The Lamb Lies Down On Broadway (1974)
   *Intro*  
   *~~~~~*  
   ***|                |Bb              |                |Bsus4           |***  
-           And the  lamb_______________         lies  down_____________  
+    And the  lamb_______________         lies  down_____________  
   ***|                |Esus2           |                |***  
   ___           on  Broad   -   way.  
   
@@ -37,12 +37,12 @@ The Lamb Lies Down On Broadway (1974)
   2. Night-time's fly  -  ers   feel____  their        pains._  
   3. Su - zanne   tired,_ her   work____   all         done,__ thinks  
   ***|Esus2                            |                                 |***  
-        o - cean    winds    blow    on      the     land.______  
-        Drug   -    store    takes   down    the     chains.____  
-        mon - ey,   hon   -   ey,    be      on,     ne - on.___  
+    o - cean    winds    blow    on      the     land.______  
+    Drug   -    store    takes   down    the     chains.____  
+    mon - ey,   hon   -   ey,    be      on,     ne - on.___  
   ***|G#m                              |                                 |***  
       The  Mov - ie  Pal - ace  is   now    un - done.___   The  
-           Met - al  mo - tion       comes  in   bursts,_   but  the  
+    Met - al  mo - tion       comes  in   bursts,_   but  the  
       Cab - man's    vel - vet glove sounds the  horn,___   and  the  
   ***|Asus2                            |                                 |***  
    all - night   watch - men   have  had     their   fun.____  
@@ -58,16 +58,16 @@ The Lamb Lies Down On Broadway (1974)
    look   at     me!     I'm         not  your   kind.___   I'm Rael!__  
   ***|E                                |E5                               |***  
    ____                                                           It  
-             And  out  of  the  sub - way,  
+    And  out  of  the  sub - way,  
    ____  
   ***|Eb                               |                                 |***  
-       seems  they  can - not  leave____   their  dream.___   There's  
+    seems  they  can - not  leave____   their  dream.___   There's  
    Ra - el    Im - pe  -  ri - al    Aer - o  -   sol  Kid_  
    Some-thing in - side   me   has   just  be  -  gun._____  
   ***|Ebm7                             |                                 |***  
    some-thing  mov  -  ing in  the    side - walk  steam.__   And  the  
    ex - its    in   -  to  day-light, spray  gun   hid.____   And  the  
-        Lord   knows__         what   I      have  done.___   And  the  
+    Lord   knows__         what   I      have  done.___   And  the  
   ***|Bb                               |                                 |***  
    lamb_________________________________                       lies  
    lamb_________________________________                       lies  
@@ -113,7 +113,7 @@ The Lamb Lies Down On Broadway (1974)
   ***|E                                |                                 |***  
    white.  
   ***|E5                               |Eb                               |***  
-                                     Ra - el     Im - pe  -  ri - al  
+    Ra - el     Im - pe  -  ri - al  
   ***|                                 |Ebm7                             |***  
       Aer - o  -   sol  Kid,         wipes   his   gun --  he's  for -  
   ***|                                 |Bb                               |***  

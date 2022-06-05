@@ -2,8 +2,8 @@
 Get A Life  
   
   *INTRO: this is the main rythym that is played throughout*  
-         *(note - ***E***=7th fret A string/ ***F#***=9th fret A string*  
-                 ****Gii***=10th fret A string)*  
+    *(note - ***E***=7th fret A string/ ***F#***=9th fret A string*  
+    ****Gii***=10th fret A string)*  
   ***E  G-A D-E***  
      ***C-G D-E***  
      ***G D C B E***  
@@ -13,11 +13,11 @@ Get A Life
   wake up with the feeling the whole world has got you down  
   ***E       -     D      E***  
   pressure that keeps building's  
-            ***C               G***  
+    ***C               G***  
   got you dragging on the ground  
   ***E       -   D  - E              G            D***  
   chaos keeps on closing in no answers to be found  
-       ***C                    B***  
+    ***C                    B***  
   for what you are feeling now  
   ***E      -    D  -  E                G            A***  
   danger that surrounds you it gets worse here everyday  
@@ -35,11 +35,11 @@ Get A Life
   I think its a pathetic sort of life you choose  
   ***G     A   D  E  C    G     D   E   G       D***  
   methods abused solutions refused good for you  
-         ***C              B          E***  
+    ***C              B          E***  
   but someday you will lose your life  
-       ***G         D          E***  
+    ***G         D          E***  
   without even giving it a try  
-       ***G             D                E***  
+    ***G             D                E***  
   depression's the only thing you'll find  
    ***C          G                D***  
   give it a chance before you die  
@@ -68,7 +68,7 @@ Get A Life
   no one's gonna listen no one's out to get you  
   ***C                          B        D        E***  
   blame anyone you want you get the life you choose  
-       ***C               D***  
+    ***C               D***  
   so when're you gonna get a clue  
   ***E     C                D***  
   the world's not gonna wait for you  

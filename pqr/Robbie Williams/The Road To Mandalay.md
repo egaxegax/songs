@@ -7,7 +7,7 @@ The Road To Mandalay
   Beat me up on the beach  
   ***Fm    Gm***  
   What a lovely holiday  
-                                  ***Cm***  
+    ***Cm***  
   There's nothing funny left to say  
   ***Fm***  
   This sombre song would drain the sun  
@@ -15,18 +15,18 @@ The Road To Mandalay
   But it won't shine until it's sung  
   ***Fm                        Gm***  
   No water running in the stream  
-                              ***Cm   C***  
+    ***Cm   C***  
   The saddest place we've ever seen  
   ***Ab            Bb***  
   Everything I touched was golden  
-                             ***Eb***  
+    ***Eb***  
   Everything I loved got broken  
   On the road to Mandalay  
   ***Ab              Gm***  
   Every mistake I've ever made  
-                 ***Fm***  
+    ***Fm***  
   Has been rehashed and then replayed  
-                              ***Bb***  
+    ***Bb***  
   As I got lost along the way  
   Fm Bb Eb Cm Fm Bb Cm  
   There's nothing left for you to give  
@@ -56,7 +56,7 @@ The Road To Mandalay
   Beat me up on the beach.  
   ***Em                F#m7***  
   What a lovely holiday,  
-                  ***F#7           H7sus4 Hm***  
+    ***F#7           H7sus4 Hm***  
   There's nothing funny left to say.  
   ***Em                              Em6***  
   This sombre song would drain the sun,  
@@ -64,28 +64,28 @@ The Road To Mandalay
   But it won't shine until it's sung.  
   ***Em                        F#m7***  
   No water running in the stream,  
-                    ***F#7        H7sus4   H7***  
+    ***F#7        H7sus4   H7***  
   The saddest place we've ever seen.  
   
   ***G                        A/G***  
   Everything I touched was golden,  
-                         ***D***  
+    ***D***  
   Everything I loved got broken  
   On the road to Mandalay1.  
   ***G                       F#m***  
   Every mistake I've ever made  
-                                ***Em7***  
+    ***Em7***  
   Has been rehashed and then replayed,  
-                          ***A***  
+    ***A***  
   As I got lost along the way.  
   
-              ***Em              A***  
+    ***Em              A***  
 Пpипeв:  Bom-bom-bom bah dah dum-bom bom  
-              ***D               Hm***  
+    ***D               Hm***  
   Bom-bom-bom bah dah dum-bom bom  
-              ***G               A***  
+    ***G               A***  
   Bom-bom-bom bah dah dum-bom bom  
-         ***Hm***  
+    ***Hm***  
   Bom-ba-dum  
   
   There's nothing left for you to give.  
@@ -111,5 +111,5 @@ The Road To Mandalay
   Save me from drowning in the sea -  
   Beat me up on the beach.  
   What a lovely holiday,  
-                  ***F#7           Hm***  
+    ***F#7           Hm***  
   There's nothing funny left to say.

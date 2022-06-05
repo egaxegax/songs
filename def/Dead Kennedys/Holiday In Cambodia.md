@@ -15,7 +15,7 @@ intro:  [E------------------------------------------------------------------
   D------------------------------|------------------------------------------  
   A------------------------------|------------------------------------------  
   E------8-8-8-7---6---5-5-5-----|----------8-8-8---7------6-----5-5-5------]  
-                                 |   so you been to school for a year or two  
+    |   so you been to school for a year or two  
   
   *riff1*  
   So you been to school for a year or two  
@@ -23,15 +23,15 @@ intro:  [E------------------------------------------------------------------
   In daddy's car thinkin' you'll go far  
   Back east your type don't crawl  
   
-       ****G                D***                    &lt;- switch to chords*  
+    ****G                D***                    &lt;- switch to chords*  
   Play ethnicky jazz to parade your snazz  
-          ***G               D***  
+    ***G               D***  
   On your five grand stereo  
   ***G                             D***  
   Braggin that you know how the niggers feel cold  
-          ***G                 D***  
+    ***G                 D***  
   And the slums got so much soul  
-       ***D       C          G   C    A***  
+    ***D       C          G   C    A***  
   It's time to taste what you most fear  
   ***D           C        G    C   A***  
   Right Guard will not help you here  
@@ -40,7 +40,7 @@ intro:  [E------------------------------------------------------------------
   ***A         B        C   D***  
   Brace yourself, my dear  
   
-         ***A          C  D***  
+    ***A          C  D***  
   It's a holiday in Cambodia  
   ***C    A             C    D***  
   It's tough kid but it's life  
@@ -55,13 +55,13 @@ intro:  [E------------------------------------------------------------------
   Kiss ass while you bitch so you can get rich  
   But your boss gets richer off you  
   
-       ***G                         D***  
+    ***G                         D***  
   Well you'll work harder with a gun in your back  
-        ***G              D***  
+    ***G              D***  
   For a bowl of rice a day  
   ***G                  D***  
   Slave for soldiers till you starve  
-            ***G                     D***  
+    ***G                     D***  
   Then your head is skewered on a stake  
   ***D           C            G      C   A***  
   Now you can go where the people are one  
@@ -72,7 +72,7 @@ intro:  [E------------------------------------------------------------------
   ***A        B        C   D***  
   What you need, my son  
   
-         ***A       C     D***  
+    ***A       C     D***  
   It's a holiday in Cambodia  
   ***C     A            C  D***  
   Where people dress in black  
@@ -86,7 +86,7 @@ intro:  [E------------------------------------------------------------------
   
   *THE LEAD GOES HERE,...     PERHAPS ANOTHER DAY*  
   
-         ***A          C  D***  
+    ***A          C  D***  
   It's a holiday in Cambodia  
   ***C     A              C    D***  
   Where you'll do what your told  
@@ -95,7 +95,7 @@ intro:  [E------------------------------------------------------------------
   ***C         A            G    F       C    A***  
   Where the slums got so much soul    Pol  Pot  
   
-        ***A          B          C          D          F          G***  
+    ***A          B          C          D          F          G***  
   [    EADGBE     EADGBE     EADGBE     EADGBE     EADGBE     EADGBE  
       ||||||     ||||||     ||||||     ||||||     ||||||     ||||||  
   5th 111111 7th 111111 3rd 111111 5th 111111 1st 111111 3rd 111111  

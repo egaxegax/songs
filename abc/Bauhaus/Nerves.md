@@ -13,4 +13,4 @@ Nerves
   *When it gets to "Nerves like Nylon, Nerves Like Steel.."*  
   *Strum the following:*  
   ****C***(VIII) [////////] ***B***(VII) [/]       (Where each [/] = 1 down strum)*  
-                           *--oOo--*
+    *--oOo--*

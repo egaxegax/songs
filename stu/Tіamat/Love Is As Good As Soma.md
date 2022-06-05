@@ -10,7 +10,7 @@ intro:  [-------------------------------------------------------------------
   
   ***Am               F             C***  
   I wanna crush all bones in you  
-       ***Am                F         C***  
+    ***Am                F         C***  
   Cause I've got nothing better to do  
   Well, I'm no son of Aquarius  
   I think the world is too small for both of us  

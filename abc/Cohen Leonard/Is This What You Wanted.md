@@ -18,18 +18,18 @@ You were the manual orgasm
 A                       E  
 I was the dirty little boy  
   
-        F#m  
+    F#m  
 And is this what you wanted  
     G                        F#m  
 To live in a house that is haunted  
-         E               A  
+    E               A  
 By the ghost of you and me  
   
      F#m  
 Is this what you wanted  
     G                        F#m  
 To live in a house that is haunted  
-         E              A  
+    E              A  
 By the ghost of you and me  
   
 You were Marlon Brando  

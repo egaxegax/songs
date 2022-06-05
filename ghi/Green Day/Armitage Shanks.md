@@ -12,20 +12,20 @@
   
   ***A        D***  
 Verse 1: Stranded  
-       ***A             D***  
+    ***A             D***  
   Lost inside myself  
-         ***F#                  A          e***  
+    ***F#                  A          e***  
   My own worst friend my own biggest enemy  
   ***A                D***  
   Well I'm branded  
   ***A           D***  
   Maladjusted  
-        ***F#         A               e***  
+    ***F#         A               e***  
   Never trusted anyone let alone myself.  
   
   ***D        A         e         F#***  
 Chorus:  I must insist on being a pesimist  
-        ***D          A              e***  
+    ***D          A              e***  
   I'm a loner in a claustrophobic mind  
   
 Verse 2: Elected  
@@ -37,7 +37,7 @@ Verse 2: Elected
   
   ***D        A         e         F#***  
 Chorus:  I must insist on being a pesimist  
-        ***D          A              E***  
+    ***D          A              E***  
   I'm a loner in a claustrophobic mind  
   
   ***A    F#  A    F#    D E***  
@@ -48,12 +48,12 @@ Bridge:  Whoa oh, whoa oh
   
   ***D        A         e         F#***  
 Chorus:  I must insist on being a pesimist  
-        ***D          A              E***  
+    ***D          A              E***  
   I'm a loner in a claustrophobic mind  
   thenЙ  
   ***D          A            e          F#***  
   I'm taking pressure for other pessimists  
-        ***D          A                  E***  
+    ***D          A                  E***  
   I'm a loner in a claustrophobic mind  
   
 -  
@@ -138,18 +138,18 @@ Chorus #2: Well I'm taking pressure for other pessimists
   Stranded,  
   ***G#                      C#***  
   Lost inside myself.  
-               ***F         C#                     Eb***  
+    ***F         C#                     Eb***  
   I always had my emotions in demand.  
   ***G#       C#***  
   Tragic,  
   ***G#       C#***  
   A rejection.  
-             ***F              C#                   Eb***  
+    ***F              C#                   Eb***  
   I never trusted anyone besides myself.  
   *CHORUS:*  
   ***C#              G#                  Eb               G#***  
   I must have said something to get in this mess,  
-           ***C#          G#                  Eb                              X2***  
+    ***C#          G#                  Eb                              X2***  
   I'm a loner in a claustrophobic mind.  
   *BRIDGE:    X2*  
   ***G#      F***  
@@ -169,7 +169,7 @@ Chorus #2: Well I'm taking pressure for other pessimists
   *Intro:***E****  
   *Verses:***A    D    A    D    F#    D    E****  
   *Chorus:***D    A    E(major)    A****  
-         ***D    A    E***  
+    ***D    A    E***  
   *Interlude:***A    F#    A    F#    D    E****  
   *Note: The Song Is All Power Chords Except For The ***E*** Major In The*  
   *Chorus.*  
@@ -208,7 +208,7 @@ Interlude: ***A, F#, A, F#, D, E(type2)***
   ****D#*** ([x688xx])*  
   ****E***  ([022xxx])*  
   ****E(type 2)***  ([x799xx]) or ([0799xxx])  The second one I use it when I palm mute*  
-                                    *that chord, but using only the ([0xxxxx])*  
+    *that chord, but using only the ([0xxxxx])*  
   ****B(type 2)***  ([xx9-11-12-x])  or ([x-9-9-11-12-x])*  
   
 -  

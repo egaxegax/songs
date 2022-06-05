@@ -5,7 +5,7 @@ Intro: C C* Am G#
   
  C              C* Am  
 I?ll drown my beliefs  
-                  G#  
+    G#  
 To have you be in peace  
 I?ll dress like you  
 To wash your swollen feet  
@@ -13,7 +13,7 @@ To wash your swollen feet
   
  C Em        Am Em  
 Just don?t leave  
-        Am   G  
+    Am   G  
 Don?t leave  
   
 I?m not living  

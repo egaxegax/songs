@@ -1,7 +1,7 @@
 <!--2020-09-05 05:56:03-->
 Wish You Were Here  
   
-              *eBGDAE*  
+    *eBGDAE*  
   ****Em****       : [300220]*  
   ****Esus2***     : [200220]*  
   ****Esus4add9*** : [202220]*  
@@ -13,20 +13,20 @@ Wish You Were Here
 Chorus:  Wish You Were Here...  
   ***C                   D***  
   Me, oh, my country man,  
-                 ***G   Em* Hsus4***  
+    ***G   Em* Hsus4***  
   Wish You Were Here...  
     ***Em* Em9  Em*  Em***  
   I Wish You Were Here...  
   
-              ***C                D               G***  
+    ***C                D               G***  
   Don?t you know, the snow is getting colder,  
-                       ***H***  
+    ***H***  
   And I miss you like hell,  
   ***H7                Em***  
   And I?m feeling blue...  
   ***E                     Am***  
   I?ve got feelings for you,  
-           ***D7            G     Em* Esus4add9***  
+    ***D7            G     Em* Esus4add9***  
   Do you still feel the same?  
     ***E                    Am***  
   From the first time I laid my eyes on you,  
@@ -41,7 +41,7 @@ Chorus:  Wish You Were Here...
   
   ***Am***  
   I miss your laugh, I miss your smile,  
-         ***Em*   Esus2 Em***  
+    ***Em*   Esus2 Em***  
   I miss everything about you...  
   ***Am***  
   Every second?s like a minute,  

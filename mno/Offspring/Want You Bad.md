@@ -8,7 +8,7 @@ E|---7-7-7--9--9--5-7-7-7-7--|
 Версия :  
 Em(VII)                    Н(VII)  
 If you could only read my mind  
-           Em(VII)           Н(VII)          C#(IX)  Am(V)  
+    Em(VII)           Н(VII)          C#(IX)  Am(V)  
 You would know the things between us, ain't right  
 I know your arms are open wide  
 But you're a little on the strange side, I cant lie  
@@ -16,9 +16,9 @@ But you're a little on the strange side, I cant lie
 Pre-Припев:  
 Em   Н      C#  
 Your one advice  
-           Am  
+    Am  
 Is you're too nice  
-       G#  
+    G#  
 Come around now  
  Н        Am  
 Can't you see  

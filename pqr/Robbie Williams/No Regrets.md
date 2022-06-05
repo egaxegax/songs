@@ -12,7 +12,7 @@ No Regrets
   And not estranged  
   ***Gm       Gm/H***  
   I didn't lose my mind  
-           ***Cm     Eb***  
+    ***Cm     Eb***  
   It was mine to give away  
   ***Gm***  
   Couldn't stay to watch me cry  
@@ -34,7 +34,7 @@ No Regrets
   Drop me a line  
   ***Fm   G***  
   Suppose its just a point of view  
-                              ***Cm***  
+    ***Cm***  
   But they tell me I'm doing fine  
   I know from the outside  
   We looked good for each other  

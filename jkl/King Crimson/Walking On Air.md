@@ -18,19 +18,19 @@ E         F#m
 Am6 Am7        E/B  
     Walking on air  
   
-            Emaj7/B            C#m  
+    Emaj7/B            C#m  
     And the worries of the day lie down  
-          C(#5)         E/B  
+    C(#5)         E/B  
     Under cover of the fading clouds  
-        Emaj7/B  
+    Emaj7/B  
     The secrets of the night  
-          C#m          C(#5)  
+    C#m          C(#5)  
     Come alive in your eyes  
-        F#m7    B B4 B  
+    F#m7    B B4 B  
     You don?t have to hurry  
-         F#m7   B  
+    F#m7   B  
     You don?t have to try  
-                           Am6  Am7  
+    Am6  Am7  
     Cause you don?t have a care  
 Am        Am(maj7)  
    You?re walking on air  

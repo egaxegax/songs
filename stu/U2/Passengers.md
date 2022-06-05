@@ -15,11 +15,11 @@ Passengers
   *Opening*  
   ***Em  A***  
   ***Em  A***  
-             ***Em***  
+    ***Em***  
   Is there a time for........  
     ***A***  
   A time for ......  
-             ***Em***  
+    ***Em***  
   Is there a time for .....  
      ***A                        D***  
   A time for ......, Here she comes  
@@ -32,16 +32,16 @@ Passengers
   ***Em   A***  
   *Repeat (different words)*  
   *Pavarotti part (Same as rest of song. You just play with the voice)*  
-            ***Em***  
+    ***Em***  
   Icci Amore  
-                ***A***  
+    ***A***  
   Donde esta el tequilla  
   etc, etc...  
-         ***F#m             B***  
+    ***F#m             B***  
   L'amoooooooooooooooooooooooooor  
   ***Em   A***  
   ***Em   A***  
   Try it out, I'll repost it with the correct words soon.  
   Have fun  
   Careful where you aim,  'cause where you aim you just might hit.  
-       Bono
+    Bono

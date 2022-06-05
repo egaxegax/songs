@@ -29,7 +29,7 @@ Wish You Were Here (1975), A Collection Of Great Dance Songs
   Like black holes in the sky.  
   ***Eb   Eb/D   Cm Cm/Bb F***  
   Shine on you crazy diamond.  
-           ***Gm***  
+    ***Gm***  
   You were caught in the crossfire  
      ***Gmmaj7/F#***  
   Of childhood and stardom,  
@@ -52,7 +52,7 @@ Wish You Were Here (1975), A Collection Of Great Dance Songs
   And exposed in the light.  
   ***Eb   Eb/D   Cm Cm/Bb F***  
   Shine on you crazy diamond.  
-           ***Gm***  
+    ***Gm***  
   Well you wore out your welcome  
       ***Gmmaj7/F#***  
   With random precission,  
@@ -79,7 +79,7 @@ Wish You Were Here (1975), A Collection Of Great Dance Songs
   And I'll be joining you there.  
   ***Eb   Eb/D   Cm Cm/Bb F***  
   Shine on you crazy diamond.  
-            ***Gm                    Gm/F#***  
+    ***Gm                    Gm/F#***  
   And we'll bask in the shadow of yesterday's triumph,  
   ***Gm/F              C-9***  
   Sail on the steel breeze.  

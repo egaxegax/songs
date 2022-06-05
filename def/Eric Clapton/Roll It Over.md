@@ -7,7 +7,7 @@ TUNING:  ***E B E G# B E***
   Go down easy and let me take my time  
   ****A                                  E*** (w RIFF)*  
   Go down easy and let me take my time  
-           ****G   F#       F      E*** (w RIFF)*  
+    ****G   F#       F      E*** (w RIFF)*  
   Rock me slow till I lose my mind  
   Roll it over, let's take it from behind  
   Roll it over, let's take it from behind  
@@ -17,7 +17,7 @@ TUNING:  ***E B E G# B E***
 CHORUS:  You don't know how much  it  means  to  me  
   ****F# G#         C#m E A***  (n.c.)*  
   Here in your arms  
-            ****E*** (w RIFF)*  
+    ****E*** (w RIFF)*  
   Roll it over         Roll it over  
   
   *REPEAT FIRST VERSE*  

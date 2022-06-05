@@ -27,7 +27,7 @@ For I am a rain dog, too
    For it was all ripe for dreaming  
    H7                     Em  
    Oh, how we danced away all of the lights  
-         Am          Em          F#   H7  
+    Am          Em          F#   H7  
    We've always been out of our minds  
   
 The rum pours strong and thin,  

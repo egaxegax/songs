@@ -17,11 +17,11 @@ Alberquerque
   I never really thought to call you  
   ***G                   D                 C             G***  
   When I saw you yesterday you said everything was fine  
-                                    ***C***  
+    ***C***  
   And all this laughing means I'm running away  
-                ***G                    C***  
+    ***G                    C***  
   Because the things we had are fucked  
-               ***D***  
+    ***D***  
   and the things we had are gone  
   
   *Chorus - back to power chords*  
@@ -44,13 +44,13 @@ Alberquerque
   *Bridge - power chords*  
   
   ***D Eb E                    D***  
-       Don't wanna play a part  
+    Don't wanna play a part  
   ***D Eb E                    D***  
-       Don't wanna play a part  
-       ***C                    D***  
-       Cause I'm living on living  
-       ***C                    D***  
-       Cause I'm living on living  
+    Don't wanna play a part  
+    ***C                    D***  
+    Cause I'm living on living  
+    ***C                    D***  
+    Cause I'm living on living  
   
   *Final verse*  
   

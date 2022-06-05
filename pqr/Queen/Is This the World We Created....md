@@ -26,7 +26,7 @@ The Works 1984
   A|--5--------------------------|  
   E|-----------------------------|]  
   *Verse:*  
-         Just look at all those ...            So many lonely faces...  
+    Just look at all those ...            So many lonely faces...  
   [e|-----10-10-10-10-10-10-10--9-----9--7---|-----5--5--5--5-----5-------------  
   b|-----7--7--7--7--7--7--7---7--7-----5---|-----5--5--5--3--3-----3----------  
   g|*----7--7--7--7--7--7--7---7--------7--*|-----0--0--0------------------0---  
@@ -49,8 +49,8 @@ The Works 1984
   A|----------------------------|--2~~~--4~~~--0~~~----------------------------  
   E|----------------------------|--------2~~~----------------------------------]  
   *Comment: I basically only transcribed the first verse and chorus. I then*  
-           *assume the that the second verse and chorus are identical. BTW*  
-           *they're not (but there's not much difference).*  
+    *assume the that the second verse and chorus are identical. BTW*  
+    *they're not (but there's not much difference).*  
   *Lyrics:*  
   Is This the World We Created? (Mercury/May)  
   
@@ -108,11 +108,11 @@ Chorus:  Is this the world we created
   ***F#min                     G         D/F#   Emin***  
   Searching for what  they need  
   *Chorus:*  
-               ***D         A/D***  
+    ***D         A/D***  
   Is this the world we created  
       ***Amin/D         G/D***  
   We made it on our own  
-               ***Bmin***  
+    ***Bmin***  
   Is this the world we invaded  
   ***F#min       Emin***  
   Its all alone  

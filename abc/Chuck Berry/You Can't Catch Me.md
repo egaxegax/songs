@@ -6,13 +6,13 @@ You Can't Catch Me
   It was a custom made, it was a flightnin' deal  
   With a powerful motor and a hideway wing,  
   Push in on the button, you will hear her sing  
-           ***D***  
+    ***D***  
   Now you can't catch me,  
-            ***A***  
+    ***A***  
   Baby you can't catch me  
-               ***E***  
+    ***E***  
   'Cos if you get too close  
-                ***D               A***  
+    ***D               A***  
   You know I'm goin' like a cool breeze.  
   
   New Jersey tunpike in the wee wee hours  

@@ -5,17 +5,17 @@ When I Stop Dreaming
   you were the avil that fell on my life?  
   ***C                                      G***  
   the first time i ever felt longing to die  
-               ***G                                        C***  
+    ***G                                        C***  
   was the night that you told me you loved someone else  
-        ***G                             D***  
+    ***G                             D***  
   and asked me if i could forget  
   
   *CHORUS:*  
-           ***G               C                        D***  
-        ***G***  
+    ***G               C                        D***  
+    ***G***  
   when i......... stop dreaming, thats when i'll stop loving you  
-           ***G               C                        D***  
-            ***G***  
+    ***G               C                        D***  
+    ***G***  
   when i......... stop dreaming thats when i'll stop cryin' for you  
   
   *SAME FOR VERSE 2&3 AND CHORUS 2&3*  
@@ -35,4 +35,4 @@ When I Stop Dreaming
   *chorus3 same lyrics*  
   
   *tips: for verse 2&3 may wanna replace that first ***D*** with another ***G****  
-           making it two Gs in a row .......ya know!
+    making it two Gs in a row .......ya know!

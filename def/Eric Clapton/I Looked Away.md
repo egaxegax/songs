@@ -6,11 +6,11 @@ Intro:  |: ***C G F C G*** :|
   
   ***C           D7       G7       E       Am G   F***  
   She took my hand and tried to make me un-der-stand  
-                 ***D7        G      D G***  
+    ***D7        G      D G***  
   That she would always be there  
   ***C            D7  G7            E        Am G F***  
   But I looked away and she ran away from me today  
-             ***D7     G    Em Am***  
+    ***D7     G    Em Am***  
   I'm such a lonely man  
   
   ***Am            F           Fm7***  
@@ -24,11 +24,11 @@ Intro:  |: ***C G F C G*** :|
   
   ***C           D7       G7       E       Am G   F***  
   She took my hand and tried to make me un-der-stand  
-                 ***D7        G      D G***  
+    ***D7        G      D G***  
   That she would always be there  
   ***C            D7  G7            E        Am G F***  
   But I looked away and she ran away from me today  
-             ***D7     G    Em Am***  
+    ***D7     G    Em Am***  
   I'm such a lonely man  
   
   ***Am        F        Fm7***  
@@ -44,7 +44,7 @@ LEAD:  ***C D7 G7 E Am G F D7 G D G***
   
   ***C            D7  G7            E        Am G F***  
   But I looked away and she ran away from me today  
-             ***D7     G    Em Am***  
+    ***D7     G    Em Am***  
   I'm such a lonely man  
   
 LEAD:  (Chorus and Intro)  

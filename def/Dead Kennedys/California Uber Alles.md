@@ -24,11 +24,11 @@ Intro:  ***D#     E   F# E*** (2x bass, 4x guitar)
   
   ***D#***  
   California Uber Alles  
-             ***G#***  
+    ***G#***  
   California Uber Alles  
   ***D#***  
   Uber Alles California  
-             ***G#  D#     C#  A F#***  
+    ***G#  D#     C#  A F#***  
   Uber Alles California  
   
   ***D#     C#   A F#***  

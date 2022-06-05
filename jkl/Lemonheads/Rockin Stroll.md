@@ -8,7 +8,7 @@ Intro riff: [------------------------------|-----------------------------
   ----9---7\5---7----5\4----5---|---4\2---5---4---4---2\0-----  
   ------------------------------|-----------------------------]  
   ***| D  G   F#m | Em  D | G F#m | Em  D |***  
-               ***G    F#m     Em        D            G          F#m     Em***  
+    ***G    F#m     Em        D            G          F#m     Em***  
   She takes me on a rocking stroll,   If you won't wave guess I won't know.  
     ***D     G      F#m         Em      A***  
   As by I roll I hope you'll throw a smile at me.  
@@ -33,7 +33,7 @@ Intro riff: [------------------------------|-----------------------------
   ***G                     A***  
   I'm gonna try.  Oh!  
   *(Play intro riff twice)*  
-               ***G    F#m     Em        D            G          F#m     Em***  
+    ***G    F#m     Em        D            G          F#m     Em***  
   She takes me on a rocking stroll,   If you won't wave guess I won't know.  
     ***D     G      F#m         Em      A***  
   As by I roll I hope you'll throw a smile at me.  

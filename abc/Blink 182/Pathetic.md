@@ -24,7 +24,7 @@ Verse1:    ***C***
   a loser a bum's what she called me when i drove her home  
   ***C***  
   there's no more waiting and sure no more wasting  
-       ***Gii                    Fii***  
+    ***Gii                    Fii***  
   i've done all i can but she still wants to be left alone  
   *(same chords)*  
   you got you got you got to help me out  
@@ -34,14 +34,14 @@ Verse1:    ***C***
   
 CHORUS:  ***A          C  G***  
   don't pull me down  
-                ***C   F***  
+    ***C   F***  
   this is where i belong  
-                 (i think i'm different but i'm the same & i'm wrong)  
+    (i think i'm different but i'm the same & i'm wrong)  
   ***A          C  G***  
   don't pull me down  
-                ***C   F***  
+    ***C   F***  
   this is where i belong               this is where i belong  
-                 (i think i'm different)  
+    (i think i'm different)  
   
   *Riff } x3 and a half*  
   

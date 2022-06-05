@@ -20,7 +20,7 @@ Intro:  ***Em G D A Em G D A C C   D***
   You know it ain't easy running out of thrills  
   ***G                   D        Bm                           A Bm***  
   You know it ain't easy when you don't know what you want  
-                  ***A Bm       C         D***  
+    ***A Bm       C         D***  
   what do you want           Wohooo     you want to  
   ***Em        G              D                     A***  
   Rock now rock the night    'till early in the morning light  

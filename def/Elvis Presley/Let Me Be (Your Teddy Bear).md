@@ -5,14 +5,14 @@ Let Me Be (Your Teddy Bear)
 (A)  Oh, baby let me be your loving teddy bear  
   ***F                                         C***  
   Pull a chain around my neck and lead me anywhere  
-               ***G            C***  
+    ***G            C***  
   Oh, let me be your teddy bear.  
   
     ***F                G7        F              G7***  
 (B)  I don't wanna be a tiger cos' tigers play to rough  
     ***F                G7      F               G7***  
   I don't wanna be a lion cos lions ain't the kind  
-             ***C     G***  
+    ***C     G***  
   You love enough  
   
 (A)  That's why I want to be, your teddy bear  

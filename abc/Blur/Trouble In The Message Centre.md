@@ -18,7 +18,7 @@
   A new type face a new day                      "  
   ***Bbm                                 Dbm            Abm     B***  
   You can't remember ten minutes ago.  
-               ***E      F#***  
+    ***E      F#***  
   It's too much trouble  
   
   *Middle 8 up half a tone, so that's (***Bm   D Am C***     x4) (then ***E F#***)*  

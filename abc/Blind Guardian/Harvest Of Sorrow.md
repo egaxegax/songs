@@ -47,24 +47,24 @@ Chorus:  Harvest of Sorrow
   In a frozen world full of cries  
   ***(D)       G           D***  
   When the ray of life shrinks  
-         ***C                  D Em  Hm C***  
+    ***C                  D Em  Hm C***  
   Shall cold winter nights begin  
   
 solo:  ***D Em G Hm*** } x4  
   
   ***Em      Hm***  
   She is gone  
-              ***Em***  
+    ***Em***  
   And I fall from grace  
-         ***Em         Hm       Em***  
+    ***Em         Hm       Em***  
   No healing charm covers my wounds  
-                 ***Em***  
+    ***Em***  
   Fooled's the dawn  
-            ***Hm***  
+    ***Hm***  
   And so  I am  
-             ***Em***  
+    ***Em***  
   Fooled by life and a bitter doom  
-                   ***Hm           Em***  
+    ***Hm           Em***  
   To bring you the end of the day  
   ***(Em)      C***  
   At the dawn of our living time  
@@ -83,7 +83,7 @@ Chorus:  Harvest of Sorrow
   In a frozen world full of cries  
   ***(D)       G           D***  
   When the ray of life shrinks  
-         ***C                 D Em   Hm C***  
+    ***C                 D Em   Hm C***  
   Shall cold winter nights begin  
   
 solo:  ***D Em G Hm*** } x2  

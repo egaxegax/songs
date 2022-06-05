@@ -10,8 +10,8 @@
   D:--|+2--------1/2-------------|  
   A:--|+2-----0----------2\0/2---|  
   E:--|+2-------------0----------|]  
-       *^*  
-       *^*  
+    *^*  
+    *^*  
      *Capo sur le*  
      *2 fret.*  
   Tiens? Ah? Quest-ce-que c'est que ca?  
@@ -37,9 +37,9 @@
   I was waiting for you at the Kabuyi (?) Club  \  
   ***C                            Em         \***  
   I was really trying to feel sad          \ 2x  
-                /  
+    /  
   But then you came          /  
-                        ***F#  G  F#        /***  
+    ***F#  G  F#        /***  
   And I really felt so sad       /  
   la la la la la....  
   Tutti va bene, ne crois tu pas? l'heure est si tranquille  

@@ -19,7 +19,7 @@ sot
   h---3--3--------3----  
   g---2--2-----------3-]  
 eot  
-                     How's life on earth?  
+    How's life on earth?  
    ***Eb7    D7***   When all the stars above  
    ***Eb7    D7***   Rain icy fingers down on ***A7***me  
   
@@ -41,11 +41,11 @@ eot
   
    ***Bm***  
   For many days we travelled from a distant place and time,  
-              ***F#m***  
+    ***F#m***  
   To reach a place they call the planet Earth,  
-               ***G          F#m***  
+    ***G          F#m***  
   There was to be a celebration,  
-          ***Bm             A A    G***  
+    ***Bm             A A    G***  
   On the mission of the sacred heart.  
   The planet Earth from way up there is beautiful and blue  
   And floating softly through a rainbow,  
@@ -61,7 +61,7 @@ eot
   [e---2--3--2--0------0  
   h---3--3--------3----  
   g---2--2-----------3-]  
-                         How's life on earth?  
+    How's life on earth?  
   ***Eb7 D7***  
   When all the stars above  
   ***Eb7 D7     A7***  

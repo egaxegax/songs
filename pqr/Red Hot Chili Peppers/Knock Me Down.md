@@ -20,46 +20,46 @@ Knock Me Down
   *Of course you hold the ***F*** chord at the end then the verse appears:*  
   ***Dm        Am7  Gm7***  
   Never too soon to be through  
-        ***Dm       C        Bb***  
+    ***Dm       C        Bb***  
   Being cool too much too soon  
   ***Dm           Am7     Gm7***  
   Too much for me, too much for you  
-               ***A5       Bb***  
+    ***A5       Bb***  
   You~re gonna lose in time  
   ***Em7      Bm7       Am7****  
   Don~t be afraid to show your friends  
-           ***Em7    D       C***  
+    ***Em7    D       C***  
   That you hurt inside, inside  
   ***Em7            Bm7***  
   Pain~s part of life  
-             ***Am7****  
+    ***Am7****  
   Don~t hide behind your false pride  
-         ***B5       C***  
+    ***B5       C***  
   It~s a lie, you lie  
-         ***D5             C5***  
+    ***D5             C5***  
   If you see me getting mighty  
-         ***D5             C5***  
+    ***D5             C5***  
   If you see me getting high  
-           ***Am   Em***  
+    ***Am   Em***  
   Knock me down  
   ***Em(?)***  
   I~m not bigger than life  
-         ***D5             C5***  
+    ***D5             C5***  
   If you see me getting mighty  
-         ***D5             C5***  
+    ***D5             C5***  
   If you see me getting high  
-           ***Am   Em***  
+    ***Am   Em***  
   Knock me down  
   ***Em(?)***  
   I~m not bigger than life  
   ***Dm   Am7   Gm7          Dm   C   Bb***  
   ***Dm           Am7     Gm7***  
   I~m tired of being untouchable  
-          ***Dm   C    Bb***  
+    ***Dm   C    Bb***  
   I~m not above the love  
   ***Dm          Am7            Gm7***  
   I~m part of you and you~re part of me  
-              ***A5  Bb***  
+    ***A5  Bb***  
   Why did you go away  
   ***Em7          Bm7            Am7****  
   Finding what you~re looking for can end up  
@@ -69,19 +69,19 @@ Knock Me Down
   I pray for you most everyday, I pray for you  
   ***C#m7 G#m7  F#m7***  
   Now  fly  away  
-         ***D5             C5***  
+    ***D5             C5***  
   If you see me getting mighty  
-         ***D5             C5***  
+    ***D5             C5***  
   If you see me getting high  
-           ***Am   Em***  
+    ***Am   Em***  
   Knock me down  
   ***Em(?)***  
   I~m not bigger than life  
-         ***D5             C5***  
+    ***D5             C5***  
   If you see me getting mighty  
-         ***D5             C5***  
+    ***D5             C5***  
   If you see me getting high  
-           ***Am   Em***  
+    ***Am   Em***  
   Knock me down  
   ***Em(?)***  
   I~m not bigger than life  
@@ -97,51 +97,51 @@ Knock Me Down
   *figure out how these chords come in. The ***G5/Bb5*** part is when the guitar*  
   *slides from ***G5*** to ***Bb5***. Listen and you shall hear, my child. Anyway, the*  
   *rest goes something like this:*  
-         ***D5             C5***  
+    ***D5             C5***  
   If you see me getting mighty  
-         ***D5             C5***  
+    ***D5             C5***  
   If you see me getting high  
-           ***Am   Em***  
+    ***Am   Em***  
   Knock me down  
   ***Em(?)***  
   I~m not bigger than life  
-         ***D5             C5***  
+    ***D5             C5***  
   If you see me getting mighty  
-         ***D5             C5***  
+    ***D5             C5***  
   If you see me getting high  
-           ***Am   Em***  
+    ***Am   Em***  
   Knock me down  
   ***Em(?)***  
   I~m not bigger than life  
-         ***D5             C5***  
+    ***D5             C5***  
   If you see me getting mighty  
-         ***D5             C5***  
+    ***D5             C5***  
   If you see me getting high  
-           ***Am   Em***  
+    ***Am   Em***  
   Knock me down  
   ***Em(?)***  
   I~m not bigger than life  
-         ***D5             C5***  
+    ***D5             C5***  
   If you see me getting mighty  
-         ***D5             C5***  
+    ***D5             C5***  
   If you see me getting high  
-           ***Am   Em***  
+    ***Am   Em***  
   Knock me down  
   ***Em(?)***  
   I~m not bigger than life  
-         ***F#5            E5***  
+    ***F#5            E5***  
   If you see me getting mighty  
-         ***F#5            E5***  
+    ***F#5            E5***  
   If you see me getting high  
-           ***C#m  G#m***  
+    ***C#m  G#m***  
   Knock me down  
   ***E                   B***  
   I~m not bigger than life  
-         ***F#5            E5***  
+    ***F#5            E5***  
   If you see me getting mighty  
-         ***F#5            E5***  
+    ***F#5            E5***  
   If you see me getting high  
-           ***C#m  G#m***  
+    ***C#m  G#m***  
   Knock me down  
   ***E                   B***  
   I~m not bigger than life  
@@ -161,8 +161,8 @@ Knock Me Down
   *I am not sure if it is the Em chord that is playing at that time.*  
   *And also, my ways of playing these chords are not by gospel.*  
   *Anyway, here we go:*  
-       [E  A  D  G  B  E]  
-       *----------------*  
+    [E  A  D  G  B  E]  
+    *----------------*  
   ***Dm   [x  5  7  7  6  x]***  
   ***Am7  [5  7  5  5  5  x]***  
   ***Gm7  [3  5  3  3  3  x]***  

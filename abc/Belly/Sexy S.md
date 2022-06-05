@@ -12,11 +12,11 @@
   
   ***A    Bb***  
   this thing  
-                  ***A***  
+    ***A***  
   it's so hard to load  
-              ***Bb***  
+    ***Bb***  
   and i can't aim (and i can't aim)  
-          ***A***  
+    ***A***  
   i can't aim  
   ***Bb               A          Bb***  
   but i can turn this - into gold  
@@ -26,29 +26,29 @@
   sadie, sadie  
   ***D                        A    G C***  
   you got a bonfire in you hair  
-          ***D***  
+    ***D***  
   must be heaven in there  
   ***E***  
   sadie, sadie  
   ***D                     A    G C***  
   you got beach bonfire hair  
-          ***D             E***  
+    ***D             E***  
   and it turns a crazy red  
-                   ***D***  
+    ***D***  
   when i touch you there  
-                   ***A     G C D***  
+    ***A     G C D***  
   when i touch you there  
   ***E                  D***  
   let the gods turn away  
-                     ***A   G C D - C D - C Bb***  
+    ***A   G C D - C D - C Bb***  
   let the gods turn away  
   ***A    Bb***  
   this wave  
-                  ***A***  
+    ***A***  
   it's so hard to hold  
-              ***Bb***  
+    ***Bb***  
   and i can't swim (i can't swim)  
-              ***A***  
+    ***A***  
   and i can't swim  
   ***Bb               A          Bb***  
   but i can turn this - into gold  
@@ -71,21 +71,21 @@
   sadie, sadie  
   ***D                        A    G C***  
   you got a bonfire in you hair  
-          ***D***  
+    ***D***  
   must be heaven in there  
   ***E***  
   sadie, sadie  
   ***D                     A    G C***  
   you got beach bonfire hair  
-          ***D             E***  
+    ***D             E***  
   and it turns a crazy red  
-                   ***D***  
+    ***D***  
   when i touch you there  
-                   ***A     G C D***  
+    ***A     G C D***  
   when i touch you there  
   ***E                  D***  
   let the gods turn away  
-                     ***A   G C D***  
+    ***A   G C D***  
   let the gods turn away  
   -----------  
   ***E D A G C D***  

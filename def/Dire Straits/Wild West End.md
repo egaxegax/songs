@@ -10,7 +10,7 @@
   waitress she watches me, crossing from the Barocco bar  
   ***D             D     Em       G***  
   I'm getting a pickup, for my steel guitar  
-            ***D           D   Em           G***  
+    ***D           D   Em           G***  
   I saw you walking out,      Shaftsbury Avenue  
   ***D         D                Em      G***  
   excuse me talking, I wanna   marry you  
@@ -19,7 +19,7 @@
   ***D                   D      Em       G***  
   You're just another angel,   in the crowd.  
   
-       ***D              D         Em        G***  
+    ***D              D         Em        G***  
   And I'm walking in the wild west end  
   ***D           D         Em        G***  
   Walking in the wild west end  

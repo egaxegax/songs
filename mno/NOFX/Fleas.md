@@ -25,9 +25,9 @@ Intro:  ***Cadd9***, ***G5***, ***F7*** (gtr.1)
   
   mother had forbidden me to wate away my life  
   she wanted to have all the things i could never buy you  
-        ***C                G***  
+    ***C                G***  
   don't stop what i've begun  
-            ***Bb     C    F***  
+    ***Bb     C    F***  
   you're my one my only son  
   ***Bb            C                 F***  
   follow what i say not what i've done } repeat  

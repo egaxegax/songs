@@ -5,25 +5,25 @@
   
   ***A   hold                                      F      hold                                          D    hold***  
   Ahoi, Klaas Nielsen und Peter Jehann! Kiekt nach ob wi noch nich to Mus sind!  
-                                                          ***G       hold***  
+    ***G       hold***  
   Ji hewt doch gesehn dem Klabautermann? Gottlob, dat wi wedder to Huus sind!"  
-         ***F                            C                                   F                          C***  
+    ***F                            C                                   F                          C***  
   Die Fischer riefenґs und stieЯen ans Land, Und zogen die Kiele bis hoch auf den Strand,  
   ***G             G                 Am***  
   Dumpf an,   rollten die Fluten  
-          ***F                  C                           F                               C***  
+    ***F                  C                           F                               C***  
   Han Jochen aber, rechnete nach, und schьttelte finster sein Haupt und sprach:  
   ***G                           Am***  
   "Een Boot is noch buten!"  
   ***Am                                                               G                      Am***  
   Und ernster keuchte die braune Schar, Dem Dorf zu ьber die Dьnen.  
-             ***G                                     Am                      D                                       G***  
+    ***G                                     Am                      D                                       G***  
   Schon grьЯten von Fern mit zerwehtem Haar, Die Frauґn an den Grдbern der Hьnen.  
-            ***F                          C                                F                                   C***  
+    ***F                          C                                F                                   C***  
   Und "Korl hieЯ es und "Leiv Marie!"  tґs doch ma schцn dat ju wedder hie!"  
   ***G             G                  Am***  
   Dumpf an,   rollten die Fluten  
-         ***F                                                  C                 F                                       C***  
+    ***F                                                  C                 F                                       C***  
   "Un Hinrich, mien Hinrich, wo is denn dee?" Und Jochen wies in die brьllende See:  
   ***G                           Am                G***  
   "Een Boot is noch buten!"  

@@ -10,13 +10,13 @@ A Day At The Races 1976
 (1)  You might believe in heaven, I would not care to say  
       ***A                 E             D                 A***  
   For every star in heaven, there's a sad soul here today  
-       ***D                        Bm***  
+    ***D                        Bm***  
   Wake up in the morning with a good face  
   ***E                     A***  
   stare at the moon all day  
   ***D                        Bm***  
   Lonely as a whisper on a star chase  
-       ***E                E7sus4***  
+    ***E                E7sus4***  
   does anyone care anyway?  
       ***A                    E***  
   For all the prayers in heaven  
@@ -54,7 +54,7 @@ Chorus:  Did we leave our way behind us?
   ***A***  
   Such a long, long way  
   Such a long, long way  
-                        ***A7***  
+    ***A7***  
   Such a long, long way  
   ***A   D            F                      A***  
   I'm looking for, still looking for that day  

@@ -13,13 +13,13 @@
   Between you and me  
   ***Bbm7           Dm-Dm/C-Bb***  
   Sweet little darling  
-        ***C       Dm-Dm/C-Bb***  
+    ***C       Dm-Dm/C-Bb***  
   Where will we be  
   ***Bbm7              Dm-Dm/C-Bb***  
   Sweet little darling  
-        ***C       F***  
+    ***C       F***  
   Where will we be  
-                ***F***  
+    ***F***  
   It's hard to conceive it  
   ***Eb              Bb***  
   All comes to an end  
@@ -29,7 +29,7 @@
   I laugh and pretend  
   ***Bbm7           Dm        Dm-Dm/C-Bb***  
   We're fools to believe it  
-         ***C       Dm***  
+    ***C       Dm***  
   We're fools to try  
   ***Bb   Dm       Dm-Dm/C-Bb***  
   ***  seemingly  

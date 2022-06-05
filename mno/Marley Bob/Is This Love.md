@@ -10,9 +10,9 @@ C#m   | F#m    | F#m |
 I wanna love you  
       D           | A  
 every day and every night.  
-       C#m      | F#m  | F#m |  
+    C#m      | F#m  | F#m |  
 We'll be together  
-       D                 | A  
+    D                 | A  
 with a roof right over our heads.  
       C#m     | F#m   | F#m |  
 We'll share the shelter  
@@ -23,11 +23,11 @@ We'll share the same room,
 D             | A     |  
 Jah provide the bread.  
   
-        C#m                       | C#m  
+    C#m                       | C#m  
 Is this love, is this love, is this love,  
       | Bm     | Bm |  
 is this love that I'm feeling?  
-        C#m     | C#m  
+    C#m     | C#m  
 Is this love, is this love, is this love,  
       | Bm     | Bm |  
 is this love that I'm feeling?  
@@ -46,13 +46,13 @@ so I throw my cards on your table.
 I wanna love you  
       | D       | A        C#m     | F#m  
 I wanna love and treat, love and treat you right.  
-             | F#m      |  
+    | F#m      |  
 I wanna love you  
       D           | A  
 every day and every night.  
-       C#m      | F#m  | F#m |  
+    C#m      | F#m  | F#m |  
 We'll be together  
-       D                 | A  
+    D                 | A  
 with a roof right over our heads.  
       C#m     | F#m   | F#m |  
 We'll share the shelter  

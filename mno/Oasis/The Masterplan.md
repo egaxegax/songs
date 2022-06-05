@@ -56,7 +56,7 @@ The Masterplan (1998)
   and cast  your words away   upon the waves  
   ***Am***  
   Sail them home with acquiesce  
-       ***A7sus4***  
+    ***A7sus4***  
   On a ship of hope today  
       ***Fmaj7/A       A7sus4***  
   And as they land upon the shore  
@@ -75,7 +75,7 @@ The Masterplan (1998)
   You know they're gonna go  
   ***G       F   G  C            G***  
   Which way they wanna go  
-         All we know is that we don't  
+    All we know is that we don't  
   ***C***  
   Know how it's gonna be  
   ***C/B***  
@@ -84,7 +84,7 @@ The Masterplan (1998)
   Life on the other hand  
   ***G                   F      G***  
   won't make you understand  
-          ***Am          A7sus4   Fmaj7/A   A7sus4   Am   E7***  
+    ***Am          A7sus4   Fmaj7/A   A7sus4   Am   E7***  
   We're all part of the masterplan  
   ***Am   A7sus4  Fmaj7/A   A7sus4  D   F***  
   ***G                                E    E7***  
@@ -135,7 +135,7 @@ The Masterplan (1998)
   And cast your words away upon the waves  
   ***Am***  
   Sail them home with acquiesce  
-       ***A****  
+    ***A****  
   On a ship of hope today  
       ***F             G***  
   And as they land upon the shore  
@@ -145,7 +145,7 @@ The Masterplan (1998)
   Say it loud and Sing it proud  
     ***E***  
   today...  
-           ***C***  
+    ***C***  
   And then dance if you want to dance  
   ***G***  
   Please brother take a chance  
@@ -164,15 +164,15 @@ The Masterplan (1998)
   We're all part of the masterplan  
   ***Am***  
   I'm not saying right is wrong  
-       ***A****  
+    ***A****  
   It's up to us to make  
       ***F                G                   Am  E***  
   The best of all the things that come our way  
-        ***Am***  
+    ***Am***  
   Cause everything that's been has passed  
       ***A****  
   The answers in the looking glass  
-          ***F               G***  
+    ***F               G***  
   There's four and twenty million doors  
   ***D                 F***  
   On life's endless corridor  
@@ -180,7 +180,7 @@ The Masterplan (1998)
   Say it loud and sing it proud  
       ***E***  
   And they...  
-       ***C***  
+    ***C***  
   Will dance if they want to dance  
   ***G***  
   Please brother take a chance  
@@ -211,8 +211,8 @@ The Masterplan (1998)
   *[D=2   D=2      D=2   D=4   D=3   D=0]    up to an ***A*** and play ***Am*** again.*  
   *[A=0   A=0      A=0   A=0   A=0   A=0]    ..... and then an ***E7*** once.*  
   [E=X   E=X      E=X   E=X   E=X   E=x]  
-                              *^     ^*  
-                           ****Fmaj7***? ***Dsus2 7***?*  
+    *^     ^*  
+    ****Fmaj7***? ***Dsus2 7***?*  
   *This section is repeated, but at the end after the ***Dsus2*** 7th or whatever it*  
   *is, you do this (it`s really the bit the strings do):*  
   [e|----------------------|]  

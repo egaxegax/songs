@@ -22,7 +22,7 @@ Friday On My Mind
   Wednesday goes too slow  
    ***Dm***  
   Thursday just don't go  
-                       ***C  E  A  F#m  B  E***  
+    ***C  E  A  F#m  B  E***  
   I have Friday on my mind  
   
    ***A                         C#m***  
@@ -33,7 +33,7 @@ Friday On My Mind
   She looks fine tonight  
   ***F#7                    Bm***  
   She is out of sight to me  
-       ***D***  
+    ***D***  
   (Tonight) I'll spend my bread  
       ***B***  
   (Tonight) I'll lose my head  

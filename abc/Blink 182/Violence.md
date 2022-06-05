@@ -25,10 +25,10 @@ Violence
   D|-----------------------------------------|  
   A|----7--7---------------7-----------------|  
   E|-5-------5-4-5--4-5-7----5-4-5--4-5-7----|]  
-         *|This part repeats several times|*  
+    *|This part repeats several times|*  
   
   **** Note: The first two notes of the bridge do not repeat,*  
-            *but the main riff does...*  
+    *but the main riff does...*  
   
   *Chorus (Distorted):*  
   [e|---------------------------------------------------------|  

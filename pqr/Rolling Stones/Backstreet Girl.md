@@ -41,7 +41,7 @@ D           Am7              G
 Please donґt come come knocking at night  
 G                      Am7     G  
 Please never ring on the phone  
-          D                     Am7  G  
+    D                     Am7  G  
 Your manners are never quite right  
   
 Am                       E7    Am  

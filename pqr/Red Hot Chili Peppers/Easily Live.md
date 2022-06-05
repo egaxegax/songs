@@ -11,7 +11,7 @@ E:-x-x-x-x-x--x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-|
   
   
 Chorus - If you observe the DVD you will clearly see that GOD (JOHN)  
-         differentiates between open and barrи chords during the chorus.  
+    differentiates between open and barrи chords during the chorus.  
   
    OPEN CHORDS   |  BARRE CHORDS  
    C    G  Fmaj7 | C    G    F  

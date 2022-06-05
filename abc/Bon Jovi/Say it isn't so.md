@@ -3,13 +3,13 @@ Say it isn't so
   
 Intro:  ***G*** - ***D*** | ***C*** | } x2  
   
-         ***G            D         C***  
+    ***G            D         C***  
   I just can-t believe, it was all a lie,  
-         ***G           D       C***  
+    ***G           D       C***  
   No man in the moon, just a big light in the sky.  
-         ***G          D            C***  
+    ***G          D            C***  
   I hear Disneyland, might lose Mickey Mouse  
-          ***Dm7***  
+    ***Dm7***  
   In some giant hostile corporate shake up  
   ***F***  
   Tell me it-s a nightmare please wake me up  
@@ -20,13 +20,13 @@ Intro:  ***G*** - ***D*** | ***C*** | } x2
   Last night I had this dream, I was losing you  
   I woke up in a cold sweat shaking, rescue me my heart is breaking  
   *Chorus 1:*  
-               ***G                    D***  
+    ***G                    D***  
   Say it isn-t so (Tell me it-s not true)  
-               ***Em               C***  
+    ***Em               C***  
   Say it isn-t so (I believe in you)  
-                  ***F                   Dm7***  
+    ***F                   Dm7***  
   Tell me it-s a lie (I don-t need no proof)  
-                       ***C                      Cm***  
+    ***C                      Cm***  
   Say everything-s all right (Couldn-t be not you)  
   *Say it isn-t so (Repeat intro)*  
   Superman don-t fly, did it all with strings  

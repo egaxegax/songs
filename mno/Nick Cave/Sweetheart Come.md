@@ -9,7 +9,7 @@ G*
   
  N.C.  
    Come over here, babe  
-                  C  
+    C  
    lt ain?t that bad  
  G  
    I don?t claim to understand  
@@ -34,24 +34,24 @@ G*
  N.C.           Am  
    Sweetheart, come  
    Sweetheart, come  
-         C  
+    C  
    Sweetheart, come  
    Sweetheart, come  
-         G  
+    G  
    Sweetheart, come  
    Sweetheart, come  
-         Am  
+    Am  
    Sweetheart, come  
    Sweetheart, come  
  (G*G*)  Am  
    Sweetheart, come  
    Sweetheart, come  
-         C  
+    C  
    Sweetheart, come  
    Sweetheart, come  
-         G  
+    G  
    Sweetheart, come  
-                    Am  
+    Am  
    Sweetheart, come    to me  
   
 The burdens that you carry now  

@@ -2,11 +2,11 @@
 G  
 Up in the mornin' and off to school  
 The teacher is teachin' the golden rule  
-                               C  
+    C  
 American hist'ry and practical math  
-                                G  
+    G  
 You're studyin' hard, hopin' to pass  
-                                       D  
+    D  
 Workin' your fingers right down to the bone  
 C7                                        G  
   And the guy behind you won't leave you alone  

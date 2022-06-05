@@ -47,7 +47,7 @@ E|-----------------------|
   
   F                            Dm  
 A heart that's full up like a landfill  
-                   Gm  
+    Gm  
 A job that slowly kills you  
   C                 F  
 Bruises that won't heal  
@@ -74,7 +74,7 @@ My final bellyache with
  Gm               C  
 No alarms and no surprises  
 No alarms and no surprises  
-                           F  
+    F  
 No alarms and no surprises please  
   
 Проигрыш: С Bm C Bm Gm Bm Gm Bm  
@@ -84,5 +84,5 @@ Such a pretty house and such a pretty garden
  Gm               C  
 No alarms and no surprises  
 No alarms and no surprises  
-                           F  
+    F  
 No alarms and no surprises please

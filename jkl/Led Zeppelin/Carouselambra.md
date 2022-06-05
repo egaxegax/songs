@@ -170,7 +170,7 @@ Take of the fruit, but guard the seed.
   
 Play D for four measures, then:  
   
-        [x04442]  
+    [x04442]  
 |:   A A   B/A~   :|   [Play this four times]  
   
 Play G for four measures, then A for four measures.  
@@ -189,5 +189,5 @@ Play D for four measures, then:
 |:   A A   B/A~   :|   [Play this three times]  
   
 Repeat until fadeout:  
-                       [x05553]  
+    [x05553]  
 |:   A A   B/A~    C/A  B/A  :|

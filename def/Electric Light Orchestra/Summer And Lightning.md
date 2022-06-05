@@ -3,19 +3,19 @@ Summer And Lightning
   
   ***D***  
   I have waited  
-           ***A***  
+    ***A***  
   For your love  
-          ***G***  
+    ***G***  
   For so long  
-         ***A***  
+    ***A***  
   How do I go on?  
-         ***D***  
+    ***D***  
   I have told you  
-          ***A***  
+    ***A***  
   So many times  
-           ***G***  
+    ***G***  
   It's no good  
-                  ***A***  
+    ***A***  
   You're treating me so wrong.  
   ***G   D/F#m Em     A***  
   Out there so far away  
@@ -23,13 +23,13 @@ Summer And Lightning
   Above the sky will say  
   ***G    A    Bb A***  
   For you...  
-                ***D    G A G D***  
+    ***D    G A G D***  
   Here it comes again  
-                ***D   G A G D***  
+    ***D   G A G D***  
   It's all around me  
-                ***D   G A G D***  
+    ***D   G A G D***  
   It must be magic  
-                ***D  G A G D***  
+    ***D  G A G D***  
   Yeah, yeah, yeah.  
   I can see you  
   In my mind  

@@ -22,13 +22,13 @@ I Wish I Cared (4:21)
   Hey - I wish I cared  
    ***D                 A***  
   Once again, on the station  
-             ***Hm       F#m***  
+    ***Hm       F#m***  
   See your face in a crowd  
-          ***D         A***  
+    ***D         A***  
   Comes again the sensation  
-            ***D~(Db)~Hm      F#m***  
+    ***D~(Db)~Hm      F#m***  
   You can't hear yourself think  
-             ***D       E          A***  
+    ***D       E          A***  
   With their voices inside your head  
   ***D-A-E       D-A-E...***  
   Hey - I wish I cared  

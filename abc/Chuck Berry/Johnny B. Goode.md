@@ -1,22 +1,22 @@
 <!--2020-09-07 08:42:42-->
 Johnny B. Goode  
   
-       ***A***  
+    ***A***  
   Deep down in Louisiana, close to New Orleans,  
   ***A***  
   Way back up in the woods among the evergreens,  
-        ***D***  
+    ***D***  
   There stood a log cabin made of earth and wood  
-        ***A***  
+    ***A***  
   Where lived a country boy named Johnny B. Goode  
       ***E***  
   Who never ever learned to read or write so well,  
-               ***A***  
+    ***A***  
   But he could play the guitar just like a ringin' a bell.  
   
   ***A***  
 CHORUS:  Go! Go! Go, Johnny, go! Go!  
-                    ***D***  
+    ***D***  
   Go, Johnny, go! Go!  
   ***A***  
   Go, Johnny, go! Go!  

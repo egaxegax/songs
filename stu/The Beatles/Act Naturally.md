@@ -1,6 +1,6 @@
 <!--2020-09-06 04:44:39-->
 Intro:  
-             D                               G  
+    D                               G  
 e|-------------------------------3----3--3---------------------|  
 B|--3---------1-----7---------7--3h5--5--5p3--3----------------|  
 G|--0--------------0--h2-----------7--h9------------------4--0-|  
@@ -19,9 +19,9 @@ They`ll make a film about a man that`s sad and lonely
 And all I gotta do is Act Naturally.  
   
 Middle:  
-        D                      G  
+    D                      G  
 Well I bet you I`m gonna be a big star  
-         D                           G  
+    D                           G  
 I might win an Oscar  You can never tell  
       D                         G  
 The movies gonna make me a big star  
@@ -35,7 +35,7 @@ I`ll play the part  But I won`t need rehearsin`
 Cos all I gotta do is Act Naturally.  
   
 Guitar Solo (play this twice):  
-             D                         G  
+    D                         G  
 e|-------------------------------------------------------------|  
 B|-------------------------------------------------------------|  
 G|-------------------------------------------------------------|  
@@ -54,7 +54,7 @@ The biggest fool that ever hit the big time
 And all I gotta do is Act Naturally.  
   
 Ending:  
-             D                          G  
+    D                          G  
 e|-------------------------------------------------------------|  
 B|-------------------------------------------------------------|  
 G|-------------------------------------------------------------|  

@@ -6,9 +6,9 @@ Aubrey
   
   ***G   G/F#           Em   Gmaj7***  
   And Aubrey was her name  
-           ***C         C/B          Am7  Am7/D***  
+    ***C         C/B          Am7  Am7/D***  
   A not so very ordi-nary girl or name  
-               ***G G/F# Em    Gmaj7      C        G***  
+    ***G G/F# Em    Gmaj7      C        G***  
   But who's to blame  for a love  that wouldn't bloom  
   ***Cmaj7                       G             Gma7***  
   For   the hearts that never played in tune  
@@ -21,9 +21,9 @@ Aubrey
   
   ***G   G/F#           Em   Gmaj7***  
   And Aubrey was her name  
-                 ***C                C/B             Am7  Am7/D***  
+    ***C                C/B             Am7  Am7/D***  
   We tripped the light and danced together to the moon  
-                ***G G/F# Em    Gmaj7   C        G***  
+    ***G G/F# Em    Gmaj7   C        G***  
   But where was June?  No it never came around  
   ***Cmaj7               G             Gma7***  
   If it did, it never made a sound  
@@ -34,16 +34,16 @@ Aubrey
   
   ***G B7                Em***  
   And God, I miss the girl  
-          ***G                              C***  
+    ***G                              C***  
   And I'd go a thousand times around the world just to be  
   ***Cm                    G***  
   Closer to her than to me  
   
   ***G   G/F#           Em   Gmaj7***  
   And Aubrey was her name  
-          ***C              C/B                Am7  Am7/D***  
+    ***C              C/B                Am7  Am7/D***  
   I never knew her but I loved her just the same  
-              ***G G/F# Em             Gmaj7 C                G***  
+    ***G G/F# Em             Gmaj7 C                G***  
   I loved her name.     Wished that I     had found a way  
   ***Cmaj7                      G             Gma7***  
   And the reasons that would make her stay  
@@ -54,7 +54,7 @@ Aubrey
   
   ***G B7                Em***  
   Oh, how I miss the girl  
-          ***G                             C***  
+    ***G                             C***  
   And I'd go a million times around the world just to say  
   ***Cm                      G***  
   She had been mine for a day.  

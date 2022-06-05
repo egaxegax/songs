@@ -1,9 +1,9 @@
 <!--2020-09-04 23:32:30-->
 Intro: A#m . . . |. . . . |Fm . . . |. . . . |  
-       A#m . . . |. . . . |Fm . . . |. . . . |  
-       A#m . . . |. . . . |Fm . . . |. . . . |  
-       D# . . . |C# . . . |C7 . . . |. . . . |  
-       Fm . . . |. . . . |  
+    A#m . . . |. . . . |Fm . . . |. . . . |  
+    A#m . . . |. . . . |Fm . . . |. . . . |  
+    D# . . . |C# . . . |C7 . . . |. . . . |  
+    Fm . . . |. . . . |  
   
       A#m                             Fm  
 They sentenced me to twenty years of boredom  
@@ -23,7 +23,7 @@ First we take Manhattan, then we take Berlin
 I'd really like to live beside you, baby  
    D#        G#             G#sus4 G#       Fm   Fsus4   Fm  
 I love your body and your spirit and your clothes  
-         G#                  G#sus4   G#         Fm    Fsus4   Fm  
+    G#                  G#sus4   G#         Fm    Fsus4   Fm  
 But you see that line there moving through the station?  
    D#          C#          C7                      Fm  
 I told you, I told you, I told you, I was one of those  
@@ -59,10 +59,10 @@ Guitarist friendly version
 Capo 1st fret  
   
 Intro: Am . . . |. . . . |Em . . . |. . . . |  
-       Am . . . |. . . . |Em . . . |. . . . |  
-       Am . . . |. . . . |Em . . . |. . . . |  
-       D . . . |C . . . |B7 . . . |. . . . |  
-       Em . . . |. . . . |  
+    Am . . . |. . . . |Em . . . |. . . . |  
+    Am . . . |. . . . |Em . . . |. . . . |  
+    D . . . |C . . . |B7 . . . |. . . . |  
+    Em . . . |. . . . |  
   
       Am                              Em  
 They sentenced me to twenty years of boredom  
@@ -79,7 +79,7 @@ First we take Manhattan, then we take Berlin
 I'd really like to live beside you, baby  
    D         G              Gsus4 G         Em   Esus4   Em  
 I love your body and your spirit and your clothes  
-         G                   Gsus4   G           Em    Esus4   Em  
+    G                   Gsus4   G           Em    Esus4   Em  
 But you see that line there moving through the station?  
    D           C          B7                      Em  
 I told you, I told you, I told you, I was one of those

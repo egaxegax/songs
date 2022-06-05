@@ -32,7 +32,7 @@ Sacrament
 (1)  I  hear you breath so far from here  
     ***Am                 C***  
   I feel your touch so close and real  
-        ***D       Em               C          G***  
+    ***D       Em               C          G***  
   And I know my church is not of silver and gold  
   ***D         Em          C           G***  
   Its glory lies beyond judgment of souls  

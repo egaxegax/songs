@@ -3,13 +3,13 @@ G                 Em
 Sha la la la la la la   (3x`s)  
 C  
 I`s not the way you smile  
-                  G  
+    G  
 that touched my heart.  
 C  
 It`s not the way you kiss  
-             G  
+    G  
 that tears apart.  
-         Em  
+    Em  
 But how many many many nights go by  
 Am                                  G             Em  
 I sit alone at home and i cry over you.What can I do?  
@@ -24,11 +24,11 @@ They say they say you never never ever been true
 Wo ho it doesn`t matter what they say  
 Am  
 I know I`m gonna love you any old way  
-           G             Em  
+    G             Em  
 What can I do then it`s true.  
 C                   D  
 Don`t want nobody nobody  
-                 G    Em         G  
+    G    Em         G  
 Cause baby it`s you.  Baby it`s you.  
   
 Solo Chords: |:Em|C|D|G|G|D|G| :||

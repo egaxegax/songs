@@ -29,7 +29,7 @@ At the end, he?s got a smile on his face
   
 But when they threw me out to the lions  
   
-           A                               E  
+    A                               E  
 E|---------0----------------------------------------0-|  
 B|---------0----------------------------------------0-|  
 G|-----2----------------------------------------------|  
@@ -49,7 +49,7 @@ E|-2----------------------------------------------------|
   
 And no one wrote me new lines of what I said wrong  
   
-           A                               E  
+    A                               E  
 E|---------0----------------------------------------0-|  
 B|---------0----------------------------------------0-|  
 G|-----2----------------------------------------------|  
@@ -59,7 +59,7 @@ E|-----------------------------------------0----------|
   
 And what I did wrong I could not erase  
   
-          F#/G                                        D  
+    F#/G                                        D  
 E|--------3-------------------------------------------2-|  
 B|--------3-----------------------------------------3---|  
 G|------------------------------------------------2-----|  
@@ -69,13 +69,13 @@ E|-2----------------------------------------------------|
   
 Chorus ?the same as the intro, with vocals.  
   
-              A                         E  
+    A                         E  
 This is real life, this is real love  
-         F#/G                     D  
+    F#/G                     D  
 This is real pain,  that much I?m sure of  
  A  E D  
 This  are real tears, this is real fear inside  
-             E  
+    E  
 That I can?t hide  
   
 |  D  |  D  | - On the link between the chorus and the verse  
@@ -83,7 +83,7 @@ here, it sounds like Richie is using a whammy bar or pedal
 the chord, but it sounds like he?s playing a ?D? chord.  
   
 Verse  
-            A                               E  
+    A                               E  
 I wish I could be your white night in armour  
   F#/G                               D  
 With an honour just to bring you back home  
@@ -98,7 +98,7 @@ D|-------------------------------------------------------------|
 A|-------------------------------------------------------------|  
 E|-------------------------------------------------------------|  
   
-            F#/G   D  
+    F#/G   D  
 Cos? someone else is gonna answer the phone  
   
 E|-3---3---3---3---3---3---3---3---2---2---2---2---2---2--2--2-|  
@@ -109,51 +109,51 @@ A|-------------------------------------------------------------|
 E|-------------------------------------------------------------|  
   A                                  E  
 Why can?t it be like it is on TV?  
-                     F#/G                           D  
+    F#/G                           D  
 When New York gets too plain and you come back to me  
   
 Chorus ?the same as the intro, with vocals.  
   
-              A                     E  
+    A                     E  
 This is real life, this is real love  
-         F#/G                     D  
+    F#/G                     D  
 This is real pain,  that much I?m sure of  
  A  E D  
 This  are real tears, this is real fear inside  
-             E  
+    E  
 That I can?t hide  
-            A                       E  
+    A                       E  
 This is real life, this is real love  
-          F#/G                         D  
+    F#/G                         D  
 These are real wounds I?m bleedin? from  
-          Bm                   E  
+    Bm                   E  
 And I realise this is real  
   
 Bridge  
 G                   Bm  
 I always thought that our love  
-             D            A  
+    D            A  
 Was a story for two  
 E                    F#/G     G  
 God knows that I?d never dream  
-            A        E  
+    A        E  
 In the end? it would stand.  
   
 Chorus ?the same as the intro, with vocals.  
   
-              A                     E  
+    A                     E  
 This is real life, this is real love  
-         F#/G                     D  
+    F#/G                     D  
 This is real pain,  that much I?m sure of  
  A  E D  
 This  are real tears, this is real fear inside  
-             E  
+    E  
 That I can?t hide  
-            A                       E  
+    A                       E  
 This is real life, this is real love  
-          F#/G                         D  
+    F#/G                         D  
 These are real wounds I?m bleedin? from  
-          Bm              E  
+    Bm              E  
 And I realise this is real  
   
 Repeat to Fade

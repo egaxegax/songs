@@ -7,15 +7,15 @@ Secret Messages (1983)
   *run in the middle of verse descends from ***B*** to ***A*** one octave down -*  
   *guitar run during chorus descends from ***D#*** to ***G#***).*  
   
-           ***E                              D       A      E***  
+    ***E                              D       A      E***  
 Verse:  Here she comes down the street and that look is in her eye  
-          ***E                D           A         B***  
+    ***E                D           A         B***  
   And the way she looks if looks could kill they might  
-          ***A         G#m    F#m         E***  
+    ***A         G#m    F#m         E***  
   All the kids down in the street run away  
-       ***B        A           G#m        F#m***  
+    ***B        A           G#m        F#m***  
   When she goes by it's the end of the day  
-       ***E               G#m          A      B      E***  
+    ***E               G#m          A      B      E***  
   So believe what they say, there's danger in the air  
   
 Verse:  Look through a window and you'll see her standing there  

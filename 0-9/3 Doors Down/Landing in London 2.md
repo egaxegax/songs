@@ -1,32 +1,32 @@
 <!--2020-09-05 09:05:03-->
 Verse 1: (Brad)  
-     ***Em         C***  
+   ***Em         C***  
 I woke up today in London  
-    ***Am             Em***  
+  ***Am             Em***  
 As the plane was touchin' down  
-     ***Em                  C***  
+   ***Em                  C***  
 All I could think about was Monday  
-   ***Am             Em***  
+ ***Am             Em***  
 And maybe I'd be back around  
   
 Pre-Chorus 1: (Brad)  
-      ***Em               C***  
+    ***Em               C***  
 If this keeps me away much longer  
-     ***D           Em***  
+   ***D           Em***  
 I don't know what I would do  
-     ***Em               C***  
+   ***Em               C***  
 You've got to understand it's a hard life  
-     ***D          Em***  
+   ***D          Em***  
 That I'm goin' through  
   
 Chorus 1: (Brad)  
-      ***Em              C***  
+    ***Em              C***  
 And when the night falls in around me  
-      ***Am            Em***  
+    ***Am            Em***  
 And I don't think I'll make it through  
-      ***Em              C***  
+    ***Em              C***  
 I'll use your light to guide the way  
-     ***D             Em***  
+   ***D             Em***  
 'Cause all I think about is you  
   
 Verse 2:  

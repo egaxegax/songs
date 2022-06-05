@@ -1,28 +1,28 @@
 <!--2020-09-04 23:33:33-->
 Intro: F . Bb . |F . Bb . |F . Bb . |F . Bb . |  (x4)  
   
-       Fm               C7  
+    Fm               C7  
 I was born in a beauty salon  
-                            Fm  
+    Fm  
 My father was a dresser of hair  
-                                Bbm  
+    Bbm  
 My mother was a girl you could call on  
-          Fm            C7       Fm  
+    Fm            C7       Fm  
 When you called she was always there  
-                                 C7  
+    C7  
 When you called she was always there  
-                                 Fm  
+    Fm  
 When you called she was always there  
-                                 Bbm  
+    Bbm  
 When you called she was always there  
-          Fm            C7       Fm  
+    Fm            C7       Fm  
 When you called she was always there  
   
-        F        Bb             F     Bb  
+    F        Bb             F     Bb  
 Ah but don't go home with your hard-on  
 F              Bb         F     Bb  
 It will only drive you insane  
-            F            Bb                 F     Bb  
+    F            Bb                 F     Bb  
 You can't shake it (or break it) with your Motown  
      F             Bb          F     Bb  
 You can't melt it down in the rain  
@@ -96,28 +96,28 @@ Capo 1st fret
   
 Intro: E . A . |E . A . |E . A . |E . A . |  (x4)  
   
-       Em               B7  
+    Em               B7  
 I was born in a beauty salon  
-                            Em  
+    Em  
 My father was a dresser of hair  
-                                Am  
+    Am  
 My mother was a girl you could call on  
-          Em            B7       Em  
+    Em            B7       Em  
 When you called she was always there  
-                                 B7  
+    B7  
 When you called she was always there  
-                                 Em  
+    Em  
 When you called she was always there  
-                                 Am  
+    Am  
 When you called she was always there  
-          Em            B7       Em  
+    Em            B7       Em  
 When you called she was always there  
   
-        E        A              E     A  
+    E        A              E     A  
 Ah but don't go home with your hard-on  
 E              A          E     A  
 It will only drive you insane  
-            E            A                   E     A  
+    E            A                   E     A  
 You can't shake it (or break it) with your Motown  
      E             A           E     A  
 You can't melt it down in the rain  

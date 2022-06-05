@@ -2,7 +2,7 @@
 The Division Bell (1994)  
   Wearing the Inside Out  
   
-       ***Cm                 Gm***  
+    ***Cm                 Gm***  
   From morning to night I stayed out of sight  
   ***Dm                     F***  
   Didn't recognize I'd become  
@@ -10,13 +10,13 @@ The Division Bell (1994)
   No more than alive I'd barely survive  
   ***Dm              F***  
   In a word...overrun  
-               ***Gm            Dm***  
+    ***Gm            Dm***  
   Won't hear a sound from my mouth  
-                 ***Gm                 Dm***  
+    ***Gm                 Dm***  
   I've spent too long on the inside out  
-             ***Gm                Dm***  
+    ***Gm                Dm***  
   My skin is cold to the human touch  
-                ***Gm                  Dm    F***  
+    ***Gm                  Dm    F***  
   This bleeding heart's not beating much  
     ***Cm                Gm***  
   I murmured a vow of silence and now  
@@ -36,23 +36,23 @@ The Division Bell (1994)
   Look at him now, he's paler somehow  
   ***Dm               F***  
   But he's coming around  
-       ***Cm                              Gm***  
+    ***Cm                              Gm***  
   He's starting to choke, it's been so long since he spoke  
   ***Dm                                       F***  
   Well he can have the words right from my mouth  
-                 ***Gm          Dm***  
+    ***Gm          Dm***  
   And with these words I can see  
-                    ***Gm                  Dm***  
+    ***Gm                  Dm***  
   Clear through the clouds that covered me  
-               ***Gm                 Dm***  
+    ***Gm                 Dm***  
   Just give it time then speak my name  
-             ***Gm              Dm***  
+    ***Gm              Dm***  
   Now we can hear ourselves again  
-              ***Gm          Dm***  
+    ***Gm          Dm***  
   I'm holding out for the day  
-                 ***Gm                Dm***  
+    ***Gm                Dm***  
   When all these clouds have blown away  
-               ***Gm                  Dm***  
+    ***Gm                  Dm***  
   I'm with you now, can speak your name  
-             ***Gm             Dm    F  Bb***  
+    ***Gm             Dm    F  Bb***  
   Now we can hear ourselves again

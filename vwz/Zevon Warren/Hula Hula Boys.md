@@ -7,15 +7,15 @@ Hula Hula Boys
   
   ***C                   G***  
   I saw ..  
-           ***D                  G***  
-          ***C                G***  
-            ***D              G***  
-          ***C            G***  
+    ***D                  G***  
+    ***C                G***  
+    ***D              G***  
+    ***C            G***  
   I could ....  
   ***D           G***  
-        ***C                  G***  
+    ***C                  G***  
   ***D                    G***  
-        ***C                  G***  
+    ***C                  G***  
   ***D                    G***  
   They're singing,  
   ***C              G***  

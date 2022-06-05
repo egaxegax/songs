@@ -16,21 +16,21 @@
   *That riff is repeated throughout the song(you'll have to listen to*  
   *the song to figure out exactly where). During the "runnin' with the pack"*  
   *part, one of the guitars plays something like this:*  
-                                        ...runnin' with the pack...  
+    ...runnin' with the pack...  
   [E-----------------------------------|  
   B----11b(full and release)---9h11p9b|  
   G-----------------------------------|  
   D-----------------------------------|  
   A-----------------------------------|  
   E-----------------------------------|]  
-                                        ...and never lookin' back...  
+    ...and never lookin' back...  
   [E-----------------------------------|  
   B----14b(hold)r-------12h14p12b-----|  
   G-----------------------------------|  
   D-----------------------------------|  
   A-----------------------------------|  
   E-----------------------------------|]  
-                                     ...knows just where he's been...  
+    ...knows just where he's been...  
   [E-----------------------------------|  
   B-----15b(full)r--------------------|  
   G-----14b(full)r------12h14p12b-----|  

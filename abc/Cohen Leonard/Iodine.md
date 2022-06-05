@@ -1,6 +1,6 @@
 <!--2020-09-04 23:29:57-->
 Intro: F . . . |F . . . |A7 . . . |A7 . . . |  
-       Dm . . . |Dm . . . |Gm . . . |C7 . . . |  
+    Dm . . . |Dm . . . |Gm . . . |C7 . . . |  
   
    F         A7                Dm  
 I needed you, I knew I was in danger  

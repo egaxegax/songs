@@ -3,15 +3,15 @@ Mr. Kingdom
   
   ***C***  
   Daylight comes to those who live  
-       ***Gm                              Bbm***  
+    ***Gm                              Bbm***  
   But those who die they never see the sun come  
-                                ***F              Am***  
+    ***F              Am***  
   Shining through their window pane they pass away.  
   ***C                             Gm***  
   Silly girl to be a fool, you didn't play the golden rule,  
   ***Bbm***  
   'Cos once you're through with one world,  
-           ***F                Am***  
+    ***F                Am***  
   There's another waiting there.  
   ***C G D***  
   *CHORUS*  

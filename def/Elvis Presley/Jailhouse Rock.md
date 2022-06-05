@@ -8,13 +8,13 @@ Jailhouse Rock
   band was jumpin' and the joint began to swing  
   should've heard thosed kocked out jail birds sing  
   
-       ***A7***  
+    ***A7***  
 Chorus:  Lets Rock!  
-       ***E***  
+    ***E***  
   Lets Rock!  
-       ***B7                     A7***  
+    ***B7                     A7***  
   Everybody in the whole cell block  
-        ***E              A7         E***  
+    ***E              A7         E***  
   Was a-dancin' to the Jail-house Rock!  
   
   ***Eb/ E/                                       Eb/ E/***  

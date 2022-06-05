@@ -4,7 +4,7 @@ Downtown
   *This song is very simple. I noticed that someone else had already put down*  
   *the chords, although they were wrong because he plays them in power*  
   *chords. As follows:*  
-        ***E  D  A***  
+    ***E  D  A***  
   [e--------------------------------  
   b--------------------------------  
   g-----9--7-----------------------  

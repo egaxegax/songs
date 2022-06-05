@@ -2,7 +2,7 @@
 'gepetto - ep'  
   Hot Burrito #1  
   
-       ***F   Fmaj7  F7  D   Bb  C  Dmaj9  Dm  Eb  Fm6  G  Gm***  
+    ***F   Fmaj7  F7  D   Bb  C  Dmaj9  Dm  Eb  Fm6  G  Gm***  
   [e----1----0-----1---2---1---0---0-----1---6----1---3--3-----  
   b----1----1-----4---3---2---1---2-----3---8----3---3--3-----  
   g----2----2-----2---2---2---0---2-----2---8----0---4--3-----  
@@ -31,7 +31,7 @@
   but that won't keep you warm at night  
   ***Bb***  
   cause i'm the one who showed you how  
-                          ***C***  
+    ***C***  
   to do the things you're   doing now  
   ***F           Fmaj7***  
   he may feel       all your charms  
@@ -43,17 +43,17 @@
   i was right beside you then  
   ***Bb          Fm6***  
   once upon a time  
-             ***C                Dm***  
+    ***C                Dm***  
   you let me feel you deep inside  
       ***G           Gm***  
   but nobody knew,   nobody saw  
-                      ***C***  
+    ***C***  
   do you remember the way we cried?  
   ***F            Fmaj7***  
   i'm your toy,      i'm your old boy  
   ***F7               D                   Bb***  
   but i don't want no one but you to love me  
-        ***C***  
+    ***C***  
   no, i wouldn't lie  
   ***Bb                 C***  
   you know i'm not that kind of guy  
@@ -84,17 +84,17 @@
   
   ***Bb          Fm6***  
   once upon a time  
-             ***C                Dm***  
+    ***C                Dm***  
   you let me feel you deep inside  
       ***G           Gm***  
   but nobody knew,   nobody saw  
-                      ***C***  
+    ***C***  
   do you remember the way we cried?  
   ***F            Fmaj7***  
   i'm your toy,      i'm your old toy  
   ***F7               D                   Bb***  
   but i don't want no one but you to love me  
-        ***C***  
+    ***C***  
   no, i wouldn't lie  
   ***Bb                 C***  
   you know i'm not that kind of guy  

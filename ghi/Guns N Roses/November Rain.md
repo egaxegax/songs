@@ -298,7 +298,7 @@ Intro:  ***E   Abm/Eb   C#m   B***
   *In order to play this song you must drop all strings a 1/2 step.*  
   *Also listen to the song to find where to enter.*  
   *Most are whole notes but there are a few half notes stuck in*  
-       *again listen to the album*  
+    *again listen to the album*  
   *E=Eb   B=Bb  G=Gb  D=Db  A=Ab  E=Eb*  
   *_______________________________________________*  
   
@@ -307,20 +307,20 @@ Intro:  ***E   Abm/Eb   C#m   B***
   ***N.C.                                                                       C***  
   When I look into your eyes I can see the love restrained  
   ***N.C.***  
-                                                                          ***C***  
+    ***C***  
   But darlin' when I hold you don't you know I feel the same  
   ***Dm                         G***  
-                                                      ***C***  
-        Nothin' lasts forever and we both know hearts can change  
+    ***C***  
+    Nothin' lasts forever and we both know hearts can change  
   ***Dm                                      G***  
-                                           ***C***  
-        And it's hard to hold a candle in the cold November rain  
+    ***C***  
+    And it's hard to hold a candle in the cold November rain  
   ***F                                                          Dm***  
   
-        We've been through this such a long long time just tryin' to kill  
-            ***C***  
+    We've been through this such a long long time just tryin' to kill  
+    ***C***  
   the pain  
-        ***F***  
+    ***F***  
   But lovers always come and lovers always go an  
   ***Dm                                                      C***  
   no one's really sure who's lettin' go today  
@@ -329,52 +329,52 @@ Intro:  ***E   Abm/Eb   C#m   B***
   ***Dm                                                                  C***  
   rest my head just knowin' that you were the mine  
   ***Dm                                    G                                    C***  
-         So if you want to love me then darlin' don't refrain  
+    So if you want to love me then darlin' don't refrain  
   ***Dm                                     G***  
-                                       ***C***  
-         Or I'll just end up walking in the cold November rain  
-                      ***F                                 G***  
+    ***C***  
+    Or I'll just end up walking in the cold November rain  
+    ***F                                 G***  
   Do you need some time on your own  
-                      ***F                         G***  
+    ***F                         G***  
   Do you need some time all alone  
-                           ***F                                         G***  
+    ***F                                         G***  
   Ooh everybody needs some time on their own  
-                                          ***F                                G***  
+    ***F                                G***  
   Ooh, don't you know you need some time all alone  
   ***Em                           F                                C***  
-           I know it's hard to keep an open heart  
+    I know it's hard to keep an open heart  
   ***Em                             F                            D***  
-           When even friends seem out to harm you  
+    When even friends seem out to harm you  
   ***Em                   F                      C***  
-           But if you could heal a broken heart  
+    But if you could heal a broken heart  
   ***Em                       F                              G***  
-           Wouldn't time be out to charm you  
+    Wouldn't time be out to charm you  
   ***F               Dm           C                F                Dm***  
   Guitar Solo I  
   ***C               Dm           G                C                Dm***  
   ***G                C                         F***  
-                                       ***G***  
-                             Sometimes I need some time  on my own  
-                       ***F                                 G***  
+    ***G***  
+    Sometimes I need some time  on my own  
+    ***F                                 G***  
   Some times I need some time all alone  
-                            ***F                                        G***  
+    ***F                                        G***  
   Ooh everybody needs some time on their own  
-                                         ***F                                G***  
+    ***F                                G***  
   Ooh don't you know you need some time all alone  
   ***F                Dm                      C                       } repeat 2x***  
   Guitar Solo II  
   ***F                                                 Dm***  
-                                 ***C***  
-           And when your fears subside and shadows still remain  
+    ***C***  
+    And when your fears subside and shadows still remain  
   ***F                                      Dm***  
-                                                    ***C***  
-           I know that you can love me when there's no one left to blame  
+    ***C***  
+    I know that you can love me when there's no one left to blame  
   ***Dm                                       G***  
-                                     ***C***  
-           So never mind the darkness we still can find a way  
+    ***C***  
+    So never mind the darkness we still can find a way  
   ***Dm                              G                                        C***  
-          ***G/B***  
-           Nothin' lasts forever even cold November rain  
+    ***G/B***  
+    Nothin' lasts forever even cold November rain  
   ***Am     G       F         G          C    G/B     Am    G       F     G      C***  
   ***C5*                           C5                                C5***  
   **w/dist.*  

@@ -22,10 +22,10 @@ Intro:  | ***E5add2*** | ***Bm*** | ***C2*** | ***C2***|
   Been so dull, tired and tight.  
   ***A5            Em                D5     D2***  
   Time to trust these old tires.  
-       ***A5       Em7               D2***  
+    ***A5       Em7               D2***  
   Time    to not say goodnight.  
   ***G2                          C***  
-        Jesus rides with me.  
+    Jesus rides with me.  
      ***G2                       C***  
   His will is plain to feel.  
       ***G2           Cadd9***  
@@ -43,7 +43,7 @@ Intro:  | ***E5add2*** | ***Bm*** | ***C2*** | ***C2***|
   When you can't trust yourself,  
   baby, trust someone else.  
   ***G2                          C***  
-        Jesus rides with me.  
+    Jesus rides with me.  
      ***G2                       C***  
   His will is plain to feel.  
       ***G2           Cadd9***  

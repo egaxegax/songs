@@ -18,16 +18,16 @@ Chords:  ***F***  [xx33211]  ***Bb*** [x13331]
   
   *INTRO*  
   ***F C Dm  Bb      F C Dm***  
-        Life is a paradise  
+    Life is a paradise  
   ***Bb   F***  
   Woah oh, woah oh yeah!  
-        ***C        Dm      Bb       F       C***  
+    ***C        Dm      Bb       F       C***  
   Lucky love belongs in teenage heaven I know, I know  
-       ***Dm      Bb   F***  
+    ***Dm      Bb   F***  
   'Cause I've been there with you tonight  
-        ***C        Dm      Bb       F       C***  
+    ***C        Dm      Bb       F       C***  
   Lucky love belongs in teenage heaven I know, I know  
-       ***Dm      A   G***  
+    ***Dm      A   G***  
   'Cause I've been there with you tonight  
   
   *BRIDGE*  
@@ -41,11 +41,11 @@ Chords:  ***F***  [xx33211]  ***Bb*** [x13331]
   *CHORUS*  
   ***F     C        Dm      Bb       F       C***  
   Lucky love belongs in teenage heaven I know, I know  
-       ***Dm      Bb   F***  
+    ***Dm      Bb   F***  
   'Cause I've been there with you tonight  
-        ***C        Dm      Bb       F       C***  
+    ***C        Dm      Bb       F       C***  
   Lucky love belongs in teenage heaven I know, I know  
-        ***Dm   A      G***  
+    ***Dm   A      G***  
   I'm a prisoner of hope I know  
   
   *BRIDGE*  
@@ -53,22 +53,22 @@ Chords:  ***F***  [xx33211]  ***Bb*** [x13331]
   We are young and we are old we're fallen like leaves  
   ***G       A                F***  
   And your heart's so full of soul it makes me believe  
-       ***C      F***  
+    ***C      F***  
   Once again, it's something for you  
   
   *CHORUS*  
   ***F     C        Dm      Bb       F       C***  
   Lucky love belongs in teenage heaven I know, I know  
-       ***Dm      Bb   F***  
+    ***Dm      Bb   F***  
   'Cause I've been there with you tonight  
-        ***C        Dm      Bb       F       C***  
+    ***C        Dm      Bb       F       C***  
   Lucky love belongs in teenage heaven I know, I know  
-       ***Dm      A***  
+    ***Dm      A***  
   'Cause I've been there with you tonight  
   
   *RIFF*  
   *1:41-1:50*  
-             ***Dm***  
+    ***Dm***  
   [e-|-----5--------5---|-----5-------5---|-----3---------3----1-|  
   B-|---6---6----6---6-|---6---6---6---6-|---6---6-----6---6--3-|  
   G-|-7--------6-------|-5-------4-------|-3-------3-3--------2-|  
@@ -76,41 +76,41 @@ Chords:  ***F***  [xx33211]  ***Bb*** [x13331]
   A-|------------------|-----------------|--------------------x-|  
   E-|------------------|-----------------|--------------------x-|]  
   *1:51-2:00                                                 (I'm not to sure*  
-                                                             *about this part?)*  
+    *about this part?)*  
   [e-|-----5--------5---|-----5-------5---|-----3---------3------|--1-3-1-5-|  
   B-|---6---6----6---6-|---6---6---6---6-|---6---6-----6---6----|----------|  
   G-|-7--------6-------|-5-------4-------|-3-------3-3-------3--|-2--------|  
   D-|------------------|-----------------|----------------------|----------|  
   A-|------------------|-----------------|----------------------|----------|  
   E-|------------------|-----------------|----------------------|----------|]  
-             *The bridge over time was what she need to see the light, to see*  
-             *the light*  
+    *The bridge over time was what she need to see the light, to see*  
+    *the light*  
   
   Whoo yeah!  
   ***F     C     Dm    Bb    F     C               Dm      Bb***  
   Lucky love, Lucky love, Lucky love belongs in teenage heaven  
   ***F     C     Dm    Bb    F     C               Dm      Bb***  
   Lucky love, Lucky love, Lucky love belongs in teenage heaven  
-                   ***F***  
+    ***F***  
   woah oh, woah oh yeah!  
   
   *CHORUS*  
   ***F     C        Dm      Bb       F       C***  
   Lucky love belongs in teenage heaven I know, I know  
-       ***Dm      Bb   F***  
+    ***Dm      Bb   F***  
   'Cause I've been there with you tonight  
-        ***C        Dm      Bb       F       C***  
+    ***C        Dm      Bb       F       C***  
   Lucky love belongs in teenage heaven I know, I know  
-        ***Dm   A      G***  
+    ***Dm   A      G***  
   I'm a prisoner of hope I know  
   
   *OUTRO*  
   *2:39-END*  
-             ***Dm***  
+    ***Dm***  
   [e-|-----5--------5---|-----5-------5---|-----3---------3----1-|  
   B-|---6---6----6---6-|---6---6---6---6-|---6---6-----6---6--3-|  
   G-|-7--------6-------|-5-------4-------|-3-------3-3--------2-|  
   D-|------------------|-----------------|--------------------0-|  
   A-|------------------|-----------------|--------------------x-|  
   E-|------------------|-----------------|--------------------x-|]  
-                                                     *Song ends on ***Dm****
+    *Song ends on ***Dm****

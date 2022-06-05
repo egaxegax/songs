@@ -6,15 +6,15 @@ Brass Buttons is a Gram Parsons song covered by Evan on "L
   
 intro:  ***Em             A                        D Dadd4     D***  
   
-           ***Em                  Asus2                       D     Dadd4    D***  
+    ***Em                  Asus2                       D     Dadd4    D***  
   brass buttons green silks and silver shoes  
-           ***Em                  Asus2                         D   Dadd4    D***  
+    ***Em                  Asus2                         D   Dadd4    D***  
   warm evenings pale mornings bottled blues  
-         ***D***  
+    ***D***  
   and the tiny golden pins,  
-               ***G***  
+    ***G***  
   that she wore up in her hair  
-           ***Em                  Asus2                D    Dadd4      D***  
+    ***Em                  Asus2                D    Dadd4      D***  
   brass buttons green silks and silver shoes........  
   
   *repeat for 2nd and 3rd verses using the same chords*  

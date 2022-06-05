@@ -12,7 +12,7 @@ Love Somebody
   Your shadow on the pavement, the dark side of the sun  
   ***Em                                  Em7***  
   Got a dream the dream all over and sleep it tight  
-                   ***C                G         D***  
+    ***C                G         D***  
   You don't wanna sing the blues in black and white  
   ***Dm*                                    D***  
   And it's hope that springs eternal for everyone  
@@ -28,7 +28,7 @@ Love Somebody
   There's just no pleasing me  
   ***Em                F#m****  
   Try and love somebody  
-                       ***Gm#  Am***  
+    ***Gm#  Am***  
   Just wanna love somebody right now  
   ***Hm7-H                Em***  
   Lady lay your love on me  

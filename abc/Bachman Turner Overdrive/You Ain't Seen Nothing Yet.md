@@ -9,7 +9,7 @@ You Ain't Seen Nothing Yet
   *one.*  
   
   *INTRO: Play ***A***-***G***-***D*** (2X),Theres a little solo in there too!*  
-       ***A           G      D***  
+    ***A           G      D***  
   [E----9-----------7------5---  
   B---10-----------8------7---  
   G----9-----------7------7---  
@@ -22,9 +22,9 @@ You Ain't Seen Nothing Yet
   She took my heart away  
       ***A                           G  D***  
   She said I had it coming to me  
-         ***A                  G  D***  
+    ***A                  G  D***  
   But I wanted it that way  
-              ***D                      F  G***  
+    ***D                      F  G***  
   I think that any love is good love  
       ***D           F      G***  
   [E---5-----------8-----10--  
@@ -33,11 +33,11 @@ You Ain't Seen Nothing Yet
   D---7----------10-----12--  
   A---5-----------8-----10--  
   E-------------------------]  
-       ***A                 C#m  F#m***  
+    ***A                 C#m  F#m***  
   So I took what I could get ooh..ooh  
-       ***Bm7                         D9***  
+    ***Bm7                         D9***  
   She looked at me with big brown eyes and said...  
-       ***A      C#m    F#m                  Bm7       D9***  
+    ***A      C#m    F#m                  Bm7       D9***  
   [E----9-------9------9----9---------------7--------14-----    -10-  
   B---10-------9-----10----9-&gt;-10----------7--------15-----    --7-]  
   *[G----9-------9-----11----9-&gt;-11----------7--------14-----] or [--9-]*  
@@ -54,22 +54,22 @@ You Ain't Seen Nothing Yet
   [D---2-------2----o-----    D---7-------6----7-----  
   A---o-------2----------    A---7-------7----5-----  
   E-----------o----------    E---5------------------]  
-                    ***A                       E  D***  
+    ***A                       E  D***  
   B-B-Baby you just ain't seen nothin' yet  
-                         ***A                    E  D***  
+    ***A                    E  D***  
   Here's something you're never gonna forget  
-                    ****A                          E  D***  (***C#m B A***) I think! (?)*  
+    ****A                          E  D***  (***C#m B A***) I think! (?)*  
   B-B-Baby you just ain't seen n-n-nothin' yet (you ain't been around)  
       ***A                      G  D***  
   And now I'm feelin' better  
   'Cause I found out for sure  
   She took me to her doctor  
   And he told me of a cure  
-              ***D                      F  G***  
+    ***D                      F  G***  
   He said that any love is good love  
-        ***A                 C#m        F#m***  
+    ***A                 C#m        F#m***  
   So I took what I could get, yes I took what I could get  
-                ***Bm7                         D9***  
+    ***Bm7                         D9***  
   And then she looked at me with big brown eyes..said  
   *REPEAT REFRAIN, add SOLO*  
   ***D                                F G***  

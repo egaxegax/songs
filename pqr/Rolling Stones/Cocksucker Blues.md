@@ -1,16 +1,16 @@
 <!--2020-09-06 08:31:18-->
 Cocksucker Blues  
   
-                  ***Bbm***  
+    ***Bbm***  
   Well, I'm a lonesome schoolboy and I just came into town  
-                   ***Ebm                                    Bbm***  
+    ***Ebm                                    Bbm***  
   Yeah, I'm a lonesome schoolboy and I just came into town  
-          ***F7                        Ebm                       Bbm***  
+    ***F7                        Ebm                       Bbm***  
   Well, I heard so much about London I decided to check it out  
   
-          ***Bbm***  
+    ***Bbm***  
   Well, I wait in Leicester Square where the guy never looks in my eye  
-            ***Ebm                                                   Bbm***  
+    ***Ebm                                                   Bbm***  
   Yeah, I'm leaning on Nelsons Column but all I do is talk to the lime  
   
      ***F7***  

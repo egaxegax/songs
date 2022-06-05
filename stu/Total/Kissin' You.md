@@ -36,15 +36,15 @@ Intro:  ***Am   G   D*** } 2x
   I'm trying to figure out a way  
   ***Am              G                  D***  
   To leave 'em behind just to get back to you  
-         ***Am          G              D***  
+    ***Am          G              D***  
   Oh, you're my best kept secret  
   ***D***  
   And that's the way I like it  
   ***Am                         G***  
   You're my pride and joy boy  
-                        ***D***  
+    ***D***  
   That's why I'm dreaming of you  
-                ***Am***  
+    ***Am***  
   I wanna kiss you  
   ***Am      G        D***  
   Kissin' you is all that I been thinking of  
@@ -63,7 +63,7 @@ Intro:  ***Am   G   D*** } 2x
   People ask me how I feel about you  
   ***D                    Am           G***  
   They ask me if I love you (yeah)  
-          ***D                     D             Am***  
+    ***D                     D             Am***  
   Am I crazy for you (yeah yeah yeah)  
   ***Am      G        D***  
   Kissin' you is all that I been thinking of  
@@ -82,7 +82,7 @@ Intro:  ***Am   G   D*** } 2x
   People ask me how I feel about you  
   ***D                    Am           G***  
   They ask me if I love you (yeah)  
-          ***D                     D              Am***  
+    ***D                     D              Am***  
   Am I crazy for you (yeah yeah yeah)  
    ***G                 D***  
   Yeah, yeah, yeah  
@@ -104,7 +104,7 @@ Intro:  ***Am   G   D*** } 2x
   Kissin' you is all that I been thinking of  
    ***Am      G        D***  
   Kissin' you is good  
-             ***Am                      G                           D***  
+    ***Am                      G                           D***  
   I been thinking 'bout you, dreaming 'bout you, thinking about, you  
   yeah, yeah  
   ***Am      G        D***  
@@ -112,5 +112,5 @@ Intro:  ***Am   G   D*** } 2x
    ***Am      G        D***  
   Kissin' you is good  
   Oh kissing you is so good  
-             ***Am      G                 D***  
+    ***Am      G                 D***  
   Got to have it, have your love that's all I'm thinking of

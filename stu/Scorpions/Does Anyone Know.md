@@ -7,7 +7,7 @@
    Vocal:  
   F                        Dm  
    Is this world out of control  
-       Am            G  
+    Am            G  
    Say what is right what is wrong  
   F                        Dm  
    Do I know this world at all  
@@ -19,15 +19,15 @@
    Vocal:  
   E                       Am  
    I?m confused by what I see  
-                 Dm  
+    Dm  
    I try to understand  
-          C                 G  
+    C                 G  
    But it makes no sense at all  
   E                       Am  
    I?m confused by what I feel  
-                      Dm  
+    Dm  
    I thought that our love  
-       C                 G  
+    C                 G  
    Was something that is real  
   
 4) Chorus  
@@ -37,16 +37,16 @@
    Does anyone...  
   C     Em       Am  
    kno-o-o-o-o-o-ow  
-       Am7                 Dm  
+    Am7                 Dm  
    The truth we?re looking for  
-         Dm7        G  
+    Dm7        G  
    Can?t find it anymore  
    Does anyone...  
   C     Em       Am  
    kno-o-o-o-o-o-ow  
-                  Dm  
+    Dm  
    How to make me feel  
-       Dm7               G  
+    Dm7               G  
    For something that is real  
   
 5) 2nd Verse  
@@ -55,7 +55,7 @@
    Vocal:  
   F                        Dm  
    So many things that I recall  
-        Am                 G  
+    Am                 G  
    When we were young just flying high  
   F                        Dm  
    Can we turn our fate at all  
@@ -67,15 +67,15 @@
    Vocal:  
   E                       Am  
    I?m confused by what I hear  
-                    Dm  
+    Dm  
    Girl it seems to me  
-         C            G  
+    C            G  
    We?re losing after all  
   E                       Am  
    I?m confused by what I feel  
-                      Dm  
+    Dm  
    I thought that our love  
-       C                 G  
+    C                 G  
    Was something that is real  
   
 7) plays order 4  
@@ -89,7 +89,7 @@
    Life goes on there?s no return  
   Dm              Am  
    How can I trust anyone  
-        F                       G  
+    F                       G  
    When honesty is such a dirty word  
   
 9) Solo  
@@ -104,16 +104,16 @@
    Does anyone...                  |  
   C     Em       Am                |  
    kno-o-o-o-o-o-ow                |  
-       Am7                 Dm      |  
+    Am7                 Dm      |  
    The truth we?re looking for     |  
-         Dm7        G              |  
+    Dm7        G              |  
    Can?t find it anymore           | 2 times  
    Does anyone...                  |  
   C     Em       Am                |  
    kno-o-o-o-o-o-ow                |  
-                  Dm               |  
+    Dm               |  
    How to make me feel             |  
-       Dm7               G         |  
+    Dm7               G         |  
    For something that is real      |  
   
 11) Outro  
@@ -191,7 +191,7 @@ Rhythm figures:
   E:-----------------------------------------------------------------  
   
 5.  
-                                             F               Dm  
+    F               Dm  
   e:-----------------------------------------------8-----------------  
   b:-------------------------------5-------5-6/----------------------  
   G:-4-------4-5-----4-5-7---4-5-7-----5-7-------------97-5/7-------  
@@ -199,7 +199,7 @@ Rhythm figures:
   A:-----------------------------------------------------------------  
   E:-----------------------------------------------------------------  
   
-            Am              G               F               Dm  
+    Am              G               F               Dm  
   e:----------------------------------5-7-8------5------------------  
   b:-----5----------------------------------8/----------5/6-----6/10  
   G:------54----4----------------3/5-----------------------7-------  
@@ -207,7 +207,7 @@ Rhythm figures:
   A:--------------------3-3/5---------------------------------------  
   E:----------------------------------------------------------------  
   
-            Am                           G                             E  
+    Am                           G                             E  
   e:--10-15-12----10/12---15---1210--8/10----10---12---10-------------12-10-  
   b:------------------------------------------------------13-12---9-12-------  
   G:------------------------------------------------------------9------------  
@@ -215,7 +215,7 @@ Rhythm figures:
   A:-------------------------------------------------------------------------  
   E:-------------------------------------------------------------------------  
   
-              Am                   Dm            C               G  
+    Am                   Dm            C               G  
   e:--17-12/8-10---8----8-------12-------------------------------------------  
   b:-----------------12---10-------8-10---10-8-7-----------------------------  
   G:---------------------------------------------9---5-7---7-5-4-7-----------  

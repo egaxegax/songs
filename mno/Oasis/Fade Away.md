@@ -6,7 +6,7 @@ The Masterplan (1998)
   *much, much better the way Noel plays it live and acoustic!)*  
   
   *Chords used:*  
-        [EADGBe]  
+    [EADGBe]  
   ***A     [x02220]***  
   *C#m   [x46654] (NOTE: Noel plays this as an ***Amaj7*** [x02120] acoustic live)*  
   ***Asus2 [x02200]***  
@@ -23,7 +23,7 @@ Verse 1: When I was young I thought I had my own key
   I knew exactly what I wanted to be  
   ***Dsus2     A***  
   Now   I'm sure  
-                    ***B7    Dsus2***  
+    ***B7    Dsus2***  
   You've boarded up every door  
   
   ***A***  
@@ -32,43 +32,43 @@ Verse 2: Lived in a bubble days were never ending
   Was not concerned about what life was sending  
   ***Dsus2       A***  
   Fantasy was real  
-             ***B7                   Dsus2***  
+    ***B7                   Dsus2***  
   Now I know much about the way I feel  
   
   ***B7                 Dsus2***  
 Pre-chorus: I'll paint you the picture  
-                         ***B7                 Dsus2***  
+    ***B7                 Dsus2***  
   'Cos I don't think you live round here no more  
-                  ***B7                  Dsus2***  
+    ***B7                  Dsus2***  
   I've never even seen the key to the door  
-                   ***B7             Dsus2***  
+    ***B7             Dsus2***  
   We only get what we will settle for  
   
   ***A           E***  
 Chorus:  While we're living  
       ***G                D***  
   The dreams we had as children  
-        ***A***  
+    ***A***  
   Fade away  
-              ***E***  
+    ***E***  
   While we're living  
       ***G                D***  
   the dreams we had as children  
-        ***A***  
+    ***A***  
   fade away  
-              ***E***  
+    ***E***  
   While we're living  
       ***G                D***  
   the dreams we had as children  
-       ***A***  
+    ***A***  
   fade away  
-              ***E***  
+    ***E***  
   While we're living  
       ***G                D***  
   the dreams we had as children  
-       ***Fmaj7    Dsus2    A    Asus2 A***  
+    ***Fmaj7    Dsus2    A    Asus2 A***  
   fade away,    away,    away  
-            ***Fmaj7    Dsus2    A    Asus2 A***  
+    ***Fmaj7    Dsus2    A    Asus2 A***  
   they fade away,    away,    away  
   
 Verse 3: Now my life has turned another corner  

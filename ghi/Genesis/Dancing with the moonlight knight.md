@@ -5,11 +5,11 @@ Dancing with the moonlight knight
   Said the unifaun to his true love's eyes  
       ***Dm                     Am***  
   It lies with me cried the queen of maybe  
-        ***Dm             Bb             Dm     Am  Bb***  
+    ***Dm             Bb             Dm     Am  Bb***  
   For her merchandise he traded in his prize  
-         ***C                           F***  
+    ***C                           F***  
   Paper late - cried a voice in the crowd      old man dies  
-       ***C                                  Dm                      C***  
+    ***C                                  Dm                      C***  
   The note he left was signed old father thames it seems he's drowned  
   ***Dm         Bb     Gm          Dm    Dm  Am  Bb7  Dm***  
   Selling England   by    the pound  
@@ -17,7 +17,7 @@ Dancing with the moonlight knight
   Citizens of hope and glory time goes by it's the time of your life  
   ***F                                            C***  
   Easy now sit you down   chewing through you wimpey dreams  
-        ***Dm             C        Dm        Bb      C       Dm***  
+    ***Dm             C        Dm        Bb      C       Dm***  
   they eat without a sound     disgesting England by the pound  
   ***Dm Am Bb Dm } x3***  
   ***Dm                  Am           Bb       Dm      Am   Bb  Dm***  

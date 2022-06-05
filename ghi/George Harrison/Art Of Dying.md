@@ -3,13 +3,13 @@ All things must pass (1970)
   Art Of Dying  
   
   *INTRO*  
-           ***Em7             Em6              C/G***  
+    ***Em7             Em6              C/G***  
   They'll come a time when all of us must leave here  
-           ***B            B7         Em***  
+    ***B            B7         Em***  
   Then nothing Sister Mary can do can keep me here with you  
-           ***Em7             Em6                C/G***  
+    ***Em7             Em6                C/G***  
   There's nothing in this life that I've been trying  
-        ***B          B7              Em***  
+    ***B          B7              Em***  
   Can equal or surpass the art of dying  
   ***B                    Em***  
   Do do do do, do you believe me?  

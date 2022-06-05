@@ -19,7 +19,7 @@ Chords:  [E--0----0----2-----2---
   *(all these chords are strummed 3x)   ***A  F#m   A  D   A  E****  
   *(these are each strummed once)       ***A D A E****  
   
-       ***A                  F#m***  
+    ***A                  F#m***  
   The police walked in for Jimmy Jazz  
      ***A                      D***  
   I said, he ain't here, but he sure went past  
@@ -47,13 +47,13 @@ Chords:  [E--0----0----2-----2---
   J-a-zee zee J-a-zed zed  
   ***A        E          A   D  A  E***  
   J-a-zed zed Jimmy Jazz  
-              ***A***  
+    ***A***  
   And then it sucks, he said, suck that  
   ***A         F#m          A***  
   So go look all around, you can try your luck, brother  
   ***D***  
   And see what you found  
-        ***A            E              A        D    A***  
+    ***A            E              A        D    A***  
   But I guarantee you it ain't your day your day, it ain't  
   ***E***  
   your day.  

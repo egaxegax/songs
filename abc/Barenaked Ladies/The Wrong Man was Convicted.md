@@ -27,24 +27,24 @@ CHORUS:  The wrong man was convicted.
   You know, I did the deed.  
      ***C                               G***  
   I thought that you would wait for me.  
-           ***Am7                D***  
+    ***Am7                D***  
   Your wants I needn't heed.  
-                   ***G                C***  
+    ***G                C***  
   The wrong man lies beside you  
-         ***Em7                 C***  
+    ***Em7                 C***  
   and waits for you to wake.  
-              ***D                            C  G***  
+    ***D                            C  G***  
   And all because I lacked conviction  
-       ***Am7            D   Em***  
+    ***Am7            D   Em***  
   the judgment's my mistake.  
   
   ***Em                       C G***  
   Who's breathless now?  
-          ***D             C    G***  
+    ***D             C    G***  
   Who only hyperventilates?  
   ***Em                C  G***  
   Who'd die for you?  
-             ***D                C   G***  
+    ***D                C   G***  
   Who's dying inside anyway?  
   ***D                          Em7***  
   Which one of us is sunshine and  
@@ -59,7 +59,7 @@ CHORUS:  The wrong man was convicted.
   
   ***Dm               F***  
   Who's lonely now?  
-            ***bflat        C***  
+    ***bflat        C***  
   Who's reaching out for no one?  
   ***Cadd9           Gm***  
   Who's lonely now?  
@@ -68,11 +68,11 @@ CHORUS:  The wrong man was convicted.
   
   ***Em                C  G***  
   I changed my mind;  
-         ***D                      C           G***  
+    ***D                      C           G***  
   You said that I could change it back.  
   ***Em               C  G***  
   I wanted space,  
-                ***D                        C               G***  
+    ***D                        C               G***  
   and now change has fallen through the cracks.  
   ***D               Em7***  
   If I'm again beside your body,  

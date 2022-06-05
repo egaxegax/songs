@@ -85,7 +85,7 @@ Stirb nicht vor mich
   Dort liegen sie zu zweit  
   Und ich  
   
-                         ***Gm***  
+    ***Gm***  
   Ich warte nur auf dich  
       ***F#m***  
   Ich warte hier  
@@ -156,7 +156,7 @@ Stirb nicht vor mich
   Stirb nicht vor mir  
   ***Am***  
   I don`t know who you are  
-                  ***C***  
+    ***C***  
   I know that you exists  
   ***E***  
   Stirb nicht  

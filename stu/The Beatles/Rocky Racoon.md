@@ -1,7 +1,7 @@
 <!--2020-09-06 04:22:18-->
 Am7                                         D7  
 Now somewhere in the Black Mountain hills of Dakota  
-                                       G7  
+    G7  
 there lived a young boy named Rocky Raccoon  
 And one day his woman ran off with another guy  
  C  
@@ -10,9 +10,9 @@ Hit young Rocky in the eye
 Rocky didn`t like that,  
  Am7                           D7  
 he said I`m gonna get that boy  
-       G7  
+    G7  
 So one day he walked into town  
-                      C              C/B  
+    C              C/B  
 and booked himself a room in a local saloon  
   
  Am7                    D7  

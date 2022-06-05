@@ -15,7 +15,7 @@ Life in Vain
   I used to life my life in vain  
     ***B7sus4***  
   Until today its been the same  
-       ***Cadd9***  
+    ***Cadd9***  
   I've gone away to disappear  
      ***G***  
   My life with you was just to near  
@@ -39,7 +39,7 @@ Life in Vain
   I used to life my life in vain  
     ***B7sus4***  
   Until today its been the same  
-       ***Cadd9***  
+    ***Cadd9***  
   I've gone away to disappear  
      ***G***  
   My life with you was just to near  

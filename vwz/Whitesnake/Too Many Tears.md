@@ -19,7 +19,7 @@ F               C           
 Some things are better left unsaid,  
 F               C           G  
 But, all I do is cry instead,  
-           Am  
+    Am  
 Now, IвЂ™ve cried me a river,  
 F                        G  
 Thinking how it used to be...  

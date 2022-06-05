@@ -24,7 +24,7 @@ A             E
   
       B                     E  
  To where the winds don`t blow  
-       B               B  
+    B               B  
  And northern rivers flow  
   F#7      B      E7  
  This way will I go.  

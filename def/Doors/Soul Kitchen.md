@@ -3,7 +3,7 @@ Soul Kitchen
   
 Intro:  ***A | D | A | D | A | D7 | A | D***  
   
-            ***Am              D7      A     D7  A   D7 A D7***  
+    ***Am              D7      A     D7  A   D7 A D7***  
   Well, the clock says it's time to close     now  
   I guess I'd better go now  
   I'd really like to stay here all night  
@@ -13,16 +13,16 @@ Intro:  ***A | D | A | D | A | D7 | A | D***
   Still one place to go  
   Still one place to go  
   
-         ***Em        D7       Em        D7       Em***  
+    ***Em        D7       Em        D7       Em***  
   Let me sleep all night in your soul kitchen  
-           ***D7       Em          D7      Em***  
+    ***D7       Em          D7      Em***  
   Warm my mind near your gentle stove  
-          ***D7           Em     D***  
+    ***D7           Em     D***  
   Turn me out and I'll wander baby  
   ***E7***  
   Stumblin' in the neon groves  
   
-        ***A                  D6    A   D6***  
+    ***A                  D6    A   D6***  
   Well, your fingers weave quick minarets  
   ***A        D6     A    D6***  
   Speak in secret alphabets  

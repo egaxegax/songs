@@ -95,20 +95,20 @@ riff 10: e-|-------------------------------------------|
   *INTRO:*  
   *RIFF*  
   *1:*  
-                                  *RIFF 2*  
+    *RIFF 2*  
   Down at the arsenal they keep the nerve gases  
-                                  *RIFF 2*  
+    *RIFF 2*  
   guarded day and night by caged white rabbits  
-                                  *RIFF 3*  
+    *RIFF 3*  
   been sitting there for years I'm gonna have at it  
   *RIFF 4*  
   I cut through the fence run right in and grab it go crazy crazy crazy  
   *crazy.... RIFF 1:*  
-                                  *RIFF 2*  
+    *RIFF 2*  
   Now I got my own mustard gas in my pocket  
-                                  *RIFF 2*  
+    *RIFF 2*  
   Climb on a tree on a branch and drop it`  
-                                  *RIFF 3*  
+    *RIFF 3*  
   on a country club full of saturday golfers  
   *RIFF 4*  
   so i can watch them die chokin shakin in convulsions go  
@@ -116,11 +116,11 @@ riff 10: e-|-------------------------------------------|
   *RIFF 5*  
   chemical warfare chemical warfare chemical warfare warfare warfare  
   *RIFF 6*  
-                                  *RIFF 2*  
+    *RIFF 2*  
   panic in the air see the headless chickens runnin  
-                                  *RIFF 2*  
+    *RIFF 2*  
   golf carts head on crashing crackin heads wide open  
-                                  *RIFF 3*  
+    *RIFF 3*  
   scratch the grass mister you can't breathe  
   *RIFF 7*  
   and roll and writhe in a sand trap starting to heave claw those clubs  

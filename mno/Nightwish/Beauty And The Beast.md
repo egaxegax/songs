@@ -4,22 +4,22 @@ Angels Fall First (1997), From Wishes To Eternity - Live (20
   
   ***Am            F                     G***  
   Remember the first dance we shared?  
-                        ***Dm                   Am7***  
+    ***Dm                   Am7***  
   Recall the night you melted my ugliness away?  
-                             ***F            G***  
+    ***F            G***  
   The night you left with a kiss so kind  
-                   ***Cm            Hm***  
+    ***Cm            Hm***  
   Only a send of beauty left behind  
   
   ***Am                   D***  
   Ah dear friend I remember the night  
-       ***F             Am         G***  
+    ***F             Am         G***  
   The moon and the dreams we shared  
   ***Am                         Dm***  
   Your trembling paw in my hand  
-                             ***F***  
+    ***F***  
   Dreaming of that northern land  
-                       ***Am         G(3)***  
+    ***Am         G(3)***  
   Touching me with a kiss of a beast  
   
   I know my dreams are made of you  

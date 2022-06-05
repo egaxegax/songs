@@ -1,19 +1,19 @@
 <!--2020-09-04 23:28:09-->
 Intro: Am . . . |. . . . |Em . . . |. . . . |  
-       Am . . . |. . . . |Em . . . |. . . . |   (x4)  
+    Am . . . |. . . . |Em . . . |. . . . |   (x4)  
   
-            Am  
+    Am  
 I asked my father  
-                           Em  
+    Em  
 I said, "Father change my name."  
-            Am  
+    Am  
 The one I'm using now, it's covered up  
-                                        Em  
+    Em  
 With fear and filth and cowardice and shame  
   
-         C                                                    G  
+    C                                                    G  
 Yes and lover, lover, lover, lover, lover, lover, lover come back to me  
-         C                                                    G  
+    C                                                    G  
 Yes and lover, lover, lover, lover, lover, lover, lover come back to me  
   
 He said, "I locked you in this body  

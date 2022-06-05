@@ -10,13 +10,13 @@ She's Got The Rythm & I Got The Blues
       ***A                   E               A***  
   Now she's with somebody new out on that floor  
   
-                    ***A                 D***  
+    ***A                 D***  
 chorus:  And she's got the rythm & I got the blues  
-            ***A                           E***  
+    ***A                           E***  
   And she's showin me how much I had to lose  
-       ***A                               D           E***  
+    ***A                               D           E***  
   With every little move she's telling me I'm over you  
-                ***A     E           A***  
+    ***A     E           A***  
   She's got the rythm & I got the blues  
   
   Yeehaw...  
@@ -25,7 +25,7 @@ chorus:  And she's got the rythm & I got the blues
   Well that musics gettin louder as my heart keeps beatin faster  
       ***A                                E***  
   And she spells out regret in perfect time  
-         ***A                                 D***  
+    ***A                                 D***  
   Well I thought I wanted freedom but that ball & chain I need em  
       ***A               E                      A***  
   But when you choose sometimes you lose the prize  

@@ -38,7 +38,7 @@ with slight changes throughout. Listen to the record for the
 timing. 17b18 means bend the 17th fret to the 18th fret. 18r17  
 means release the bend from the 18th to the 17th fret.  
   
-             Dm7                      Dm7/G              Cmaj7  
+    Dm7                      Dm7/G              Cmaj7  
 -----------|------------------------|------------------|--------------------  
 ----15--17-|-17b18--------18r17--17-|-15--------13--15-|-15b17------15b17---  
 -14--------|------------------------|------------------|--------------------  

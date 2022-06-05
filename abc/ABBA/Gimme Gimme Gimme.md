@@ -4,15 +4,15 @@ synth joining: Dm F Am Dm x2
   
 Dm n.c.  
 Half past twelve  
-        Gm  
+    Gm  
 And I'm watching the late show in my flat all alone  
-                                      Dm  
+    Dm  
 How I hate to spend the evening on my own  
   
 Autumn winds  
-        Gm  
+    Gm  
 Blowing outside the window as I look around the room  
-                                        Dm  
+    Dm  
 And it makes me so depressed to see the gloom  
 Bb  
 There's not a soul out there  
@@ -34,15 +34,15 @@ Dm F Am Dm x2
   
 Dm n.c.  
 Movie stars  
-         Gm  
+    Gm  
 Find the end of the rainbow, with that fortune to win  
-                                            Dm  
+    Dm  
 It's so different from the world I'm living in  
   
 Tired of T.V.  
-           Gm  
+    Gm  
 I open the window and I gaze into the night  
-                                            Dm  
+    Dm  
 But there's nothing there to see, no one in sight  
 Bb  
 There's not a soul out there  

@@ -6,18 +6,18 @@ For No One
   Your day breaks, your mind aches  
    ***Am            C/G              Fmaj7               Bb***  
   You find that all her words of kindness linger on  
-                 ***C***  
+    ***C***  
   When she no longer needs you  
   
   She wakes up, she makes up  
   She takes her time and doesn't feel she has to hurry  
   She no longer needs you  
   
-              ***Dm             A7***  
+    ***Dm             A7***  
 Припев:  And in her eyes you see nothing  
    ***Dm                   A7     Dm***  
   No sign of love behind the tears  
-              ***A7***  
+    ***A7***  
   Cried for no one  
    ***Dm                       A7     Dm   G11 G7***  
   A love that should have lasted years  

@@ -6,9 +6,9 @@
   *On that CD the guitars are tuned down 1/2 step and in*  
   *standard tuning.*  
   
-       ***Am              C    G***  
+    ***Am              C    G***  
   When first I came to Louisville  
-       ***F                 Am***  
+    ***F                 Am***  
   Some pleasure there to find  
     ***C      F                G***  
   A damsel there from Lexington  
@@ -16,9 +16,9 @@
   Was pleasing to my mind  
       ***F                     G***  
   Her rosy cheeks, her ruby lips  
-       ***Am***  
+    ***Am***  
   Like arrows pierced my breast  
-                            ***C  G***  
+    ***C  G***  
   And the name she bore was Flora  
       ***C           Am***  
   The Lily Of The West  

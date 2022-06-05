@@ -14,22 +14,22 @@ guitar:  ***G9                Fmaj7***
   -3---------------|-1---------------]  
   
   *Verse 1 (spoken):*  
-                  ***G9***  
+    ***G9***  
   I remember the days when things were real bad for me  
-         ***Fmaj7                                        G9***  
+    ***Fmaj7                                        G9***  
   It was right after my accident, when I lost my hand  
-                                      ***Fmaj7***  
+    ***Fmaj7***  
   It seemed like I was all alone, with nobody to help me  
-              ***Em                                       F***  
+    ***Em                                       F***  
   You know, I almost gave up all my hopes and dreams  
-                                      ***G***  
+    ***G***  
   But then - then - then something inside me kept tellin' me  
-                     ***G7***  
+    ***G7***  
   Way down inside of me - over and over again  
-                ***G9***  
+    ***G9***  
   To keep goin' on - yeah, on!  
   
-           ****C   F   G   F***  (bass: bend ***D*** to ***Eb***)*  
+    ****C   F   G   F***  (bass: bend ***D*** to ***Eb***)*  
 Chorus 1: Moulty!  
   ***C      F     G                  F***  
   Don't turn away  (you're gonna make it, baby)  

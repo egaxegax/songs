@@ -18,9 +18,9 @@ It's Better People
 Intro:  ***E B F#m A***  
   
   *NOTE: same chord progression is used in all verses*  
-       ***E              B         F#m***  
+    ***E              B         F#m***  
 Verse 1: It's better people love one another,  
-       ***A        E  B F#m A***  
+    ***A        E  B F#m A***  
   cos livin' your life can be tough  
   It's better people speak to each other  
   Your shame is not enough  
@@ -31,15 +31,15 @@ Verse 1: It's better people love one another,
   
   ***F#   B***  
 Pre-Chorus: You thought we might be  
-           ***A***  
+    ***A***  
   But what your heard before  
-       ***F#***  
+    ***F#***  
   Was only sleepin' in your brain  
   ***F#   B***  
      But if you came with me  
      ***A***  
   the days'd never end  
-       ***F#***  
+    ***F#***  
   Would never be the same  
   
   ***B    A      F#***  

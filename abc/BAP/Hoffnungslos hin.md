@@ -5,68 +5,68 @@
 Intro:  ***Bm A Bm D***  
   ***Bm A Bm F#m***  
   
-              ***Bm***  
+    ***Bm***  
   Wieso mohts do mir bloss passiere  
-         ***A***  
+    ***A***  
   wofuer weed ich bestroof  
-               ***Bm***  
+    ***Bm***  
   dat ich als Dilledopp rotiere  
-           ***D***  
+    ***D***  
   un sick Wooche nimieh schloof?  
-              ***Bm***  
+    ***Bm***  
   Wo ich och hin will, ich land immer nur  
-        ***A***  
+    ***A***  
   vueuer dinger Dueuer  
-                ***Bm***  
+    ***Bm***  
   ich kumm mir vueuer wie fernjesteuerd  
-       ***D***  
+    ***D***  
   wat maehts do met mir?  
-                ***Bm***  
+    ***Bm***  
   Die Sonn jeht op, wenn do rinnkuess  
-        ***A***  
+    ***A***  
   wie spaet et och ess  
-           ***Bm***  
+    ***Bm***  
   un jede Silb von dir kling logisch  
   ***D***  
   wat do och saehss  
-              ***Bm***  
+    ***Bm***  
   Doch unger uns -  
-                   ***A***  
+    ***A***  
   die eijentliche Sensation:  
-             ***Bm***  
+    ***Bm***  
   ich weede noh un hon  
-          ***D***  
+    ***D***  
   zum Chameleon!  
   
   ***G***  
   Ich benn dir restlos verfalle  
-                         ***Bm        A  Bm  A***  
+    ***Bm        A  Bm  A***  
   ich benn hoffnungslos hin  
   ***G                                Em***  
   Dunn mir doch endlich dae Jefalle  
   ***A                     Bm         A  Bm  A***  
   un jeff mir ming Medizin!  
   
-                ***Bm***  
+    ***Bm***  
   Ich loss dich als Madonna mohle  
-              ***A***  
+    ***A***  
   laeaesch dir Ruhse vueuer de Dueuer  
-                ***Bm***  
+    ***Bm***  
   huehr Michael Jackson - wenn ich soll  
-              ***D***  
+    ***D***  
   drink' alkoholfrei Bier  
-                 ***Bm***  
+    ***Bm***  
   Ich dunn mich veedelstundlich kaemme  
-         ***A***  
+    ***A***  
   un rasiere, wenn ich muss  
-              ***Bm***  
+    ***Bm***  
   doch bitte loss mich jetz nit haenge  
-               ***D***  
+    ***D***  
   scheck mich nit nohuss!  
   
   ***G***  
   Ich benn dir restlos verfalle  
-                         ***Bm       A  Bm  A***  
+    ***Bm       A  Bm  A***  
   ich benn hoffnungslos hin  
   ***G                               Em***  
   Dunn mir doch endlich dae Jefalle  

@@ -7,16 +7,16 @@ Whiskey in the jar
   I met Colonel Pepper and his money he was counting  
     ***C                        Am***  
   I rattled my pistols and I drew forth me saber  
-         ***F                       C           Am***  
+    ***F                       C           Am***  
   Saying stand and deliver for I am a bold deceiver  
   
-        ***G7***  
+    ***G7***  
 Refrein: Musha rigum da rum da  
   ***C***  
   Whack for the daddy, oh  
   ***F***  
   Whack for the daddy, oh  
-          ***C      G7     C***  
+    ***C      G7     C***  
   There's whisky in the jar  
   
   The shining golden coins did look so bright and jolly  

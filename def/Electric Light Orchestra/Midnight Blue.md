@@ -7,7 +7,7 @@ Midnight Blue
   I see the distant lights that left behind the day  
   ***F          Eb              D***  
   But what I see is so much more than I can say  
-            ***Gm   Bb  C    F***  
+    ***Gm   Bb  C    F***  
   And I see you midnight blue.  
   I see you cryin' now you've found a lot of pain,  
   And what you're searchin' for can never be the same,  
@@ -16,7 +16,7 @@ Midnight Blue
   *CHORUS*  
   ***F      Bb       C           F  Cm  Bb***  
   I will love you tonight,and I will stay  
-          ***Bbm   F       Dm  Bb           C      F***  
+    ***Bbm   F       Dm  Bb           C      F***  
   By your side,lovin' you,I'm feelin' midnight blue.  
   I see you standing there far out along the way,  
   I want to touch you but the night becomes the day,  

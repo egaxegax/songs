@@ -80,8 +80,8 @@ Vers:  [G-----------------------|
   D----------------------------------------|  
   A-5-7777777-----------3-555555-----------|  
   E-----------5-7777777----------3-5555555-|]  
-                                      /  
-         *@ the end of the song play only one note & let ring!!*  
+    /  
+    *@ the end of the song play only one note & let ring!!*  
   
 -  
   

@@ -6,17 +6,17 @@ Intro:  ***A***-***F#m***-***D***-***E***-***A***
   
   ***A***  
   I was standing  
-                        ***F#m***  
+    ***F#m***  
   All alone against the world outside  
-           ***D***  
+    ***D***  
   You were searching  
-                 ***E***  
+    ***E***  
   For a place to hide  
-           ***A***  
+    ***A***  
   Lost and lonely  
-                       ***F#m***  
+    ***F#m***  
   Now you given me the will to survive  
-             ***D         E                 A***  
+    ***D         E                 A***  
   When we're hungry... love will keep us alive  
   *(Do Stanza Chords ***A***-***F#m***-***D***-***E***-***A***)*  
   Don't you worry  
@@ -26,7 +26,7 @@ Intro:  ***A***-***F#m***-***D***-***E***-***A***
   Now I've found you  
   There's no more emptiness inside  
   When we're hungry... love will keep us alive  
-          ***D***  
+    ***D***  
   I would die for you  
   ***F#m***  
   Climb the highest mountain  
@@ -37,7 +37,7 @@ Intro:  ***A***-***F#m***-***D***-***E***-***A***
   There's no more emptiness inside  
   When we're hungry... love will keep us alive  
   
-          ***D***  
+    ***D***  
   I would die for you  
   ***F#m***  
   Climb the highest mountain  

@@ -13,14 +13,14 @@ CHORDS:  ***B          G#          E
   
   ***B        G#***  
   I WANNA SEE THE CONSTITUTION BURN  
-              ***Em***  
+    ***Em***  
   WANNA WATCH THE WHITEHOUSE OVERTURN  
-         ***F# ****  
+    ***F# ****  
   WANNA WITNESS SOME BLUE BLOOD BLEED RED  
   *(FAST)*  
   ***B          G#***  
   I WANNA TAR AND LYNCH THE KKK  
-              ***Em***  
+    ***Em***  
   I WANNA PULL AND SHOOT THE NRA  
   ***F#***  
   YEAH YEAH YEAH  

@@ -29,7 +29,7 @@ C                       Em
 They?d seen his face before  
 Em  
 Nobody was really sure  
-                             C(III)  
+    C(III)  
 If he was from the House of Lords.  
   
 G(III)   Hm            Em  
@@ -40,7 +40,7 @@ G(III)      Hm             Em
 A crowd of people turned away  
 C                  Em  
 But I just had to look  
-                 C(III)  
+    C(III)  
 Having read the book.  
 C(III)  
 I?d love to turn you on.  

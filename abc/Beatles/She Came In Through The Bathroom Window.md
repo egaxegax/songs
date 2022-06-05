@@ -9,39 +9,39 @@ Abbey Road (1969)
   Protected by a silver spoon  
   ***A                                   D***  
   But now she sucks her thumb and wonders  
-                                 ***A***  
+    ***A***  
   By the banks of her own lagoon  
   
-                  ***Dm      A***  
+    ***Dm      A***  
   Didn't anybody tell her?  
-                  ***Dm***  
+    ***Dm***  
   Didn't anybody see?  
     ***G7                         C  C/B***  
   Sunday's on the phone to Monday  
     ***G7                      C   A***  
   Tuesday's on the phone to me  
   
-                                 ***D     A***  
+    ***D     A***  
   She said she'd always been a dancer  
-                                 ***D    A***  
+    ***D    A***  
   She worked in fifteen clubs a day  
-                                     ***D***  
+    ***D***  
   And though she thought I knew the answer  
-                                    ***A***  
+    ***A***  
   Well, I knew but I could not say  
   
-                               ***D       A***  
+    ***D       A***  
   And so I quit the police department  
-                           ***D    A***  
+    ***D    A***  
   And got myself a steady job  
-                                    ***D***  
+    ***D***  
   And though she tried her best to help me  
-                                        ***A***  
+    ***A***  
   She could steal but she could not rob  
   
-                  ***Dm      A***  
+    ***Dm      A***  
   Didn't anybody tell her?  
-                  ***Dm***  
+    ***Dm***  
   Didn't anybody see?  
     ***G7                         C  C/B***  
   Sunday's on the phone to Monday  

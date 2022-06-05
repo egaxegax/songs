@@ -2,11 +2,11 @@
 A  
 D  
 This is a postcard  
-                            F         G  
+    F         G  
 Saying I'm alright in this beautiful city  
 D  
 This is a phone call  
-                    F        G  
+    F        G  
 Saying, yes, I am sleeping alone here  
 D                  F  
 But the telephone lines are cut  

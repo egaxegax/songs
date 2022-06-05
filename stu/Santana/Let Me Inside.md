@@ -4,16 +4,16 @@ Let Me Inside
   *KEY: ***Cm****  
   *Drum roll.*  
   *Intro lead: ***Cm / Cm****  
-         ***Cm***  
+    ***Cm***  
   Well Hello, What's your name?  
   Can I take you by the hand?  
-             ***Cm***  
+    ***Cm***  
   Won't you please come with me  
   To a place of ecstacy  
-        ***Fm***  
+    ***Fm***  
   Paradise, By the sun  
   Girl I'm sure you'll have some fun  
-           ***Cm***  
+    ***Cm***  
   By your eyes, I can see  
   That you want to be with me  
   ***Gm    Fm***  
@@ -28,16 +28,16 @@ Let Me Inside
   Open up your heart come on and  
   Let ME inside  
   Open up your heart..  
-            ***Cm***  
+    ***Cm***  
   Night is clear, Moon is bright  
   Stars are shining every where  
-          ***Cm***  
+    ***Cm***  
   In my arms, you'll be safe  
   There's no need to be afraid  
-          ***Fm***  
+    ***Fm***  
   It's a warm sunday night  
   And the temperature is right  
-          ***Cm***  
+    ***Cm***  
   Let you hair, in the glow  
   Girl I want to feel the flow  
   ***Gm    Fm***  
@@ -59,8 +59,8 @@ Let Me Inside
   *Lead:5;   ***Cm*** - ***(Bb) - <Fm-Gm-Ab-Bb-****  
   *Chorus: 1 line;  ***Cm*** - ***(Bb)****  
   *Final lead:6;  ***Cm*** - ***(Bb)****  
-                   ***Fm-Gm-Ab-Bb-***  
-                   ***Fm-Gm-Ab-Bb-***  
+    ***Fm-Gm-Ab-Bb-***  
+    ***Fm-Gm-Ab-Bb-***  
   *Rythym change: ***(Cm*4)*** ....4 times*  
-           ***Fm    -Gm   -Ab  -Bb     Fm       -Gm -Ab -Bb -(Cm**4)|||***  
+    ***Fm    -Gm   -Ab  -Bb     Fm       -Gm -Ab -Bb -(Cm**4)|||***  
   Let your hair come down, Girl, I want to feel that flo-o-o-o-ooow

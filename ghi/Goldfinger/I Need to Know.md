@@ -36,11 +36,11 @@ Hang-Ups (1997)
   
   ***A        Bm               D                A      A***  
   I run away cause I'm scared that you might leave. There's  
-             ***Bm                 D         A***  
+    ***Bm                 D         A***  
   nothing wrong, but that's not what I believe.  
       ***D               E         D            E        D***  
   And tell me it's alright, and tell me I'm okay, and tell me  
-              ***Bm***  
+    ***Bm***  
   that you're staying, staying here tonight.  
   
   *Chorus:*  
@@ -67,7 +67,7 @@ Hang-Ups (1997)
   everything I wanna share my life with you.  
   ***D                      E            D         E         D***  
   And tell me that you feel the way I feel with you. And tell  
-                       ***D         E***  
+    ***D         E***  
   me that you love me, just like I love you.  
   
   *Repeat Chorus*  
@@ -127,7 +127,7 @@ Hang-Ups (1997)
   *Guitar comes in for:*  
   ***D#m       G#m           E            F#  D#m         G#m***  
   And if I scare you, I'm only scaring me. I've got so much to  
-           ***E                                 B***  
+    ***E                                 B***  
   say, why won't you speak with me I need to know.  
   
   *That's the song!*

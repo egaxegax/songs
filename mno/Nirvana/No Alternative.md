@@ -5,7 +5,7 @@ No Alternative
   *don't even own the CD so this might be transcribed in a totally wrong key, and*  
   *don't send me hate-mail telling me that it is :)*  
   *Here's the chord progression:*  
-        ***C#m        A      F#      G#          A      B***  
+    ***C#m        A      F#      G#          A      B***  
    "...And if you save yourself, you'll find, da  da da da..."  
   *Here's the chorus ----&gt;      ***C#m   A  F#  A  F#  A  F#****  
   ****C#m*** : [446654]         -I may have left out something since I'm doing this*  

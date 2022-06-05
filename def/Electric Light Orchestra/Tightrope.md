@@ -39,19 +39,19 @@ Live at Wembley'78 (1988)
   
   ***F                              (G)    G  Gb F***  
   They say some days you're gonna win,  
-                                   ***G    G  Gb F***  
+    ***G    G  Gb F***  
   They say some days you're gonna lose.  
-                             ***G    G  Gb F***  
+    ***G    G  Gb F***  
   I tell you I got news for you  
-                                      ***G***  
+    ***G***  
   Your losin' all the time you never win  
   ***C                               E                           F    Fm***  
   If you believe that's how it's gonna be I'd better put you down  
   ***C                                E***  
   Get off your tightrope up there come down on he ground  
-             ***F***  
+    ***F***  
   You gotta save me now,  
-              ***Fm***  
+    ***Fm***  
   You better turn around.  
   ***Am       F           Am              D7***  
   When I looked around,        I was heading down.  

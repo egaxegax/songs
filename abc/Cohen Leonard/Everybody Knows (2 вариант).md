@@ -1,21 +1,21 @@
 <!--2020-09-04 23:33:15-->
 Intro: C#m . . . |G# . . . |C#m . . . |. . . . |  
   
-            C#m  
+    C#m  
 Everybody knows that the dice are loaded  
-           A  
+    A  
 Everybody rolls with their fingers crossed  
-            C#m  
+    C#m  
 Everybody knows the war is over  
-            A  
+    A  
 Everybody knows the good guys lost  
-            F#m                G#  
+    F#m                G#  
 Everybody knows the fight was fixed  
-               B                  C#m  
+    B                  C#m  
 The poor stay poor, the rich get rich  
-               D    G#  
+    D    G#  
 That's how it goes  
-            C#m  
+    C#m  
 Everybody knows  
   
 Everybody knows that the boat is leaking  
@@ -36,16 +36,16 @@ But there were so many people you just had to meet
 Without your clothes  
 And everybody knows  
   
-            E                B  
+    E                B  
 Everybody knows, everybody knows  
-               C#m     B  
+    C#m     B  
 That's how it goes  
 A           E  
 Everybody knows  
   
-            E                B  
+    E                B  
 Everybody knows, everybody knows  
-               C#m     B  
+    C#m     B  
 That's how it goes  
 A           E       C#m  
 Everybody knows  
@@ -98,21 +98,21 @@ Capo 4th fret
   
 Intro: Am . . . |E . . . |Am . . . |. . . . |  
   
-            Am  
+    Am  
 Everybody knows that the dice are loaded  
-           F  
+    F  
 Everybody rolls with their fingers crossed  
-            Am  
+    Am  
 Everybody knows the war is over  
-            F  
+    F  
 Everybody knows the good guys lost  
-            Dm                 E  
+    Dm                 E  
 Everybody knows the fight was fixed  
-               G                  Am  
+    G                  Am  
 The poor stay poor, the rich get rich  
-               Bb    E  
+    Bb    E  
 That's how it goes  
-            Am  
+    Am  
 Everybody knows  
   
 Everybody knows that the boat is leaking  
@@ -133,16 +133,16 @@ But there were so many people you just had to meet
 Without your clothes  
 And everybody knows  
   
-            C                G  
+    C                G  
 Everybody knows, everybody knows  
-               Am      G  
+    Am      G  
 That's how it goes  
 F           C  
 Everybody knows  
   
-            C                G  
+    C                G  
 Everybody knows, everybody knows  
-               Am      G  
+    Am      G  
 That's how it goes  
 F           C        Am  
 Everybody knows  

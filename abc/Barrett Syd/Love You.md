@@ -23,13 +23,13 @@ Intro:  ***A*** [577655]
   
   ***A***  
 Verses:  Honey, love ya,  
-                                     ***A#***  
+    ***A#***  
   Honey, little honey, funny, Sunday morning  
   ***B***  
   Love you more funny, Love in the skyline baby.  
   ***E***  
   Ice cream, 'scuse me,  
-                                       ***A        E***  
+    ***A        E***  
   I've seen you looking good the other evening  
   
   Oh, you, dig it  

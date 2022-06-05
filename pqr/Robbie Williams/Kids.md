@@ -9,7 +9,7 @@ Kids
   Me be groovin' slowly where you are  
   ***E***  
   Notify your next of kin  
-                 ***A***  
+    ***A***  
   'Cause you're never coming back  
   ***E                                      A***  
   I've been dropping beats since Back in Black  
@@ -19,9 +19,9 @@ Kids
   'Till something sticks  
   ***E                           A***  
   Don't mind doing it for the kids  
-              ***E       G***  
+    ***E       G***  
   So come on, jump on board  
-         ***D        A***  
+    ***D        A***  
   Take a ride, yeah  
   ***Hm***  
   You'll be doin' it all right  

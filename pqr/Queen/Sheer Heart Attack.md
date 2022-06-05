@@ -14,7 +14,7 @@ Live Killers 1977, News Of The World 1977
   *Please note that all these chords are meant to be power-chords, though I write*  
   *them as usual chords.*  
   
-              ***Eb                                   Ab Bb***  
+    ***Eb                                   Ab Bb***  
   Well you're just 17 and all you wanna do is disappear  
   ***Eb                                                        Ab  Bb***  
   You know what I mean,there's a lot of space between your ears  

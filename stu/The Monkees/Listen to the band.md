@@ -19,7 +19,7 @@ Intro:  ***B Bb A***
   ***D               Am              Em***  
   ***B***  
   Weren't they good they made me happy?  
-                                   ***Bb A***  
+    ***Bb A***  
   I think I can make it alone  
   ***G  D               Em***  
   Oh mercy woman plays a song and no one listens  
@@ -35,7 +35,7 @@ Intro:  ***B Bb A***
   ***D               Am              Em***  
   ***B***  
   Now weren't they good they made me happy?  
-                                   ***Bb A***  
+    ***Bb A***  
   I think I can make it alone  
   ***G  D       Em***  
   Oh   woman plays a song and no one listens  

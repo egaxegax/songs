@@ -6,26 +6,26 @@ It's Too Late
   
   *(walk to) ***A*** (walk to) ***D*** (walk to) ***A****  
   
-        ***E7               A  D  A***  
+    ***E7               A  D  A***  
   It's too late, she's gone  
-                 ***D***  
+    ***D***  
   It's too late, my baby's gone  
   ***A***  
   Wish I had told her she was my only one  
-             ***E           A***  
+    ***E           A***  
   It's too late, she's gone  
-           ***E7***  
+    ***E7***  
   It's a woman that cries  
   So I guess I'd better dry my eyes  
   Guess I will miss her more than anyone  
   It's too late, she's gone  
   
-          ***D                     A***  
+    ***D                     A***  
 CHORUS:  She's gone (she        ***D                    A***  
   She's gone (she        ***D                     A***  
   She's gone (she***B                  E***  
   Where can my baby be?  
-          ***E7***  
+    ***E7***  
   And I wonder does she know  
   
   When she left me, it hurt me so  

@@ -37,7 +37,7 @@
   D:---------------------------------------------------------|  
   A:-2-------------5-------------6-------------5-------------|  
   E:-0-0-0-0-0-0-0-3-0-0-0-0-0-0-4-0-0-0-0-0-0-3-0-0-0-0-0-0-|]  
-       x x x x x x   x x x x x x   x x x x x x   x x x x x x  
+    x x x x x x   x x x x x x   x x x x x x   x x x x x x  
   *RIFF D:*  
   [e:-------------------|-------------------------------------------------|  
   b:-------------------|-------------------------------------------------|  
@@ -45,9 +45,9 @@
   D:----3--------5-----|-------------------------------------------------|  
   A:-2--1--2--5--3--5--|---------1-1-1-1-----------------3-3-3-3---------|  
   E:-0-----0--3-----3--|-0-0-0-0---------0-0-0-0-3-3-3-3---------3-3-3-3-|]  
-        ^        ^  
-        |        |  
-        *See "Special Note" below!*  
+    ^        ^  
+    |        |  
+    *See "Special Note" below!*  
   *RIFF E:*  
   [e:-------------------------------|  
   b:-------------------------------|  
@@ -81,18 +81,18 @@
   D:---------------------5-4---3------------------------------|  
   A:-2---------2---------3-2-3-1--2---------2---------2-3-5-3-|  
   E:-0-0-0-0-0-0-0-0-0-0-----1----0-0-0-0-0-0-0-0-0-0-0-1-3-1-|]  
-       x x x x   x x x x            x x x x   x x x x  
-                                 *******************  
-                                 ***SPECIAL NOTE:***  
+    x x x x   x x x x            x x x x   x x x x  
+    *******************  
+    ***SPECIAL NOTE:***  
   ********************************************************************************  
   *Note that Obituary uses a lot of slight variations in their riffing. One time*  
   *a riff may have a ***C5***-chord like:  [D:--5--]*  
-                                    [A:--3--]  
-                                    [E:-----]  
+    [A:--3--]  
+    [E:-----]  
   *Whereas, the next time around, they get more 'Grind' into it by using:*  
-                                    [D:--5--]  
-                                    [A:--3--]  
-                                    *[E:--3--]   &lt;-Add a 4th (is that right-'4th'?)*  
+    [D:--5--]  
+    [A:--3--]  
+    *[E:--3--]   &lt;-Add a 4th (is that right-'4th'?)*  
   *RIFF D has this variation, usually always on the second repitition. Listen*  
   *to the album to hear this.. I didn't tab it because its basically a copy of the*  
   *first time around! (and cause I'm lazy! - Plus this costs $$$ to eMail/FTP!)*  
@@ -100,9 +100,9 @@
   *CAUSE OF DEATH - STRUCTURE:*  
   ***Introduction:*  
   *Riff A x 6         -Fade in on first*  
-                     *-Guitar Solo starts on third*  
+    *-Guitar Solo starts on third*  
   *RIFF B x 8         -Slight Variations in repeats 4-7*  
-                     *-8th : Hold Chord*  
+    *-8th : Hold Chord*  
   *RIFF C x 6*  
   *RIFF D x 2         -Remember Variation! (See Special Note!)*  
   *RIFF C x 4*  

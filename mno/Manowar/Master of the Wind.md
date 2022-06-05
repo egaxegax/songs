@@ -8,14 +8,14 @@
   *like this: (E) or (D).*  
   *In verses you must pick the chords only once (check the style from the*  
   *record) but in chorus part the strumming goes like this:*  
-                    1   2   3   4    (4/4 beats)  
-                   ***Em***  
-                  *[|-0---0-0-0---0-0-|]     Each chord lasts only one bar*  
-                  [|-0---0-0-0---0-0-|  
-                  |-0---0-0-0---0-0-|  
-                  |-2---2-2-2---2-2-|  
-                  |-2---2-2-2---2-2-|  
-                  |-0---0-0-0---0-0-|]  
+    1   2   3   4    (4/4 beats)  
+    ***Em***  
+    *[|-0---0-0-0---0-0-|]     Each chord lasts only one bar*  
+    [|-0---0-0-0---0-0-|  
+    |-0---0-0-0---0-0-|  
+    |-2---2-2-2---2-2-|  
+    |-2---2-2-2---2-2-|  
+    |-0---0-0-0---0-0-|]  
   *The piano in the bridge part goes like chords...*  
   *All kinds of comments are welcome! I hope you enjoy this great song.*  
   *--------------------*  
@@ -30,9 +30,9 @@
   Far beyond the sun across the western sky  
   ***D (Both)                Em***  
   Reach into the blackness find a silver line  
-                      ***Em***  
+    ***Em***  
   In a voice I whisper a candle in the night  
-       ***(D)                          Em***  
+    ***(D)                          Em***  
   We'll carry all our dreams in a single dream of light  
   ***C          B     C             B***  
   Close your eyes, look into the dream  
@@ -49,17 +49,17 @@
   Know who will break and who will bend  
   ***C             D             Em***  
   All to be the master of the wind  
-               ***Em              (D)***  
+    ***Em              (D)***  
   Falling stars now light my way my life was  
-         ***Em         (E)           Em***  
+    ***Em         (E)           Em***  
   Written on the wind clouds above, clouds  
       ***(D)                    Em***  
   Below high ascend the dream within  
-                             ***Em***  
+    ***Em***  
   When the wind fills the sky the clouds will move  
       ***(D)                                Em***  
   Aside there will be the road to all our dreams  
-                         ***Em***  
+    ***Em***  
   For any day that stings two better days it brings  
   ***D***  
   Nothing is as bad as it seems  

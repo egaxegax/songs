@@ -8,25 +8,25 @@
   Ich kam von meinem Wege ab,  weil es so nebeldunstig war.  
   ***Hm7***  
   Der Wald war feucht kalt wie ein Grab,  
-          ***a***  
+    ***a***  
   Und Finger griffen in mein Haar.  
-         ***a                                                a4***  
+    ***a                                                a4***  
   Ein Vogel rief so hoch und hohl wie wenn ein Kind im Schlummer klagt-  
-         ***Hm7                                                 E***  
+    ***Hm7                                                 E***  
   und ich stand still - ich wuЯte wohl, was man von diesem Walde sagt!  
   ***Dm***  
   Dann setz ich wieder Bein vor Bein  
-         ***a***  
+    ***a***  
   und komme so gemach vom Fleck,  
-         ***G***  
+    ***G***  
   und Quutsch im letzten Abendschein  
-             ***a***  
+    ***a***  
   schwer vorwдrts durch Morast und Dreck.  
-       ***Dm***  
+    ***Dm***  
   Es nebelte es nieselte  
-       ***a***  
+    ***a***  
   es roch nach Schlamm verfault und NaЯ,  
-       ***G                                  E***  
+    ***G                                  E***  
   es raschelte es rieselte und kroch und sprang im hohen Gras  
   
   Auf einmal eh ich michs verseh, bin ich am Strom, im Wasser schier.  

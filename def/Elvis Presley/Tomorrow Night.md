@@ -10,17 +10,17 @@ Intro:  [e||----7----||
   
   *(tacet)  ***E****  
   Tomorrow night  
-                    ***A***  
+    ***A***  
   Will you remember what you said tonight?  
-           ***Am***  
+    ***Am***  
   Tomorrow night  
   ***B7                  E***  
   Will all thrills be gone?  
   ***B7       E***  
   Tomorrow night  
-                          ***A***  
+    ***A***  
   Will it be just another memory,  
-                         ***Am***  
+    ***Am***  
   Or just another lovely song  
   ***B7                                E***  
   That's in my full heart to linger on?  
@@ -32,11 +32,11 @@ Intro:  [e||----7----||
   And you're willing to surrender.  
   *(tacet)*  
   Tell me, darling, will it last?  
-           ***E***  
+    ***E***  
   Tomorrow night  
-                   ***A***  
+    ***A***  
   Will you be with me when the moon's bright?  
-           ***Am***  
+    ***Am***  
   Tomorrow night  
   ***B7                                   E***  
   Will you say those lovely things you said tonight?  

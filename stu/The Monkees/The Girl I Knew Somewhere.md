@@ -18,15 +18,15 @@ Intro:  guitar (probably played in A, Capo III)
    |----------------  
    |----------------]  
   
-       ***C***  
+    ***C***  
 Verse 1: You tell me that you've never been this way before  
-                                                 ***C7***  
+    ***C7***  
   You tell me things I know that I've heard somewhere  
-           ***F***  
+    ***F***  
   You're standing in the places  
-              ***Fm***  
+    ***Fm***  
   And you're staring down through faces  
-         ***C                        Dm***  
+    ***C                        Dm***  
   That bring to mind traces of a girl  
      ***G                C***  
   A girl that I knew somewhere  

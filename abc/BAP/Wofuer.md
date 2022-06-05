@@ -9,7 +9,7 @@ Intro:  ***G C D***
   un koehm mir nit bloeoed dobei vueuer  
   ***C***  
   dat leed en alle Sprooche  
-           ***D***  
+    ***D***  
   daemm mer oevverall zohuehrt  
   ***G***  
   dat einfach nur en Frooch stellt  
@@ -21,7 +21,7 @@ Intro:  ***G C D***
   vun Nebraska nohm Ural,  
   ***C***  
   Berlin bis Wladiwostock  
-            ***D***  
+    ***D***  
   un widder oem bess Gibraltar  
   ***G***  
   un jeder daeaet et singe  
@@ -33,7 +33,7 @@ Intro:  ***G C D***
   
   ***Em***  
   Wofuer die janze Traene  
-           ***A***  
+    ***A***  
   all dat Leid un all dat Bloot  
   ***Em                      A***  
   et Laeaeve 's suwiesu zo koot  
@@ -46,7 +46,7 @@ Intro:  ***G C D***
   op Arabisch, op Hebro  
   ***C***  
   op Spanisch un op English  
-                  ***D***  
+    ***D***  
   ich jlaeuv, dat leed woeoet nit jraad koot  
   ***G***  
   op Russisch un Chinesch  
@@ -55,7 +55,7 @@ Intro:  ***G C D***
   wofuer, wofuer?  
   ***Em***  
   Wofuer die janze Traene  
-           ***A***  
+    ***A***  
   all dat Leid un all dat Bloot  
   ***Em                      A***  
   et Laeaeve 's suwiesu zo koot  
@@ -68,7 +68,7 @@ Intro:  ***G C D***
   nur en schoene Illusion  
   ***C***  
   denn jing dat esu einfach  
-                  ***D***  
+    ***D***  
   dann haedden Schlaure sescher schon  
   ***G***  
   dae Drieh dofuer jefunge  

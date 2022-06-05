@@ -32,7 +32,7 @@ All of that repeats acouple times with some small ad-lib var
 with things like slides and vibratos until:  
   
 guitar 1:  
-          let ring  
+    let ring  
 E|-------------------|  
 B|-------------------|  
 G|-------------------|  

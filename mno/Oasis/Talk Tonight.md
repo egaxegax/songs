@@ -3,7 +3,7 @@ The Masterplan (1998)
   Talk Tonight  
   
   *Chords used:*  
-          [EADGBe]  
+    [EADGBe]  
   ***Em7 [022030]***  
   ****Em2***  [022033] used in chorus only*  
   ***A7sus4  [x02030]***  
@@ -31,13 +31,13 @@ The Masterplan (1998)
   *Chorus*  
   ***Cadd9                     G     Dsus4  Em2***  
       I wanna talk tonight  
-         ***C2         G     Dsus4  Em2***  
+    ***C2         G     Dsus4  Em2***  
       Until the morning light  
     ***C2          G    Dsus4  Em2***  
       'Bout how you saved my life  
-                       ***Cadd9           A7sus4    Cadd9***  
+    ***Cadd9           A7sus4    Cadd9***  
       And you and me see how we are  
-                                       ***A7sus4    Cadd9***  
+    ***A7sus4    Cadd9***  
       And you and me see how we are  
   
   *Tab for chorus*  

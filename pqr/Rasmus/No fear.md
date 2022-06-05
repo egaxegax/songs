@@ -6,7 +6,7 @@ Intro:  ***G#m E H F#*** } 4x
   
   ***G#m   D#m                 E                     H***  
   Girl,     you lived your life like a sleeping swan  
-       ***C#m           D#       G#m***  
+    ***C#m           D#       G#m***  
   Your time has come    to go deeper  
   Girl, your final journey has just begun  
   But destiny chose the reaper  
@@ -33,7 +33,7 @@ Intro:  ***G#m E H F#*** } 4x
   
   ***G#m   D#m                 E                     H***  
   Girl,     you lived your life like a sleeping swan  
-       ***C#m           D#       G#m***  
+    ***C#m           D#       G#m***  
   Your time has come    to go deeper  
   Girl, your final journey has just begun  
   But destiny chose the reaper  

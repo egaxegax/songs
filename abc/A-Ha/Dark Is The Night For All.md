@@ -2,7 +2,7 @@
 Dark Is The Night For All (3:46)  
   *(Pal Waaktaar)*  
   
-       ***F        Bb***  
+    ***F        Bb***  
   It's time we said goodbye  
   ***F         Bb***  
   Time now to decide  
@@ -14,11 +14,11 @@ Dark Is The Night For All (3:46)
   This time will be the best  
   And when the evenings fall  
   Dark is the night for all  
-       ***C         Gm          F***  
+    ***C         Gm          F***  
   It's time...yeah, to break free  
-       ***C            Gm***  
+    ***C            Gm***  
   It's time to pull away  
-                  ***Bb***  
+    ***Bb***  
   For you and for me  
   It's time...yeah, to break free  
   We need to celebrate the mystery  

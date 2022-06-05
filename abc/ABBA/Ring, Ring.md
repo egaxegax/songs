@@ -3,25 +3,25 @@ A
 I was sitting by the phone,  
       A6           D  
 I was waiting all alone  
-                                  A  
+    A  
 Baby, by myself I sit and wonder about you.  
 It's a dark and dreary night,  
-           A6              D  
+    A6              D  
 Seems like nothing's going right  
 Won't you tell me honey  
-                         A  
+    A  
 How can I go on here without you.  
-         E  
+    E  
 Yes I'm down and feeling blue,  
-                         E7  
+    E7  
 And I don't know what to do.  
   
 Chorus:  
     A                                  E  
 Oh, ring, ring, why don't you give me a call?  
-                                      A  
+    A  
 Ring, ring, the happiest sound of them all  
-                                        E  
+    E  
 Ring, ring, I stare at the phone on the wall  
       Hm  
 And I sit all alone impatiently  

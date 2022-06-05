@@ -4,19 +4,19 @@ The Gray Race
   
   ***B         A         G       F#***  
   Flat top pave-ment com-fort me  
-           ***B                      A             G             F#***  
+    ***B                      A             G             F#***  
   Like a chemical reaction or a steamroller, spreading randomly  
-             ***B       A          G    F#***  
+    ***B       A          G    F#***  
   There=D5s a distant fuzz of a frequency  
-       ***B         A             G         F#***  
+    ***B         A             G         F#***  
   It tickles my ears, rustles under my feet  
-           ***B          A            G      F#***  
+    ***B          A            G      F#***  
   And it shakes the leaves off of every tree  
   ***G    A    F#***  
   Vio-lent-ly  
-            ***B      A           G***  
+    ***B      A           G***  
   What protection everlasting peace (??)  
-        ***A          B***  
+    ***A          B***  
   Everything must cease  
   *(same chords as before)*  
   In-sti-tu-tion on the hill  
@@ -30,20 +30,20 @@ The Gray Race
   *(pluck 6th string only - this part is slow)*  
   ***B        A        G            F#***  
   Brave me-mo-rials hewn white stone  
-             ***B                      A            G                   F#***  
+    ***B                      A            G                   F#***  
   Like the comforting caress of a mother or a friend you've always known  
   *(strum from here - resumes normal Bad Religion tempo)*  
-       ***B          A           G   F#***  
+    ***B          A           G   F#***  
   It evokes such pain and significance  
   ***B                A           G     F#***  
   What was once is reduced to remembrance  
-           ***B            A           G     F#***  
+    ***B            A           G     F#***  
   And the generations pass without recompense  
   ***G   A   F#***  
   Aa-aaaa-hhh...  
-           ***B        A           G***  
+    ***B        A           G***  
   What protection everlasting peace  
-         ***A          B***  
+    ***A          B***  
   Everything must cease  
   
   *The way this sounds best is if you play it in ***E*** (power chords).*  

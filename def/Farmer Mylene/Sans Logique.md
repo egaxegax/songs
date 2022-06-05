@@ -3,23 +3,23 @@ Sans Logique
   *(Farmer-Boutonnat)*  
   
   *Интpo x4: ***Fm  C****  
-            ***Bbm C***  
+    ***Bbm C***  
   
   ***Fm            C          Bbm***  
 (1)  Si Dieu nous fait a son image  
-         ***C           Fm***  
+    ***C           Fm***  
   Si c'etait sa volonte  
-        ***C                 Bbm***  
+    ***C                 Bbm***  
   Il aurait du prendre ombrage  
-        ***C          Fm***  
+    ***C          Fm***  
   Du malin mal habite  
-           ***C             Bbm***  
+    ***C             Bbm***  
   Qui s'immisce et se partage  
-         ***C           Fm***  
+    ***C           Fm***  
   L'innocence immaculee  
-         ***C            Bbm***  
+    ***C            Bbm***  
   De mon ame d'enfant sage  
-           ***C***  
+    ***C***  
   Je voudrais comprendre  
   
   ***Dm     G   Am***  
@@ -30,11 +30,11 @@ Sans Logique
   Souffrez qu'une autre  
   ***Dm  G       Am    A***  
   En moi se glisse  
-       ***Dm   G Am***  
+    ***Dm   G Am***  
   Car sans logique  
   ***Dm  G   Am***  
   Je me quitte  
-             ***Dm G Am***  
+    ***Dm G Am***  
   Aussi bien satanique  
   ***Dm    G Am   A***  
   Qu'angelique  
@@ -61,25 +61,25 @@ Sans Logique
   
   ***Hm           Em     F#   G***  
   Si Dieu nous fait a son image  
-        ***Em      F#   Hm***  
+    ***Em      F#   Hm***  
   Si c'etait sa volonte  
-       ***Em      F#         G***  
+    ***Em      F#         G***  
   Il aurait du prendre ombrage  
-       ***Em      F#  Hm***  
+    ***Em      F#  Hm***  
   Du malin mal habite  
-          ***Em       F#    G***  
+    ***Em       F#    G***  
   Qui s'immisce et se partage  
-        ***Em      F#  Hm***  
+    ***Em      F#  Hm***  
   L'innocence immaculee  
-       ***Em     F#      G***  
+    ***Em     F#      G***  
   De mon ame d'enfant sage  
-        ***Em    F#            Am***  
+    ***Em    F#            Am***  
   Je voudrais comprendre  
-        ***D   Em     Am***  
+    ***D   Em     Am***  
   De ce paradoxe  
-         ***D       Em     Am***  
+    ***D       Em     Am***  
   Je ne suis complice  
-       ***D          Em      Am***  
+    ***D          Em      Am***  
   Souffrez qu'une autre  
       ***D      E***  
   En moi se glisse  
@@ -87,31 +87,31 @@ Sans Logique
   Car sans logique  
   ***Am D  Em***  
   Je me quitte  
-             ***Am D Em***  
+    ***Am D Em***  
   Aussi bien sa-tanique  
   ***Am   D E***  
   Qu'angelique  
   ***Hm        Em         F#   G***  
   Si chaque fois qu'en bavardages  
-            ***Em       F#  Hm***  
+    ***Em       F#  Hm***  
   Nous nous laissons deriver  
-           ***Em         F#  G***  
+    ***Em         F#  G***  
   Je crois bien que d'heritage  
-        ***Em        F#     Hm***  
+    ***Em        F#     Hm***  
   Mon silence est meurtrier  
-          ***Em    F#     G***  
+    ***Em    F#     G***  
   Vous me decouvrez blafarde  
-        ***Em    F#      Hm***  
+    ***Em    F#      Hm***  
   Fixee a vos yeux si tendres  
-         ***Em        F#     G***  
+    ***Em        F#     G***  
   Je pourrais bien par megrarde  
-         ***Em       F#        Am***  
+    ***Em       F#        Am***  
   D'un ciseau les fendre  
-        ***D   Em     Am***  
+    ***D   Em     Am***  
   De ce paradoxe  
-         ***D       Em     Am***  
+    ***D       Em     Am***  
   Je ne suis complice  
-       ***D          Em      Am***  
+    ***D          Em      Am***  
   Souffrez qu'une autre  
       ***D      E***  
   En moi se glisse  
@@ -119,7 +119,7 @@ Sans Logique
   Car sans logique  
   ***Am D  Em***  
   Je me quitte  
-             ***Am D Em***  
+    ***Am D Em***  
   Aussi bien sa-tanique  
   ***Am   D E***  
   Qu'angelique

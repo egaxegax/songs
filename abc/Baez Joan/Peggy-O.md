@@ -7,7 +7,7 @@ Peggy-O
   As we marched down to Fennario  
       ***Am      G       C           G           F      C***  
   Our captain fell in love with a lady like a dove  
-          ***C            Am     Em         F     C***  
+    ***C            Am     Em         F     C***  
   And the name she was called was pretty Peggy-O  
   
   *The main embellishment I use is on the ***F*** chords. In the first and last*  

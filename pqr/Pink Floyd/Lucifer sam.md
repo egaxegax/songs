@@ -19,7 +19,7 @@ F#m               G
 Lucifer Sam, siam cat.  
 B  
 Always sitting by your side  
-                 E  
+    E  
 Always by your side.  
 C                                G    D  
 That cat's something I can't explain.  

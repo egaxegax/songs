@@ -6,31 +6,31 @@ News Of The World 1977
   
       ***Dmi     A      Dmi***  
   She came without a farthing  
-             ***A     Dmi***  
+    ***A     Dmi***  
   A babe without a name  
-           ***C        F***  
+    ***C        F***  
   So much ado 'bout nothing  
      ***Gmi        A      Dmi***  
   Is what she's try to say  
      ***Dmi   A     Dmi***  
   So much ado my lover  
-          ***A        Dmi***  
+    ***A        Dmi***  
   So many games we played  
-                ***C       F***  
+    ***C       F***  
   Through ev'ry fleeted summer  
-          ***Gmi   A        Dmi***  
+    ***Gmi   A        Dmi***  
   Through ev'ry precious day  
   ***C   F    Gmi F***  
   All dead all dead  
-          ***Bb        F***  
+    ***Bb        F***  
   All the dreams we had  
-                     ***Dmi        Bb   C F***  
+    ***Dmi        Bb   C F***  
   And I wonder why I still live on  
   ***C   F    Gmi F***  
   All dead all dead  
-       ***Bb       F***  
+    ***Bb       F***  
   And alone I'm spared  
-             ***A7      Dmi***  
+    ***A7      Dmi***  
   My sweeter half instead  
       ***Bb       F        Bb***  
   All dead and gone all dead  
@@ -39,15 +39,15 @@ News Of The World 1977
   
   ***C   F    Gmi F***  
   All dead all dead  
-         ***Bb        F***  
+    ***Bb        F***  
   At the rainbow's end  
-                       ***Dmi       Bb    C F***  
+    ***Dmi       Bb    C F***  
   And still I hear her own sweet song  
   ***C   F    Gmi F***  
   All dead all dead  
-          ***Bb     F***  
+    ***Bb     F***  
   Take me back again  
-              ***A7     Dmi***  
+    ***A7     Dmi***  
   You know my little friend's  
       ***Bb       F***  
   All dead and gone  
@@ -56,25 +56,25 @@ News Of The World 1977
   
       ***Dmi      A      Dmi***  
   Her ways are always with me  
-           ***A       Dmi***  
+    ***A       Dmi***  
   I wonder all the while  
-                 ***C       F***  
+    ***C       F***  
   But please you must forgive me  
-       ***Gmi     A       Dmi***  
+    ***Gmi     A       Dmi***  
   I am old but still a child  
   ***C   F    Gmi F***  
   All dead all dead  
-        ***Bb         F***  
+    ***Bb         F***  
   But I should not grieve  
-                      ***Dmi  Bb   C F***  
+    ***Dmi  Bb   C F***  
   In time it comes to ev'ryone  
   ***C   F    Gmi F***  
   All dead all dead  
-         ***Bb     F***  
+    ***Bb     F***  
   But in hope I breathe  
-              ***A7      Dmi***  
+    ***A7      Dmi***  
   Of course I don't believe  
-         ***Bb       F***  
+    ***Bb       F***  
   You're dead and gone  
       ***Bb       F***  
   All dead and gone  

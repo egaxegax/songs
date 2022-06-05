@@ -15,12 +15,12 @@ It's survival in the city, children
 When you live from day to day  
   
 City streets don't have much pity, no  
-            E                     A  
+    E                     A  
 When you're down that's where you stay  
   
 A D/A E/A         D/A     E    A  
       IN THE CITY  
-                                     G   D  A  E  
+    G   D  A  E  
       IN THE CITY  
   
 Guitar solo  

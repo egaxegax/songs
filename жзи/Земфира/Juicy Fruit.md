@@ -15,9 +15,9 @@ Juicy Fruit
   Juicy Fruit, Juicy Fruit,  
   ***Fm                  C***  
   Juicy Fruit, люди врут.  
-                  ***G#***  
+    ***G#***  
   Про меня им не верь,  
-          ***H  G            C***  
+    ***H  G            C***  
   Ведь у нас есть Juicy Fruit.  
   
   Не говорила,  
@@ -25,13 +25,13 @@ Juicy Fruit
   Не целовались,  
   Вместе боялись.  
   
-          ***Cm***  
+    ***Cm***  
   Juicy Fruit, Juicy Fruit,  
-         ***Fm         C***  
+    ***Fm         C***  
   Люди врут, люди врут.  
-                  ***G#***  
+    ***G#***  
   Про меня им не верь,  
-          ***H  G            Am***  
+    ***H  G            Am***  
   Ведь у нас есть Juicy Fruit.  
   
     ***Am       Em    Am Dm***  
@@ -42,9 +42,9 @@ Juicy Fruit
   
   ***G# B           Cm***  
   Жевать Juicy Fruit, Juicy Fruit,  
-          ***Fm          C***  
+    ***Fm          C***  
   Juicy Fruit, люди врут.  
-                  ***G#***  
+    ***G#***  
   Про меня им не верь,  
-          ***H  G            Cm***  
+    ***H  G            Cm***  
   Ведь у нас есть Juicy Fruit.

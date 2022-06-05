@@ -86,11 +86,11 @@ Verse:  Mama she has taught me well
   Told me when I was young  
   ***Dm***  
   Son your life's an open book  
-        ***C                    Am***  
+    ***C                    Am***  
   Don't close it before it's done  
   ***Dm***  
   The brightest flame burns quickest  
-        ***C               Am***  
+    ***C               Am***  
   Thats what I heard her say  
   ***D***  
   The son's heart's owed to mother  
@@ -101,9 +101,9 @@ Verse:  Mama she has taught me well
 Chorus:  Let my heart go  
   ***Dm  C    Am  G***  
   Let your son grow  
-       ***Dm  C  Am    G***  
+    ***Dm  C  Am    G***  
   Mama let my heart go  
-       ***Dm   C   Bb    G  Am***  
+    ***Dm   C   Bb    G  Am***  
   Mama let this heart be still.  
   
   *Intro again*  
@@ -129,9 +129,9 @@ Verse 2: Remember my new last name
 Chorus:  Let my heart go  
   ***Dm  C    Am  G***  
   Let your son grow  
-       ***Dm  C  Am    G***  
+    ***Dm  C  Am    G***  
   Mama let my heart go  
-       ***Dm   C   Bb    G  Am***  
+    ***Dm   C   Bb    G  Am***  
   Mama let this heart be still.  
   
   ***Dm      G***  
@@ -148,14 +148,14 @@ Bridge:  Never I asked of you
   but never I gave  
   ***Dm              G***  
   But you gave me your emptiness  
-             ***C         F***  
+    ***C         F***  
   that I'll take to my grave  
-       ***Dm   C   Bb    G  Am***  
+    ***Dm   C   Bb    G  Am***  
   So let this heart be still.  
   
   ***Dm***  
 Verse 3: Mama now I'm coming home  
-           ***C               Am***  
+    ***C               Am***  
   I'm not all you wished of me  
   ***Dm***  
   A mother's love for her son  
@@ -163,28 +163,28 @@ Verse 3: Mama now I'm coming home
   was spoken heavily(?)  
   ***Dm***  
   yeah I took your love for granted  
-             ***C                Am***  
+    ***C                Am***  
   and all the things you said to me  
   ***Dm***  
   I need your arms to welcome me  
-       ***C                Am***  
+    ***C                Am***  
   That cold stone's all I see.....  
   
   ***Dm  C  Am    G***  
 Chorus:  Let my heart go  
   ***Dm  C    Am  G***  
   Let your son grow  
-       ***Dm  C  Am    G***  
+    ***Dm  C  Am    G***  
   Mama let my heart go  
-       ***Dm   C   Bb    G  Am***  
+    ***Dm   C   Bb    G  Am***  
   Mama let this heart be still.  
   ***Dm  C   Am   Dm***  
   Let my heart go  
-       ***Dm  C   Am   Dm***  
+    ***Dm  C   Am   Dm***  
   Mama let my heart go  
-            ***Dm  C   Am   Dm***  
+    ***Dm  C   Am   Dm***  
   You never let my heart go  
-       ***Dm   C   Bb    G  Am***  
+    ***Dm   C   Bb    G  Am***  
   Mama let this heart be still.  
   
   *Bridge*  
@@ -203,9 +203,9 @@ Chorus:  Let my heart go
   but never I gave  
   ***Dm              G***  
   But you gave me your emptiness  
-             ***C         F***  
+    ***C         F***  
   that I'll take to my grave  
-       ***Dm   C   Bb    G  Am***  
+    ***Dm   C   Bb    G  Am***  
   So let this heart be still.  
   
   *Here's that riff you all love:*  

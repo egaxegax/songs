@@ -111,9 +111,9 @@ Sheer Heart Attack 1974
   *can play that, the rest of the song is a cinch.*  
   
   *Chords: ***G7+5*** = [xx1001], ***G#dim*** = [xx0101],*  
-          ****C/E*** = [xx2010],*  
-          ****1dim*** = [xx1212], ***2dim*** = [xx2323] (don't know the names,*  
-                  *but they're diminished chords)*  
+    ****C/E*** = [xx2010],*  
+    ****1dim*** = [xx1212], ***2dim*** = [xx2323] (don't know the names,*  
+    *but they're diminished chords)*  
   *Refrain:*  
   ***C     G7    C     G7          C         G7    C       G7+5***  
   Bring back, bring back, bring back that Leroy Brown - Yeah!  
@@ -125,9 +125,9 @@ Sheer Heart Attack 1974
   Daddy cool with a ninety dollar smile (oooh------------)  
   ***Am                   G#dim             Am                   C#dim***  
   Took my money out of gratitude, and he git right out of town  
-                ***C         B7         Bb7       A7***  
+    ***C         B7         Bb7       A7***  
   Well, I gotta getty up, steady up, shoot him down  
-        ***Dm7      1dim  G7  C   G7+5***  
+    ***Dm7      1dim  G7  C   G7+5***  
   Gotta hit that lat - i - tude babe.  
   Big bad Leroy Brown, he got no common sense - no, no  
   Got no brains but he sure got a lot of style  
@@ -137,7 +137,7 @@ Sheer Heart Attack 1974
   gotta get me there dead or alive, babe!  
   ***C***  
   Woo-woo, big bad Leroy, woo-ooo  
-                         ***Am  E7     Am  Am  2dim  G7  G7  C  G7+5***  
+    ***Am  E7     Am  Am  2dim  G7  G7  C  G7+5***  
   Woo-woo, big bad Leroy  -  Brown!  
   ***C                    G7                 C***  
   Big Momma Lula Belle, she had a nervous breakdown  
@@ -145,9 +145,9 @@ Sheer Heart Attack 1974
   (nervous breakdown)  
   ***C                 G7           C   Em/B  Am***  
   Leroy's taken her honey-chile away  
-          ***F              Am             Dm7            Am***  
+    ***F              Am             Dm7            Am***  
   But she met him at the station,  put a shotgun to his head  
-        ***Dm            F     B7               G7***  
+    ***Dm            F     B7               G7***  
   And unless I be mistaken, this is what she said:  
   ***C                                     (C)  2dim  Am***  
   Big bad, big boy, big bad Leroy Brown,  
@@ -156,7 +156,7 @@ Sheer Heart Attack 1974
   Bring back, bring back, bring back that Leroy Brown - Yeah!  
   ***C                G7              C       2dim  Am***  
   Big bad caused a mighty fine sensation - yeah yeah  
-           ***C              G7          C***  
+    ***C              G7          C***  
   Gone and got himself elected president  
       ***Dm7   1dim  C/E  F            A7  D7  G7***  
   (we want) Le  - roy for president  
@@ -164,7 +164,7 @@ Sheer Heart Attack 1974
   Next time, you gotta hit a bitty baddy weather  
   ***(C)***  
   This time, like a shimmy shammy leather  
-         ***Dm7      Am***  
+    ***Dm7      Am***  
   He's a big boy, bad boy, Leroy  
     ***C          G/B       Am      1dim***  
   I don't care where you get him from  

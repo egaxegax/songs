@@ -2,11 +2,11 @@
 Secret Messages (1983)  
   Stranger  
   
-       ***Bb             C             Bb                C***  
+    ***Bb             C             Bb                C***  
   On a cold and windy morning, said goodbye to my old friends  
-            ***Bb                 C***  
+    ***Bb                 C***  
   They were hangin' around the corner,  
-            ***Dm               Am  F***  
+    ***Dm               Am  F***  
   They were stayin' till the end  
   On the other side of midnight,  
   I was lookin' for a place to stay  

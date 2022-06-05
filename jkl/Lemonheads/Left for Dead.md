@@ -24,37 +24,37 @@ Intro:      ***D        B         
   |-----------------------------|--------------------------|  
   
   ***Dm            Bm   B2  Bm    G     Bm***  
-       You left off      where I got on.  
+    You left off      where I got on.  
   ***B2 Bm       A2/C#               Bm11          A2         G6/9***  
-          Now        temptation's weak and my pa-tience is strong.  
+    Now        temptation's weak and my pa-tience is strong.  
   ***Dm           Bm  B2 Bm  G     Bm***  
-       Used to be  I      was unkind.  
+    Used to be  I      was unkind.  
   ***B2 Bm       A2/C#         Bm11           A2       G6/9***  
-          Now       I don't call   and you    don't mind.  
-                        ****A5v B5                         G5***   (Rhythm Fig. 1)*  
+    Now       I don't call   and you    don't mind.  
+    ****A5v B5                         G5***   (Rhythm Fig. 1)*  
   Thought it was wrong,         wrong what she said.  
   ***A2/C#              Bm11                   A2***  
-          Now you're right and I'm left for dead.  
+    Now you're right and I'm left for dead.  
   ***G6/9                         A5v B5          G5***  
-          Thought it was dumb,     dumb what I heard.  
+    Thought it was dumb,     dumb what I heard.  
   ***A2/C#           Bm11         A2      G6/9***  
-          Now I'm eatin' every word.  
+    Now I'm eatin' every word.  
   ***Dm               Bm         B2  Bm       G      Bm***  
       Clang, bang, clang went the good guy at the door.  
   ***B2 Bm       A2/C#        Bm11          A2         G6/9***  
-         They    put me in a cell with a   concrete floor.  
+    They    put me in a cell with a   concrete floor.  
   ***Dm             Bm    B2 Bm  G         Bm***  
-       Wrapped a phone cord   'round my fist.  
+    Wrapped a phone cord   'round my fist.  
   ***B2 Bm       A2/C#       Bm11           A2        G6/9***  
-         They       abort my wrist and I cut where I kissed.  
-                        ****A5v B5                         G5***   (Rhythm Fig. 1)*  
+    They       abort my wrist and I cut where I kissed.  
+    ****A5v B5                         G5***   (Rhythm Fig. 1)*  
   Thought it was wrong,         wrong what she said.  
   ***A2/C#              Bm11                   A2***  
-          Now you're right and I'm left for dead.  
+    Now you're right and I'm left for dead.  
   ***G6/9                         A5v B5          G5***  
-          Thought it was dumb,     dumb what I heard.  
+    Thought it was dumb,     dumb what I heard.  
   ***A2/C#           Bm11         A2      G6/9***  
-          Now I'm eatin' every word.  
+    Now I'm eatin' every word.  
   ***D2       Asus4  G6/9    Asus4***  
   Clang, bang,    clang.  
   ***D2       Asus4  G6/9    Asus4***  

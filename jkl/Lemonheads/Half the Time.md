@@ -2,20 +2,20 @@
 Half the Time  
   
   *Weird chords: ***G6***: [320030]  ***D2/B***: [x2x230]  ***G6/B***: [x20030]*  
-                ****Badd11***: [x24440]  ***C#m9***: [x46640]*  
+    ****Badd11***: [x24440]  ***C#m9***: [x46640]*  
   
 Intro:  | ***D2*** | ***G6 D2*** | ***G6 D2*** | ***Em A7*** |  
   ***| D2 | G6 D2 | G6 D2 | Em A7 |***  
   
-            ***D2                     G6            D2***  
+    ***D2                     G6            D2***  
   There's a crow flyin' down from over the hill.  
   ***G6            D2       Em       A7***  
   Cracked paint on my window sill.  
-        ***D2                   G6    D2***  
+    ***D2                   G6    D2***  
   Each morning broke provides a girl.  
   ***G6        D2         Em      A7***  
   Forget my evening feeling world.  
-       ***F#5            G5               A5***  
+    ***F#5            G5               A5***  
   When day gets dark      it seeps into my skin.  
       ***F#5            G5               A5***  
   And I rcall the spark that kept me sane.  
@@ -32,15 +32,15 @@ Intro:  | ***D2*** | ***G6 D2*** | ***G6 D2*** | ***Em A
   ***F#5                  G5                  A5***  
   I turn the lamp off,     I see where you are.  
   ***A2           D2               D2/B              A7***  
-          Your one light slowly fading in my mind.  
+    Your one light slowly fading in my mind.  
   ***A7sus4      D2                  Cadd9***  
-          The furthest from my head.  
+    The furthest from my head.  
   ***G6/B     G5***  
   Half the time.  
   ***D2               D2/B                      A7***  
   Simple point too bright to leave the sky.  
   ***D2                 Cadd9  G6/B  G5   Dm    G        F    C***  
-       You're dissolving    in my eye, in my eye.  
+    You're dissolving    in my eye, in my eye.  
   ***Dm        G       F     C***  
   My closed eye.  
   ***Dm              G       A5      F5      G5***  
@@ -51,11 +51,11 @@ Intro:  | ***D2*** | ***G6 D2*** | ***G6 D2*** | ***Em A
   My eyes set wet against    the breeze,  
   ***A2            E    F#m         B7***  
   Guide the sun into   the trees.  
-        ***G#5                   A5              B5***  
+    ***G#5                   A5              B5***  
   Where squirrels are holding acorns in their teeth.  
     ***G#5            A5             B5              Badd11***  
   I can't see into why I made you leave.  
-       ***E                C#m  C#m9      Badd11***  
+    ***E                C#m  C#m9      Badd11***  
   Your one light slowly fad--ing in my mind.  
       ***E                      D2***  
   The furthest from my head.  

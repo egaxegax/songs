@@ -23,7 +23,7 @@ You'll let me hold your hand.
 And when I touch you I feel happy inside  
 Gm7         C7               F  
 It's such a feeling that my love  
-          G7     F      G7     F      G7  
+    G7     F      G7     F      G7  
 I can't hide, I can't hide, I can't hide.  
   
 Yeh, you got that something  

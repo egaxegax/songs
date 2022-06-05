@@ -8,23 +8,23 @@ Police on My Back
   A------------------------------------------------------------------------  
   E------------------------------------------------------------------------]  
   
-             ***D***  
+    ***D***  
   Well, I'm running  
-         ***G***  
+    ***G***  
   Police on my back  
-          ***D***  
+    ***D***  
   Can you help me?  
-         ***G***  
+    ***G***  
   Police on my back  
-       ***D***  
+    ***D***  
   I am hiding  
-         ***G***  
+    ***G***  
   Police on my back  
-            ***D***  
+    ***D***  
   They were shooting  
-         ***G***  
+    ***G***  
   Police on my back  
-            ***A***  
+    ***A***  
   I've been running Monday, Tuesday, Wednesday  
   ***G***  
   Thursday, Friday, Saturday, Sunday  

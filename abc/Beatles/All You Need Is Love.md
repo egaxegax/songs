@@ -41,7 +41,7 @@ intro:  ``` means to let the note ring
   Theres nothing you can sing that can't be sung  
   ***D7/A                   G                      D/F#***  
   Nothing you can say but you can learn to  
-                 ***D7/A***  
+    ***D7/A***  
   play the game  
   ***D7/A      D7***  
   It's          easy  

@@ -17,7 +17,7 @@
   And I'm spinning like a top  
   ***C           E7          Am***  
   I wish that I could get off  
-              ***D7 G7                       C        G7***  
+    ***D7 G7                       C        G7***  
   Or that the world, that the world would stop.  
   
   ***C               E7***  

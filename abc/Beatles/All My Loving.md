@@ -88,17 +88,17 @@ Chorus:  All my ***Am***loving - ***C+***I will send to you*
   
 -  
   
-              ***F#m           B7***  
+    ***F#m           B7***  
   Close your eyes and I'll kiss you  
      ***E           C#m***  
   Tomorrow I'll miss you  
       ***A           F#m       D   B7***  
   Remember I'll always be true  
-             ***F#m        B7***  
+    ***F#m        B7***  
   And then while I'm away  
-              ***E          C#m***  
+    ***E          C#m***  
   I'll write home every day  
-             ***A           B7        E***  
+    ***A           B7        E***  
   And I'll send all my loving to you  
   I'll pretend that I'm kissing  
   the lips I am missing  
@@ -107,14 +107,14 @@ Chorus:  All my ***Am***loving - ***C+***I will send to you*
   I'll write home every day  
   And I'll send all my loving to you  
   
-           ***C#m   C+             E***  
+    ***C#m   C+             E***  
 CHORUS:  All my loving I will send to you  
-            ***C#m    C+             E***  
+    ***C#m    C+             E***  
   All my loving, darling I'll be true  
   
   *VERSE ONE, CHORUS*  
   
-           ***C#m            E***  
+    ***C#m            E***  
   All my loving, all my loving...  
   
   ****C+***: [x 3 2 1 1 0]*

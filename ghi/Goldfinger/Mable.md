@@ -70,7 +70,7 @@ Mable
   "that looks like a tube of cookie dough!"  
   ***d***  
   mine, she said then, looks like a  
-           ***c   b    a***  
+    ***c   b    a***  
   small pencil with broken lead  
   ***g              e***  
   rabieS got the puppy dogs  

@@ -3,23 +3,23 @@ Intro: D . A . |D . A . |D . A . |D . A . |
   
    D                   A  
 I touched you once too often  
-       D               A  
+    D               A  
 Now I don't know who I am  
     D                 A  
 My fingerprints were missing  
-        D              A  
+    D              A  
 When I wiped away the jam  
   
-       D  
+    D  
 Yes I called my fingerprints all night  
       A  
 But they don't seem to care  
   
 The last time that I saw them  
-                                D  
+    D  
 They were leafing through your hair  
   
-        G             D  
+    G             D  
 Fingerprints, fingerprints  
       Em       A              D . A . |D . A . |  
 Where are you now, my fingerprints?  

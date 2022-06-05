@@ -26,9 +26,9 @@
   I Reached inside myself  
     ***G***  
   And found nothing there  
-        ***Em***  
+    ***Em***  
   To ease the pressure off  
-          ***Am F Dm***  
+    ***Am F Dm***  
   My ever worrying mind  
   All my powers waste away  
   I fear the crazed and lonely looks  
@@ -52,10 +52,10 @@
   
 -  
   
-       ***d  d***  
+    ***d  d***  
   ***E- | A- F | C | G |***  
   ***E- | A- F | C | G |***  
-           ***d  d***  
+    ***d  d***  
    ***E-      A- F   C            G***  
   Touch me..     how can it be...  
    ***g     c***  
@@ -64,7 +64,7 @@
    ***g g     c a***  
    ***E-      A- F    C               G***  
   hold me..      close to your hea..rt  
-                     ***d.            d       d  d***  
+    ***d.            d       d  d***  
    ***E-(5+)  A- F      A-            G4      F  G | E-       A | Fo | Fo |***  
   touch me..    and give all your love to me         to me..............  
   ***Fo | Fo | Fo | Fo | Fo |***  
@@ -86,53 +86,53 @@
   looks the mirror's sending me these days  ohoo oh  
    ***E-      A- F   C            G***  
   touch me..     how can it be...  
-                                                ***---3---***  
-                                       ***d        |  |  |***  
+    ***---3---***  
+    ***d        |  |  |***  
       ***E-     A- F       C              G        /G /B /D***  
   believe me..     the sun always shines   on t.v.  
    ***E-      A- F    C               G***  
   hold me..      close to your hea..rt  
-                                           ***d  d***  
+    ***d  d***  
    ***E-      A- F      A-            G       F  G |***  
   touch me..    and give all your love to me  
   ***|. d |~--|. d-|~        d-|~ |.***  
   ***A-     | A- D    | D- | F    /G  |***  
   ***A-                       /C  D-                G4      G       C/E***  
      Please don't ask me to defend the shameful lowlands of the way I'm  
-             ***A-   G          F      D   F***  
+    ***A-   G          F      D   F***  
   drifting gloomily through time oohooo  
     ***A-                            D-                            G4     G***  
-       I reached inside myself today          thinking there's got to be  
+    I reached inside myself today          thinking there's got to be  
   (touch me)                     (keep on your love)  
-                          ***d        d     d d***  
-        ***C/E               A-       G     F A-/E | D-_|***  
+    ***d        d     d d***  
+    ***C/E               A-       G     F A-/E | D-_|***  
   some way   to keep my troubles distant  
    ***E-      A- F   C            G***  
   Touch me..     how can it be  
-                                                ***---3---***  
-                                         ***d      |  |  |***  
+    ***---3---***  
+    ***d      |  |  |***  
       ***E-     A- F       C                G      /G /B /D***  
   believe me..     the sun always shines   on t.v.  
    ***E-      A- F    C               G***  
   hold me..      close to your hea..rt  
-                                           ***d  d***  
+    ***d  d***  
    ***E-      A- F      A-            G       F  G | A-9 | A-9 | A-9 | A-9 |***  
   touch me..    and give all your love to me  
   ***A-6/9 | A-6/9 | A-6/9 | N.C.***  
   ***E- | A- F | C | G | E- | A- F | C | G  /G /B /D***  
    ***E-      A- F    C               G***  
   hold me..      close to your hea..rt  
-                                           ***d  d***  
+    ***d  d***  
    ***E-      A- F      A-            G       F  G | E-     | D***  
   touch me..    and give all your love to me        hey  
       ***|  |~  |. |~  |~---|  |~  |~-|.    |  |~  |. |~  |~---|  |~  |~- |.  |***  
       ***A- A-9 A- A-9 A- |    A-9 D      | A- A-9 A- A-9 A- |    A-9 D       |1***  
-                                                                           ***|***  
+    ***|***  
       ***|.     d      |~---|.     d----|~  |.     d      |~---|.     d----|~ |***  
       ***A-               | A-     D      | A-               | A-     D       |2***  
   to me.......  
   ***|  |~  |. |~  |~---|  |~  |~-|.         |             1 = keyboards***  
   ***A- A-9 A- A-9 A- |    A-9 D      | A-_| |1            2 = electric guitar***  
-                                          ***|***  
+    ***|***  
   ***|.     d      |~---|.     d~----|~      |***  
   ***A-               | A-     D      | A-_| |2***

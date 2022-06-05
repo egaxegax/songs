@@ -56,8 +56,8 @@ E verse riff
 |--------------------------|--------------------------|------------|  
   
   
-                                Rock and Roll  
-         By  
+    Rock and Roll  
+    By  
     Led Zeppelin  
 Song:  
   

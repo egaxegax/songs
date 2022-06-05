@@ -12,7 +12,7 @@ Mama Kin
   D|----9-9-7-9-9--9-9-7-9-9--7-7-7-7-7-7-2-2-2-2-2-2-2-2---------|  
   A|----7-7-5-7-0--9-9-7-9-9--7-7-7-7-7-7-2-2-2-2-2-2-2-2---------|  
   E|---------------7-7-5-7-0--5-5-5-5-5-0-0-0-0-0-0-0-0-0---------|]  
-                                          *D D U D U D U D*  
+    *D D U D U D U D*  
   *Chorus:*  
   *Chords used: B5(7th fret) E5(7th fret)*  
   *This is played and then the words are sung*  
@@ -22,7 +22,7 @@ Mama Kin
   D|----9-9-9----------------------------------9-9-9--------------|  
   A|----9-9-7----------------------------------9-9-7--------------|  
   E|----7-7------------------------------------7-7----------------|]  
-              *"Keep in touch with Mama Kin..."*  
+    *"Keep in touch with Mama Kin..."*  
   *D= strum down*  
   *U= strum up*  
   
@@ -43,12 +43,12 @@ Mama Kin
   The way i see it you got to say shit  
   but don't forget to drop me a line  
   *(chorus) + |Keepin' touch with Mama Kin|*  
-             |Tell em where you gone and been|  
-             |Livin out your fantasy|  
-             |Sleepin late and smokin tea|  
+    |Tell em where you gone and been|  
+    |Livin out your fantasy|  
+    |Sleepin late and smokin tea|  
   *verse 2*  
   *(chorus) + |Keepin' touch with Mama Kin|*  
-             |Tell em where you gone and been|  
-             |Livin out your fantasy|  
-             |Sleepin late and smokin tea|  
+    |Tell em where you gone and been|  
+    |Livin out your fantasy|  
+    |Sleepin late and smokin tea|  
   *(repeat till end)*

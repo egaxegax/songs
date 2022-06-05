@@ -5,18 +5,18 @@ Forever Not Yours
   
   ***Cm6***  
   Hold me tight  
-            ***Gm***  
+    ***Gm***  
   This is a lonely night  
-           ***D#        F***  
+    ***D#        F***  
   And I've hurt you baby  
-             ***Bb      D***  
+    ***Bb      D***  
   'Cause you are my light  
   
   ***Cm6***  
   Make me strong  
-                ***Gm***  
+    ***Gm***  
   Just like you make me weak  
-            ***D#***  
+    ***D#***  
   When your hands reach out for me  
   ***Bb             D***  
   Even in your sleep  
@@ -60,9 +60,9 @@ Solo:  1|-656-1313------|-656-1313-656-535-3133|
   
   ***Dm***  
   Hold me tight  
-             ***C***  
+    ***C***  
   This is a lonely night  
-       ***F***  
+    ***F***  
   And I've hurt you baby  
    ***C                      E***  
   Because you are my light  
@@ -106,15 +106,15 @@ Solo:  1|-0-053-053-0---|0-053-87-3-10-9-10-12|
   Hold me tight  
   ***Gm***  
   This is a lonely night  
-           ***Eb***  
+    ***Eb***  
   And I've hurt you baby  
-           ***Bb         D***  
+    ***Bb         D***  
   Because you are my light  
   ***Cm***  
   Make me strong  
-                       ***Gm***  
+    ***Gm***  
   Just like you make me weak  
-            ***Eb***  
+    ***Eb***  
   When your hands reach out for me  
   ***Bb              D***  
   Even in your sleep  
@@ -130,15 +130,15 @@ Solo:  1|-0-053-053-0---|0-053-87-3-10-9-10-12|
   Memories they keep coming through  
       ***Eb***  
   The good ones hurt more  
-           ***Bb       D***  
+    ***Bb       D***  
   Than the bad ones do  
   ***Cm***  
   The days were high  
-           ***Gm***  
+    ***Gm***  
   And the nights were deep  
-        ***Eb***  
+    ***Eb***  
   And I miss you baby  
-                ***D***  
+    ***D***  
   I miss you baby  
   I'll soon be gone now  
   Forever not yours  

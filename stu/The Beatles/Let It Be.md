@@ -1,7 +1,7 @@
 <!--2020-09-06 04:28:00-->
 C              G                 Am          F  
 When I find myself in times of trouble, Mother Mary comes to me  
-        C                 G              F  C/e Dm C  
+    C                 G              F  C/e Dm C  
 Speaking words of wisdom, let it be  
 And in my hour of darkness, She is standing right in front of me  
 Speaking words of wisdom, Let it be  
@@ -21,11 +21,11 @@ There will be an answer, let it be
   
 CHORUS: Let it be, let it be, let it be, let it be  
   
-        There will be an answer, let it be  
+    There will be an answer, let it be  
   
-        Let it be, let it be, let it be, let it be  
+    Let it be, let it be, let it be, let it be  
   
-        Whisper words of wisdom, let it be  
+    Whisper words of wisdom, let it be  
   
 LEAD  
   

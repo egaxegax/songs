@@ -41,14 +41,14 @@ Guitar intro: [E|-----------------------------------------------------------
   ***Cm***  
 verse:  I was only seventeen  
   I fell in love with a gypsy queen  
-       ****G#   G    G#   G***  then play the "Gypsy guitar riff"*  
+    ****G#   G    G#   G***  then play the "Gypsy guitar riff"*  
   She told me: "Hold on"  
-       ***Cm***  
+    ***Cm***  
   Her father was the leading man  
   Said: "You're not welcome  
-               ***G#-G***  
+    ***G#-G***  
   On our land"  
-                    ***C#-C***  
+    ***C#-C***  
   And then as a foe,  
   
   he told me to go  

@@ -10,10 +10,10 @@ E, F, G, H, I, J, I love you.
   
  F            Bb                         F  
 Bom, bom, bom, bom-pa-bom, sail the ship, bom-pa-bom,  
-                                                 chop the tree.  
+    chop the tree.  
  Bb                       C7  
 Bom-pa-bom, skip the rope, bom-pa-bom, look at me.  
   
  F                                C7                F  
 All together now, all together now, all together now,  
-                                            all together now...
+    all together now...

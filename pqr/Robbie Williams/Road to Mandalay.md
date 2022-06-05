@@ -7,7 +7,7 @@ Road to Mandalay
   Beat me up on the beach  
   ***Fm                 Gm***  
   What a lovely holiday  
-          ***G             Cm***  
+    ***G             Cm***  
   Thereґs nothing funny left to say  
   
   ***Fm                                 B7***  
@@ -32,13 +32,13 @@ Road to Mandalay
   ***B7***  
   As I got lost along the way  
   
-              ***G#           B7***  
+    ***G#           B7***  
 Припев:  Bum-bum-bum-ba-da-da-bum-bum  
-              ***Eb           Cm***  
+    ***Eb           Cm***  
   Bum-bum-bum-ba-da-da-bum-bum  
-              ***G#           B7***  
+    ***G#           B7***  
   Bum-bum-bum-ba-da-da-bum-bum  
-         ***Cm***  
+    ***Cm***  
   Bam-da-dam  
   
 (4)  Thereґs nothing left for you to give  

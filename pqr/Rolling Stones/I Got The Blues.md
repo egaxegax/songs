@@ -11,7 +11,7 @@ VERSE:
   
 D       G            D  
  As I stand by your flame  
-         Em          C  
+    Em          C  
  I get burned once again  
 G             D        C    G  D  
  Feeling low down and blue  
@@ -20,7 +20,7 @@ VERSE:
   
 D      G          D  
  As I sit by the fire  
-          Em     C  
+    Em     C  
  Of your warm desire  
 G            D        C    G      G  G   G D  
  I got the blues for you, yeah  
@@ -31,9 +31,9 @@ A                          D
  Every night you`ve been away  
 A                        D  
  I`ve sat down, I have prayed  
-              C           G         D  
+    C           G         D  
  That you`re safe in the arms of a guy  
-            Em        C  
+    Em        C  
  Who will bring you alive  
 G                D          C    G  
  Won`t drag you down with abuse, oh  
@@ -44,26 +44,26 @@ VERSE:
   
 D        G             D  
  In the silk sheet of time  
-         Em            C  
+    Em            C  
  I will find peace of mind  
 G           D            C   G  
  Love is a bed full of blues  
   
 OUTRO:  
   
-          D                 C   G  
+    D                 C   G  
 And I`ve got the blues for you  
-          D                 C   G  
+    D                 C   G  
 And I`ve got the blues for you  
-          D                      C   G  
+    D                      C   G  
 And I`ve bust my brains out for you  
-           D  
+    D  
 And I`ll tear my hair out  
-           C                         G  
+    C                         G  
 I`m gonna tear my hair out just for you  
-        D  
+    D  
 If you don`t believe what I`m saying  
      C  
 At three o` clock in the morning, babe  
-                      G  
+    G  
 Well, I`m singing my song for you.

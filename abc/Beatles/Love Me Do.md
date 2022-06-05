@@ -29,9 +29,9 @@ intro  played on harmonica
   Love love me do  
       ***G             C***  
   You know I love you  
-       ***G            C***  
+    ***G            C***  
   I'll always be true  
-              ***NC***  
+    ***NC***  
   So pleeeease  love me do  
   
 figure 1: [E--12h13--11h12--9h10-----------------------  
@@ -52,9 +52,9 @@ figure 1: [E--12h13--11h12--9h10-----------------------
   Love love me do  
       ***G             C***  
   You know I love you  
-       ***G            C***  
+    ***G            C***  
   I'll always be true  
-              ***NC***  
+    ***NC***  
   So pleeeease  love me do  
   
   *play figure 1 again*  
@@ -81,9 +81,9 @@ figure 1: [E--12h13--11h12--9h10-----------------------
   Love love me do  
       ***G             C***  
   You know I love you  
-       ***G            C***  
+    ***G            C***  
   I'll always be true  
-              ***NC***  
+    ***NC***  
   So pleeeease  love me do  
   
   *play figure 1 again*  
@@ -113,9 +113,9 @@ figure 1: [E--12h13--11h12--9h10-----------------------
   Love love me do  
       ***G             C***  
   You know I love you  
-       ***G            C***  
+    ***G            C***  
   I'll always be true  
-              ***NC***  
+    ***NC***  
   So pleeeease  love me do  
   
   *Fade out by playing intro a few times*  

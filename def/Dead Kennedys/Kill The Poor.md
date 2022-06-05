@@ -6,7 +6,7 @@ Kill The Poor
   Efficiency and progress is ours once more  
   ***Bm***  
   Now that we have the Neutron bomb  
-       ***G                                        A    Asus A***  
+    ***G                                        A    Asus A***  
   It's nice and quick and clean and gets things done  
    ***D***  
   Away with excess enemy  
@@ -46,7 +46,7 @@ Kill The Poor
   The crime rate's gone Feel free again  
      ***D                   Bm        C    A***  
   O' life's a dream with you, Miss Lily White  
-       ***D            Bm     C***  
+    ***D            Bm     C***  
   Jane Fonda on the screen today  
      ***D                   Bm   C***  
   Convinced the liberals it's okay  

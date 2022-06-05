@@ -4,14 +4,14 @@ If You've got trouble
   
   ***E*** ***/*** ***/*** ***/*** ***2*** ***/*** ***/*** ***/***  
   If you've got trouble  
-       ***A               B7           E***  
+    ***A               B7           E***  
   Then you've got less trouble than me  
   You say you're worried  
       ***A           B7         E***  
   You can't be as worried as me  
   ***A***  
   You're quite content to be bad  
-                             ***B7***  
+    ***B7***  
   With all the antics you've had over me  
   ***E***  
   Just start your trouble  

@@ -18,7 +18,7 @@ INTRO:  ***Em Esus4 G6   G6 Esus4 Em  G6 Esus4 Em***
   But I was wrong crazy  
      ***C     C/F***  
   It's gotta be strong it's gotta be right  
-         ***C                 C/F***  
+    ***C                 C/F***  
   Only wanted to stay a while (whoa-whoa)  
   ***G/D        C/F***  
   Only wanted to play a while (whoa-whoa)  

@@ -13,7 +13,7 @@ A|------------------|------2------2242-|------2------2242-|
 E|------------------|424--4-4--424----4|424--4-4--424-----|  
   
   After about two minutes of the song,  
-                     it changes to these riffs and variations of  
+    it changes to these riffs and variations of  
 G|--------4-|----------|  
 D|6646--66-6|----------|  
 A|----------|--------2-|  

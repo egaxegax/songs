@@ -7,31 +7,31 @@ VERSE:
 G      D                                          C                                   G  
 You think you're gonna make me softer with your fancy car.  A-ha  
   
-       D                                       C                                  G  
+    D                                       C                                  G  
 But I can tell you all your tricks ain't gonna get you far.  A-ha  
   
-        Gm                               Gm/F                  Eb  
+    Gm                               Gm/F                  Eb  
 They say that money's got a magic touch, but not to me  
   
-                                                 Am                             Am/G  
+    Am                             Am/G  
 It doesn't mean that much, you won't have me tonight  
   
-          D           Am7         F         D  
+    D           Am7         F         D  
 Alright   alright   alright   alright  
   
   
 CHORUS:  
   
-           G                    C                 G                                         C  
+    G                    C                 G                                         C  
 So   long    see  ya  honey,   you   can't   buy  me  with  your  money  
   
 G                                                        D  
 Tracy, Daisy, they may be crazy but I'll never be your girl.  
   
-         G               C               G                                 C  
+    G               C               G                                 C  
 So long, see ya honey, you can't buy me with your money.  
   
-          G                                  D                  C            D              G  
+    G                                  D                  C            D              G  
 You   know   it's  not   worth  tryin,  so  long   so long    so long.  
   
   

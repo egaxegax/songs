@@ -48,7 +48,7 @@ D|----7h9p7----7-----------7----------------9/11--|
 A|----7h9p7--7h9---------7----7---------7---9/11--|  
 E|-----------------7--9----------7---9------------|  
   
-                           Bend down 1/2  w/ bar  
+    Bend down 1/2  w/ bar  
 E|------------------------------------------------|  
 B|------------------------------------------------|  
 G|------------------------------------------------|  
@@ -58,17 +58,17 @@ E|---------------------7h9------------------------|
   
 E                               Aadd9  
 Gold and rose the color of the dream I had  
-                  E       A  
+    E       A  
 not too long ago. A misty blue and the lilac  
-       E     C#m  
+    E     C#m  
 too a never  to grow old  a there you were under  
      Asus2     E        C#m7  
 the tree of song   sleeping so peacefully  
 E                A                 C#m7  
 In your hand a flower played , a waiting  
-                  C#  
+    C#  
 there for me.  
-                G#    B      F#            C#  
+    G#    B      F#            C#  
 I have never laid eyes on you not like before  
    G#          B   F#7          C#         G#  
 this timeless day.  A but you walked and ya once  
@@ -87,7 +87,7 @@ Misty blue and lilac too a never grow to old
 A gold and rose the color of the dream I had.  
 E               C#m        E5                D5            A  
 Misty blue and lilac too. Gold and rose the color of the  
-                                                    dream I had  
+    dream I had  
   
 C, C#m  
 is the chord pattern from here on.    As I  

@@ -4,14 +4,14 @@ Winnebago Warrior
   
   *Intro:*  
   *bass: [g ----------- 11-11------] (4x without guitar)*  
-        [d -------9-9- -------9-9-  
-        a 11-11------ -----------  
-        e ----------- -----------]  
+    [d -------9-9- -------9-9-  
+    a 11-11------ -----------  
+    e ----------- -----------]  
   *guitar:  ***B     C#     B     G#****  
-           ***B   G# } 2x***  
-           ***G#  B  } 4x***  
+    ***B   G# } 2x***  
+    ***G#  B  } 4x***  
   
-           ***G#        B        G#***  
+    ***G#        B        G#***  
   Roughin' it in the great outdoors  
   ***B          G#      B        G#***  
   Guidebooks tell us where to go  
@@ -26,7 +26,7 @@ Winnebago Warrior
   Brave as old John Wayne  
   ***C#            B***  
   Winnebago Warrior  
-         ***D#***  
+    ***D#***  
   A true yankee pioneer  
   
 Riff:  [e -------- -------- -------- --------  

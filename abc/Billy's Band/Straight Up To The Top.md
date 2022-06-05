@@ -25,7 +25,7 @@
   Pull ol' Frankie down  
   ***Dm***  
   Live for tomorrow  
-          ***G7***  
+    ***G7***  
   I have found you  
   
   I'm going straight up to the top  

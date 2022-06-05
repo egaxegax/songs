@@ -14,7 +14,7 @@
   --------------------------------------------]  
   ***A                                E***  
   Always thinking she's so fucking cool  
-       ***A                             E***  
+    ***A                             E***  
   With politics that would make Bozo drool  
     ***D                                E***  
   I really want to smash her fucking face  
@@ -24,24 +24,24 @@
   I'm sorry if this don't sound to PC  
   ***D                                E***  
   I don't worship her so she hates me  
-          ***A                E***  
+    ***A                E***  
   She's a cretin can't you see  
-          ***A        E***  
+    ***A        E***  
   She's a cretin a sickie  
-          ***A              E                  D             E***  
+    ***A              E                  D             E***  
   She's a cretin and I'm hoping that she'll hop away from me  
-        ***A                E***  
+    ***A                E***  
   She's a cretin can't you see  
-          ***A        E***  
+    ***A        E***  
   She's a cretin a sickie  
-          ***A              E                  D             E***  
+    ***A              E                  D             E***  
   She's a cretin and I'm hoping that she'll hop away from me  
   ***A E D E***  
-          Ugh!  
+    Ugh!  
   Then play the riff again once.  
   ***A                                E***  
   Always thinking she's so fucking cool  
-       ***A                             E***  
+    ***A                             E***  
   With politics that would make Bozo drool  
     ***D                                E***  
   I really want to smash her fucking face  
@@ -51,17 +51,17 @@
   I'm sorry if this don't sound to PC  
   ***D                                E***  
   I don't worship her so she hates me  
-          ***A                E***  
+    ***A                E***  
   She's a cretin can't you see  
-          ***A        E***  
+    ***A        E***  
   She's a cretin a sickie  
-          ***A              E                  D             E***  
+    ***A              E                  D             E***  
   She's a cretin and I'm hoping that she'll hop away from me  
-        ***A                E***  
+    ***A                E***  
   She's a cretin can't you see  
-          ***A        E***  
+    ***A        E***  
   She's a cretin a sickie  
-          ***A              E                  D             E***  
+    ***A              E                  D             E***  
   She's a cretin and I'm hoping that she'll hop away from me  
   
   *Then play ***A E D E***, 6 times. While doing that sing "cretin, cretin,*  

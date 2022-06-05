@@ -14,9 +14,9 @@ Heavy Petting Zoo (Epitaph 1996)
   They disregard civil disobedience  
   ***A              C             G***  
   They'd rather do what they should  
-              ***F         C       G***  
+    ***F         C       G***  
   They don't drink or fuck or fight  
-                 ***F        C                  G***  
+    ***F        C                  G***  
   They all stay home and read, expand their minds  
   
   There's something wrong with the kids in my cul-de-sac  

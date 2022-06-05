@@ -14,7 +14,7 @@
   *BE CAREFUL WITH THE STROKE DIRECTION!!!*  
   *===================================*  
   *FIRST: A piece from the second solo of 99 Ways to Die*  
-        *(Megadeth, The Beavis and Butt-head Experience)*  
+    *(Megadeth, The Beavis and Butt-head Experience)*  
   *Note: Very fast!!!*  
       *v  ^  v  ^  v  ^  v  ^    v  ^  v  ^  v  ^  v  ^*  
   [E|-20-15-17----15----------|-15----------15----------|  

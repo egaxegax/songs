@@ -4,12 +4,12 @@ Memphis, Tennessee
   *(This song was later covered by Johnny Rivers and*  
   *by the Beatles in the key of F. )*  
   ***G / / / 2 / / / 3 / /***  
-       ***D***  
+    ***D***  
   Long-distance information, get me Memphis, Tennessee  
   Help me find the party who tried to get in touch with me  
       ***G***  
   She could not leave her number, but I know who placed the call  
-                         ***D7                             G***  
+    ***D7                             G***  
   'Cause my uncle took a message and he wrote it on the wall  
   
 Verse 2: Help me, information, get in touch with my Marie  

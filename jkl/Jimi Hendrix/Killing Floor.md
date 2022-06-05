@@ -4,17 +4,17 @@ Killing Floor
   *The Jimi Hendrix Version (Originally by Howlin' Wolf)*  
   
   *Note - This is my first attempt at transcribing this awesome song... I posted*  
-         *messages on usenet requesting this song and when i received no replies*  
-         *i decided to try to work it out. This version is in A minor (which I*  
-         *think is the key Jimi played it in, if you want to play along with Jimi*  
-         *then you'll have to downtune half a step to Eb).*  
-         *I find this is a good type of song to jam with heaps of guitarists as*  
-         *there are always too many guitarists so you can use 3 with this...*  
-         *- one doing the lead riffs*  
-         *- one doing the 12 bar blues*  
-         *- one soloing*  
-         *Alternate so the poor guy doing the 12 bar blues doesn't fall asleep.*  
-         *I can't describe the timing but basically play it as fast as you can.*  
+    *messages on usenet requesting this song and when i received no replies*  
+    *i decided to try to work it out. This version is in A minor (which I*  
+    *think is the key Jimi played it in, if you want to play along with Jimi*  
+    *then you'll have to downtune half a step to Eb).*  
+    *I find this is a good type of song to jam with heaps of guitarists as*  
+    *there are always too many guitarists so you can use 3 with this...*  
+    *- one doing the lead riffs*  
+    *- one doing the 12 bar blues*  
+    *- one soloing*  
+    *Alternate so the poor guy doing the 12 bar blues doesn't fall asleep.*  
+    *I can't describe the timing but basically play it as fast as you can.*  
   
   *-: Riff 1*  
   [E-|---------------------------------|  

@@ -132,11 +132,11 @@ Verse:  Your rise and fall, back up against the wall
   *Chorus: (down strumming, then up-down, then down)*  
   ***A***  
   No one loves you and you know it  
-                                ***E               B***  
+    ***E               B***  
   Don't pretend that you enjoy it, or you don't care!  
   ***A                                                               A#***  
   Cause now I wouldn't lie or tell you all the things you want to hear.  
-               ***B   A  E***  
+    ***B   A  E***  
   Cause I hate you!   } x4  
   
   *Pre-verse*  

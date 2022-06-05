@@ -8,7 +8,7 @@ Bb/d:           xx0331
 Cm7/bb:         635343  
   
 Intro: G7 . . |G+ . G7 |C7sus4 . . |C . . |  
-       F . . |F13 . F |Bb . . |/bb /a /ab |  
+    F . . |F13 . F |Bb . . |/bb /a /ab |  
   
 G          G+  G7  C' C  
 I came so far for beauty  
@@ -29,9 +29,9 @@ Ab                 G       G+ 
 I practiced on my sainthood  
 Ab                 G    G+ G7  
 I gave to one and all  
-          Eb    Bb/d   Cm    Cm7/bb  
+    Eb    Bb/d   Cm    Cm7/bb  
 But the rumours of my virtue  
-       Ab    Bb7       Eb    Eb Fm Gm  
+    Ab    Bb7       Eb    Eb Fm Gm  
 They moved her not at all  
   
 I changed my style to silver  
@@ -90,9 +90,9 @@ Bb                 A       A+ 
 I practiced on my sainthood  
 Bb                 A    A+ A7  
 I gave to one and all  
-          F     C/e   Dm    Dm7/c  
+    F     C/e   Dm    Dm7/c  
 But the rumours of my virtue  
-       Bb    C7        F     F Gm Am  
+    Bb    C7        F     F Gm Am  
 They moved her not at all  
   
 I changed my style to silver  

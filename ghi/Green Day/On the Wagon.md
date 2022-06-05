@@ -9,7 +9,7 @@ INTRO:  ***F#*** (X2), ***B***, ***Bm***, ***F#***, ***C#***, **
   
   ***B                              Bm***  
 CHORUS:  Today I'll say sweet things,  
-                  ***F/F#      F/F#***  
+    ***F/F#      F/F#***  
   But tomorrow,  
   ***F#                                              C#***  
   I'll be making up excuses for my actions,  

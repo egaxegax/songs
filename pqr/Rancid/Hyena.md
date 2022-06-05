@@ -12,15 +12,15 @@ Hyena
   *3. VERSE*  
   ***G***  
   I'm money broke  
-       ***B-C-B-C***  
+    ***B-C-B-C***  
   It's no joke  
   ***G***  
   Can't cope  
-                         ***B-C-B-C***  
+    ***B-C-B-C***  
   Use the rope this time  
   ***G***  
   Knuckle up, buckle up  
-                ***B-C-B-C***  
+    ***B-C-B-C***  
   The ride's getting rough  
   ***G                             B-C-B-C***  
   But I will not lose my mind  

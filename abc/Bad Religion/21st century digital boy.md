@@ -2,7 +2,7 @@
 21st century digital boy  
   
   ***D***  
-            ***D        F  G  A# A***  
+    ***D        F  G  A# A***  
   I can't believe it,  
       ***D       F        G      A#***  
   the way you look sometimes,  
@@ -10,7 +10,7 @@
   like a trampled flag on a city street,  
      ***D    F  A***  
   oh yeah  
-              ***D       F  G  A# A***  
+    ***D       F  G  A# A***  
   and I don't want it,  
       ***D             F        G  A# A***  
   the things you're offering me,  
@@ -18,7 +18,7 @@
   symbolized bar code, quick i.d.,  
      ***D    F  A***  
   oh yeah  
-        ***D    A#      F       C***  
+    ***D    A#      F       C***  
   I'm a 21st century digital boy,  
     ***D                 A#             F            C***  
   I don't know how to live, but I've got a lot of toys,  

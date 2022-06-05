@@ -7,9 +7,9 @@ Hm G(III) A(V)                F#m
 Я был один, но мне казалось я кто-то другой,  
 Hm      G(III) A(V)          F#m  
 Я был один,    и я не знал кто я  
-       Hm   A F#m G(III)  
+    Hm   A F#m G(III)  
 Белое reggae  
-       Hm   A F#m G(III)  
+    Hm   A F#m G(III)  
 Белое reggae  
   
 Они живут сейчас,  

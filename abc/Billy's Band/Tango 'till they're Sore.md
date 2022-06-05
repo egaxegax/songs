@@ -14,20 +14,20 @@
   всё-таки выучился, навострился играть немножко на нём, используя только  
   чёрные...  
   
-             ***Am                          Dm***  
+    ***Am                          Dm***  
   Well you play that tarantella all the hounds will start to roar  
-       ***E                           Am***  
+    ***E                           Am***  
   The boys all go to hell and the cubans seet the floor  
-                                       ***Dm***  
+    ***Dm***  
   They drive along the pipeline, they tango ’til they’re sore  
-        ***E                                    Am***  
+    ***E                                    Am***  
   They take apart their nightmares and they leave them by the door  
   
-          ***Dm7                            E***  
+    ***Dm7                            E***  
   Let me fall out of the window with confetti in my hair  
    ***Am                             Dm***  
   Deal out jacks or better on a blanket by the stair  
-        ***E                              Am***  
+    ***E                              Am***  
   I’ll tell you all my secrets, but I lie about my past  
       ***Dm             E           Am***  
   To send me off to bed for evermore  

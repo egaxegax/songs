@@ -4,7 +4,7 @@
   
   *Chords: (You should probably use the powerchords, it is easier that way)*  
   *String# 6 54 3 21*  
-              [EADGBe]  
+    [EADGBe]  
   ****E***      [022100] or [X79980]*  
   ****A***      [X02220] or [57760X]*  
   ****B***     [XX4442] or [79980X]*  
@@ -20,11 +20,11 @@ Verse:  I wanna be your dominated love slave
   
   ***A      E***  
 Chorus:  'Cause I love feelin' dirty  
-           ***B             E***  
+    ***B             E***  
   and I love feelin' cheap  
   ***A           E***  
   And I love it when you hurt me  
-       ***B          E***  
+    ***B          E***  
   So drive those staples deep  
   
   ***E     A***  
@@ -53,5 +53,5 @@ Solo:  [e ------------------------3-
   E-----0----------------0-------]  
   *Then final chorus......*  
   I love it when you hurt me  
-       ***B          E***  
+    ***B          E***  
   So drive those staples deep

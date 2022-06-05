@@ -25,7 +25,7 @@ Riff:                 ***Bb   B***
   All the people  
    ***(Riff)***  
   So many people  
-           ***G   F#***  
+    ***G   F#***  
   And they all go  
   ***E       D***  
   Hand in hand  
@@ -51,7 +51,7 @@ Riff:                 ***Bb   B***
   All the people  
    ***(Riff)***  
   So many people  
-           ***G   F#***  
+    ***G   F#***  
   And they all go  
   ***E       D***  
   Hand in hand  

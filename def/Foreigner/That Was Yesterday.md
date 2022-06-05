@@ -22,52 +22,52 @@
   You were the only one the only friend I counted on  
   ***G#m                    E***  
   How could I watch you walk away  
-           ***B                     F#***  
+    ***B                     F#***  
   I'd give anything to have you here today  
       ***Bbm           Gb            Db  Ab      Bbm***  
   But now I stand alone with my pride    and dream  
-               ***Gb          Db  Ab***  
+    ***Gb          Db  Ab***  
   That you're still by my side    but that was  
   ***Ebm                              Gb***  
   Yesterday I had the world in my hands  
-                   ***Db***  
+    ***Db***  
   But it's not the end of my world  
-                           ***Ebm***  
+    ***Ebm***  
   Just a slight change of plans  
-                                     ***Bbm***  
+    ***Bbm***  
   That was yesterday but today life goes on  
-                     ***Db***  
+    ***Db***  
   No more hiding in yesterday cause yesterday's gone  
   *(Intro-twice)*  
   ***G#m             E***  
   Love my love I gave it all  
-             ***B                    F#***  
+    ***B                    F#***  
   Thought I saw the light when I heard you call  
   ***G#m           E***  
   Life that we both could share  
-         ***B                F#***  
+    ***B                F#***  
   Has deserted me left me in despair  
       ***Bbm           Gb            Db  Ab***  
   But now I stand alone with my pride    fighting back  
-       ***Bbm           Gb         Db Ab***  
+    ***Bbm           Gb         Db Ab***  
   The tears I never let myself cry    but that was  
    ***Ebm                             Gb***  
   Yesterday love was torn from my hands  
-                   ***Db***  
+    ***Db***  
   But it's not the end of my world  
-                        ***Ebm***  
+    ***Ebm***  
   Just a little hard to understand  
-                                    ***Bbm***  
+    ***Bbm***  
   That was yesterday but today life goes on  
-                        ***Db***  
+    ***Db***  
   You won't find me in yesterday's world  
-                   ***Ebm***  
+    ***Ebm***  
   Now yesterday's gone  
-                                      ***Bbm***  
+    ***Bbm***  
   Goodbye yesterday now it's over and done  
-                          ***Db***  
+    ***Db***  
   Still I hope somewhere deep in your heart  
-                            ***F#    G#m      E***  
+    ***F#    G#m      E***  
   Yesterday will live on [E----------------12-  
-                         B---------9--11-----  
-                         G--6---8-----------]
+    B---------9--11-----  
+    G--6---8-----------]

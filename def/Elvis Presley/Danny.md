@@ -27,11 +27,11 @@ Danny
   I'm so afraid of tomorrow  
   ***F***  
   So tired of today  
-       ***E7***  
+    ***E7***  
   They say that love is the answer  
       ****Am         G7      C7***  (Tacet)*  
   But love never came my way  
-                ***F***  
+    ***F***  
   I'm writing a letter  
   ***A7           Dm***  
   To someone unknow  
@@ -39,5 +39,5 @@ Danny
   So if you should find it  
   ***C7             F***  
   And if you're alone  
-       ****C7***     (Tacet) ***Bb7***   (Tacet) ***F     Bb  F****  
+    ****C7***     (Tacet) ***Bb7***   (Tacet) ***F     Bb  F****  
   Well Danny, yes,    Danny is my   name, oh, yes

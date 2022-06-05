@@ -11,7 +11,7 @@ Intro:             ***Am      Am***
   
   ***Am                  G***  
   As I walk along I wonder what went wrong  
-        ***F                             E***  
+    ***F                             E***  
   With our love, a love that was so strong  
   ***Am                         G***  
   And as I still walk on, I think of the things we've done  
@@ -25,17 +25,17 @@ Intro:             ***Am      Am***
   Wishin' you were here by me  
   ***F#m***  
   To end this misery  
-         ***A***  
+    ***A***  
   And I wonder  
-                ***F#m***  
+    ***F#m***  
   I wa-wa-wa-wa-wonder  
    ***A***  
   Why  
-                     ***F#m***  
+    ***F#m***  
   Ah-why-why-why-why-why she ran away  
-         ***D                     E***  
+    ***D                     E***  
   And I wonder where she will stay  
-             ***A        D               A       E***  
+    ***A        D               A       E***  
   My little runaway, run-run-run-run-runaway  
   
 Solo:  [E||------------------------------------------------------------||  
@@ -53,17 +53,17 @@ Solo:  [E||------------------------------------------------------------||
   Wishin' you were here by me  
   ***F#m***  
   To end this misery  
-         ***A***  
+    ***A***  
   And I wonder  
-                ***F#m***  
+    ***F#m***  
   I wa-wa-wa-wa-wonder  
    ***A***  
   Why  
-                     ***F#m***  
+    ***F#m***  
   Ah-why-why-why-why-why she ran away  
-         ***D                     E***  
+    ***D                     E***  
   And I wonder where she will stay  
-              ***A          D               A***  
+    ***A          D               A***  
   My little runaway, a-run-run-run-run-runaway  
      ***D               A***  
   A-run-run-run-run-runaway

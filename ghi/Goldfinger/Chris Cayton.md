@@ -47,11 +47,11 @@ Hang-ups (1997)
   *Verse:*  
   ***D                    G            D                  G***  
   You taught me how to play guitar, you taught me that I'd go  
-              ***D      G            D   G   D***  
+    ***D      G            D   G   D***  
   far just by trying. Yea just by trying. We were kids playing  
   ***G          D                G               D     G***  
   Social D., spiritual man on l.s.d., we were frying, yea we  
-       ***D***  
+    ***D***  
   were frying.  
   
   *Play this riff during last half of verse:*  
@@ -84,19 +84,19 @@ Hang-ups (1997)
   D---5---7---5---7-----5---7----------5------  
   A-------7-----------------7----------5------  
   E-------5-----------------5----------3------]  
-             ***G Am                  C   D***  
+    ***G Am                  C   D***  
   Chris Cayton,  I called you Satan.  
-                         ***G   Am        (C)      (D)    G***  
+    ***G   Am        (C)      (D)    G***  
   Cause when we were skatin', you would make the metal sign.  
   
   *Repeat intro.*  
   
   *Verse:*  
-          ***D                                G           D***  
+    ***D                                G           D***  
   You got kicked out of school for wearing profanity. "Too  
-                          ***G                     D     G***  
+    ***G                     D     G***  
   drunk to fuck" said the Dead Kennedys on your button, your  
-            ***D    G***  
+    ***D    G***  
   punk rock button.  
   
   *Riff: (* means played quietly)*  

@@ -5,23 +5,23 @@ Running to Paradise (1996)
   
       ***Dm                     C                Dm***  
   I cried when the moon was murmuring to the birds:  
-                        ***C                     Dm***  
+    ***C                     Dm***  
   "Let peewit call and curlew cry where they will,  
      ***Gm                      F                  C***  
   I long for your merry and tender and pitiful words,  
-                      ***Gm                        B***  
+    ***Gm                        B***  
   For the roads are unending, and there is no place to my mind."  
-       ***Dm         A        B                  C***  
+    ***Dm         A        B                  C***  
   The honey-pale moon lay down on the sleepy hill,  
       ***Gm         C        F                  Dm***  
   And I fell asleep upon lonely Echtge of streams.  
   ***Gm                         C                   F   Dm***  
   No boughs have withered because of the wintry wind;  
-       ***Gm                     C***  
+    ***Gm                     C***  
   The boughs have withered because,  
-       ***G                      B***  
+    ***G                      B***  
   The boughs have withered because,  
-          ***Am            Dm    Am C Dm B Am C***  
+    ***Am            Dm    Am C Dm B Am C***  
   I have told them my dreams.  
   
   I know of the leafy paths that the witches take  

@@ -1,24 +1,24 @@
 <!--2020-09-04 23:36:51-->
 Intro: G . . . |D . . . |Am7 . . . |C . . . |  
-       Em . . . |D . . . |C . . . |D . . . |. . . . |  
+    Em . . . |D . . . |C . . . |D . . . |. . . . |  
   
 G                  G7  
 I loved you for a long, long time  
 C  
 I know this love is real  
-          G  
+    G  
 It don't matter how it all went wrong  
       D  
 That don't change the way I feel  
-       G                  B  
+    G                  B  
 And I can't believe that time's  
-                 Em                     C      Eb7  
+    Em                     C      Eb7  
 Gonna heal this wound that I'm speaking of  
-       G  
+    G  
 There ain't no cure  
-       D  
+    D  
 There ain't no cure  
-       C                 G  
+    C                 G  
 There ain't no cure for love  
   
 I'm aching for you baby  
@@ -31,22 +31,22 @@ There ain't no cure
 There ain't no cure  
 There ain't no cure for love  
   
-                Em            G  
+    Em            G  
 (There ain't no cure for love)  
-                Em         G  
+    Em         G  
 (There ain't no cure for love)  
-                           C  
+    C  
 All the rocket ships are climbing through the sky  
-          C  
+    C  
 The holy books are open wide  
-             D  
+    D  
 The doctors working day and night  
-             D                   Em            G  
+    D                   Em            G  
 But they'll never ever find that cure for love  
   
-                  C  
+    C  
 (There ain't no drink, no drug)  
-          A                           D  
+    A                           D  
 (There's nothing pure enough to be a cure for love)  
   
 I see you in the subway  

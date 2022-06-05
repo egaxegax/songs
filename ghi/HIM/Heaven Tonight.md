@@ -11,7 +11,7 @@ Heaven Tonight
   (I'm in love with you)  
   ***D                          C***  
   You are my heaven tonight  
-           ***A     C    D***  
+    ***A     C    D***  
   (I'm in love with you)  
   You are my heaven tonight  
   Trying to find the heart you hide  

@@ -25,19 +25,19 @@ My Name Is Jack
   *(w/recorder and electric piano):*  
       ***D       Em         D***  
   My name ..  
-          ***G     A     D***  
+    ***G     A     D***  
   Of the ..  
-         ***A             F#/A#***  
+    ***A             F#/A#***  
   With ..  
-       ***Bm  E      A***  
+    ***Bm  E      A***  
   Wherever..  
   
   *Chorus:*  
       ***G          D/F#***  
   And my ..  
-         ***Em   /A      D***  
+    ***Em   /A      D***  
   And I ..  
-           ***G   F#m             B***  
+    ***G   F#m             B***  
   Of the ..  
   
   We ..  
@@ -50,11 +50,11 @@ My Name Is Jack
   *Verse 2:*  
     ***D         Em           D/F#***  
   There ..  
-              ***G           A        D***  
+    ***G           A        D***  
   'Cause ..  
-       ***A          F#7***  
+    ***A          F#7***  
   And .. (US single: Superman)  
-       ***Bm     E      A***  
+    ***Bm     E      A***  
   Who ..  
   
   It's ..  
@@ -74,7 +74,7 @@ My Name Is Jack
   And ..  
   And ..  
   Who's ..  
-            ***Bb***  
+    ***Bb***  
   My ..  
   
   *key changes to Eb*  
@@ -82,9 +82,9 @@ My Name Is Jack
   *Chorus (in Eb):*  
       ***Ab        Eb/G***  
   And..  
-         ***Fm  /Bb     Eb***  
+    ***Fm  /Bb     Eb***  
   And I..  
-          ***Ab    Gm             C***  
+    ***Ab    Gm             C***  
   Of the ....  
   We ..  
   And ..  
@@ -102,12 +102,12 @@ My Name Is Jack
   *(repeat 2X):*  
      ***Ab       Eb/G***  
   We ..  
-          ***Fm  /Bb     Eb***  
+    ***Fm  /Bb     Eb***  
   And ..  
-          ***Ab    Gm             C***  
+    ***Ab    Gm             C***  
   Of the ..  
   
   *(repeat to fade):*  
-              ***C***  
+    ***C***  
   My ..  
   And I l..

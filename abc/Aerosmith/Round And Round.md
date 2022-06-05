@@ -15,7 +15,7 @@
   A----7-----2-----3-----5--5--5--5h7------7\3----|  
   E----5------------------------------------------|]  
   *verse:*  
-       ****F#5 A***       |---PM----|   |---|    |--|*  
+    ****F#5 A***       |---PM----|   |---|    |--|*  
   [E------------------------------------------------|  
   B------------------------------------------------|  
   G------------/9----------------------------------|  
@@ -28,9 +28,9 @@
   you wouldn't be tellin' me things that weren't exactly true  
   Now everything changes  ain't nothin the same  
   I'm gettin' the strangest feelin' I can't remember my name  
-             ***A5                           B5                            C5***  
+    ***A5                           B5                            C5***  
   Cause the life I've been livin and the love I've been givin' will be sure to  
-                               ***D5***  
+    ***D5***  
   send you spinnin' with your feet never touchin' the ground, goin' round  
   and     round.  
   When it was one for all and it was all for one  

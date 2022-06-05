@@ -1,9 +1,9 @@
 <!--2020-09-06 03:43:45-->
 Key to the Highway  
   
-            ***A          E            D                       D7            A***  
+    ***A          E            D                       D7            A***  
   I got the key to the highway, I'm booked out and bound to go, I'm gonna leave  
-                ***E                    A    E***  
+    ***E                    A    E***  
   here running, ain't coming back no more  
   I'm going back to the border, where I'm better known, I'm gonna ride this old  
   highway, ain't coming back no more  

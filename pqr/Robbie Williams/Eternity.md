@@ -10,7 +10,7 @@ Eternity (2001)
   I can't promise I will heal you  
       ***Eb                      D***  
   But if you want to I will try  
-        ***Cm***  
+    ***Cm***  
   I'll sing this somber serenade  
   ***Cm7***  
   The past is done  
@@ -21,15 +21,15 @@ Eternity (2001)
   Someone said the truth will out  
   ***Cm7                            F***  
   I believe without a doubt, in you  
-            ***Bb               Eb***  
+    ***Bb               Eb***  
   You were there for summer dreaming  
-           ***Gm             Eb***  
+    ***Gm             Eb***  
   And you gave me what I need  
-          ***Bb                F***  
+    ***Bb                F***  
   And I hope you find your freedom  
-         ***Cm***  
+    ***Cm***  
   For eternity...  
-       ***Bb***  
+    ***Bb***  
   For eternity  
   Yesterday when you were walking  
   We talked about your mum and dad  

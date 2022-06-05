@@ -22,7 +22,7 @@ Intro:  ***G  F  G  F  G  F  C***
   She needs a little sparkle  
   ***Eb    D***  
   Good morning t.v.  
-         ***Bm    C***  
+    ***Bm    C***  
   You're looking so healthy  
   ***Em   D***  
   We all say don't want to be alone  
@@ -57,16 +57,16 @@ Intro:  ***G  F  G  F  G  F  C***
   Picking up the rubbish  
   ***G               Gmaj7***  
   Give her effervescence  
-          ***Em               Em/D***  
+    ***Em               Em/D***  
   She needs a little sparkle  
   ***Eb            D***  
   Good morning TV  
-               ***Bm     C***  
+    ***Bm     C***  
   You're looking so healthy  
   
   ***Em***  
 Chorus:  We all say  
-             ***D***  
+    ***D***  
   Don't want to be alone  
   ***Em***  
   We wear the same clothes  
@@ -76,7 +76,7 @@ Chorus:  We all say
   We kiss with dry lips  
   ***D                             C***  
   When we say goodnight  
-               ***C***  
+    ***C***  
   End of the century......its nothing special  
   
   ***G            Gmaj7***  
@@ -93,7 +93,7 @@ Chorus:  We all say
   They're glowing in a huddle  
   ***Eb               D***  
   Good night TV  
-       ***Bm***  
+    ***Bm***  
   You're all made up  
   And you're looking like me  
   

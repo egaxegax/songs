@@ -22,9 +22,9 @@ White Dove
 Припев:  White dove, fly with the wind  
   ***Em            Bm***  
   Take our hope under you wings  
-          ***D***  
+    ***D***  
   For the world to know  
-       ***A***  
+    ***A***  
   That hope will not die  
   ***Em                Bm***  
   When the children cry  
@@ -42,9 +42,9 @@ White Dove
   
   ***C                  Bm***  
   Can anyone tell me why  
-               ***Em***  
+    ***Em***  
   The children of the world  
-          ***F#***  
+    ***F#***  
   Have to pay the price  
   
 (3)  And now you're telling me  

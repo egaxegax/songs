@@ -9,11 +9,11 @@ Dehumanized States of America (1994)
   Blood on the leaves  
   And blood at the root,  
   
-         ***G***  
+    ***G***  
   Black bodies swinging  
   In the southern breeze,  
   Strange fruit hanging  
-                    ***Am***  
+    ***Am***  
   From the poplar trees.  
   
   Pastoral scenes of the gallant South,  

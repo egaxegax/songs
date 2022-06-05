@@ -14,7 +14,7 @@ Come Undone
   I'm contemplating thinking about thinking  
   ***F#             E***  
   It's so frustrating just get another drink in  
-                  ***H***  
+    ***H***  
   Watch me come undone  
   ***H         E***  
   They're selling razor blades and mirrors in the street  
@@ -22,13 +22,13 @@ Come Undone
   Pray that when I'm coming down you'll be asleep  
   ***H        E***  
   If I ever hurt you your revenge will be so sweet  
-               ***Dbm***  
+    ***Dbm***  
   Because I'm scum  
-                 ***E***  
+    ***E***  
   And I'm your son  
-          ***H E***  
+    ***H E***  
   I come undone  
-          ***H***  
+    ***H***  
   I come undone  
   ***H***  
   So rock and roll so corporate suit  
@@ -38,11 +38,11 @@ Come Undone
   So well trained, so animal  
   ***E***  
   So need your love, so fuck you all  
-          ***F#           E***  
+    ***F#           E***  
   I'm not scared of dying I just don't want to  
-               ***F#  E***  
+    ***F#  E***  
   If I stopped lying I'd just dissapoint you  
-          ***H***  
+    ***H***  
   I come undone  
   ***H        E***  
   They're selling razor blades and mirrors in the street  
@@ -50,28 +50,28 @@ Come Undone
   I pray that when I'm coming down you'll be asleep  
   ***H          E***  
   If I ever hurt you your revenge will be so sweet  
-               ***Dbm***  
+    ***Dbm***  
   Because I'm scum  
-           ***E***  
+    ***E***  
   And I'm your son  
-            ***H***  
+    ***H***  
   I've come undone  
-       ***A***  
+    ***A***  
   So write another ballad  
   Mix it on a Wednesday  
   ***E***  
   Sell it on a Thursday  
   Buy a yacht by Saturday  
-            ***H***  
+    ***H***  
   It's a love song  
   ***A***  
   Do another interview  
   Sing a bunch of lies  
   ***E***  
   Tell about celebrities that I despise  
-                 ***F#***  
+    ***F#***  
   And sing love songs  
-                 ***F#***  
+    ***F#***  
   We sing love songs  
    ***H***  
   So sincere  

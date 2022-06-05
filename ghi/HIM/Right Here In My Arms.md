@@ -3,9 +3,9 @@ Right Here In My Arms
   
   ***Am           C      G               Am***  
   She's smiling like heaven's down on earth  
-                     ***C    G         Am***  
+    ***C    G         Am***  
   The sun is shining so bright on her  
-                       ***C     G           Am***  
+    ***C     G           Am***  
   And all her wishes have finally come true  
   ***Am***  
   And her heart is weeping  

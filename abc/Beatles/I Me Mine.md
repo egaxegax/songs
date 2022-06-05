@@ -6,13 +6,13 @@ Intro:  ***Am  C  D11  G  E7***
   
    ***Am            D***  
   All thru'the day,  
-          ***G          E7         Am***  
+    ***G          E7         Am***  
   I me mine  I me mine  I me mine.  
-                  ***D***  
+    ***D***  
   All thru'the night,  
-          ***G          E7         Am***  
+    ***G          E7         Am***  
   I me mine  I me mine  I me mine.  
-                 ***Dm          E***  
+    ***Dm          E***  
   Now they're frightened of leaving it,  
   ***Dm6         G***  
   Everyone's weaving it,  

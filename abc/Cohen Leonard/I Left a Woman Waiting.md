@@ -1,6 +1,6 @@
 <!--2020-09-04 23:31:00-->
 Intro: D . . G|. . . .|A . . G|. . . .|  
-       D . . G|. . . .|A . . G|. . . .|  
+    D . . G|. . . .|A . . G|. . . .|  
   
 D  G                 A     G  
 I left a woman waiting  
@@ -8,7 +8,7 @@ D  G                A     G  A
 I met her sometime later  
 G    F#m     Em          D G      D   G  F#m  Em  D  
 She said, "I see your eyes are dead  
-                  Em  
+    Em  
 What happened to you, lover?  
 A                 D  
 What happened to you, my lover?  

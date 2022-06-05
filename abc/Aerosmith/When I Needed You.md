@@ -13,7 +13,7 @@
   band. It was a total dream come true. The other side of it is that it's a  
   pretty lame song. I never got a cent. So that was my first taste of  
   'shysterism.'"  
-                                       -Steven Tyler  
+    -Steven Tyler  
   
   "When I Needed You"  CO9O323.  
   *main riff:*  
@@ -28,12 +28,12 @@
   When I needed you  
   To be my girl  
   When I needed you  
-                   ***A5***  
+    ***A5***  
   To give me a whirl  
   *chorus:*  
   ***G5***  
   When I wanted all you had  
-                 *(main riff)*  
+    *(main riff)*  
   And what you gave me turned out all bad  
    ***C5      A   Bb5 C5  D5***  
   I needed all your love  

@@ -13,7 +13,7 @@ Love Calling Earth
   I'm controlled by my fear  
   ***Ab***  
   All the voices in my head  
-               ***Bb***  
+    ***Bb***  
   That I can hear  
   ***Eb F Gm   F***  
   Please don't hurt me  

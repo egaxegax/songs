@@ -2,19 +2,19 @@
 Balance Of Power (1986)  
   Getting To The Point  
   
-                   ***G***  
+    ***G***  
   It's out of control  
-               ***C            D***  
+    ***C            D***  
   And there's nothing I can do now  
-            ***G***  
+    ***G***  
   Out of control (out of control)  
-            ***C                 D***  
+    ***C                 D***  
   Swimming softly through the blue now  
   ***Hm    Em***  
   And look beyond these walls  
-           ***C        C/Hm    Am***  
+    ***C        C/Hm    Am***  
   As the meaning starts to dawn  
-         ***G             Em  D C***  
+    ***G             Em  D C***  
   It's getting to the point  
    ***D              G***  
   Getting to the point.  
@@ -29,17 +29,17 @@ Balance Of Power (1986)
   
   ***G                   C***  
 CHORUS:  It's getting to the point  
-                   ***G***  
+    ***G***  
   Where nobody can stop it now  
-                      ***C***  
+    ***C***  
   It's getting to the point  
-        ***G***  
+    ***G***  
   Of no return  
-                     ***C***  
+    ***C***  
   And all that I can do  
-                ***G          Em***  
+    ***G          Em***  
   Is stand and watch it now  
-           ***Am    Am/G  D***  
+    ***Am    Am/G  D***  
   Watch it burn, burn, burn  
   It's getting to the point  
   Where reasons are forgotten  

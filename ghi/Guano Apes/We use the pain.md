@@ -46,7 +46,7 @@ Bridge 2: (part 1):
   *Bridge 1          }  1 time*  
   *Chorus            }  8 times*  
   *Bridge 2 (part 1) } 12 times*  
-           *(part 2) }  1 time*  
+    *(part 2) }  1 time*  
   *Chorus            }  8 times*  
   
   *The Intro/Verse is fingered, it takes some*  

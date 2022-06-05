@@ -156,35 +156,35 @@ By the way
   
   ***F***  
   Standing in line  
-              ***C***  
+    ***C***  
   to see the show tonight  
-              ***Dm***  
+    ***Dm***  
   and there's a light on  
   heavy glow  
   ***F            C***  
   By the way I tried to say  
-       ***Am           Bb***  
+    ***Am           Bb***  
   I'd be there... waiting for  
   ***F***  
   Dani the girl  
-              ***C***  
+    ***C***  
   is singing songs to me  
-               ***Dm***  
+    ***Dm***  
   beneath the marquee... oversold  
   ***F            C***  
   By the way I tried to say  
-       ***Am           Bb***  
+    ***Am           Bb***  
   I know you... from before  
   ***F***  
   Standing in line  
-              ***C***  
+    ***C***  
   to see the show tonight  
-              ***Dm***  
+    ***Dm***  
   and there's a light on  
   heavy glow  
   ***F            C***  
   By the way I tried to say  
-       ***Am           Bb***  
+    ***Am           Bb***  
   I'd be there... waiting for  
   And here's the final part guys...  
   [e --------  
@@ -226,7 +226,7 @@ By the way
   D--10--|--10--|--10--|  
   A---8--|--10--|---7--|  
   E------|------|------|]  
-                    **hit hard near end*  
+    **hit hard near end*  
   *Bridge A:*  
   [e-------------------------  
   B-------------------------  
@@ -306,7 +306,7 @@ By the way
   D--10--|--10--|--10--|  
   A---8--|--10--|---7--|  
   E------|------|------|]  
-                    **hit hard near end*  
+    **hit hard near end*  
   *Bridge B:*  
   [e-------|  
   B--8-8--|  

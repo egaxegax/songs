@@ -4,110 +4,110 @@ Et tournoie...
 Вcтyплeниe: ***D#m  G#m  D#m  G#m***  
   ***D#m  G#m  D#m  G#m  C#***  
   
-                      ***A  D***  
+    ***A  D***  
   J'percois tes funerailles  
-                ***H  C#***  
+    ***H  C#***  
   Cerveau en bataille  
-                ***A D***  
+    ***A D***  
   Tu te veux liquide  
-                 ***H F#m***  
+    ***H F#m***  
   Pantin translucide  
-                             ***H C#***  
+    ***H C#***  
   Mais tu n'pourras rien changer  
-                     ***H   F#m***  
+    ***H   F#m***  
   Cote sombre, c'est mon ombre  
-                       ***H C#***  
+    ***H C#***  
   Dissout dans l'eternite  
   Et l'astre est de cendre  
-                   ***A D***  
+    ***A D***  
   Ton fantome interieur  
-                 ***H C#***  
+    ***H C#***  
   Affronte tes heures  
-                ***A D***  
+    ***A D***  
   Assassin blotti  
-                ***H F#m***  
+    ***H F#m***  
   Ton pire ennemi  
-                         ***H  C#***  
+    ***H  C#***  
   Tu veux t'expulser de toi  
-                    ***H    F#m***  
+    ***H    F#m***  
   Mais ta vie, fait envie  
-                         ***H C#***  
+    ***H C#***  
   Ton fil tu l'aimes, deja  
-                     ***Dm7***  
+    ***Dm7***  
   Et l'astre s'eleve oh...  
-               ***E          Am***  
+    ***E          Am***  
   Mets ton ame de lumiere  
-             ***D            Dm7***  
+    ***D            Dm7***  
   Et tournoie et tournoie  
-                 ***E         Am***  
+    ***E         Am***  
   Mets ton habit de mystere  
-             ***D           Dm7***  
+    ***D           Dm7***  
   Et tournoie et tournoie  
-                    ***E           Am***  
+    ***E           Am***  
   Sous ton ame la plainte amere  
-           ***D         Dm7***  
+    ***D         Dm7***  
   Panse la, donne la  
-                ***E         Am  C#***  
+    ***E         Am  C#***  
   Mets ton ame de lumiere  
-                          ***A  D***  
+    ***A  D***  
   Dedans tout n'est que faille  
-                    ***H C#***  
+    ***H C#***  
   Ton coeur de cristal  
-                         ***A D***  
+    ***A D***  
   Se brise au moindre eclat  
-                 ***H F#m***  
+    ***H F#m***  
   De rire et de larmes  
-                           ***H C#***  
+    ***H C#***  
   Aux morts qu'importe les des  
-                  ***H     F#m***  
+    ***H     F#m***  
   Le soleil, ton embleme  
-                 ***H C#***  
+    ***H C#***  
   Ne te sera derobe  
-                     ***Dm7***  
+    ***Dm7***  
   Que pour l'eternel oh...  
-               ***E          Am***  
+    ***E          Am***  
   Mets ton ame de lumiere  
-             ***D            Dm7***  
+    ***D            Dm7***  
   Et tournoie et tournoie  
-                 ***E         Am***  
+    ***E         Am***  
   Mets ton habit de mystere  
-             ***D           Dm7***  
+    ***D           Dm7***  
   Et tournoie et tournoie  
-                    ***E           Am***  
+    ***E           Am***  
   Sous ton ame la plainte amere  
-           ***D         Dm7***  
+    ***D         Dm7***  
   Panse la, donne la  
-                ***E         Am***  
+    ***E         Am***  
   Mets ton ame de lumiere  
   ***Dm Am Dm Am***  
   ***Dm Am Dm Am***  
   ***Dm Am Dm Am***  
   ***Dm Am Dm Dm7***  
-               ***E          Am***  
+    ***E          Am***  
   Mets ton ame de lumiere  
-             ***D            Dm7***  
+    ***D            Dm7***  
   Et tournoie et tournoie  
-                 ***E         Am***  
+    ***E         Am***  
   Mets ton habit de mystere  
-             ***D           Dm7***  
+    ***D           Dm7***  
   Et tournoie et tournoie  
-                    ***E           Am***  
+    ***E           Am***  
   Sous ton ame la plainte amere  
-           ***D         Dm7***  
+    ***D         Dm7***  
   Panse la, donne la  
-                ***E         Am  Dm7***  
+    ***E         Am  Dm7***  
   Mets ton ame de lumiere  
-               ***E          Am***  
+    ***E          Am***  
   Mets ton ame de lumiere  
-             ***D            Dm7***  
+    ***D            Dm7***  
   Et tournoie et tournoie  
-                 ***E         Am***  
+    ***E         Am***  
   Mets ton habit de mystere  
-             ***D           Dm7***  
+    ***D           Dm7***  
   Et tournoie et tournoie  
-                    ***E           Am***  
+    ***E           Am***  
   Sous ton ame la plainte amere  
-           ***D         Dm7***  
+    ***D         Dm7***  
   Panse la, donne la  
-                ***E         Am***  
+    ***E         Am***  
   Mets ton ame de lumiere

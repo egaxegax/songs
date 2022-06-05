@@ -1,25 +1,25 @@
 <!--2020-09-05 02:48:33-->
 Intro:    Dm   F   C   Bb  
   
-                   Dm  
+    Dm  
 Когда  у  всех  wake  up –  
-          F  
+    F  
 У  меня  face  off,  
    C                Bb  
 Нет  лица – fucking  off  
-               Dm  
+    Dm  
 Я  всю  ночь  не  спал,  
-          F  
+    F  
 Я  теперь  нездоров  
    C                Bb  
 Нездоров – fucking  off  
-                 Dm  
+    Dm  
 Все  спешат  по  делам,  
      F  
 А  я  просто  в  хлам,  
      C                                    Bb  
 Просто  в  хлам – в  голове  бедлам  
-            Dm     F  
+    Dm     F  
 И  у  меня  больше  нет  слов,  
      C          Bb  
 Кроме – fucking  off!  

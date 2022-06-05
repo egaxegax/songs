@@ -1,11 +1,11 @@
 <!--2020-09-06 04:11:48-->
 G   C              G   C  G  
 Hold me now, oh hold me now  
-          Em  C               D  
+    Em  C               D  
 Till this hour has gone around  
-        Bm                 Em  C  
+    Bm                 Em  C  
 And I?m gone on the rising tide  
-       G   D             G    C G  
+    G   D             G    C G  
 For to face Van Diemen?s land  
   
 It?s a bitter pill I swallow here  

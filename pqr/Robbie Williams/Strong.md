@@ -40,7 +40,7 @@ Strong
   You think that I'm strong you're wrong  
   You're wrong  
   I'll sing my song my song my song  
-        ***Db***  
+    ***Db***  
   If I did it all again I'd be a nun  
       ***Ab             Fm***  
   The rain was never this cold when I was young  

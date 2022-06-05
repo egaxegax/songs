@@ -3,7 +3,7 @@ Love Hurts
   
 Intro:  ***G FCG GFCG***  
   
-        ***G        Em        C        D***  
+    ***G        Em        C        D***  
   [------3--- ----0--- -----0--- ----2---  
   -----0-0-- ---0-0-- ----1-1-- ---3-3--  
   ----0---0- --0---0- ---0---0- --2---2-  
@@ -15,9 +15,9 @@ Intro:  ***G FCG GFCG***
   Any heart, not tough or strong enough  
      ***G              B      Em          B***  
   To take a lot of pain, take a lot of pain  
-                   ***C                D***  
+    ***C                D***  
   Love is like a clowd, to hold a lot of rain  
-        ***G    F          C           G***  
+    ***G    F          C           G***  
   Love hurts oooooOOOOOOoooooooLove hurts  
   
   I'm young, I know but even so  
@@ -34,9 +34,9 @@ Intro:  ***G FCG GFCG***
   They're not fooling me  
      ***G             B      Em             B***  
   I know it isn't true, I know it is'nt true  
-                 ***C                     D***  
+    ***C                     D***  
   Love is just a lie, made to make you blue  
-         ***G    F        C         G***  
+    ***G    F        C         G***  
   Love Hurts ooooOOOOOOOooo love hurts  
   
 -  

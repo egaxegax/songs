@@ -3,7 +3,7 @@
   Champagne Supernova  
   
   *Chords used:*  
-            *EADGBe*  
+    *EADGBe*  
   ****Asus2***    ([x02200])*  
   ****Asus2***/***G***  ([3x2200])*  
   ****Asus2***/***F#*** ([2x2200])*  
@@ -32,15 +32,15 @@ Verse 2: Slowly walking down the hall
   
      ***Asus2***  
 1st Chorus: Someday you will find me  
-       ***Asus2/G***  
+    ***Asus2/G***  
   caught beneath the landslide  
-       ***Asus2/F#           Asus2/E***  
+    ***Asus2/F#           Asus2/E***  
   in a champagne supernova in the sky  
-            ***Asus2***  
+    ***Asus2***  
   Someday you will find me  
-       ***Asus2/G***  
+    ***Asus2/G***  
   caught beneath the landslide  
-       ***Asus2/F#               Asus2/E***  
+    ***Asus2/F#               Asus2/E***  
   In a champagne supernova, a champagne supernova in the  
   ***Asus2***  
   sky  
@@ -56,22 +56,22 @@ Verse 3: Wake up at dawn and ask her why
   
      ***A***  
 2nd Chorus: Someday you will find me  
-       ***G***  
+    ***G***  
   caught beneath the landslide  
-       ***F#m6          E***  
+    ***F#m6          E***  
   in a champagne supernova in the sky  
      ***A***  
   Someday you will find me  
-       ***G***  
+    ***G***  
   Caught beneath the landslide  
-       ***F#m6      E***  
+    ***F#m6      E***  
   In a champagne supernova, a champagne supernova  
   
       ***G2                      A2***  
 Bridge:  Cos people believe that they're gonna get away for the summer  
       ***G2                  D***  
   But you and I, we live and die, the world's still spinning round  
-         ***E***  
+    ***E***  
   We don't know why............why, why, why, why  
   
 VERSE:  How many special people change  
@@ -83,22 +83,22 @@ VERSE:  How many special people change
   
      ***A***  
 3rd Chorus: Someday you will find me  
-       ***G***  
+    ***G***  
   caught beneath the landslide  
-       ***F#m6          E***  
+    ***F#m6          E***  
   in a champagne supernova in the sky  
      ***A***  
   Someday you will find me  
-       ***G***  
+    ***G***  
   Caught beneath the landslide  
-       ***F#m6      E***  
+    ***F#m6      E***  
   In a champagne supernova, a champagne supernova  
   
       ***G2                      A2***  
 Bridge:  Cos people believe that they're gonna get away for the summer  
       ***G2                  D***  
   But you and I, we live and die, the world's still spinning round  
-         ***E***  
+    ***E***  
   We don't know why............why, why, why, why  
   
   *Solo:*  

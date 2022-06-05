@@ -2,8 +2,8 @@
 Epitaph  
   
   *NOTES: 1) I'm pretty sure it's called an 'F#m+(Add B)'...it's a thoroughly Fripp chord*  
-         *2) Let the notes of the guit-arpeggios ring out as long as possible*  
-         *3) Try the guit-arpeggios on a 12 string if possible :)*  
+    *2) Let the notes of the guit-arpeggios ring out as long as possible*  
+    *3) Try the guit-arpeggios on a 12 string if possible :)*  
   *First the chords:*  
   ***Em  F#m+(Add B) Am  B+  B  Bm C***  
   [0      x        0   x   2  2  x  
@@ -29,7 +29,7 @@ Epitaph
   And watered by the deeds of those who know and who are known  
   Knowledge is a deadly friend when no one sets the rules  
   The fate of all mankind I see is in the hands of fools  (mellotron buildup of  
-          ***C + Cm***???)  
+    ***C + Cm***???)  
   *This acoustic guitar arpeggio also appears at the songs beginning...*  
   |---------------|---------------|---------------|---------------|---------------  
   |---------------|---------------|---------------|---------------|---1-0-1-0-1---  

@@ -11,10 +11,10 @@ Em    G       C           G
 sometimes- you wanna run away,  
 Em         D  
 but you never know what might comin' round your way...  
-                                                yeah yeah yeah  
+    yeah yeah yeah  
   
 Chorus:  
-           Am  
+    Am  
 cause on a day like today  
     C  
 the whole world could change  
@@ -60,7 +60,7 @@ C
 dream dreams- no one else can see,  
 Em  
 but you never know what might be comin' for you and me  
-            D  
+    D  
 yeah it's gotta be!  
   
 Chorus:(same chords as before)  

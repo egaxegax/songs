@@ -26,13 +26,13 @@
   On the tyne, forth and cromarty  
   ***A       C#m***  
   There's a low in the high 40's  
-        ***C    Bm***  
+    ***C    Bm***  
   (and) Saturday's locked away on the pier  
       ***E***  
   Not fast enough dear  
   ***E      Bm    A     C#m***  
   On the malin head, blackneel looks blue and red  
-          ***C     Bm***  
+    ***C     Bm***  
   And the queen, she's gone `round the bend  
     ***E***  
   Jumped off Land's End  

@@ -12,7 +12,7 @@ Intro:      ***Bm        C   A***
   I don't know the lead over the verse, but here are the chords:  
   ***G    F     A***  
   Friday's child is planning to out for the first time  
-         ***C#m    F#m   G***  
+    ***C#m    F#m   G***  
   (says) Don't worry mum, I won't be out that late  
   ***G         F          A***  
   Can't be playing those passive games right now they're out of date  
@@ -31,12 +31,12 @@ Intro:      ***Bm        C   A***
   Those mannequins look far too real at night  
   ***G         F        A***  
   Friday's child doesn't know if it's awake or if it's dreaming  
-         ***C#m    F#m      G       A***  
+    ***C#m    F#m      G       A***  
   (says) Don't worry dad, I'll do my bit, I'll raise the flag  
   ***B***  
   I'll be just like you.....  
   *(chorus 2x then verse chords)*  
-        ***G       A      B***  
+    ***G       A      B***  
   Don't worry mum, I'm not that dumb, I'll be just like you.....  
   *(intro 2x then chorus 4x)*  
   ***G  D  E        Bm        C  A***  

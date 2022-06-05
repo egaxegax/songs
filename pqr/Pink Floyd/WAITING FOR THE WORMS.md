@@ -11,7 +11,7 @@ G--------------------------------------------------------
 D---x--x--7-----------------------5----------------------  
 A---x--x--5-----------------------3-------------5--------  
 E-----------------------------------------------3--------  
-         Goodbye cruel world it's over walk on by  
+    Goodbye cruel world it's over walk on by  
   
   
 G                          G    D  C    C B Am  
@@ -26,25 +26,25 @@ Waiting for the worms to come
 (powerchords with distortion)  
 A                               G A  
 Waiting to cut up the deadwood  
-                             G A  
+    G A  
 Waiting to clean up the city  
-           G          A  
+    G          A  
 Waiting to follow the worms  
-                               G A  
+    G A  
 Waiting to put on a black shirt  
-                                 G A  
+    G A  
 Waiting to weed out the weaklings  
-                                                         G A  
+    G A  
 Waiting to smash in their windows and kick in their doors  
-                                                        G A  
+    G A  
 Waiting for the final solution to strengthen the strain  
-           G          A  
+    G          A  
 Waiting to follow the worms  
-                                                  G A  
+    G A  
 Waiting to turn on the showers and fire the ovens  
-                                                              G A  
+    G A  
 Waiting for the queers and the coons and the reds and the jews  
-           G          A  
+    G          A  
 Waiting to follow the worms  
   
 G                                    D C             C B Am  

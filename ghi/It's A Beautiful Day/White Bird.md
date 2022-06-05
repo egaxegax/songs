@@ -42,7 +42,7 @@
       *1 . 2    . 3 . 4 .      1     . 2 . 3 . 4 .*  
   ***C(viii)         Bb(vi)***  
   White bird in a golden cage  
-       ***C(viii)              Bb(vi)***  
+    ***C(viii)              Bb(vi)***  
   On a winter's day, in the rain  
   ***C(viii)         Bb(vi)***  
   White bird in a golden cage  
@@ -73,13 +73,13 @@
   The sunsets come, the sunsets go  
       ***G#                   G***  
   The clouds float by, the earth turns slow  
-        ***Cm                          G#***  
+    ***Cm                          G#***  
   And a young bird's eyes do always glow  
-               ***C(vii)   Bb(vi)***  
+    ***C(vii)   Bb(vi)***  
   And she must fly  
-               ***C(vii)   Bb(vi)***  
+    ***C(vii)   Bb(vi)***  
   And she must fly  
-               ***C(vii)   Bb(vi)***  
+    ***C(vii)   Bb(vi)***  
   And she must fly  
   
   *Instrumental section:*  

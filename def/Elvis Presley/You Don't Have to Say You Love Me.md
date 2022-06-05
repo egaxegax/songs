@@ -1,19 +1,19 @@
 <!--2020-09-06 06:18:06-->
 You Don't Have to Say You Love Me  
   
-                 ***Bbm         Bbm7   Eb7***  
+    ***Bbm         Bbm7   Eb7***  
   When I said, I needed you  
-                     ***Ab             Db***  
+    ***Ab             Db***  
   You said you would always stay  
-                   ***Bbm***  
+    ***Bbm***  
   It wasn't me who changed, but you  
       ***Gm7-5          G7-9  C7***  
   And now you've gone     away  
   ***Fm                 Bbm              Bbm7   Eb7***  
   Don't you see that now you've gone  
-                   ***Ab         Db***  
+    ***Ab         Db***  
   And I'm left her on my own  
-                 ***Bbm***  
+    ***Bbm***  
   Then I have to follow you  
       ***Gm7-5           C7***  
   And beg you to come home  
@@ -29,15 +29,15 @@ You Don't Have to Say You Love Me
   Believe me, believe me  
     ***Dm***  
   I can't help I love you  
-        ***Gm7                          C***  
+    ***Gm7                          C***  
   But believe me, I'll never tie you down  
   *(Tacet)                ***Bbm     Bbm7  Eb7****  
   Left alone with just a memory  
-                      ***Ab         Db***  
+    ***Ab         Db***  
   Life seems dead and so unreal  
-                     ***Bbm***  
+    ***Bbm***  
   All that's left is loneliness  
-          ***C7      C7-9   C7+5    Fm***  
+    ***C7      C7-9   C7+5    Fm***  
   There's nothing left        to feel  
   ***F                 Dm***  
   You don't have to say you love me  

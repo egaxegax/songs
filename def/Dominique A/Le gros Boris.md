@@ -4,21 +4,21 @@
   
   *Reserve exclusivement aux voix fluettes, sous peine*  
   *de chat dans la gorge...*  
-        ***Am        Bm***  
+    ***Am        Bm***  
   A trop le dire le temps passe,  
-       ***Emsus4 Em***  
+    ***Emsus4 Em***  
   Et Boris se sent vieux  
-        ***Am        Bm***  
+    ***Am        Bm***  
   Dans l'heure qui suit son oeil tourne,  
-          ***Emsus4 Em***  
+    ***Emsus4 Em***  
   Boris est tombe  
     ***Am            Bm***  
   Mene droit chez l'herboriste,  
-          ***Emsus4 Em***  
+    ***Emsus4 Em***  
   Boris a l'air d'aller mieux  
-            ***Am       Bm***  
+    ***Am       Bm***  
   Celle qui l'a sauve le couve,  
-          ***Emsus4 Em***  
+    ***Emsus4 Em***  
   Et Boris en rajoute un peu.  
   ****Am Bm Em*** (en arpeges a vous de trouver lesquels!)*  
   (meme schema pour le reste)  

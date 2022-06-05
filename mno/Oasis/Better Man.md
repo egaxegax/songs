@@ -4,11 +4,11 @@ Heathen Chemistry (2002)
   
   ***F#***  
   I wonna love you  
-                       ***A***  
+    ***A***  
   I wonna be a better man  
   ***F#***  
   Don't wonna hurt you  
-                                 ***A***  
+    ***A***  
   Just wonna see whats in your hands  
   ***F#***  
   Well alright now  

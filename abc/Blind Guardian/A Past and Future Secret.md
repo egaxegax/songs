@@ -27,11 +27,11 @@
   the circle's been closed, now  
   ***C  Am          D***  
   my song of the end } 2x  
-               ***Em***  
+    ***Em***  
   i've seen it all  
   ***Em***  
   listen crowd  
-       ***D        Hm***  
+    ***D        Hm***  
   I'll tell you everything  
   ***Em***  
   though I have to say  
@@ -68,19 +68,19 @@
   I can't stop the darkening clouds  
   ***Em     D***  
   I feel cold  
-         ***Hm              Em***  
+    ***Hm              Em***  
   when I cry out for the bark  
   ***Em***  
   take him back to avalon  
-        ***Em       D***  
+    ***Em       D***  
   dwell on for a new age  
      ***C                  Em***  
   so long sleep well my friend  
   ***Em***  
   take him back to avalon  
-         ***Em       D***  
+    ***Em       D***  
   I will wait and guard  
-                    ***C Am  D***  
+    ***C Am  D***  
   the future king's crown  
   ***C  Am          D***  
   my song of the end } 4x  
@@ -90,7 +90,7 @@
   it was fixed the whole time  
   ***C  Am          D***  
   my song of the end  
-           ***Em***  
+    ***Em***  
   I saw it all  
   
 -  
@@ -100,7 +100,7 @@
   *Note: Capoeded at 3rd fret*  
   *I'll just put all riffs first and then explain the music.*  
   
-                           *INTRO*  
+    *INTRO*  
   [E?-3-----------5-3-----5-|-3------------5--3----------------------  
   B?-3-----------6-3-----6-|-3------------6--4----------------------  
   G?-3-----------5-3-----5-|-3------------7--3------Rythm guitar----  
@@ -112,7 +112,7 @@
   B?------------------11---|-8-10-11-10-8------8----Lead Guitar-----  
   G?-----------------------|--------------10-7----------------------  
   D?-----------------------|----------------------------------------]  
-                            MAIN1  
+    MAIN1  
   [E?-3-------3-----5-3-------3-------3-3-5-6-5-3-3------------------  
   B?-3-3---3---3-----3-3---3---3---3-3-3-6-6-6-6-6------------------  
   G?-3---3-------3---3---3-------3---3-3-5-5-5-5-5------------------  
@@ -127,8 +127,8 @@
   [E?-10-8-6-5  
   B?---------  
   G?---------]  
-                             *MAIN2*  
-                              *H P*  
+    *MAIN2*  
+    *H P*  
   [E?-3-3-3-3-5-----6-3-5-3----------------------------------  
   B?-4-4-4-4-6-6-----------6---6----------------------------  
   G?-3-3-5-5-5---5-----------5------------------------------  
@@ -138,42 +138,42 @@
   *This part I'll just put the chords. The lead part althought I knew*  
   *part of it I prefer to improvise in the Gm scale. Just listen to*  
   *the record to get the rythm.*  
-                             *MAIN3*  
+    *MAIN3*  
   ***Gm                F        Gm***  
   listen crowd I'll tell you everything though I have to say  
     ***F          Gm                            F      Gm***  
   I don't know much talking about a past and future secret  
-                         ***Dm     D#    Gm                    F***  
+    ***Dm     D#    Gm                    F***  
   most call him once and future king far back in the past I saw his  
   ***Gm                              F        Gm***  
   ending long before It started I knew his name he's the one who  
-           ***F         Gm                         Dm      D#   Cm***  
+    ***F         Gm                         Dm      D#   Cm***  
   took the sword out of the stone it's how that ancient tale began  
-                             *FILL3*  
-                              *H P*  
+    *FILL3*  
+    *H P*  
   [E?-3-3-3-3-5-----6-3-5-3---5-3----------------------------  
   B?-4-4-4-4-6-6-----------6-----6--------------------------  
   G?-3-3-5-5-5---5------------------------------------------  
   D?-5-5-5-5-3----------------------------------------------  
   A?-6-6-3---------------------------2 guitars almost equal-  
   E?-3------------------------------------------------------]  
-                            *MAIN4*  
+    *MAIN4*  
   *Just Lead part. The rythm guitar is just like INTRO*  
-             *P H                             P H*  
+    *P H                             P H*  
   [E?-10-11-10-8-10-8-10----8-10-11-|-10-11-10-8-10-8-10----8--------  
   B?--------------------11---------|--------------------11----------  
   G?-------------------------------|--------------------------------  
   D?-------------------------------|--------------------------------  
   A?-------------------------------|--------------------------------  
   E?-------------------------------|--------------------------------]  
-             *P H*  
+    *P H*  
   [E?-10-11-10-8-10-8-10----8-10-11-|-10-11-10-8----------3----------  
   B?--------------------11---------|------------11-8-6-3-3----------  
   G?-------------------------------|---------------------3----------  
   D?-------------------------------|---------------------5----------  
   A?-------------------------------|---------------------5----------  
   E?-------------------------------|---------------------3----------]  
-                                *MAIN5*  
+    *MAIN5*  
   I'm not sure about this one, if you think it's bad e-mail me and  
   I'll check it out again.  
   ***Gm               F   Gm                F          D#***  
@@ -200,13 +200,13 @@
   *MAIN4*  
   
   *Chords: ***Gm*** [E?-3] ***F*** [E?-5]  ***Dm*** [E?-3] ***D#*** [E?-3] ***Cm*** [E?-3]*  
-             [B?-3   B?-6     B?-4    B?-4    B?-4  
-             G?-3   G?-5     G?-5    G?-3    G?-5  
-             D?-5   D?-3     D?-5    D?-5    D?-5  
-             A?-5   A?--     A?-3    A?-6    A?-3  
-             E?-3   E?--     E?-3    E?-3    E?--]  
+    [B?-3   B?-6     B?-4    B?-4    B?-4  
+    G?-3   G?-5     G?-5    G?-3    G?-5  
+    D?-5   D?-3     D?-5    D?-5    D?-5  
+    A?-5   A?--     A?-3    A?-6    A?-3  
+    E?-3   E?--     E?-3    E?-3    E?--]  
   
   *Notes: H - Hammer-On*  
-         *P - Pull-Off*  
-         *A? - Means it's a A string, I'm just not sure if it's*  
-         *downed 1/2 step.*
+    *P - Pull-Off*  
+    *A? - Means it's a A string, I'm just not sure if it's*  
+    *downed 1/2 step.*

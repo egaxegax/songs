@@ -1,34 +1,34 @@
 <!--2020-09-04 23:32:21-->
 Intro: C# . . . |G#6 . . . |F# . . . |G# . . . |  
-       C# . . . |G#6/c . . . |F# . . . |G# . . . |  
+    C# . . . |G#6/c . . . |F# . . . |G# . . . |  
   
-          C#           G#6/c  
+    C#           G#6/c  
 So we'll go no more a-roving  
     F#              G#  
 So late into the night,  
-            C#                 G#6/c  
+    C#                 G#6/c  
 Though the heart be still as loving,  
-         F#                G#  
+    F#                G#  
 And the moon be still as bright.  
   
-          F#                 B/f#  
+    F#                 B/f#  
 For the sword outwears its sheath,  
-         F#                 B/f#  
+    F#                 B/f#  
 And the soul outwears the breast,  
-         F#maj7               Adim  
+    F#maj7               Adim  
 And the heart must pause to breathe,  
-             A#m      C#/g#   G#sus4   G#  
+    A#m      C#/g#   G#sus4   G#  
 And love itself have rest.  
   
-            C#                 G#6/c  
+    C#                 G#6/c  
 Though the night was made for loving,  
-         F#              G#  
+    F#              G#  
 And the day returns too soon,  
-           C#            G#6/c  
+    C#            G#6/c  
 Yet we'll go no more a-roving  
-        F#           G#  
+    F#           G#  
 By the light of the moon.  
-        F#            F#m     C#  D#m7  C#/f  G#  F#  
+    F#            F#m     C#  D#m7  C#/f  G#  F#  
 By the light...    ...of the moon.  
   
 F# . . . |B/f# . . . |           (For the sword outwears its sheath)  
@@ -37,23 +37,23 @@ F#maj7 . . . |Adim . . . |
 A#m . . . |C# . . . |            (And love itself have rest)  
 G# . . . |                       (Love have rest)  
   
-            C#                 G#6/c  
+    C#                 G#6/c  
 Though the night was made for loving,  
-         F#              G#  
+    F#              G#  
 And the day returns too soon,  
-           C#            G#6/c  
+    C#            G#6/c  
 Yet we'll go no more a-roving  
-        F#           G#  
+    F#           G#  
 By the light of the moon.  
-       F#    G#     A#m  
+    F#    G#     A#m  
 We'll go no more a-roving  
-       F#    G#     A#m  
+    F#    G#     A#m  
 We'll go no more a-roving  
-       F#    G#     A#m  
+    F#    G#     A#m  
 We'll go no more a-roving  
-        D#           G#      C#     G#6  
+    D#           G#      C#     G#6  
 By the light...   ...of the moon.  
-          F#  
+    F#  
 (So we'll go no more)  
 G#          C#  
 (No more a-roving...)  
@@ -75,35 +75,35 @@ Gsus4:    320013  or  355533
 C/e:      032010  or  xx2010  
   
 Intro: C . . . |G6 . . . |F . . . |G . . . |  
-       C . . . |G6/b . . . |F . . . |G . . . |  
+    C . . . |G6/b . . . |F . . . |G . . . |  
   
-          C            G6/b  
+    C            G6/b  
 So we'll go no more a-roving  
     F               G  
 So late into the night,  
-            C                  G6/b  
+    C                  G6/b  
 Though the heart be still as loving,  
-         F                 G  
+    F                 G  
 And the moon be still as bright.  
   
-          F                  Bb/f  
+    F                  Bb/f  
 For the sword outwears its sheath,  
-         F                  Bb/f  
+    F                  Bb/f  
 And the soul outwears the breast,  
-         Fmaj7               G#dim  
+    Fmaj7               G#dim  
 And the heart must pause to breathe,  
-             Am       C/g   Gsus4   G  
+    Am       C/g   Gsus4   G  
 And love itself have rest.  
   
-            C                  G6/b  
+    C                  G6/b  
 Though the night was made for loving,  
-         F               G  
+    F               G  
 And the day returns too soon,  
-           C             G6/b  
+    C             G6/b  
 Yet we'll go no more a-roving  
-        F            G  
+    F            G  
 By the light of the moon.  
-        F             Fm      C   Dm7  C/e  G   F  
+    F             Fm      C   Dm7  C/e  G   F  
 By the light...    ...of the moon.  
   
 F . . . |Bb/f . . . |            (For the sword outwears its sheath)  
@@ -112,23 +112,23 @@ Fmaj7 . . . |G#dim . . . |
 Am . . . |C . . . |              (And love itself have rest)  
 G . . . |                        (Love have rest)  
   
-            C                  G6/b  
+    C                  G6/b  
 Though the night was made for loving,  
-         F               G  
+    F               G  
 And the day returns too soon,  
-           C             G6/b  
+    C             G6/b  
 Yet we'll go no more a-roving  
-        F            G  
+    F            G  
 By the light of the moon.  
-       F     G      Am  
+    F     G      Am  
 We'll go no more a-roving  
-       F     G      Am  
+    F     G      Am  
 We'll go no more a-roving  
-       F     G      Am  
+    F     G      Am  
 We'll go no more a-roving  
-        D            G       C      G6  
+    D            G       C      G6  
 By the light...   ...of the moon.  
-          F  
+    F  
 (So we'll go no more)  
 G           C  
 (No more a-roving...)

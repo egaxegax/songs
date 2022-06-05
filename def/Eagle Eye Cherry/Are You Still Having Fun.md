@@ -3,25 +3,25 @@ Are You Still Having Fun
   
 Intro:  ***Em Am C*** } 4  
   
-                  ***Em         Am       C***  
+    ***Em         Am       C***  
   You are on your own you do as you please  
-                  ***Em           Am        C***  
+    ***Em           Am        C***  
   Having so much fun gone and lost your reason  
-                        ***Em  Am C***  
+    ***Em  Am C***  
   After all is said and done  
-                       ***Em  Am C***  
+    ***Em  Am C***  
   Are you still having fun  
   How were you to know when you've gone astray  
   That happiness would go like a lost emotion  
   You have always gone your way  
   Are you happy today  
-             ***Em              Am     C***  
+    ***Em              Am     C***  
   Well you know when you've been defeated  
-             ***Em            Am     C***  
+    ***Em            Am     C***  
   You don't care and you thank no one  
-           ***Em          Am      C***  
+    ***Em          Am      C***  
   Feeling low you will always need it  
-                 ***Em Am C***  
+    ***Em Am C***  
   Are you having fun  
   
   ***Am        C                   D***  
@@ -54,9 +54,9 @@ Intro:  ***Em Am C*** } 4
   
   *Пpипeв*  
   
-                       ***Em Am C***  
+    ***Em Am C***  
   Are you still having fun  
-                       ***Em Am C***  
+    ***Em Am C***  
   Are you still having fun  
-                       ***Em Am C***  
+    ***Em Am C***  
   Are you still having fun

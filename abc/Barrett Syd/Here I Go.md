@@ -5,11 +5,11 @@ Here I Go
   *Intro:*  
   ***B                       F#***  
   This is a story 'bout a girl that I knew  
-             ***B***  
+    ***B***  
   she didn't like my songs  
-           ***F#***  
+    ***F#***  
   and that made me feel blue  
-               ***D#          Db              E***  
+    ***D#          Db              E***  
   she said: "a big band is far better than you"...  
   
   *Part I:*  
@@ -18,22 +18,22 @@ Here I Go
       ***A              D#11/A#          Bm7         E***  
   she don't do the stroll,   well she don't do it right  
   
-        ***A           A7           D            Dm***  
+    ***A           A7           D            Dm***  
   well, ev'rythings wrong and my patience was gone  
-         ***A***  
+    ***A***  
   when I woke one morning  
-        ***E***  
+    ***E***  
   and remembered this song  
   
-       ***A   D#11/A#   Bm7     E***  
+    ***A   D#11/A#   Bm7     E***  
   O-oh-oh,             kinda catchy,  
   ***A  D#11/A#  Bm7  E***  
-                 I hoped  
-                 ***A          A7***  
+    I hoped  
+    ***A          A7***  
   that she would talk to me now  
       ***D      Dm        A***  
   and even allow me to hold her hand  
-          ***E***  
+    ***E***  
   and forget that old band.  
   
   *Part II:*  

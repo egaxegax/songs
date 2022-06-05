@@ -11,22 +11,22 @@ B  Bsus4/Ab  B
   
       C#                 H  
 Things haven?t been the same  
-                        Bsus4/Ab   B  
+    Bsus4/Ab   B  
 Since you came into my life  
    C#               H  
 You found a way to touch my soul  
-         B                       Bsus4/Ab  B  
+    B                       Bsus4/Ab  B  
 And I?m never, ever, ever, gonna let it go  
   
 H          C#               H  
 Happiness lies in your own hand  
     C#               H             C#  
 It took me much too long to understand  
-              H  
+    H  
 How it could be  
   Bsus4/Ab  B  
 Until you shared your  
-             H  
+    H  
 Secret with me  
   
 Chorus:  

@@ -4,29 +4,29 @@ Moment Of Truth (1994)
   
   ***Ab                             Bb***  
   I hear your voice close on the phone  
-        ***Bb              Ab***  
+    ***Bb              Ab***  
   But I know you're far away  
-        ***Bb               Ab***  
+    ***Bb               Ab***  
   I've waited so long to talk to you  
-            ***Cm***  
+    ***Cm***  
   But now I can't find the words to say  
   So I sit and I listen to you  
   Breathe on the open line  
   I can almost taste your lips  
   And touch your hair  
   It's like intoxicating wine  
-                         ***Bb***  
+    ***Bb***  
   I can almost see your face  
   ***Bb/Ab                 Gm            Fm***  
   Through the miles and miles of space  
   *CHORUS*  
-        ***Eb***  
+    ***Eb***  
   I can feel the power of a million lights  
-         ***Bb***  
+    ***Bb***  
   When I see your eyes burn bright  
-        ***Bbm                 Bbm/Ab***  
+    ***Bbm                 Bbm/Ab***  
   I can see the sparks of a million volts  
-            ***Eb                  F***  
+    ***Eb                  F***  
   When you touch me through the night  
   I can feel the heat across a million miles  
   When you voice comes through the line  
@@ -45,13 +45,13 @@ Moment Of Truth (1994)
   *CHORUS*  
   ***Abm                  Abm/F#***  
   Somewhere over the atmosphere  
-       ***Fm***  
+    ***Fm***  
   The signals are crossed  
-                    ***E***  
+    ***E***  
   Now you're not so clear  
   ***Abm                       Abm/F#***  
   The power is out and the lights are down  
-       ***Fm***  
+    ***Fm***  
   My head is spinning  
   ***E                      Eb***  
   Round and round and round and round and round  

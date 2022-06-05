@@ -5,7 +5,7 @@
   
   ***Em7***  
   Have you ever thought of the feeling  
-                                   ***C7+9***  
+    ***C7+9***  
   I get when I'm alone with you?  
   ***Em7***  
   It's causing me worry and trouble  
@@ -19,7 +19,7 @@
   ***Am7***  
   Sometimes in the morning I wake up without you  
   Can't get up, it's getting me down,  
-                                ***Em7***  
+    ***Em7***  
   Tell me what you're trying to do  
   ***Am7***  
   Later in the evening you come home feeling low  

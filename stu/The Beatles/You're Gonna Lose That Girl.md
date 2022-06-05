@@ -1,18 +1,18 @@
 <!--2020-09-06 04:15:15-->
 Intro  
-       E       C#m7  
+    E       C#m7  
  You`re gonna lose that girl.  
-              F#m7    B7  
+    F#m7    B7  
  You`re gonna lose       that      girl.  
   
  Verse  
  E                     G#m7  
  If you don`t take her out tonight  
-             F#m7            B7  
+    F#m7            B7  
  She`s gonna change her mind  
  E                   G#m7  
  And I will take her out tonight  
-            F#m7          B7  
+    F#m7          B7  
  and I will treat her kind  
   
  Chorus  
@@ -37,7 +37,7 @@ Intro
  G                    C                     G  
  I`ll make a point of takin` her away from you  
  Yeah  
-                        C               F  
+    C               F  
  The way you treat her, what else can I do?  
   
  Solo  

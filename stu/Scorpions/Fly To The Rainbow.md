@@ -1,11 +1,11 @@
 <!--2020-09-06 00:40:54-->
 Fly To The Rainbow  
   
-        ***Hm                    Em***  
+    ***Hm                    Em***  
   And I see the tears in your eyes  
       ***D                G***  
   The rain will fall tonight  
-        ***Hm                    Em***  
+    ***Hm                    Em***  
   And tonight we'll go to the sky  
     ***D            E***  
   Because and we fly  

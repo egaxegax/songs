@@ -8,22 +8,22 @@ Xxx322    xxx442      (Dm7, F)
   
 VERSE:  
   
-                F                                   D  
+    F                                   D  
 Are  you  sure  you  wanna  hear  more  
   
   
 What  if  I  ain't  worth  the  while,  not  the  
   
-                             Gm                                C  
+    Gm                                C  
 Style  you  been  looking  for.  If  I'm  sweet  tonight  
   
-                       B  
+    B  
 Things   look  different  in  the  morning  light.  
   
-          G7                        C  
+    G7                        C  
 I'm  jealous   and  I'm  proud,  if  you  hurt  
   
-             A7           Dm         D  
+    A7           Dm         D  
 My   feelings  I'll  cry  outloud   I'm  
   
 Gm7                                                    C7                 F         Bb  
@@ -54,22 +54,22 @@ Xxx322    xxx442      (Dm7, F)
   
 VERSE:  
   
-                F                                   D  
+    F                                   D  
 Are  you  sure  you  wanna  hear  more  
   
   
 What  if  I  ain't  worth  the  while,  not  the  
   
-                             Gm                                C  
+    Gm                                C  
 Style  you  been  looking  for.  If  I'm  sweet  tonight  
   
-                       B  
+    B  
 Things   look  different  in  the  morning  light.  
   
-          G7                        C  
+    G7                        C  
 I'm  jealous   and  I'm  proud,  if  you  hurt  
   
-             A7           Dm         D  
+    A7           Dm         D  
 My   feelings  I'll  cry  outloud   I'm  
   
 Gm7                                                    C7                 F         Bb  

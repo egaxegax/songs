@@ -6,9 +6,9 @@ Cabrio Joe
   Dies ist die Geschichte von Cabrio Joe,  
       ***Gm***  
   der nichts mehr liebte als sein rosa Cabrio  
-       ***C***  
+    ***C***  
   jede freie Minute kam dem Auto zugute  
-             ***F                      A***  
+    ***F                      A***  
   die beiden waren frisiert und auf hochglanz poliert  
   dann kam der Tag den wird Joe nie vergessen  
   auf dem Rьckweg vom "Drive In", er hatte gut gegessen  
@@ -21,11 +21,11 @@ Cabrio Joe
   Ref.  
   ***Dm                            G***  
   Joe, oh Joe, da hast du aber Schwein gehabt,  
-       ***C                                  Am               A***  
+    ***C                                  Am               A***  
   aber nur ganz knapp, das hдtte ja auch schlimmer kommen kцnnen.  
   ***F                             G***  
   Joe oh Joe, da hat aber nicht viel gefehlt.  
-           ***Dm                        Gm        Em   Dm***  
+    ***Dm                        Gm        Em   Dm***  
   Und dann gings dir eben so wie dem rosaroten Cabrio  
   als Joe erwachte war es dunkle Nacht  
   und eine Krankenschwester hielt an seinem Bett die Wacht  

@@ -16,7 +16,7 @@ verse:  Animation from New York
   
   ***E                     F# A E***  
 chorus:  Still out on those pills  
-          ***B   A    B  A  B  A  B***  
+    ***B   A    B  A  B  A  B***  
   do you remember  
   
 second verse: you thinks it's swell playing Max's Kansas  

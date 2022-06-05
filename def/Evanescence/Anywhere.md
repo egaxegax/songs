@@ -14,15 +14,15 @@ Anywhere
   
   ***A              E     F#m***  
 Chorus:  We're leaving here tonight  
-           ***D***  
+    ***D***  
   There's no need to tell anyone  
-         ***Bm           E***  
+    ***Bm           E***  
   They'd only hold us down  
-       ***A     E        F#m***  
+    ***A     E        F#m***  
   So by the morning flight  
-        ***D***  
+    ***D***  
   We'll be half way to anywhere  
-        ***Bm                E         A***  
+    ***Bm                E         A***  
   Where love is more than just your name  
   
   ***A                         A       E***  
@@ -40,28 +40,28 @@ Chorus:  We're leaving here tonight
   
   ***Bm          C#m***  
   Forget this life  
-            ***D***  
+    ***D***  
   Come with me  
-             ***E***  
+    ***E***  
   Don't look back you're safe now  
   ***Bm          C#m***  
   Unlock your heart  
-            ***D***  
+    ***D***  
   Drop your guard  
-           ***E***  
+    ***E***  
   No one's left to stop you  
   
   ***Bm          C#m***  
   Forget this life  
-            ***D***  
+    ***D***  
   Come with me  
-             ***E***  
+    ***E***  
   Don't look back you're safe now  
   ***Bm          C#m***  
   Unlock your heart  
-            ***D***  
+    ***D***  
   Drop your guard  
-           ***E***  
+    ***E***  
   No one's left to stop you now  
   
   *Chorus*

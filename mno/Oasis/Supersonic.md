@@ -10,9 +10,9 @@ Definitely Maybe (1994), Familiar To Millions (2000)
   
 intro:  ***F# A B*** } x3  
   
-          ***F#  E/F# F#     A B***  
+    ***F#  E/F# F#     A B***  
   I need to be myself  
-        ***F#    E/F# F#          A B***  
+    ***F#    E/F# F#          A B***  
   I can't be no one else  
    ***F#            E/F# F#      A     B***  
   I'm feeling supersonic give me gin & tonic  
@@ -43,7 +43,7 @@ intro:  ***F# A B*** } x3
   He'd take you home  
    ***E          A      B***  
   He sits in the corner  
-       ***F#***  
+    ***F#***  
   All alone  
    ***E        A      B     F#***  
   He lives under a waterfall  

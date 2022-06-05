@@ -22,7 +22,7 @@
   forever  
   ***F#m***  
   Here i stand and face the rain  
-          ***Hm  A***  
+    ***Hm  A***  
   I know that nothing's gonna be the same again  
      ***Hm           Dbm-Gm   Hm***  
   I fear for what tomorrow brings  
@@ -87,16 +87,16 @@
   I fear for what tomo..rrow brings  
    ***F#-     D        E         F#-  |  D        E      |  F#-    D***  
   here I stand and face the rain                       knowing nothing's  
-                            (here I stand and face the  rain  
-                        ***|.   d  |~---d  |.  |~---|. d-|~  |. d  |~---d  |.***  
+    (here I stand and face the  rain  
+    ***|.   d  |~---d  |.  |~---|. d-|~  |. d  |~---d  |.***  
    ***E     F#-    D   E   F#-  D  E  | E  F#- D  | D  E   | B- G  A  | A  B-***  
   gonna be the same   again  
   ***|~---|. d-|~   |.   d  |~---d  |.  |~---|. d-|~  |. d  |~---d  |.  |~---|.***  
   ***G  | G  A    | F#-  D  E  | E  F#- D  | D  E   | B- G  A  | A  B-  G  | G***  
   ***d-|~   |.   d      |~---d     |.  |~---|.    d-|~     |.   d      |~---d***  
   ***A    | F#-  D      E  | E     F#- D  | D     E   |    B-   G      A  | A***  
-         aaah ah ahahah     ahahaaah..........          aaah ah ahahah  
-                               (aah ah     ahahah   ahahaaah..........)  
+    aaah ah ahahah     ahahaaah..........          aaah ah ahahah  
+    (aah ah     ahahah   ahahaaah..........)  
       ***|.  |~---|.    d-|~ |***  
       ***B-  G  | G     A    |***  
   ahahaaah                |  
@@ -108,7 +108,7 @@
       ***|.   |~---|.    d-|~ |***  
       ***B-   G  | G     A    |***  
   ahahaaah                 |  
-           ah     ahahah)  |  
+    ah     ahahah)  |  
       ***|.      d        |~---d   |.  |~---|.    d-|~     |.   d      |~---d***  
       ***F#-     D        E  | E   F#- D  | D     E   |    B-   G      A  | A***  
      here I stand and face the rain  
@@ -117,7 +117,7 @@
       ***|.   |~---|.    d-|~ |***  
       ***B-   G  | G     A    |***  
   ahahaaah                 |  
-           ah     ahahah)  |  
+    ah     ahahah)  |  
       ***|.      d         |~---d   |.     |~---|.    d-|~     |.   d      |~--***  
       ***F#-     D         E  | E   F#-    D  | D     E   |    B-   G      A  |***  
      knowing nothing's gonna    be the same           a..  gain  
@@ -126,14 +126,14 @@
   ***--d |.        |~---|.    d-|~ |***  
     ***A B-        G  | G     A    |***  
       ahahaaah)                 |  
-                ah     ahahah)  |  
+    ah     ahahah)  |  
   ***|.   d      |~---d     |.  |~---|.    d-|~     |.   d      |~---d     |.***  
   ***F#-  D      E  | E     F#- D  | D     E   |    B-   G      A  | A     B-***  
   aaah ah ahahah     ahahaaah..........          aaah ah ahahah     ahahaaah  
-                        (aah ah     ahahah   ahahaaah..........)       (aah  
+    (aah ah     ahahah   ahahaaah..........)       (aah  
   ***|~---|.    d-|~ |***  
   ***G  | G     A    |***  
-                  ***|***  
+    ***|***  
   ah     ahahah)  |  
   ***|.   d  |~---d  |.  |~---|. d-|~  |. d  |~---d  |.  |~---|. d-|~***  
   ***F#-  D  E  | E  F#- D  | D  E   | B- G  A  | A  B-  G  | G  A***  

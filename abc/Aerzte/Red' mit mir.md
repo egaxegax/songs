@@ -10,11 +10,11 @@ Red' mit mir
   *Der Akkord ist ***C#m*** (nebenbei ist das auch die Tonart), gegriffen wird er wie*  
   *folgt (er wird nicht ganz angeschlagen) und klingt Ѓber 2 Takte und 4x.*  
   ****C#m***:   [+---+]*  
-         [+-5-+  
-         +-6-+  
-         +-6-+  
-         +-4-+  
-         +---+]  
+    [+-5-+  
+    +-6-+  
+    +-6-+  
+    +-4-+  
+    +---+]  
   *Haut danach direkt den Verzerrer rein und spielt den folgenden Riff mit 'nem*  
   *ordentlichen Punk-Feeling, sonst kommt er nicht so gut rЃber:*  
   

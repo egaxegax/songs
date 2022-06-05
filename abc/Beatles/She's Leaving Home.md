@@ -21,7 +21,7 @@ Sgt Peppers Lonely Hearts Club Band (1967)
   She (we gave her most of our lives)  
   
   Is leaving (sacrificed most of our lives)  
-                     ***F#m***  
+    ***F#m***  
   Home  (We gave her everything money could)  
   ***C#m                       F#m                 C#m***  
   She is leaving home after living alone for so many years  

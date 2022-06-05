@@ -3,13 +3,13 @@
   Van Diemans Land  
   
   Hold me now, oh hold me now  
-          ***G   C              G   C  G***  
+    ***G   C              G   C  G***  
   Till this hour has gone around  
-            ***Em  C               D***  
+    ***Em  C               D***  
   And I'm gone on the rising tide  
-          ***Bm                 Em  C***  
+    ***Bm                 Em  C***  
   For to face Van Diemen's land  
-         ***G   D             G    C G***  
+    ***G   D             G    C G***  
   
   It's a bitter pill I swallow here  
   To be rent from one so dear  

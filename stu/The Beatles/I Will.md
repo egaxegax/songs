@@ -5,7 +5,7 @@ Who knows how long I've loved you?
 You know I love you still.  
 F7      B      C7     Dm      F  
 Will I wait a lonely lifetime?  
-       B       C7    F    Dm   Gm  
+    B       C7    F    Dm   Gm  
 If you want me to -I will.  
   
 For if I ever so you  

@@ -16,9 +16,9 @@ it`s doing me harm you know I
 E7  
 can`t sleep, I can`t stop my brain,  
 you know it`s three weeks, I`m going insane  
-             D  
+    D  
 you know I`d give you everything  
-                                 A  
+    A  
 I`ve got for a little peace of mind.  
   
 I`m so tired, I`m feeling so upset.  

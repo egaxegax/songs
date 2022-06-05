@@ -10,7 +10,7 @@
   Qu'un vieil ami      Refuse de me voir  
   ***Dm                     Am***  
   Je reviens chez celle qui  
-              ***A#            F***  
+    ***A#            F***  
   Sans savoir    Ni vouloir    Me fait dire  
   ***Dm          Am A# F***  
   La fete est finie  
@@ -41,7 +41,7 @@
   Me taraude a nouveau  
   ***E         B         E***  
   Faire son temps serait  
-        ***B         E***  
+    ***B         E***  
   Rassurant oui mais  
   ***B                      E***  
   On sous estime l'adversaire  

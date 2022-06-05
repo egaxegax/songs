@@ -17,19 +17,19 @@
   little bird, i won't prey on you i won't prey on you this time  
   ***D       F#m   D       F#m          D        F#m        G (fill 1) A***  
   i'm your faith i'm your faithhealer i'm your faithless companion  
-                                       ***G***  
+    ***G***  
   i'm the seed that made your perfect body  
-                ***A         D (fill 2) Bm D Bm D Bm A***  
+    ***A         D (fill 2) Bm D Bm D Bm A***  
   when you sleep, i am awake  
   ***D         Bm     D       Bm     D       Bm***  
   there is a light under the ocean under the ocean  
-          ***A***  
+    ***A***  
   there's things shining everywhere  
   ***D         Bm          D        Bm            D        Bm***  
   there is a lightkeeper under the blanket here under the blanket  
-          ***A                      G***  
+    ***A                      G***  
   there's things shining down here  
-          ***A                       G              A***  
+    ***A                       G              A***  
   now i see you lay your perfect body down by me  
   now we're down  
   
@@ -54,17 +54,17 @@
   little bird, i won't prey on you i won't prey on you this time  
   ***D       F#m   D       F#m          D        F#m        G (fill 1) A***  
   i'm your faith i'm your faithhealer i'm your faithless companion  
-                                   ***G***  
+    ***G***  
   i'm the seed that made your body perfect  
-                ***A         D (fill 2) Bm D Bm***  
+    ***A         D (fill 2) Bm D Bm***  
   when you sleep, i am awake  
   ***D         Bm     D       Bm     D       Bm***  
   there is a light under the ocean under the ocean  
-          ***A***  
+    ***A***  
   there's things shining everywhere  
   ***D         Bm          D        Bm            D        Bm***  
   there is a lightkeeper under the blanket here under the blanket  
-          ***A***  
+    ***A***  
   there's things shining everywhere  
   ***G                              A                  G***  
   you light the ocean from behind i'll show you mine (i'll show you)  

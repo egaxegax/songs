@@ -5,7 +5,7 @@ Gmaj7/B           Dsus2  Csus2 G/B
 stirring up inside of me  
 Am7      Cmaj7      Gmaj7/B    Dsus2  
 everyday every hour wish that I  
-                |Am7|Cmaj7|Bmaddb6(or Gmaj7/B)|Dsus2  Csus2 G/B|  
+    |Am7|Cmaj7|Bmaddb6(or Gmaj7/B)|Dsus2  Csus2 G/B|  
 was bullet proof  
   
 Am7     Cmaj7  
@@ -16,12 +16,12 @@ Am7                  Cmaj7
 you have turned me into this  
 Gmaj7/B          Dsus2  
 just wish that it  
-                G---  
+    G---  
 was bullet proof  
   
 Chords for this chorus part are as follows:  
 |G|Gmaj7/B|Cadd9|Cadd9|G|Gmaj7/B|Cadd9|Bb6|  
-                                         so  
+    so  
 Am7                     Cmaj7  
 pay me money and take a shot  
 Gmaj7/B           Dsus2  
@@ -30,5 +30,5 @@ Am7                Cmaj7
 i could burst a million bubbles, all  
 Gmaj7/B  Dsus2  
 surrogate  
-                G----  
+    G----  
 and bullet proof

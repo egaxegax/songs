@@ -20,7 +20,7 @@ And if you make it past the shotgun in the hall,
 Gm7  
 Dial the combination, open the priesthole  
   
-                   C                                 F  
+    C                                 F  
 And if I'm in I'll tell you what's behind the wall. Stop here.  
 Am                                   F  
 There's a kid who had a big hallucination  
@@ -30,17 +30,17 @@ Making love to girls in magazines.
 He wonders if you're sleeping with your new found faith.  
 Gm7  
 Could anybody love him  
-               /C          F      F/C  C  Bb add9  F  
+    /C          F      F/C  C  Bb add9  F  
 Or is it just a crazy dream___?  
    F                     C  
 And if I show you my dark side  
-                   Bb   F  
+    Bb   F  
 Will you still hold me tonight?  
    F            C  
 And if I open my heart to you  
-                    Bb  
+    Bb  
 And show you my weak side,  
-              F  
+    F  
 What would you do?  
 Bb                                   F  
 Would you sell your story to Rolling Stone? Start again here.  
@@ -95,7 +95,7 @@ e-------------------------------15>(17)(18)====>15~~~~~~~~~~~~~
 B--------------------------------------------------------------  
 G14 p12--10~~~~~~~~~~~~~~~~~\----------------------------------  
   
-                                  E   Q.          E   Q.  
+    E   Q.          E   Q.  
 e--------13------13>(15)~~~~~~~~13--12-------------------------  
 B13---------------------------------------------13--11---------  
 G--------------------------------------------------------------  
@@ -117,5 +117,5 @@ I held the blade in trembling hands,
   Dm                   Gm7  
 Prepared to make it but just then the phone rang, Stop here.  
   
-                                       G      C  Bb add9  F  
+    G      C  Bb add9  F  
 I never had the nerve to make the final cut.

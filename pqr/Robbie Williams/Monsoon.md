@@ -15,9 +15,9 @@ Monsoon
   You haven't lost my respect  
   ***Gm***  
   I'm here to serve and protect  
-                 ***C***  
+    ***C***  
   What shade of insanity  
-                    ***Bb    F***  
+    ***Bb    F***  
   Keeps leading you back to me  
   ***F***  
   So put your hands across the water  
@@ -25,7 +25,7 @@ Monsoon
   Mushroom  
   ***C***  
   Monsoon  
-       ***Bb F***  
+    ***Bb F***  
   Come soon  
   Don't wanna piss on your parade  
   I'm here to make money and get laid  

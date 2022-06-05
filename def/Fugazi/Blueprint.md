@@ -62,7 +62,7 @@ Blueprint
   ***E     E           B    C                   D     E***  
   Never mind what's been selling, it's what you're buying  
   ***G  A                          G***  
-       And recieving undefiled  
+    And recieving undefiled  
   *Go through this four times, then back to that first ***B*** chord for 2 measures,*  
   *then*  
   *play the previous part again in double time:*  

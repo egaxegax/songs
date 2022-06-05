@@ -3,7 +3,7 @@ Spanish nights (I remember it well)
   
   ***F#***  
   Silent she rose  
-           ***D           F#***  
+    ***D           F#***  
   From the cold desert sands  
   ***D          Am***  
   Painted in shadows  
@@ -15,16 +15,16 @@ Spanish nights (I remember it well)
   Her eyes glowing black...  
   ***Hm                 A***  
   Oh, and they cried Malaguena  
-              ***G        Em***  
+    ***G        Em***  
   Wait for me Malaguena  
-                ***F#***  
+    ***F#***  
   I remember it well...  
   ***Hm                A***  
   Oh, and they cry Malaguena  
-                 ***G     Em***  
+    ***G     Em***  
   Wait for me Malaguena  
   I remember it...  
-                ***F#***  
+    ***F#***  
   I remember it well...  
   Oh, too well...  
   And so they rode  

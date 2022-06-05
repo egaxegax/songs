@@ -2,7 +2,7 @@
 Gypsies, Tramps, and Thieves  
   *(Bob Stone)*  
   
-         ***Am                     C***  
+    ***Am                     C***  
 Verse 1: I was born in the wagon of a traveling show  
       ***Dm                         F***  
   My mama used to dance for the money they'd throw  
@@ -21,7 +21,7 @@ Chorus:  Gypsies, tramps and thieves
   Gypsies, tramps and thieves  
   ***Am                       G                F***  
   But every night all the men would come around  
-                      *(1,3: ***Am***   2: ***Dm C  Dm C***; to bridge)*  
+    *(1,3: ***Am***   2: ***Dm C  Dm C***; to bridge)*  
   And lay their money down  
   
 Verse 2: Picked up a boy this side of Mobile  
@@ -34,13 +34,13 @@ Verse 2: Picked up a boy this side of Mobile
   
   ***Dm         C                Dm        C***  
 Bridge:  Never had schoolin' but he taught me well  
-            ***Dm      C       Dm    C***  
+    ***Dm      C       Dm    C***  
   With his smooth Southern style  
    ***Dm            C         Dm       C***  
   Three months later I'm a gal in trouble  
-        ***Dm            C        Fmaj7***  
+    ***Dm            C        Fmaj7***  
   And I haven't seen him for a while  
-                           ***Cmaj7     Fmaj7***  
+    ***Cmaj7     Fmaj7***  
   I haven't seen him for a while  
   
 Verse 3: She was born in the wagon of a traveling show  

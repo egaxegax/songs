@@ -6,7 +6,7 @@
   Father, tell me somethin'  
   ***A                H            Am#***  
   Where do bad men go when they die?  
-         ***C#         A***  
+    ***C#         A***  
   And mother says you'll go there but  
   ***H                Am#   C#***  
   Wings for her and I and I don't mind  

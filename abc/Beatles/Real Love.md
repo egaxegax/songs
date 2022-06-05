@@ -14,7 +14,7 @@ Intro:  ***Em B Em B***
   lost like some forgotten dreams  
   ***A                                        F#m     B***  
   Seems that all I really was doin  
-                          ***E     A     E      A***  
+    ***E     A     E      A***  
   was waiting for you  
   ***E                                   G#m***  
   Just like little girls and boys  
@@ -22,7 +22,7 @@ Intro:  ***Em B Em B***
   Playing with their little  toys  
   ***A                                            F#m   B***  
   seems like all we really were doin  
-                          ***E  A   E   A***  
+    ***E  A   E   A***  
   was waitn for love  
   
 Chours:  ***E     C#m   A          B***  

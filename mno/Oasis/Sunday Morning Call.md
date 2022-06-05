@@ -28,7 +28,7 @@ Standing On The Shoulder Of Giants (2000)
   Slip your shoes on and then out you crawl  
   ***Bb                               Dm***  
   Into a day that couldn't give you more  
-            ***D***  
+    ***D***  
   But what for?  
   
   *CHORUS*  

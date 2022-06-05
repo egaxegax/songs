@@ -5,13 +5,13 @@ Intro: F.. ...|Dm.. ...|Bb.. Csus4..|F.. ...|F.. ...|
 Maybe I'm still hurting  
    Bb       C            F  
 I can't turn the other cheek  
-          F                Dm  
+    F                Dm  
 But you know that I still love you  
       C        Bb        F  
 It's just that I can't speak  
    Bb               F  
 I looked for you in everyone  
-          A                 Bb   C  
+    A                 Bb   C  
 And they called me on that too  
    F      C/e     Dm    Am/c  
 I lived alone but I was only  
@@ -27,9 +27,9 @@ In the name of something new
 And all the senses rise against this  
 Coming back to you  
   
-             Bb              F  
+    Bb              F  
 And they're handing down my sentence now  
-        Bb      Csus4   F  
+    Bb      Csus4   F  
 And I know what I must do  
   A              Bb  
 Another mile of silence while I'm  

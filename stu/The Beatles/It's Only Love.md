@@ -24,12 +24,12 @@ When you sigh my my inside just flies,      butterflie
   F          G              C      Am  
 Why am I so shy when I`m beside you ?  
   
-           Bb               G  
+    Bb               G  
 It`s only love and that is all  
-              C              Am    (as in intro)  
+    C              Am    (as in intro)  
 Why should i feel the way i do?  
   
-           Bb               G                F           G  
+    Bb               G                F           G  
 It`s only love and that is all, but it`s so hard, lovin you  
   
 Is it right that you and i should fight every night  
@@ -39,5 +39,5 @@ Haven`t I the right to make it up, girl?
 It`s only love and that is all,  
 Why should i feel the way i do?  
 It`s only love and that is all, but it`s so hard, lovin you  
-         F               G          C     Am    C    Am  
+    F               G          C     Am    C    Am  
 Yes it`s so hard, lovin you, lovin you.

@@ -4,23 +4,23 @@ Until She Comes
   *CAPO 1*  
   ***D           A          G***  
   Until she comes again  
-         ***A                   D***  
+    ***A                   D***  
   I can hear the things she said  
-              ***A                 G***  
+    ***A                 G***  
   I feel no thoughts to move my head  
-              ***A***  
+    ***A***  
   Until she comes again  
   ***G***  
   And with her step  
-            ***A***  
+    ***A***  
   I move my feet  
   And with her hand  
-             ***G***  
+    ***G***  
   I feel my skin  
   And with her need  
-                ***A***  
+    ***A***  
   I find I'm saved  
-                ***G***  
+    ***G***  
   And with her dreams  
       ***A    D***  
   I'm laid  

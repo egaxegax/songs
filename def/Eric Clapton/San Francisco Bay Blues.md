@@ -21,9 +21,9 @@ Run 2:  Simple bass run fill:
   -2-----0--2-|-3-----  
   -3--3-------|-------]  
   
-            ***C                       F                    C       C7***  
+    ***C                       F                    C       C7***  
 Verse 1: I got the blues from my baby down by the San Francisco Bay,  
-              ***F                                 C       C7***  
+    ***F                                 C       C7***  
   (Where) the ocean liners, they aren't so far away.  
     ***F                                            C           run1      A***  
   I didn't mean to treat her so bad, she was the best girl I ever have had,  
@@ -31,9 +31,9 @@ Verse 1: I got the blues from my baby down by the San 
   Said goodbye, had to take a cry (?), I wanna lay down and die.  
     ***C                        F                      C    C7***  
   I ain't got a nickel and I ain't got a lousy dime.  
-         ***F                                          E7***  
+    ***F                                          E7***  
   If she don't come back, I think I'm gonna lose my mind.  
-       ***F                           C                fill1     A***  
+    ***F                           C                fill1     A***  
   If I ever get back to stay, it's gonna be another brand new day,  
   ***D                         G7                   C     G7***  
   Walkin' with my baby down by the San Francisco Bay.  

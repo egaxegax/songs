@@ -10,11 +10,11 @@ The Times They Are A Changin
   And admit that the waters around you have grown  
       ***C              C/Hm           Am***  
   And accept it that soon you'll be drenched to the bone  
-          ***C           Am       G***  
+    ***C           Am       G***  
   If your time to you is worth saving  
-             ***G***  
+    ***G***  
   Then you'd better start swimming or you'll sink like a stone  
-          ***C  Am Am/Dm           C***  
+    ***C  Am Am/Dm           C***  
   For the times, they are a changin  
   Come writers and critics who prophesize with your pens  
   And keep your eyes wide, the chance won't come again  

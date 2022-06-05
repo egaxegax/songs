@@ -4,29 +4,29 @@ The Game 1980
   *(Mercury)*  
   *2:44*  
   
-            ***E                     A        D         A***  
+    ***E                     A        D         A***  
   This thing,  called love, I just  can't  handle it,  
-             ***E                    A          D       A***  
+    ***E                    A          D       A***  
   this, thing,  called love, I must, get round to it,  
-          ***E       C             D            E***  
+    ***E       C             D            E***  
   I anit ready,  Crazy little thing called love.  
-            ***E                     A       D               A***  
+    ***E                     A       D               A***  
   This thing, called love, it cries, in craddle at night,  
-       ***E                     A                    D       A***  
+    ***E                     A                    D       A***  
   it swings, it jives, it shakes, all overlike a jelly-fish,  
-             ***E      C             D             E***  
+    ***E      C             D             E***  
   I kinda like it, Crazy little thing called love.  
-                ***A          D                        A***  
+    ***A          D                        A***  
   There goes my baby, she knows how to rock and roll,  
-                  ***E                  A            B***  
+    ***E                  A            B***  
   She drives me crazy, she gives me hot and cold fever,  
-             ***G                                    F#              B***  
+    ***G                                    F#              B***  
   then she leaves me in a cool, cool sweat.  
-               ***E                  A       D       A***  
+    ***E                  A       D       A***  
   I gotta be cool, relax, get hip, get on my tracks,  
-          ***E***  
+    ***E***  
   take a back seat, hitch-hike  
-        ***A                     D      A               E***  
+    ***A                     D      A               E***  
   And take a long ride on my motor bike until I'm ready,  
   ***C               D            E***  
   Crazy Little thing called love.  

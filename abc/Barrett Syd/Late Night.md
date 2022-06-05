@@ -12,9 +12,9 @@
   
   ***B                A***  
   When I woke up today  
-                           ***G***  
+    ***G***  
   And you weren't there to play  
-                   ***E***  
+    ***E***  
   Then I wanted to be with you  
   When you showed me your eyes  
   Whispered love the skies             (???)  
@@ -23,9 +23,9 @@
   Inside me I feel  
   ***CaddG       Am***  
   Alone and unreal  
-          ***D***  
+    ***D***  
   And the way you kiss  
-                   ***G                     D***  
+    ***G                     D***  
   Will always be a very special thing to me  
   When I lay still at night  
   Seeing stars high and light  

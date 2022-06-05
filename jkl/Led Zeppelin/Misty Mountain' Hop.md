@@ -3,7 +3,7 @@ There are really only three parts to the tab:
   
  Section 1:  
   
-       Q.    Q   S   S  S   Q.  
+    Q.    Q   S   S  S   Q.  
   
  -----------------------------------------  
   
@@ -37,7 +37,7 @@ There are really only three parts to the tab:
   
  And you know how it is.............          I really don`t...  
   
-         Q        S   S    S    S       E  E    E    Q. E  
+    Q        S   S    S    S       E  E    E    Q. E  
   
  ---------------------------------------|-------------------------------|  
   
@@ -55,7 +55,7 @@ There are really only three parts to the tab:
   
       time it was.....                    whoa, oh,           ho  
   
-       W+                 E  
+    W+                 E  
   
  ---------------------------------------|-------------------------------------|  
   

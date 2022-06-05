@@ -5,25 +5,25 @@ Every Little Thing
   *Вce aккopды игpaть c бapэ.*  
   ***D#(Eb) [6 6 8 8 8 6].***  
   
-          ***F                   B           C***  
+    ***F                   B           C***  
   When I'm walking beside her  
-          ***F                   B***  
+    ***F                   B***  
   People tell me I'm lucky.  
-          ***Gm           C        F***  
+    ***Gm           C        F***  
   Yes, I know I'm a lucky guy.  
-          ***F                   B       C***  
+    ***F                   B       C***  
   I remember the first time  
-          ***F                   B***  
+    ***F                   B***  
   I was lonely without her.  
-          ***Gm                C           F***  
+    ***Gm                C           F***  
   Can't stop thinking about her now.  
-          ***F                  D#***  
+    ***F                  D#***  
   Every little thing she does,  
-                    ***F***  
+    ***F***  
   She does for me, yeah.  
-          ***F                  D#***  
+    ***F                  D#***  
   And you know the things she does,  
-                    ***F***  
+    ***F***  
   She does for me, oooh.  
   When I'm with her I'm happy  
   Just to know that she loves me.  

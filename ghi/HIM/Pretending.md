@@ -23,7 +23,7 @@ Intro:  ***A***/***H***/***Cm#***/***H***/***A***/***H***/***Cm#***
      ***A      E       H***  
   It always ends up in tears.  
   
-                 ***A***  
+    ***A***  
 Chorus:  So keep on Pretending.  
   ***H   Cm#                 H***  
   Our heaven is worth the waiting.  

@@ -24,7 +24,7 @@ Say You'll Be There
   (aah... say you'll be there)  
   ***Bm             E***  
   I'm giving you everything  
-           ***G                       D***  
+    ***G                       D***  
   All that joy can bring, this I swear  
   ***Bm         E***  
   Last time that we had this conversation  
@@ -32,7 +32,7 @@ Say You'll Be There
   I decided we should be friends  
   ***Bm             E***  
   But now we're going 'round in circles  
-           ***G                       D***  
+    ***G                       D***  
   Tell me will this deja-vu never end?  
   And now you tell me that you've fallen in love  
   Well I never ever thought that would be  
@@ -48,18 +48,18 @@ Say You'll Be There
   A|----------------------------------------------------------------|  
   E|----------------------------------------------------------------|]  
   
-           ***C                     Bm***  
+    ***C                     Bm***  
 Bridge:  But any fool can see they're falling  
-           ***Bb            A***  
+    ***Bb            A***  
   I gotta make you understand  
   
   ***Bm             E***  
 chorus:  I'm giving you everything  
-            ***G                      D***  
+    ***G                      D***  
   All that joy can bring, this I swear  
   ***Bm              E***  
   And all that I want from you  
-        ***G                    D***  
+    ***G                    D***  
   Is a promise you will be there  
   
   *riff C: (played over bridge 2)*  
@@ -98,9 +98,9 @@ chorus:  I'm giving you everything
   *the hang of it)*  
   
   *Bridge (repeat riff B)*  
-       ***C                    Bm***  
+    ***C                    Bm***  
   Any fool can see they're falling  
-           ***Bb            A***  
+    ***Bb            A***  
   I gotta make you understand  
   
   ***(n.c.)***  

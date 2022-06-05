@@ -49,4 +49,4 @@ solo:  ***Bb   D C Bb*** } x4
   that was the only reason we all had to say goodbye  
   
   *outro (w/ad-lib, repeat until end)*  
-         ***Eb    Bb***
+    ***Eb    Bb***

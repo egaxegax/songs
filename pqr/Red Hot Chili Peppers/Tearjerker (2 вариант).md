@@ -63,7 +63,7 @@ The chords should be played in a arpeggio kind of way
 Something like this:  
 (THIS IS NOT EXACT)  
   
-        D         DonC#        G                A  
+    D         DonC#        G                A  
 E|-----------------------------3----------------5---|  
 B|------7----------7-----------3--------------5-5---|  
 G|------7----------7------------------------6-----6-|  
@@ -90,12 +90,12 @@ First time I saw you You were sitting backstage in a dress
 A perfect mess  
  D        DonC#     G            A  
 You never knew this But I wanted badly  
-         D  DonC#       Bm  
+    D  DonC#       Bm  
 for you to Requite my love  
   
  C          Em    C            Em    C                  Em  
 Left on the floor Leaving your body  When highs are the lows  
-                 F#m  Em         F#m  
+    F#m  Em         F#m  
 and lows are the way So hard to stay  
    A5          Bb5   A5        Bb5  
 Guess now you know I love you so  
@@ -112,7 +112,7 @@ You gave me such
   
  C          Em    C            Em    C                  Em  
 Left on the floor Leaving your body  When highs are the lows  
-                 F#m  Em         F#m  
+    F#m  Em         F#m  
 and lows are the way So hard to stay  
    A5             Bb5  A5     Bb5  
 Guess now you know I love you so

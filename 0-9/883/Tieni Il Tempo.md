@@ -14,7 +14,7 @@ Tieni Il Tempo
   
   ***Am          F***  
   Sono sempre pronti  
-          ***C                      G***  
+    ***C                      G***  
   a giudicare tutto quello che fai  
   ***Am      F               C          G***  
   come ti vesti e con che ti incontrerai  
@@ -22,21 +22,21 @@ Tieni Il Tempo
   ma non te la prendere loro sono fatti cos  
   ***Am         F         C***  
   devi solo credere che un giorno  
-                  ***G***  
+    ***G***  
   te ne andrai di qui.  
-          ***Am           F              C***  
+    ***Am           F              C***  
   Scendi nella strada balla e butta fuori  
-          ***G              Am           F***  
+    ***G              Am           F***  
   quello che hai fai partire il ritmo quello giusto  
   ***C          G        Am***  
   datti una mossa e poi  
-          ***Am F            C       G***  
+    ***Am F            C       G***  
   tieni il tempo con le gambe e con le mani  
-          ***Am F            C       G***  
+    ***Am F            C       G***  
   tieni il tempo non fermarti fino a Cmani  
-          ***Am F            C       G***  
+    ***Am F            C       G***  
   tieni il tempo vai avanti e vedrai  
-          ***Am F            C       G***  
+    ***Am F            C       G***  
   tieni il tempo il ritmo non finisce mai.  
   
   ***Am F C G Am F C G***  

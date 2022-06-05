@@ -109,7 +109,7 @@ Jazz 1978
   |-2----4--5-/7--0---|  
   |---0---------------|  
   |-------------------|  
-                             [x7x797]  
+    [x7x797]  
   It would take a hundred or more  
   For memories to fade  
   I wish Friday could last forever  

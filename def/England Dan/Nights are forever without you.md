@@ -16,7 +16,7 @@
 CHORUS:  Soft and low the music moans  
   ***F#m          G#m        A***  
   I can't stop thinking about you  
-                 ***B***  
+    ***B***  
   Thinkin' 'bout you  
   ***E        B             A              A B***  
   I didn't know it would be so strong  

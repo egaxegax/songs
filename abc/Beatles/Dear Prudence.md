@@ -9,7 +9,7 @@ Dear Prudence
   ***G/D***   [xx0433]  
   ***A/D***   [xx0655]  
   
-       ***D         D/C              D/B            D/A#***  
+    ***D         D/C              D/B            D/A#***  
   Dear Prudence                                     won't you come out  
   ***D              D/C              D/B            D/A#***  
   to play                                           Dear  
@@ -60,7 +60,7 @@ CHORDS:        opening chords           
   Dear Prudence            won't you come out to play  
   ***D           D/C  Gm7/B  Gm7/Bb                D  D/C  Gm7/B  Gm7/Bb***  
   Dear Prudence            greet the brand new day  
-       ***D             D/C              Gm7/B          Gm7/Bb***  
+    ***D             D/C              Gm7/B          Gm7/Bb***  
   The sun is up, the sky is blue it's beautiful, and so are you  
   ***D          D/C   C          G           D  D/C  Gm7/B  Gm7/Bb***  
   Dear Prudence    won't you come out to play?  
@@ -69,12 +69,12 @@ CHORDS:        opening chords           
   Dear Prudence, see the sunny skies  
   The wind is low, the birds will sing  
   That you are part of everything  
-       ***D     D/C C          G            D  Dsus4 D5 Dsus4***  
+    ***D     D/C C          G            D  Dsus4 D5 Dsus4***  
   Dear Prudence  won't you open up you eyes?  
   
 BRIDGE:         ***D           Dsus4              D                Dsus4***  
   Look around round (round round round round round round ...)  
-         ***D           Dsus4              D            Dsus4***  
+    ***D           Dsus4              D            Dsus4***  
   Look around round round (round round round round round round)  
   ***D     F    C  G  D***  
   Look around  

@@ -3,21 +3,21 @@ Tuning: Eb Bb Gb Db Ab Eb (standard, half step down)
   
 B                       G#m  
 The rain falls down on last year's man  
-          A  
+    A  
 That's a jew's harp on the table  
-           E  
+    E  
 That's a crayon in his hand  
-         B                            G#m  
+    B                            G#m  
 And the corners of the blueprint are ruined since they rolled  
      A  
 Far past the stems of thumbtacks  
-                   E  
+    E  
 That still throw shadows on the wood  
-          A                F#         B              F#  
+    A                F#         B              F#  
 And the skylight is like skin for a drum I'll never mend  
     B                   G#m  
 And all the rain falls down, amen  
-        A                    E  
+    A                    E  
 On the works of last year's man  
   
 I met a lady, she was playing with her soldiers in the dark  

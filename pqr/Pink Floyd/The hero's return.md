@@ -11,7 +11,7 @@ Cmaj7
 Dresden at angels one five.  
 D      Cmaj7  
 Though they'll never fathom it behind my  
-                          D  
+    D  
 Sarcasm desperate memories lie.  
   
 D  
@@ -23,11 +23,11 @@ To withstand the light of day.
   
 Cmaj7                      D       Cmaj7  
 When we came back from the war the banners and  
-                        D  
+    D  
 Flags hung on everyone's door.  
   Cmaj7  
 We danced and we sang in the street and  
-                D  
+    D  
 The church bells rang.  
    G             C  
 But burning in my heart,  

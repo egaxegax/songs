@@ -76,12 +76,12 @@ Verse 2: [E-----0-------0-------2-------2-------0-------0-------7-------7---
   *Verse 3: (Strum the chords for these verses)*  
   ***Em       D           Am          B***  
   Some say i'm a fool, see me on a beggar's stool  
-       ***Em                D               C       D         Em***  
+    ***Em                D               C       D         Em***  
   When all my truths are lied and all my secrets have been told  
   
   ***Em          D        Am           B***  
 Verse 4: Rain, rain, go away, come again a better day  
-       ***Em              D               C       D         Em***  
+    ***Em              D               C       D         Em***  
   When all my lies are gone and all my burdens have been sold  
   
 Horn Section 2: ***G   Am   D   Em   Am   D***  

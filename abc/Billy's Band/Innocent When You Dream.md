@@ -3,24 +3,24 @@ Being Tom Waits (2002)
   Innocent When You Dream  
   *(Tom Waits)*  
   
-       ***C       A7      Dm***  
+    ***C       A7      Dm***  
   The bats are in the belfry  
-       ***G             C***  
+    ***G             C***  
   The dew is on the moor  
-        ***E7                 Am***  
+    ***E7                 Am***  
   Where are the arms that held me  
-        ***F                 C***  
+    ***F                 C***  
   And pledged her love before  
-        ***Dm         G      C***  
+    ***Dm         G      C***  
   And pledged her love before  
   
-        ***C      A7      Dm***  
+    ***C      A7      Dm***  
   It's such a sad old feeling  
-       ***G                    C***  
+    ***G                    C***  
   The fields are soft and green  
-                  ***A7       Dm***  
+    ***A7       Dm***  
   It's memories that I'm stealing  
-             ***C          F        Em***  
+    ***C          F        Em***  
   But you're innocent when you dream  
     ***F        Em***  
   When you dream  

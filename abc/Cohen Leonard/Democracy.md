@@ -3,21 +3,21 @@ Intro: C#
   
       C#             F#           C#  
 It's coming through a hole in the air  
-            C#        G#          C#  
+    C#        G#          C#  
 From those nights in Tiananmen Square  
       F#  
 It's coming from the feel  
-          B              F#  
+    B              F#  
 That this ain't exactly real  
-         C#  
+    C#  
 Or it's real, but it ain't exactly there  
-          F     Fsus4    F  
+    F     Fsus4    F  
 From the wars against disorder  
-          A#m/f  Fsus4     A#m/f  
+    A#m/f  Fsus4     A#m/f  
 From the sirens night and day  
-          F    Fsus4       F  
+    F    Fsus4       F  
 From the fires of the homeless  
-         A#m/f Fsus4   A#m/f  
+    A#m/f Fsus4   A#m/f  
 From the ashes of the gay:  
    G#              F#          C# . . . |F#m . . . |C# . . . |F#m . . . |  
 Democracy is coming to the U.S.A.  
@@ -50,11 +50,11 @@ Democracy is coming to the U.S.A.
 Sail on, sail on  
    C#  
 O mighty Ship of State!  
-         G#  
+    G#  
 To the Shores of Need  
-          F#  
+    F#  
 Past the Reefs of Greed  
-              C#  
+    C#  
 Through the Squalls of Hate  
      D#m  G#       F#       C#  
 Sail on, sail on, sail on, sail on  
@@ -108,21 +108,21 @@ Intro: C
   
       C              F            C  
 It's coming through a hole in the air  
-            C         G           C  
+    C         G           C  
 From those nights in Tiananmen Square  
       F  
 It's coming from the feel  
-          Bb             F  
+    Bb             F  
 That this ain't exactly real  
-         C  
+    C  
 Or it's real, but it ain't exactly there  
-          E     Esus4    E  
+    E     Esus4    E  
 From the wars against disorder  
-          Am/e   Esus4     Am/e  
+    Am/e   Esus4     Am/e  
 From the sirens night and day  
-          E    Esus4       E  
+    E    Esus4       E  
 From the fires of the homeless  
-         Am/e  Esus4   Am/e  
+    Am/e  Esus4   Am/e  
 From the ashes of the gay:  
    G               F           C . . . |Fm . . . |C . . . |Fm . . . |  
 Democracy is coming to the U.S.A.  
@@ -135,11 +135,11 @@ C . . . |. . . . |. . . . |. . . . |
 Sail on, sail on  
    C  
 O mighty Ship of State!  
-         G  
+    G  
 To the Shores of Need  
-          F  
+    F  
 Past the Reefs of Greed  
-              C  
+    C  
 Through the Squalls of Hate  
      Dm   G        F        C  
 Sail on, sail on, sail on, sail on  

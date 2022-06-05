@@ -1,11 +1,11 @@
 <!--2020-09-06 04:13:09-->
 A                 F  
 Please believe me  
-                  B  
+    B  
 The river told me  
-               Bm  
+    Bm  
 Very softly  
-                      F#  
+    F#  
 Want you to hold me.  
   
   
@@ -13,7 +13,7 @@ E    Dm   C    E      Am
 Free fall flow river, flow  
 G      F     E    E  
 On and on it goes  
-        Dm    C     E        Am   G   Am   Bm  
+    Dm    C     E        Am   G   Am   Bm  
 Breathe under water till the end  
   
   
@@ -21,7 +21,7 @@ E    Dm   Am   G      Am
 Free fall flow river, flow  
 G      F     E   Am  
 On and on it goes  
-        G7    Am    E7       A  
+    G7    Am    E7       A  
 Breathe under water till the end  
   
 Yes the river knows  

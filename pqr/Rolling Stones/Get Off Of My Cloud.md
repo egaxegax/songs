@@ -1,9 +1,9 @@
 <!--2020-09-04 19:53:30-->
 Get Off Of My Cloud  
   
-         ***E      A***  
+    ***E      A***  
   I live On an aparmtent  
-          ***H           A          E     A H A***  
+    ***H           A          E     A H A***  
   On the ninty nith floor of my block  
   And I sit at home lookin' out of the window and  
   imaginin' the world has a topped  

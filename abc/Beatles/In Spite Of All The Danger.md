@@ -6,26 +6,26 @@ Anthology 1
   ***E***  
   In spite of all the danger  
   In spite of all that may be  
-                 ***A                     B***  
+    ***A                     B***  
   I'll do anything for you, anything you want me to  
-                 ***E    A  E***  
+    ***E    A  E***  
   If you'll be true to me  
   
   ***E***  
   In spite of all the heartaches  
   That you made for me  
-                 ***A                     B***  
+    ***A                     B***  
   I'll do anything for you, anything you want me to  
-                 ***E    A   E***  
+    ***E    A   E***  
   If you'll be true to me  
   
   ***A***  
 BR:  I'll look after you  
-          ***E***  
+    ***E***  
   Like I've never done before  
-       ***A***  
+    ***A***  
   I'll keep all those others  
-       ****B***(1 strum)*  
+    ****B***(1 strum)*  
   From knockin' at your door  
   
   *repeat 1st verse*  

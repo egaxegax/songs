@@ -100,7 +100,7 @@ Down On The Farm
   I ain't even got a lover,                But I'm like a fish out of water.  
   Down here on the Farm.                   Down here on the farm.  
   *(3)*  
-                                             [.---------------------------------.]  
+    [.---------------------------------.]  
   I write a thousand letters,                [|     PLAY USING POWER CHORDS!    |]  
   'til my fingers all go numb.               [|                                 |]  
   But I, never see no postman,               [|  E A D G B E       E A D G B E  |]  
@@ -117,9 +117,9 @@ Down On The Farm
   Add so much charm,                         [`---------------------------------']  
   But I'd rather be back in Soho,            [.---------------------------------.]  
   Than down here on the farm.                [| A very good song for beginners. |]  
-                                             [| Play with plenty of distortion. |]  
+    [| Play with plenty of distortion. |]  
   On the f%&*!? farm!                        [| Sing with an English accent! 8) |]  
-                                             [`---------------------------------']  
+    [`---------------------------------']  
   Are you born in a f%&*!? barn or what?  
   Baaaa!  
   

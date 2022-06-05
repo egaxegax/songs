@@ -1,18 +1,18 @@
 <!--2020-09-05 02:18:06-->
 Gm               Cm Gm  
 They call me The Wild Rose  
-       Bb             D  
+    Bb             D  
 but my name was Elisa Day  
-         Gm                  Cm  Gm  
+    Gm                  Cm  Gm  
 Why they call me it I do not know  
-       Gm        F    Gm  
+    Gm        F    Gm  
 For my name was Elisa Day  
   
-         Gm                         Bb  
+    Gm                         Bb  
 From the first day I saw her I knew she was the one  
-       Cm                    D  
+    Cm                    D  
 As she stared in my eyes and smiled  
-        Gm                      Bb  
+    Gm                      Bb  
 For her lips were the colour of roses  
      Cm                       D  
 That grew down the river, all bloody and wild  

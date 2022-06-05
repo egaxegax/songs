@@ -7,7 +7,7 @@ All About You
   ***A                 D***  
   You had to ask if it was all intentional.  
   *(Chorus)*  
-         ***Bm                     F#***  
+    ***Bm                     F#***  
   Well, somethin's goin' on ... on and on  
    ***Bm                         E***  
   Somethin's goin' on        on and on  

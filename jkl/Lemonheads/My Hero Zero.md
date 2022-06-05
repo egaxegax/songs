@@ -14,21 +14,21 @@ My Hero Zero
   *(bass slide from ***B*** to...)*  
   ***E5                    E5                                                     B5***  
   My hero zero, such a funny little hero but till you came along  
-                                               ***E5                                      A***  
+    ***E5                                      A***  
   we counted on out fingers and toes, but now your here to stay,  
-                             ***E                 A***  
+    ***E                 A***  
   and nobody really knows, how wonderful you are,  
-                ***G                                 B5                    E5         B5***  
+    ***G                                 B5                    E5         B5***  
   we could never reach the stars, without you zero my hero  
-                                 ***A                E***  
+    ***A                E***  
   how wonderful you are.  
   spoken 1: whats' so wonderful about zero, its nothing isn't it?  
-         2: sure it represents nothing-  
+    2: sure it represents nothing-  
      ***B5                                                                           E5***  
    But place a zero after 1 and you've got yourself a 10see how important that is  
   ***B5                                                           E5***  
   When you run outta digits start all over again see how convenent that is  
-                    ***A                      G***  
+    ***A                      G***  
   Thats with only 10 digits including zero  
    ***C                                           B5                     C   F#***  
   you can count as high as you ever need to go, forever toward infinity  
@@ -36,16 +36,16 @@ My Hero Zero
   no one ever gets there but you can try  
   ***E5                      E5                                                         B5***  
   10 billion zeros from the cavemen to the wierdos who invente  
-                  ***E5***  
+    ***E5***  
   you, they counted on their fingers and toes  
   maybe sticks and stones, rocks and bones, or neighbors toes  
   ***A***  
   yeah yeah  
-                             ***E5                                      A***  
+    ***E5                                      A***  
   and nobody really knows, how wonderful you are  
-                        ***G                                B5               E5          B5***  
+    ***G                                B5               E5          B5***  
   why we could never reach the stars without you zero my hero  
-                                ***A***  
+    ***A***  
   how wonderful you are  
   ***B5                                                                                       E5***  
   Place on zero after any number you've multipled that # by 10 see how easy that is  
@@ -53,7 +53,7 @@ My Hero Zero
   Place 2 zeros after any number you've multipled that # by 100 see how simple that is  
   ***B5                                                                                      E5***  
   Place 3 zeros after any number you've multipled that# by 1000  
-         ***A               G             F#            E            D***  
+    ***A               G             F#            E            D***  
   etc, etc, ad infinitum, ad astra , forever and ever  
-          ***E5          B5                                   E5***  
+    ***E5          B5                                   E5***  
   with zero my hero, how wonderful you are

@@ -1,13 +1,13 @@
 <!--2020-09-05 21:45:42-->
 Happy Birthday to you  
   
-         ***F           C***  
+    ***F           C***  
   Happy Birthday to you!  
-         ***C           F***  
+    ***C           F***  
   Happy Birthday to you!  
-         ***F              B***  
+    ***F              B***  
   Happy Birthday dear ...  
-         ***C           F***  
+    ***C           F***  
   Happy Birthday to you  
   
   Let your Birthday be bright!  
@@ -15,13 +15,13 @@ Happy Birthday to you
   Let your Birthday be bright  
   From the morning till night  
   
-             ***F       C***  
+    ***F       C***  
   С Днем Рождения тебя!  
-             ***C       F***  
+    ***C       F***  
   С Днем Рождения тебя!  
-             ***F                  B***  
+    ***F                  B***  
   С Днем Рождения дорог(ой/ая)  
-             ***C       F***  
+    ***C       F***  
   С Днем Рождения тебя  
   
   *Комментарий автора подбора к песне:*  

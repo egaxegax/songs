@@ -1,11 +1,11 @@
 <!--2020-09-05 02:19:54-->
 (G) (Bb) Cm                Bb  
 Sorrow's child sits by the river  
-         Cm                  Bb  
+    Cm                  Bb  
 Sorrow's child hears not the water  
-         Cm                Bb  
+    Cm                Bb  
 Sorrow's child sits by the river  
-         Cm                    Bb  
+    Cm                    Bb  
 Sorrow's child hears not the water  
     C#           G#  
 and just when it seems as though you've  

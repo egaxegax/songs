@@ -81,7 +81,7 @@ E|--------------------------|
   
 (1)              (2)             (3)            (4)  
 Life just sucks, I lost the one. I?m giving up, she found  
-         (5)                  (6)  
+    (5)                  (6)  
 someone. There?s plenty more. Girls are such a drag.  
   
 Intro w/ Fill (2x)  
@@ -159,7 +159,7 @@ E|--------------------------|
   
 (1)              (2)             (3)            (4)  
 Life just sucks, I lost the one. I?m giving up, she found  
-         (5)                  (6)  
+    (5)                  (6)  
 someone. There?s plenty more. Girls are such a drag.  
   
 [Bass Solo Type Thing] PLAY D then G clean (4x)  
@@ -174,7 +174,7 @@ E|--------------------------|
   
 (1)              (2)             (3)             (4)  
 Fuck this place, I lost the war. I hate you all, your mom?s  
-         (5)             (6)  
+    (5)             (6)  
 a whore. Where?s my dog? Cause girls are such a drag.  
   
 End on Intro(Slightly Different)  
@@ -187,7 +187,7 @@ E|------------10-10-10--------------------------10-10-10-10----|
   
 or play:  
 CAN ALSO SUBSTITUTE THIS FOR THE ABOVE INTRO  
-                                        (they sound the same)  
+    (they sound the same)  
 E|-------------------------------------------------------------|  
 B|-------------------------------------------------------------|  
 G|-------------------------------------------------------------|  

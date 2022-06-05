@@ -7,44 +7,44 @@
   ---------  
   ***Am***  
   climbing out  
-              ***Dm***  
+    ***Dm***  
   we stumble around  
-                ***G***  
+    ***G***  
   all smoky and soaked to the bone  
-              ***C          Am        E***  
+    ***C          Am        E***  
   i carry the crown of a girl underground  
-                 ***Dm         G***  
+    ***Dm         G***  
   i'm down for a sweet ride  
-                 ***C          Am***  
+    ***C          Am***  
   i'm down for a sweet ride  
-                 ***Dm         G***  
+    ***Dm         G***  
   i'm down for a sweet ride  
-               ***C              Am            E***  
+    ***C              Am            E***  
   so follow me down, once was lost, now i'm found (this is my dream)  
   ---------  
   ***Am Dm G C***  
   ---------  
   ***Am***  
   calming down  
-                  ***Dm***  
+    ***Dm***  
   and smiling too loud  
-              ***G***  
+    ***G***  
   smoking and soaked to the bone  
-                ***C           Am              E***  
+    ***C           Am              E***  
   we wear my mistake like a crown, once was lost, now i'm found  
-                 ***Dm         G***  
+    ***Dm         G***  
   i'm down for a sweet ride  
-                 ***C          Am***  
+    ***C          Am***  
   i'm down for a sweet ride  
-                 ***Dm         G - C Am E***  
+    ***Dm         G - C Am E***  
   i'm down for a sweet ride  
-                 ***Dm         G***  
+    ***Dm         G***  
   i'm down for a sweet ride  
-                 ***C          Am***  
+    ***C          Am***  
   i'm down for a sweet ride  
-                 ***Dm         G***  
+    ***Dm         G***  
   i'm down for a sweet ride  
-               ***C             Am           E***  
+    ***C             Am           E***  
   so follow me down once was lost now i'm found  
-           ***Am            E                        - Am***  
+    ***Am            E                        - Am***  
   once was lost, now i'm found (this is my dream)

@@ -3,28 +3,28 @@
   
    Am                         Dm  
 A toi, a la facon que tu as d?etre belle,  
-                       G  
+    G  
 A la facon que tu as d?etre a moi,  
-                             C  
+    C  
 A tes mots tendres, un peu artificiels  
-         E  
+    E  
 Quelquefois.  
    Am                        Dm  
 A toi, a la petite fille que tu etais,  
-                    G  
+    G  
 A celle que tu es encore souvent,  
-                      C  
+    C  
 A ton passe, a tes secrets,  
-                          E  
+    E  
 A tes anciens princes charmants,  
-         Am  
+    Am  
     A la vie, a l?amour,  
     A nos nuits, a nos jours,  
-          E                    Am  
+    E                    Am  
     A l?eternel retour de la chance,  
     A l?enfant qui viendra,  
     Qui nous ressemblera,  
-           G                   E  
+    G                   E  
     Qui sera a la fois toi et moi.  
 A moi, a la folie dont tu es la raison,  
 A mes coleres sans savoir pourquoi,  

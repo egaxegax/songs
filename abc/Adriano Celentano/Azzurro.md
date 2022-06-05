@@ -10,7 +10,7 @@ sento volare sopra i tetti un aeroplano che se ne va
 {soc}  
   C                                 D7   G7        Dm7   G7  
 Azzurro, il pomeriggio ? troppo azzurro e lungo, per me  
-                  C          G7     C   G7   C   C7  
+    C          G7     C   G7   C   C7  
 mi accorgo di non avere pi? risorse senza di te  
     F            Em              Am      F     A7       D7  G7  
 e allora io quasi quasi prendo il treno e vengo vengo da te  

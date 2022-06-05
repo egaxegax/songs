@@ -4,22 +4,22 @@ Tuning: C F Bb Eb G C (standard, two full steps down)
   
 Intro: E  
   
-       E                       A                E  
+    E                       A                E  
 I saw Jesus on the cross on a hill called Calvary  
-                                            B7  
+    B7  
 "Do you hate mankind for what they done to you?"  
-           E                E7              A                 E  
+    E                E7              A                 E  
 He said, "Talk of love not hate, things to do - it's getting late  
-                            B7              E  
+    B7              E  
 I've so little time and I'm only passing through."  
   
-           E  
+    E  
 Passing through, passing through  
-                             E7  
+    E7  
 Sometimes happy, sometimes blue  
-          A           E  
+    A           E  
 Glad that I ran into you  
-                          B7               E  
+    B7               E  
 Tell the people that you saw me passing through  
   
 ("Come a little closer, friends")  

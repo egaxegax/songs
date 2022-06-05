@@ -4,7 +4,7 @@ you'll find them at the end of the tab
   
 Intro: [Am] - [G/A] - [Am] - [G/A]  
   
-        Am       G/A  
+    Am       G/A  
 I kept the right ones out and let the wrong ones in  
  C7     F  
 Had an angel of mercy to see me through all my sins  

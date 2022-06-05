@@ -7,16 +7,16 @@
   
 INTRO:  ***D G A Bm D/F# G*** } x2  
   
-                         ***D      G     A                Bm      D/F#   G***  
+    ***D      G     A                Bm      D/F#   G***  
   I look straight in the window,       try not to look below  
-                  ***D       G    A                    E    G***  
+    ***D       G    A                    E    G***  
   Pretend I'm not up here,          I try counting sheep  
   The sheep seem to shower, off this office tower  
   It's 9.8 straight down, I can't stop my knees.  
   
-                  ***Bm            A                   E       G***  
+    ***Bm            A                   E       G***  
 CHORUS:  I wish I could fly, from this building, from this wall.  
-                  ***Bm             A               E       G***  
+    ***Bm             A               E       G***  
   And if I should try, would you catch me, if I fall.  
   My hands clench the squeegee, a seclar rosary  
   Hang onto your wallet, hand onto your rings.  
@@ -26,13 +26,13 @@ CHORUS:  I wish I could fly, from this building, from this
   I'd gladly swap places, if they care to dive  
   They line up at the window, peer down into limbo  
   Frightened of jumping, in case they survive.  
-                      ***G              A***  
+    ***G              A***  
   And I wish I could step, from this scaffold,  
-       ***Bm         D/F#      E        G***  
+    ***Bm         D/F#      E        G***  
   Onto soft green grass and shopping malls,  
       ***G           A              Bm            A      D***  
   And bed, and my family, and my pastor and my grandfather  
-        ***E   G***  
+    ***E   G***  
   Whose dead.  
   Look straight in the mirror, watch it come clearer  
   I look like a painter, behind all the grease.  

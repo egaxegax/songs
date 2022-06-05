@@ -3,13 +3,13 @@ Intro: A
   
 A                   Bm     D                      A  
 I lit a thin green candle to make you jealous of me  
-                                     Bm  
+    Bm  
 But the room just filled up with mosquitos,  
       D                       E  
 they heard that my body was free  
      F#m                   C#m  
 Then I took the dust of a long  
-                       D                      A  
+    D                      A  
 sleepless night and I put it in your little shoe  
       Bm                   G  
 And then I confess that I tortured the dress that you  

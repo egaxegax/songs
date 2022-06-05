@@ -15,7 +15,7 @@ March the heroes home
   The ribbons on their chests  
   ***Bb                      Eb***  
   They've packed away the firearms  
-              ***F      Bb***  
+    ***F      Bb***  
   the trumpets lay to rest...  
   They've taken in the battlefields  
   with one last weary breath  

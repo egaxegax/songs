@@ -4,7 +4,7 @@ from the album of the same name
   
   *There are the TAB of the intruduction of "For Those About to Rock".*  
   *Its sounds very good, but is better listen the tape or CD...*  
-        **              ***  
+    **              ***  
   [E----11--------------10-------------14-14------12-12-------------  
   B----12--------------12-------------12-12------12-12-------------  
   G----11--------------11-------------11-11------11-11----4--------  

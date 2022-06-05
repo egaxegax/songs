@@ -19,68 +19,68 @@ She has a Girlfriend Now
   e:-----------]  
   
   *intro: ***d#*** (intro fill 1) ***g# g# a# a#****  
-         ***d# cm g# a# } x4***  
+    ***d# cm g# a# } x4***  
   
-            ***d#           cm g# a#***  
+    ***d#           cm g# a#***  
   she has a girlfriend now  
-            ***d#           cm g# a#***  
+    ***d#           cm g# a#***  
   she has a girlfriend now  
-            ***d#         cm             g#            a#          d#***  
+    ***d#         cm             g#            a#          d#***  
   she has a girlfriend now, she said "guys don't do no more for me"  
   
   *(intro fill 1) ***g# g# a# a#****  
   
-            ***d#      cm g#        a#        d# cm g# a#***  
+    ***d#      cm g#        a#        d# cm g# a#***  
   you never loved me     like i wanted you to  
      ***d#        cm   g#          a#         d# cm g# a#***  
   i loved you baby, what do you want me to do  
-               ***d#        cm              g#       a#***  
+    ***d#        cm              g#       a#***  
   she said she found someone who's gonna hold her hand  
-               ***d#        cm              g#     a#***  
+    ***d#        cm              g#     a#***  
   she said she found someone who's gonna understand  
-            ***d#      cm     g#       a#***  
+    ***d#      cm     g#       a#***  
   she don't need nobody to be her man  
-            ***g#             a#***  
+    ***g#             a#***  
   she don't need nobody to be her man  
-            ***d#           cm g# a#***  
+    ***d#           cm g# a#***  
   she has a girlfriend now  
-            ***d#           cm g# a#***  
+    ***d#           cm g# a#***  
   she has a girlfriend now  
-            ***d#           cm***  
+    ***d#           cm***  
   she has a girlfriend now,  
-            ****g#            a#          d#***  (intro riff 1) ***g# g# a# a#****  
+    ****g#            a#          d#***  (intro riff 1) ***g# g# a# a#****  
   she said "guys don't do no more for me"  
   
   *(***d# cm g# a#*** x4)*  
   
   *(***d# cm g# a#*** x4 over trumpet solo)*  
   
-               ***d#        cm              g#       a#***  
+    ***d#        cm              g#       a#***  
   she said she found someone who's gonna hold her hand  
-               ***d#        cm              g#     a#***  
+    ***d#        cm              g#     a#***  
   she said she found someone who's gonna understand  
-            ***d#      cm     g#       a#***  
+    ***d#      cm     g#       a#***  
   she don't need nobody to be her man  
-            ***g#             a#***  
+    ***g#             a#***  
   she don't need nobody to be her man  
-            ***d#           cm g# a#***  
+    ***d#           cm g# a#***  
   she has a girlfriend now  
-            ***d#           cm g# a#***  
+    ***d#           cm g# a#***  
   she has a girlfriend now  
-            ***d#           cm***  
+    ***d#           cm***  
   she has a girlfriend now,  
-            ****g#            a#          d#***  (intro riff 1) ***g# g# a# a#****  
+    ****g#            a#          d#***  (intro riff 1) ***g# g# a# a#****  
   she said "guys don't do no more for me"  
   
   *(***d# cm g# a#*** x1)*  
   
     ***d#                     cm             g#***  
   i never thought it would end like this  
-                   ***a#***  
+    ***a#***  
   just because i've got no tits  
-       ***d#                  cm***  
+    ***d#                  cm***  
   i'll shave my legs, i'll wear a bra  
-       ***g#          a#              d# cm g# a# g# a#***  
+    ***g#          a#              d# cm g# a# g# a#***  
   i'll even cut my penis off for you  
   ***d#            cm     g#  a# g# a#***  
   she has a girlfriend now  

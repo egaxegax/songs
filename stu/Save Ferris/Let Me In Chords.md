@@ -2,7 +2,7 @@
 Let Me In Chords  
   
   *Chords*  
-         ***E        Eadd9      Esus4addC#   Esus4***  
+    ***E        Eadd9      Esus4addC#   Esus4***  
   [e-|-0-----0----0-----0------0------0---0-----0  
   b-|-0-----0----0-----0------5-----17---5----17  
   g-|-1-or-13----1-or-13------4--or-16---4-or-16  
@@ -34,7 +34,7 @@ Let Me In Chords
   *(Repeat)*  
   ***E***  
   So let me in  
-                       ***C#m     C#madd9***  
+    ***C#m     C#madd9***  
   All that I wanted from you  
   ***Aadd9               Aadd9+Eb***  
   Was something you'd never do  
@@ -61,7 +61,7 @@ Let Me In Chords
   ***Esus4(2)       E***  
   Cuz' you won't let me in.  
   
-                        ***C#m  C#madd9***  
+    ***C#m  C#madd9***  
   All that I wanted from you  
   ***Aadd9                Aadd9+Eb***  
   Was something you'd never do  
@@ -89,7 +89,7 @@ Let Me In Chords
   To let me in  
       ***E2    Esus4(2)***  
   But not tonight  
-                  ***E***  
+    ***E***  
   For this is the end  
   ***Esus4addC#***  
   Tonight  

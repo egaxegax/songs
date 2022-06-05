@@ -28,7 +28,7 @@ Your Only Friends Are Make Believe
   Do, do, do...  
   ***A5            E5***  
   You are my best friend too  
-                               ***D5         B5***  
+    ***D5         B5***  
   I share the same views and hardly ever argue  
   Eat Spam from the can, watch late night C-Span  
   And rock out to old school Duran Duran  
@@ -37,7 +37,7 @@ Your Only Friends Are Make Believe
   Eat Spam from the can, watch late night C-Span  
   And rock out to old school Duran Duran  
   Your best friend...  
-       ***A5   E5   E5*   B5   C#5    D5***  
+    ***A5   E5   E5*   B5   C#5    D5***  
   [E||-----------------------------------|--||  
   B||-----------------------------------|--||  
   G||------------9-----------------7----|--||  

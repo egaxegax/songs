@@ -5,87 +5,87 @@ Je te rends ton amour
   ***Am  F  Em E***  
   ***Am  F  Em E***  
   
-                ***Am***  
+    ***Am***  
   M'extraire du cadre  
-               ***F***  
+    ***F***  
   Ma vie suspendue  
-            ***Em     E***  
+    ***Em     E***  
   Je revais mieux  
-             ***Am***  
+    ***Am***  
   Je voyais l'atre  
-                 ***F***  
+    ***F***  
   Tous ces inconnus  
-            ***Em   E***  
+    ***Em   E***  
   Toi parmi eux  
   ***Am***  
   Toile  
-             ***F***  
+    ***F***  
   Fibre qui suinte  
-              ***Em    E***  
+    ***Em    E***  
   Des meurtrissures  
-            ***Am***  
+    ***Am***  
   Tu voyais l'ame  
-                  ***F***  
+    ***F***  
   Mai j'ai vu ta main  
-             ***Em    E***  
+    ***Em    E***  
   Choisir Gauguin  
-                      ***Am     F***  
+    ***Am     F***  
   Et je te rends ton amour  
-                    ***Em      E***  
+    ***Em      E***  
   Redeviens les contours  
-                   ***Am     F***  
+    ***Am     F***  
   Je te rends ton amour  
-                       ***Em    E***  
+    ***Em    E***  
   C'est mon dernier recours  
-                   ***Am***  
+    ***Am***  
   Je te rends ton amour  
       ***F            Em     E***  
   Au moins pour toujours  
-                    ***Am***  
+    ***Am***  
   Redeviens les contours  
-       ***F          Em     E***  
+    ***F          Em     E***  
   "La femme nue debout"  
-                ***Am***  
+    ***Am***  
   M'extraire du cadre  
-              ***F***  
+    ***F***  
   La vie etriquee  
-             ***Em   E***  
+    ***Em   E***  
   D'une ecorchee  
-              ***Am***  
+    ***Am***  
   J'ai cru la fable  
-                ***F***  
+    ***F***  
   D'un mortel aime  
-              ***Em  E***  
+    ***Em  E***  
   Tu m'as trompe  
   ***Am***  
   Toi  
-              ***F***  
+    ***F***  
   Tu m'as laisse  
-             ***Em       E***  
+    ***Em       E***  
   Me comprommettre  
-                ***Am***  
+    ***Am***  
   Je serais "l'Unique"  
-                     ***F***  
+    ***F***  
   Pour des milliers d'yeux  
-            ***Em     E***  
+    ***Em     E***  
   un nu de maitre  
-                      ***Am***  
+    ***Am***  
   Et je te rends ton amour  
-       ***F           Em      E***  
+    ***F           Em      E***  
   Au moins pour toujours  
-                   ***Am***  
+    ***Am***  
   Je te rends ton amour  
-       ***F            Em    E***  
+    ***F            Em    E***  
   Le mien est trop lourd  
-                    ***Am***  
+    ***Am***  
   Je te rends ton amour  
-                          ***F***  
+    ***F***  
   C'est plus flagrant le jour  
-                          ***Em   E***  
+    ***Em   E***  
   Ses couleurs se sont diluees  
-                      ***Am***  
+    ***Am***  
   Je te reprends mon amour  
-                    ***F***  
+    ***F***  
   Redeviens les contours  
-                       ***Em                E  Am***  
+    ***Em                E  Am***  
   De mon seul maitre: EGON SHIELE et...

@@ -12,9 +12,9 @@
   ***G             D              A   D***  
   tell what you really want to do........  
   
-                   ***G D A   G         D                      A***  
+    ***G D A   G         D                      A***  
   Don't give me no alibis, No untrue stories your trying to justify  
-                ***G D A   G            D          A       D---A--G (2x's)***  
+    ***G D A   G            D          A       D---A--G (2x's)***  
   Don't want no alibis, Just another reason for another lie  
   
   ***A             Bm       G                     D***  
@@ -26,16 +26,16 @@
   ***G             D              A   D***  
   Sometimes you lose what it's all about.......  
   
-                   ***G D A     G                D              A***  
+    ***G D A     G                D              A***  
   Don't give me no alibis, Can't go through life trying to justify  
-                ***G D A   G            D          A       D-A-G***  
+    ***G D A   G            D          A       D-A-G***  
   Don't want no alibis, Just another reason for another lie  
   
   *(2X)(RhymOFsong1X)   ***A***-***Bm***-***G***-***D***, ***G***-***D***-***A****  
   
-                   ***G D A   G         D                      A***  
+    ***G D A   G         D                      A***  
   Don't give me no alibis, No untrue stories your trying to justify  
-                ***G D A   G            D          A       D    G A***  
+    ***G D A   G            D          A       D    G A***  
   Don't want no alibis, Just another reason for another lie  
   
   ***A             Bm       G                     D***  
@@ -45,7 +45,7 @@
   ***G            D           G                   D       A     D***  
   The way that I love you, And I never want to see you doing without  
   
-                   ***G D A   G         D                      A***  
+    ***G D A   G         D                      A***  
   Don't give me no alibis, No untrue stories your trying to justify  
-                   ***G D A   G            D          A       D***  
+    ***G D A   G            D          A       D***  
   Don't want no alibis, Just another reason for another lie

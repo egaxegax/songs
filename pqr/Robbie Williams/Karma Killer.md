@@ -18,9 +18,9 @@ Karma Killer
   How do you sleep  
   ***F#m***  
   You've never loved  
-                             ***Hm***  
+    ***Hm***  
   Why was I never good enough  
-                        ***A   Abm***  
+    ***A   Abm***  
   You thought you'd leave me falling forever  
   ***F#***  
   Karma killer  

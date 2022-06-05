@@ -60,6 +60,6 @@ Tea For One
   --3--5---3-----------3-------3--8---------------------------------  
   --3--5------------------------------------------------------------  
   --1--3------------------------------------------------------------]  
-           *This is an arpeggio bit            This is the familiar riff...*  
-           *similar to what Pagey*  
-           *plays each time through*
+    *This is an arpeggio bit            This is the familiar riff...*  
+    *similar to what Pagey*  
+    *plays each time through*

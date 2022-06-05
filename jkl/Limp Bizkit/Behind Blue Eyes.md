@@ -27,7 +27,7 @@ Behind Blue Eyes
   *aккopдaми, кaк пoкaзaнo нижe. (A вooбщe лyчшe пocлyшaйтe*  
   *пeceнкy - вce пoймeтe:)*  
   
-                           ***A    Asus4 A***  
+    ***A    Asus4 A***  
   [e--------------0--------0-0|-0----0-0-----------------|  
   B--------3--------3-----2-2|-2----3-2-----------------|  
   G-----------------------2-2|-2----2-2-----------------|  
@@ -56,17 +56,17 @@ Behind Blue Eyes
   To be faded  
   To telling only lies  
   
-         ***C    D***  
+    ***C    D***  
   But my dreams  
-               ***G***  
+    ***G***  
   They aren't as empty  
-        ***C         D        E Em***  
+    ***C         D        E Em***  
   As my conscience seems to be  
-         ***Bm          Cadd9***  
+    ***Bm          Cadd9***  
   I have hours, only lonely  
-              ***D***  
+    ***D***  
   My love is vengeance  
-                ***E***  
+    ***E***  
   That's never free  
   
   No one knows what it's like  

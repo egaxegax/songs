@@ -1,25 +1,25 @@
 <!--2020-09-04 23:35:39-->
 E           B  
 Like a bird on the wire  
-         E                  A  
+    E                  A  
 Like a drunk in an old midnight choir  
-         E          B          E      B  
+    E          B          E      B  
 I have tried in my way to be free  
   
-        E         B  
+    E         B  
 Like a worm on a hook  
-         E                        A  
+    E                        A  
 Like a knight bent down in some old fashioned book  
-             E           B             E     E7  
+    E           B             E     E7  
 It was the shape of our love that twisted me  
   
-           A                             E  
+    A                             E  
 If I have been unkind, if I have been unkind  
-              F#m                           E  
+    F#m                           E  
 Oh I hope you can find a way to let it all go right on by  
-           A                                            E  
+    A                                            E  
 If I have been un, if I have been untrue, if I have been untrue  
-                            F#m                               B     Bsus4   B  
+    F#m                               B     Bsus4   B  
 It's just that I thought a lover had to be some kind of liar too  
   
 Like a little baby, stillborn  
@@ -37,5 +37,5 @@ It's over, it's finished, it's completed and has, it has bee
   
 Like a bird on the wire  
 Like a drunk in some old midnight choir  
-         E          B          A   E  
+    E          B          A   E  
 I have tried in my way to be free

@@ -4,7 +4,7 @@ Intro: (Bm D# G#) x 3
 Chorus:  
 Bm             D#  
 Hands up, baby hands up  
-       G#  
+    G#  
 Gimme your heart, gimme gimme your heart  
 Give it, give it.  
 Hands up baby hands up  
@@ -49,7 +49,7 @@ Just come my way simply kiss me and say...
 Chorus:  
 Cm             F  
 Hands up, baby hands up  
-       B  
+    B  
 Gimme your heart, gimme gimme your heart  
 Give it, give it.  
 Hands up baby hands up  

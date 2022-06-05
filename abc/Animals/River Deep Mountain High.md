@@ -27,7 +27,7 @@ did you have ragged doll
 did you have a puppy  
 did you have a puppy  
   
-                 (riff 2)E      (Riff 3)  
+    (riff 2)E      (Riff 3)  
 the only doll youve ever owned  
 that always followed you around  
 that always followed you around(howl)  
@@ -41,13 +41,13 @@ used to treat that ragged doll
 used to treat that puppy  
 i swear ill never never never put you down  
   
-                 (riff 2)E  
+    (riff 2)E  
 but hurry up cuase im getting old  
 i swear i never put you down (know i wont)  
 no ill never put you down  
   
 pre chorus  
-              B                            E  
+    B                            E  
 (1)and i get   older            baby day by day  
 (2)and i get   thankful            in every way  
 (3)it gets stronger baby              every day (yeah)  
@@ -107,7 +107,7 @@ riff 6
 i love you baby     like a flower needs a spring  
 i love you, baby    like aretha franklin needs to sing  
 riff 7        riff 8                        riff 9  
-              A                             E  
+    A                             E  
 ------------- ---------------------------- -------------------|  
 ------------- ---------------------------- -------------------|  
 ------------- ---------------------------- -------------------|  

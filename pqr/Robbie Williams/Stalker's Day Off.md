@@ -3,7 +3,7 @@ Stalker's Day Off
   *(R. Williams/G. Chambers/F. Eisler)*  
   
   *(Answerphone beeps)*  
-             ***C      C/Hm    Am      G        F        G***  
+    ***C      C/Hm    Am      G        F        G***  
   I've been hanging around just in case you fall in love with me  
      ***C            C/Hm***  
   I know you have doubts  
@@ -11,9 +11,9 @@ Stalker's Day Off
   I hear when you shout  
   ***F     G***  
   Cos I understand you see  
-        ***A    Em***  
+    ***A    Em***  
   I was concerned when you said  
-         ***A     Em***  
+    ***A     Em***  
   You'd rather wake up dead  
   ***F              Bb***  
   Then spend a day with me  
@@ -21,7 +21,7 @@ Stalker's Day Off
   I know that's not you  
   ***A   Em***  
   I'll know when its true  
-       ***Am         G***  
+    ***Am         G***  
   They dont understand you like I do  
   I've been hanging around just in case you fall in love with me  
   I know you have doubts  

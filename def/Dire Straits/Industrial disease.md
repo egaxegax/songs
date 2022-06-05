@@ -10,9 +10,9 @@ Industrial disease
   *-----*  
   ***A***  
   Warning lights are flashing down ...  
-                ***D***  
+    ***D***  
   ... there's a meeting in the boardroom ...  
-              ***A                                           D***  
+    ***A                                           D***  
   ... there's leaking in the washroom, there's a sneak in personnel,  
   ***E                                              D***  
   Somewhere in the corridor someone was heard to sneeze  

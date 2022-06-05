@@ -9,7 +9,7 @@ Who Needs Me
   D|-------------------------------------------10-10-12-10-10-12-etc-|  
   A|-10-10-12-10-10-12-etc.-8-8-10-8-8-10-etc.-8--8--8--8--8--8--etc-|  
   E|-8--8--8--8--8--8--etc.-6-6-6--6-6-6--etc.-----------------------|]  
-                       *Who Needs Me (Kerslake)*  
+    *Who Needs Me (Kerslake)*  
   *Guitar intro:*  
      ***C             Bb/C        F/C         C           C           Bb/C         F/C***  
   [E|---------13-13------11-11-------11-11-------13-13-------13-13--------11-11-------11-11|  
@@ -21,9 +21,9 @@ Who Needs Me
   
    ***C***  
 verse:  Don't take life for granted  
-               ***Bb                   F***  
+    ***Bb                   F***  
   'Cause you know that life won't grant you back  
-       ***Bb            F                  C***  
+    ***Bb            F                  C***  
   The feelings of a love that you once had  
   
 verse:  You're taking me for granted  

@@ -47,16 +47,16 @@ I Feel Good
 Verses:  I feel good, I knew that i would  
   ***C7***  
   I feel good, i knew that  would  
-         ***D7***  
+    ***D7***  
   So good  
-         ***C7***  
+    ***C7***  
   So good  
   ***N.C***  
   I got you  
   
   *This is repeated for the 'i feel nice' verse*  
   
-         ***G7***  
+    ***G7***  
 Chorus:  When i hold you in my arms, i know that i cant do no wrong  
-             ***C7                      D7***  
+    ***C7                      D7***  
   And when i hold you in my arms, my love wont do you no wrong

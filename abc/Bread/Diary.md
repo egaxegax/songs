@@ -26,7 +26,7 @@
   And as I go through my life  
   ***Am7    D7              G***  
   I will give to her, my wife  
-          ***C                  B7sus4***  
+    ***C                  B7sus4***  
   All the sweet things I can find.  
   
   ***G                      G11             C/G***  
@@ -43,9 +43,9 @@
   And as I go through my life  
   ***Am7    D7              G***  
   I will wish for her, his wife  
-          ***C                    G***  
+    ***C                    G***  
   All the sweet things she can find  
-          ***C            D11     G***  
+    ***C            D11     G***  
   All the sweet things she can find.  
   
   ****G11***:   [3x0211]*  

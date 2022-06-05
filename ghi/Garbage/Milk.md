@@ -1,11 +1,11 @@
 <!--2020-09-04 22:53:57-->
 Em      Am Em  
   I am milk  
-         Am         Em  
+    Am         Em  
 I am red hot kitchen  
-          Am     Em  
+    Am     Em  
 And I am cool  
-              Am             Em  
+    Am             Em  
 Cool as the deep blue ocean  
 I am lost  
 So I am cruel  
@@ -38,7 +38,7 @@ I'm waiting, I'm waiting for you
 I'm waiting, I'm waiting for you  
 I'm waiting, I'm waiting for you  
   
-       Am7        Am7*        Em  
+    Am7        Am7*        Em  
 I'm breaking, I'm aching for you  
       Am7                              Em  
 I'm waiting I'm waiting I'm waiting  

@@ -4,11 +4,11 @@ Don't Bring Me Down
   ***A***  
   You got me runnin' goin' out of my mind,  
   You got me thinkin' that I'm wastin' my time.  
-                  ***D               A***  
+    ***D               A***  
   Don't bring me down,no no no no no,  
-       ***C                           G           D***  
+    ***C                           G           D***  
   I'll tell you once more before I get off the floor  
-                  ***A***  
+    ***A***  
   Don't bring me down.  
   You wanna stay out with your fancy friends.  
   I'm tellin' you it's go to be the end,  
@@ -19,7 +19,7 @@ Don't Bring Me Down
   Don't bring me down,grroosss  
   Don't bring me down,grroosss  
   Don't bring me down,grroosss  
-                 ***E***  
+    ***E***  
   Don't bring me down.  
   What happend  to the girl I used to known,  
   You let your mind out somewhere down the road,  

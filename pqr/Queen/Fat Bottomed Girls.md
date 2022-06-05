@@ -24,18 +24,18 @@ Jazz 1978
   *This isn't a note-for-note transcription, its just to give you some ideas.*  
   *Here is the rest of the song- (chords are tabbed at the end)*  
   
-        ***D                                                              A***  
+    ***D                                                              A***  
   I was just a skinny lad...(etc) But I knew life before I left my luxury...  
-        ***D                                G                             D***  
+    ***D                                G                             D***  
   Left alone with big fat fatty, she was such a naughty nanny, you big woman,  
-             ***A              D***  
+    ***A              D***  
   You made a fat boy out of me...  
   *Chorus -*  
   ***D             C            G       D          C                  A***  
   Oh, won't you take me home tonite, Oh, Down beside your red fire light,  
   ***D             G***  
   Oh, you gonna give it all you got,  
-               ***D                  A            D***  
+    ***D                  A            D***  
   fat bottomed girls you make the rocket world round...  
   *Here are the chords -*  
     ***D***  

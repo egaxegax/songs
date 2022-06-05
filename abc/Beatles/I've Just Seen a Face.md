@@ -4,9 +4,9 @@ I've Just Seen a Face
   
 First verse:  ***G                                                                    Em***  
   I've just seen a face I can't for get the time or place where we just met  
-                                                                    ***C***  
+    ***C***  
   She's just the girl for me and I want all the world to see we've met  
-           ***D     G***  
+    ***D     G***  
   Na na na na na na  
   
 Second verse: Had it been another day I might have looked the other way and  

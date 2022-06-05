@@ -11,15 +11,15 @@
   ***D     D/C        G        Bb             C  G7  D***  
   I'd rather go back, I'd rather go back home"  
   
-       ***G       C    G7   D G C G7 D***  
+    ***G       C    G7   D G C G7 D***  
 CHORUS:  But if you believe in me  
   ***G         C     G7  D G C G7 D***  
   Like I believe in you  
-             ***G      C  G7   D  G C G7 D***  
+    ***G      C  G7   D  G C G7 D***  
   We could have a love so true  
-            ***G     C  G7  D***  
+    ***G     C  G7  D***  
   We would go on endlessly  
-              ***G         C                    G    C Am7***  
+    ***G         C                    G    C Am7***  
   And I know anyday, anyday, I will see you smile  
   ***G             C                             G  C Am7  D7***  
   Any way, any way, (if) only for a little while  

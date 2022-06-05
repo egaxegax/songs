@@ -13,9 +13,9 @@
   A is for applesauce, my favourite meal  
   ***A            E                   G                       D***  
   A is for Adam which is how I sometimes feel  
-                   ***G                 D***  
+    ***G                 D***  
   like I'm the only man on Earth  
-                ***E***  
+    ***E***  
   and I've forgotten what that's worth  
   
   A is for Arthur he's a lovable drunk  
@@ -25,11 +25,11 @@
   it's just you begging for affection  
   or something I won't even mention  
   
-             ****D            D***(up to 4th fret)***A****  
+    ****D            D***(up to 4th fret)***A****  
 CHORUS:  And I don't even know why you keep on trying  
-             ****D           D***(up to 4th)  ***A****  
+    ****D           D***(up to 4th)  ***A****  
   Like I don't even know why I keep on lying  
-                  ***D             Fm          E                   A***  
+    ***D             Fm          E                   A***  
   There are millions of people in worlds of their own  
   ***D                        A          E***  
   And two of them can't let go.  

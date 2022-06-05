@@ -18,7 +18,7 @@ Album - Circus
   D:-----------------6-----6--|-----6-----6-------5-----5--|  
   A:--------------6-----------|--4-------------3-----------|  
   E:-1------------------------|----------------------------|]  
-       "One day when I was       searching..."  
+    "One day when I was       searching..."  
   ***Fm           G#         C#maj7    C***  
   One day when I was searching  
   ***Fm            G#     C#maj7   C***  
@@ -57,7 +57,7 @@ Album - Circus
   *---------*  
   ***Fm  Eb      G#***  
   Welcome to the picture show  
-         ***C#     Eb***  
+    ***C#     Eb***  
   watching your life  
   ***Fm   Eb G#***  
   Never know which way to go  

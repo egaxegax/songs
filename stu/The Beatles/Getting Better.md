@@ -6,7 +6,7 @@ It`s getting better all the time
 I used to get mad at my school (No, I can`t complain)  
       G             C/G              G           C/G  
 The teachers that taught me weren`t cool  (No, I can`t complain)  
-          G        C/G    G         C/G  
+    G        C/G    G         C/G  
 You`re holding me down, turning me around  
  G          C/G            G  C/G  G  
 Filling me up with your rules  
@@ -14,11 +14,11 @@ Filling me up with your rules
 CHORUS:  
       C                           F  
 I`ve got to admit it`s getting better  
-          Em              F  
+    Em              F  
 A little better all the time  
    C                          F  
 I have to admit it`s getting better  
-              Em              F       Fmaj7   G  
+    Em              F       Fmaj7   G  
 It`s getting better since you`ve been mine  
   
 C    G         C/G         G  C/G  

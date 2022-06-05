@@ -4,9 +4,9 @@ Heavy Petting Zoo (Epitaph 1996)
   
   ***A          F#                    G          D***  
   A Christian, an anarchist slash prostitute figures out the true meaning  
-       ***A    F#                   G        D***  
+    ***A    F#                   G        D***  
   Of freedom, not freedom like America, freedom like a shopping cart  
-         ***A        E               B                              D***  
+    ***A        E               B                              D***  
   Kick back, no tense, you gotta bag of grub cost you about 50 cents  
       ***A                 E         B                                D***  
   No fear, no fuckin' feat, malt liquor tastes much better on the street  
@@ -18,7 +18,7 @@ Heavy Petting Zoo (Epitaph 1996)
   
   ***A               E                C#         D***  
   Sleeping under rays, your teeth crumbling away  
-          ***B                      E***  
+    ***B                      E***  
   Say goodbye to all responsibility, you never wanted it man  
   
   ***A        E                 G                    D***  

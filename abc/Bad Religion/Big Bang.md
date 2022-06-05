@@ -11,13 +11,13 @@ Big Bang
   or a new plastic trend,  
   ***G***  
   everybody's searching for something  
-             ***D***  
+    ***D***  
   but in the mean time let's all just pretend  
   ***A***  
   I've got this feeling  
-        ***C***  
+    ***C***  
   and I don't know what it is,  
-       ***G***  
+    ***G***  
   this room is overcrowded man  
       ***D***  
   and I need air to breathe  
@@ -47,13 +47,13 @@ Big Bang
   dwell within protected walls,  
   ***G***  
   all waiting for a moment in their lives  
-       ***D***  
+    ***D***  
   when they can heed the clarion call,  
   ***A***  
   and it's all so oppressive  
      ***C***  
   my mind feels like a sieve,  
-       ***G***  
+    ***G***  
   this city is overcrowded man  
       ***D***  
   and I need room to live  
@@ -88,9 +88,9 @@ Big Bang
   
       ***D***  
   you know I wish you well,  
-                 ***A***  
+    ***A***  
   'cause there's no room left in heaven,  
-              ***E***  
+    ***E***  
   and there's sure no room in hell  
   ***B        D***  
   big bang, big crunch,  

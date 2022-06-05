@@ -2,27 +2,27 @@
 Bit Part  
   
   *Weird chords: ***Esus2/F#*** : [999000]       ***Dsus2*** : [x57755]*  
-                ****Dsus2(add6)*** : [x57700]    ***Cmaj7*** : [x32000]*  
-                ****C(1)*** : [x35050]           ***D*** : [x57x7x]*  
-                ****D(add9/11)*** : [x57070]     ***Gmaj7/C*** : [x30002]*  
+    ****Dsus2(add6)*** : [x57700]    ***Cmaj7*** : [x32000]*  
+    ****C(1)*** : [x35050]           ***D*** : [x57x7x]*  
+    ****D(add9/11)*** : [x57070]     ***Gmaj7/C*** : [x30002]*  
   
 Intro:  | ***Esus2/F#*** | ***Dsus2 Dsus2(add6)***  | ***Cmaj7*** | ***G*** | ***C(1)*** |  
   ***| C | D Dadd9/11  | Bm | Bm | C | G | Am | Em | C |***  
   ***| D Dadd9/11 | Bm | Bm |***  
   
-           ***Gmaj7                 Em***  
+    ***Gmaj7                 Em***  
   I want a bit part in your life,  
     ***Gmah7/C               Dsus4***  
   A walk-on would be fine.  
-                ***Gmaj7                 Em***  
+    ***Gmaj7                 Em***  
   I just want a bit part in your life,  
   ***Gmaj7/C                   Dsus4***  
   (A bit part in your life).  
-           ***Gmaj7                 Em***  
+    ***Gmaj7                 Em***  
   I want a bit part in your life,  
      ***Gmaj7/C              Dsus4***  
   Rehearsing all the time.  
-                ***Gmaj7                 Em***  
+    ***Gmaj7                 Em***  
   I just want a bit part in your life,  
   ***Gmaj7/C                   Dsus4***  
   (A bit part in your life).  

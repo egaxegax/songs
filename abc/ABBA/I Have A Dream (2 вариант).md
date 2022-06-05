@@ -4,88 +4,88 @@ Intro:- G G| F F| C C|
   
 C          F  
  I have a dream  
-           C  
+    C  
  a song to sing  
-           F  
+    F  
  To help me cope  
-           C  
+    C  
  with anything  
-              G  
+    G  
  If you see the wonder  
-          C  
+    C  
  of a fairy tale  
-             G  
+    G  
  you can take the future  
-           C  
+    C  
  even if you fail  
   
-                     F  
+    F  
 CHORUS: I believe in angels  
   
-        something good in  
-        G               C  
-        everything I see  
-                    F  
-        I believe in angels  
-                     G  
-        when I know the time  
-                     C  
-        is right for me  
-                       F  
-        I'll cross the stream  
-                  C  
-        I have a dream  
+    something good in  
+    G               C  
+    everything I see  
+    F  
+    I believe in angels  
+    G  
+    when I know the time  
+    C  
+    is right for me  
+    F  
+    I'll cross the stream  
+    C  
+    I have a dream  
   
-          F  
+    F  
 I have a dream  
-       C  
+    C  
 a fantasy  
-              F  
+    F  
 To help me through  
      C  
 reality  
-            G  
+    G  
 And my destination  
-                   C  
+    C  
 makes it worth the while  
-                    G  
+    G  
 pushing through the darkness  
   
-               C  
+    C  
 still another mile  
   
-                     F  
+    F  
 CHORUS: I believe in angels  
   
-        Something good in  
-        G  
-        everything I see  
-                    F  
-        I believe in angels  
-                     G  
-        When I know the time  
-       C  
+    Something good in  
+    G  
+    everything I see  
+    F  
+    I believe in angels  
+    G  
+    When I know the time  
+    C  
  is right for me  
    F  
  I'll cross the stream  
     C  
  I have a dream  
   
-         F  
+    F  
 I have a dream  
-          C  
+    C  
 a song to sing  
-           F  
+    F  
 To help me cope  
-        C  
+    C  
 with anything  
-               G  
+    G  
 If you see the wonder  
-           C  
+    C  
 of a fairy tale  
-                 G  
+    G  
 you can take the future  
-            C  
+    C  
 even if you fail  
   
 REPEAT CHORUS

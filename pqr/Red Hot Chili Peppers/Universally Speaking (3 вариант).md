@@ -4,7 +4,7 @@ intro D Em7 x 4
   
 D    Em7  
 i saw your face  
-       D  
+    D  
 Elegant and tired  
   Em7  
 Cut up from the chase  

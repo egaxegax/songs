@@ -3,13 +3,13 @@ INTRO- E | A
   
 VERSE:  
   
-             E                       G#m  
+    E                       G#m  
 Gotta find a way, yeah I can't wait another day  
-                      A            Am  
+    A            Am  
 Ain't nothing gonna change, If we stay round here  
-                 E               G#m  
+    E               G#m  
 Gotta do what it takes, Coz it's all in our hands  
-                A               Am                      C#m  
+    A               Am                      C#m  
 We all make mistakes, but it's never too late, to start again  
 B             A    C#m   B           A  
 Take another breath, and say another prayer  
@@ -60,9 +60,9 @@ Baby you and I, Can pack our bags and say Goodbyeeeeeeeeeeee
   
      E N.C. Ab            A              Am  
 Then Fly, Away from here, Anywhere, yeah I don't care  
-       E     Ab                 A  
+    E     Ab                 A  
 We can Fly, Away from here, our hopes  
-               Am  
+    Am  
 and dreams are out there somewhere  
 E            Ab                    A  
 Flyyyyyyyyy, Away from here, yeah, anywhere,  
@@ -79,7 +79,7 @@ D|-----------------------11-|
 A|--------------------------|  
 E|--------------------------|  
   
-                A      Am  
+    A      Am  
 We'll just flyyyyyyyyyyyyyyyyy  
   
 | E | A |

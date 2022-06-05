@@ -4,15 +4,15 @@ Mr. Blue Sky
   
    ***F***  
   Sun is shinin' in the sky,  
-                 ***Em7  A   Dm***  
+    ***Em7  A   Dm***  
   There ain't a cloud in sight  
-                 ***G***  
+    ***G***  
   It's stopped rainin'  
-        ***Em          A***  
+    ***Em          A***  
   Everybody's in a play  
-                 ***Bb***  
+    ***Bb***  
   And don't you know  
-                        ***F        Bb***  
+    ***F        Bb***  
   It's a beautiful new day, hey hey  
   Runnin' down the avenue,  
   See how the sun shines brightly  
@@ -22,7 +22,7 @@ Mr. Blue Sky
   *CHORUS*  
   ***Dm        F                  Bb***  
   Mr. Blue Sky, please tell us why,  
-              ***F***  
+    ***F***  
   You had to hide away  
       ***Gm      F               Eb          Bb***  
   For so long       where did we go wrong.  
@@ -38,15 +38,15 @@ Mr. Blue Sky
   *CHORUS:REPEAT*  
    ***F***  
   Mr. Blue you did it right,  
-                 ***Em7   A    Dm***  
+    ***Em7   A    Dm***  
   But soon comes Mis - ter Night,  
-            ***G***  
+    ***G***  
   Creepin' over, now his  
    ***Em                A***  
   Hand is on your shoulder,  
-         ***Bb                     Db***  
+    ***Bb                     Db***  
   Never mind I'll remember you this  
-          ***Eb              Dm***  
+    ***Eb              Dm***  
   I'll remember you this way.  
   
 Outro:  ***Dm  F  Bb  F  Gm  F  Eb  Bb***  

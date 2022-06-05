@@ -7,38 +7,38 @@ Intro:  [E----8---5^--3---5---3--------------|------3--5---8---11^-11^--10--
   ***C***  
   I used to hurry a lot  
   I used to worry a lot  
-            ***F***  
+    ***F***  
   I used to stay out till the break of day  
   ***C***  
   Oh that didn't git it  
   It was high time I quit it  
-         ***F***  
+    ***F***  
   I just couldn't carry on that way  
   ***Am***  
   Oh, I did some damage, I know it's true  
-         ***F***  
+    ***F***  
   Didn't know I was so lonely till I found you  
   ***C***  
   You can go the distance  
   We'll find out  
-         ***F***  
+    ***F***  
   In the long run (in the long run)  
-         ***C***  
+    ***C***  
   We can handle some resistance  
   if our love  
-       ***F***  
+    ***F***  
   is a strong one(is a strong one)  
-         ***Am***  
+    ***Am***  
   People talkin' about us  
   they got nothin' else to do  
-          ***F***  
+    ***F***  
   When it all comes down  
   we will still come through  
-         ***C***  
+    ***C***  
   In the long run  
       ***F***  
   Ooh I want to tell you  
-         ***C         G   G7***  
+    ***C         G   G7***  
   it's a long run  
   
   *And so on for the rest of the song.*  

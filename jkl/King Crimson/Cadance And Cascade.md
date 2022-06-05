@@ -5,7 +5,7 @@ Cadance and Cascade
 Kept a man named Jade;  
 E          F#m7/E  
 Cool in the shade  
-         G#m/E    F#m7/E  
+    G#m/E    F#m7/E  
 While his audience played.  
 E      Em7        A         E  
 Purred, whispered, "Spend us too:  
@@ -18,7 +18,7 @@ Sliding mystified
 On the wine of the tide  
 E          F#m7/E  
 Stared pale-eyed  
-       G#m/E    F#m7/E  
+    G#m/E    F#m7/E  
 As his veil fell aside.  
 E      Em7        A         E  
 Sad paper courtesan  

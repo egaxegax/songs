@@ -42,7 +42,7 @@ Chords:  ***D***    [x00232]
   This boy wouldn't mind the pain,  
   ***G            A7       D  Bm***  
   Would always feel the same,  
-       ***G        A6            D  Bm G A***  
+    ***G        A6            D  Bm G A***  
   'Til this boy gets you back again.  
   
   ***D***  

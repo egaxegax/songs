@@ -3,7 +3,7 @@ Again Someday
   
   ***F#         Ebm***  
   Now you're gone  
-         ***H            Db***  
+    ***H            Db***  
   We're left to carry on  
   ***F#         Ebm        Abm      Db***  
   Though the night seems twice as long  

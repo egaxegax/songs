@@ -18,15 +18,15 @@ The Dark Side Of The Moon (1973), Works (1968-1973) (1983)
   The lunatics are in my hall  
   ***D    E***  
   The paper holds their folded faces to the floor  
-          ***A7               D***  
+    ***A7               D***  
   And every day the paperboy brings more  
   ***D/F#   E***  
   And if the dam breaks open many years too soon  
-         ***G                                             D/F#***  
+    ***G                                             D/F#***  
   And if there is no room upon the hill  
-                                ***E***  
+    ***E***  
   And if your head explodes with dark forbodings too  
-       ***G               D/F#***  
+    ***G               D/F#***  
   I'll see you on the dark side of the moon.  
   ***D     G7***  
   The lunatic is in my head  
@@ -38,15 +38,15 @@ The Dark Side Of The Moon (1973), Works (1968-1973) (1983)
   You rearrange me till I'm sane  
   ***D         E***  
   You lock the door and throw away the key  
-               ***A7                                                D***  
+    ***A7                                                D***  
   There's someone in my head but it's not me  
   ***D/F#          E***  
   And if the cloud bursts thunder in your ear  
   ***G          D/F#***  
   You shout and no one seems to hear  
-                                 ***E***  
+    ***E***  
   And if the band you're in starts playing different tunes  
-       ***G              D/F#***  
+    ***G              D/F#***  
   I'll see you on the dark side of the moon  
   *For the rest of the song it plays the same chord progression as in the verses*  
   *and then it goes into the song "Eclipse"*  

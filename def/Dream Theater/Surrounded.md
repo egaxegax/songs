@@ -32,8 +32,8 @@ Surrounded
   A -------------  
   E -------------]  
   ***Dsus4                           Cadd9***  
-          Morning comes too       early,  
-          and nighttime falls too late.  
+    Morning comes too       early,  
+    and nighttime falls too late.  
       ***Am/C      E     GaddA   G(1)  C(1)***  
   And sometimes all I want to do is wait.  
       ***Am/C   E         GaddA  G(1)   D(1)      D6   Am7***  
@@ -47,7 +47,7 @@ Surrounded
       ***Am          G(2)               C(2)     Dsus4(2)***  
   She will slowly yield the light as I awaken from the longest  
   
-          ***G                          Cadd9             D             F***  
+    ***G                          Cadd9             D             F***  
   [E -------------------------------------------------------------------------  
   B -8-10-10/12-8-----------------------------------------------------------  
   G ---------------7/9-7~--/7-7-5-4--5-4-------9-9-7\5-7---------------------  
@@ -170,7 +170,7 @@ Surrounded
   D -5----5---5--5----5----5---5--5----7----7---5------5------------------  
   A ---------------------------------------------------3------------------  
   E ----------------------------------------------------------------------]  
-                                                   And from an ivory tower  
+    And from an ivory tower  
   [E ---------------------------------  
   B --------------------3------------  
   G -----------------0---------------  
@@ -211,7 +211,7 @@ Surrounded
   A ----3------------------------------5------------  
   E ------------------------------------------------]  
      He stands before the window, his shadow slowly fading from the wall.  
-                                                      *+     (+)*  
+    *+     (+)*  
   [E ---------------------------------------------------------------------  
   B -12---12--12-12---12---12--12-12---12---12---------------------------  
   G -12---12--12-12---10---10--10-10---12---12-----12-19-12-12(b)14-12~\-  
@@ -227,11 +227,11 @@ Surrounded
   E -----------------------------------------------------------------------------]  
     and from an ivory tower hears her call "let the light surround you"  
   *Solo: Requires a single slap-back delay of ~200-300 ms. My timing isn't*  
-        *good enough to get it sounding right, or indeed work out exactly*  
-        *what is being played. What's below is a rough idea of what I think*  
-        *is going on. To confuse matters even further it sounds as though*  
-        *there are regular pull-offs onto the open ***G***. Knowing what John*  
-        *Petrucci is capable of, he probably didn't even use a delay!*  
+    *good enough to get it sounding right, or indeed work out exactly*  
+    *what is being played. What's below is a rough idea of what I think*  
+    *is going on. To confuse matters even further it sounds as though*  
+    *there are regular pull-offs onto the open ***G***. Knowing what John*  
+    *Petrucci is capable of, he probably didn't even use a delay!*  
   
   [E -------------------------                -------------------------  
   B -------------------------                -------------------------  
@@ -274,7 +274,7 @@ Surrounded
   D ----0---------------------4----------4-------------------5---------------5---  
   A ---------------------2-----------5---------------4---------------0-----------  
   E -3--------------0------------------------------------------------------------]  
-        But I will hold this one on high            above me still.  
+    But I will hold this one on high            above me still.  
   [E -----------------------------------------------------------------------------  
   B --------------1----------------0---------------------------------------3-----  
   G ------------------2--------0-------0--------------2----0-----------0---------  

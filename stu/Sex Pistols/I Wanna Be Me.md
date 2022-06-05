@@ -9,7 +9,7 @@ intro:  ***E***
   
   ***E***  
 (1)  Turn the page and its the scoop of the century  
-         ***D                   B***  
+    ***D                   B***  
   Don't wanna be L Seven I had enough of this  
   ***E***  
   This is brainwash and this is a clue  
@@ -17,9 +17,9 @@ intro:  ***E***
   To the stars who fooled you  
   ***A***  
   Tell me why you cant explain  
-          ***B                 D B   E***  
+    ***B                 D B   E***  
   You're only looking for vinyl  yeah  
-              ***D              B           E***  
+    ***D              B           E***  
   Didn't they fool you they wanna be you  
   
   *intro*  

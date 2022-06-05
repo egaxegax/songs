@@ -1,11 +1,11 @@
 <!--2020-09-04 23:03:51-->
 You And Your Friend  
   
-         ***Gm                        B     Dm***  
+    ***Gm                        B     Dm***  
   Will you and your friend come around  
   ***Ab                           Gm***  
   Are you and your friend gonna  get on down  
-        ***Gm                        B     Dm***  
+    ***Gm                        B     Dm***  
   Will you and your friend come around  
   ***Ab                              Gm***  
   Or are you and your friend gonna  let me down  
@@ -17,11 +17,11 @@ You And Your Friend
   Let me know  one way or the other  
   ***F***  
   So I can make my plans  
-         ***Gm                        B     Dm***  
+    ***Gm                        B     Dm***  
   Will you and your friend come around  
   ***Ab                           Gm***  
   Are you and your friend gonna  get on down  
-        ***Gm                        B     Dm***  
+    ***Gm                        B     Dm***  
   Will you and your friend come around  
   ***Ab                              Gm***  
   Or are you and your friend gonna  let me down  

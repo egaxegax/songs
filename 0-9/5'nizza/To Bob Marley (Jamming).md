@@ -5,19 +5,19 @@ E      6321323
 G(III) 6321323  
 F#     63263212  
   
-       Hm          E  
+    Hm          E  
 We're jamming, jamming  
 G(III)               F#  
 I wanna jam it with you,  
-       Hm          E  
+    Hm          E  
 We're jamming, jamming  
-       G(III)                F#  
+    G(III)                F#  
 and I hope you like jamming too.  
-          Hm                        E  
+    Hm                        E  
 Ain't no rules ain't no vow we can do it anyhow  
    G(III)                  F#  
 I Jah know will see you through,  
-            Hm                          E  
+    Hm                          E  
 'Cos every day we pay the price with a loving sacrifice  
  G(III)                     F#  
 jamming till your jam is through.  

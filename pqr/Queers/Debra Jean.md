@@ -122,7 +122,7 @@ Chorus:  (2x)
   ----------------------------------------------------------------------]  
   
   *The Backing Riff For The Solo:*  
-       ***G             E              C               D***  
+    ***G             E              C               D***  
   *There. That was my first tab. If it doesn't sound right,*  
   *then your guitar probably isn't tuned.*  
   *HAVE A NICE DAY!!!*

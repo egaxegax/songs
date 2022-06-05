@@ -4,27 +4,27 @@ The Game 1980
   *(May)*  
   *3:48*  
   
-       ***G     D/F     Em7   Am***  
+    ***G     D/F     Em7   Am***  
   It started off so well  
     ***G            C             Am***  
   They said we made a perfect pair  
-        ***C      D             G              C***  
+    ***C      D             G              C***  
   I clothed myself in your glory and your love  
    ***C           G***  
   How I loved you,  
-             ***D***  
+    ***D***  
   How I cried.....  
-        ***Am           G     C***  
+    ***Am           G     C***  
   The years of care and loyalty  
-         ***Am                C  G   D***  
+    ***Am                C  G   D***  
   Were nothing but a sham    it seems  
-        ***C     D            G  C***  
+    ***C     D            G  C***  
   The years belie we lived a lie  
-          ***G        C     G***  
+    ***G        C     G***  
   "I'll love you 'til I die"  
    ***D        A/C   Bm7   D***  
   Save me Save me Save me  
-                      ***E7   A     G***  
+    ***E7   A     G***  
   I can't face this life alone  
     ***D       A/C    D/c***  
   Save me Save me Oh...  

@@ -3,77 +3,77 @@ Promised Land
   
     ***G***  
   I LEFT MY HOME IN NORFOLK VIRGINIA  
-                   ***C***  
+    ***C***  
   CALIFORNIA ON MY MIND  
     ***D***  
   I BOARDED THAT GREYHOUND,  
-                                      ***G***  
+    ***G***  
   RODE IN INTO RALIEGH ON ACROSS CAROLINE  
   ***G***  
   STOPPED IN CHARLOTTE TO BY PASS ROCKHILL  
-                        ***C***  
+    ***C***  
   WE NEVER WAS A MINUTE LATE  
-          ***D***  
+    ***D***  
   WE WERE NINTY MILES OUT OF ATLANTA BY SUNDOWN  
-                         ***G***  
+    ***G***  
   ROLLIN' OUT OF GEORGIA STATE  
      ***G***  
   WE HAD MOTOR TROUBLE THAT TURNED INTO A STRUGGLE  
-                    ***C***  
+    ***C***  
   HALFWAY ACROSS ALABAM  
-           ***D***  
+    ***D***  
   AND THAT BOW BROKE DOWN  
-                                          ***G***  
+    ***G***  
   AND LEFT US STRANDED IN DOWNTOWN BIRMINGHAM  
   ***G***  
   RIGHT AWAY I BOUGHT A THROUGH TRAIN TICKET  
-                         ***C***  
+    ***C***  
   GOT ACROSS MISSISSIPPI CLEAN  
-            ***D***  
+    ***D***  
   AND I WAS ON THAT MIDNIGHT FLYER OUT OF BIRMINGHAM  
-                       ***G***  
+    ***G***  
   SMOKIN' INTO NEW ORLEANS  
   ***G***  
   SOMEBODY HELP ME GET OUT OF LOUISIANA  
-                         ***C***  
+    ***C***  
   HELP ME GET TO HOUSTON TOWN  
-            *strum*  
-            *1    &    2    &    3    &    4*  
-            *V    ^    V    ^         ^    V*  
-            ***D***  
+    *strum*  
+    *1    &    2    &    3    &    4*  
+    *V    ^    V    ^         ^    V*  
+    ***D***  
   THERE ARE PEOPLE THERE WHO CARE A LITTLE 'BOUT ME  
-                             ***G***  
+    ***G***  
   AND WON'T PUT THE POOR BOY DOWN  
   ***G***  
   GEORGIA BORN, THEY BOUGHT ME A SILK SUIT  
-                        ***C***  
+    ***C***  
   AND PUT LUGGAGE IN MY HAND  
       ***D***  
   AND WOKE UP HIGH OVER ALBUQUERQUE  
-                           ***G***  
+    ***G***  
   ON A JET TO THE PROMISED LAND  
   ***G***  
   WORKIN' ON A T-BONE ALA CARTEE  
-                            ***C***  
+    ***C***  
   FLYIN' OVER TO THE GOLDEN STATE  
-           ***D***  
+    ***D***  
   WHEN THE PILOT TOLD US IN THIRTEEN MINUTES  
-                                  ***G***  
+    ***G***  
   HE WOULD SET US AT THE TERMINAL GATE  
   ***G***  
   SWING LOW CHARIOT, COME DOWN EASY  
-                       ***C***  
+    ***C***  
   TAXI TO THE TERMINAL DOOR  
   ***D***  
   CUT YOUR ENGINES AND COOL YOUR WINGS  
-                                ***G***  
+    ***G***  
   AND LET ME MAKE IT TO THE TELEPHONE  
   ***G***  
   LOS ANGELES, GIVE ME NORFLOK VIRGINIA  
-                       ***C***  
+    ***C***  
   TIDEWATER FOUR TEN O NINE  
-               ***D***  
+    ***D***  
   TELL ALL THE FOLKS BACK HOME  
   IT'S THE PROMISED LAND CALLIN'  
-                             ***G***  
+    ***G***  
   AND THE POOR BOY IS ON THE LINE

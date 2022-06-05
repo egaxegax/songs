@@ -4,15 +4,15 @@ Not Alone
   
    ***Em            Am***  
   You, you going on,  
-               ***Am***  
+    ***Am***  
   You brake my own.  
-             ***Am***  
+    ***Am***  
   I'm ready some,  
-            ***D***  
+    ***D***  
   And only you  
-              ***C       Em***  
+    ***C       Em***  
   Can be my chance forever  
-        ***H7***  
+    ***H7***  
   And think together.  
   
   You, you going on,  

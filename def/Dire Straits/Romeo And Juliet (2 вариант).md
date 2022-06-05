@@ -16,7 +16,7 @@ first 3 notes again, then strum. Now quickly move to a dow
 on the F chord barred at the first fret (plus the unfretted E-string note),  
 which leads back to the Bb:  
   
-            F(D-struct)             F(barred,1st fret)      Bb(strum...)  
+    F(D-struct)             F(barred,1st fret)      Bb(strum...)  
 --0h1--3----5----------------5------------------1-----0----1--|  
 ------------6----------6-----6---------------1--------------3-|  
 ------------5-------5--------5------------2-----------------3-|  
@@ -27,7 +27,7 @@ which leads back to the Bb:
 Now it's back up the E-string to the D-struct F for more of the same  
 (the rest of the band kicks in here and starts to obscure things).  
   
-            F(D-struct)                                  Bb(strum...)  
+    F(D-struct)                                  Bb(strum...)  
 --0h1--3----5------------------5-------------5--3--0-----1-|  
 ------------6---------6--------6----------6--------------3-|  
 ------------5------5-----------5-------5-----------------3-|  
@@ -41,7 +41,7 @@ downward seep-pick on the open C chord, with the high G no
 string at 3rd fret). An open E-string then leads to the Bb.  
 Then it's up to the D-struct F for the start of the lyrics:  
   
-            F(D-struct)                              Bb(strum/pick...)  
+    F(D-struct)                              Bb(strum/pick...)  
 --5--3------5-------------5------------------3---0---1-------0h1--3--- etc  
 ------------6---------5---6---------------1----------3----------------  
 ------------5------6------5------------0-------------3----------------  
@@ -71,7 +71,7 @@ F(1st fret)                    C(open)
 Juliet says, "Hey, it's Romeo!          you nearly gave me a 'eart attack!"  
   
 C(open) F(1st fret)                C(open) Dm(open)           Bb  
-        He's underneath the window,  she's singing "Hey la my boyfriend's back  
+    He's underneath the window,  she's singing "Hey la my boyfriend's back  
   
 C(3rd fret)              Bb C(3rd fret)               F(1st fret)  
 Shouldn't come around here, singing up at people like that  

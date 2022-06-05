@@ -18,7 +18,7 @@ Give me the Cure
   ---------------------------------]  
   *(let ring on most notes)*  
   *Note: At one point, the second half of that part is left off.*  
-        *Also, some chorus or an overdub is added for a while.*  
+    *Also, some chorus or an overdub is added for a while.*  
   *Then, it does this:*  
   [-------                                          ---]  
   *[-------]                   and it ends up just    [---]*  
@@ -43,7 +43,7 @@ Give me the Cure
     --- --- ---   --- ---  
   ^^]  
   *Note: you may want to strike the open E string*  
-        *or an ***E*** chord at the beginning*  
+    *or an ***E*** chord at the beginning*  
   *and again, but with high part added*  
   [  --- --- ---   -------  
     --- --- ---   -------  
@@ -61,9 +61,9 @@ Give me the Cure
   -5--5--5--5--7--7--7-5-- -2-  
   -5--5--5--5--7--7--7-5-- -2-  
   -3--3--3--3--5--5--5-3-- -0-]  
-                           *^^^*  
-                           *This last chord just begins the next figure,*  
-                           *which was given about 30 lines up.*  
+    *^^^*  
+    *This last chord just begins the next figure,*  
+    *which was given about 30 lines up.*  
   *When we are no longer amused, the song*  
   *approaches its end by varying the previous*  
   *riff - the following is added:*  
@@ -73,7 +73,7 @@ Give me the Cure
   *[----------------------/\-----]   (make the last note waver by bending the*  
   *[-9-----9-10---9-----9//\\----]    neck forward or using the whammy bar or*  
   *[-7-----7--8---7-----7/sl\--0~~]   whatever you've got, or you can simulate*  
-                                   *it with a bent note one 7th up)*  
+    *it with a bent note one 7th up)*  
   *Finally there's a mess during which I just*  
   *hold the following chord. I emphasize different tones in*  
   *it to make it sound more like the recording, e.g. by hitting just*  

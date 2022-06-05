@@ -43,7 +43,7 @@ Abbey Road (1969)
   See no future, pay no rent  
   ***F               G7***  
   All the money's gone  
-             ***C  C7***  
+    ***C  C7***  
   Nowhere to go  
   
   ***C           E7***  
@@ -52,16 +52,16 @@ Abbey Road (1969)
   Monday morning, turning back  
   ***F             G7***  
   Yellow lorry slow  
-             ***C  C7***  
+    ***C  C7***  
   Nowhere to go  
   
       ***Bb                     F***  
   But oh, that magic feeling  
-             ***C***  
+    ***C***  
   Nowhere to go  
   ***Bb                      F***  
   Oh, that magic feeling  
-             ***C***  
+    ***C***  
   Nowhere to go,  nowhere to go  
   
   ***Bb   F    C***  
@@ -73,7 +73,7 @@ Abbey Road (1969)
   
   ***D  Eb  G  C  A  Eb  C  F#  Eb  A  F#  G  G#  A***  
   
-             ***B***  
+    ***B***  
   One sweet dream  
   ***C            D       E7                 A***  
   Pick up the bags and get in the limousine  
@@ -82,14 +82,14 @@ Abbey Road (1969)
   ***D7               G                   A***  
   step on the gas and wipe that tear away  
   
-                                               *here's the little riff:*  
-              ***B7         C  G/B      A***  
+    *here's the little riff:*  
+    ***B7         C  G/B      A***  
   One sweet dream came true      today        [-----------------------5--]  
-         ***C  G/B     A                         [-------------0------------]***  
+    ***C  G/B     A                         [-------------0------------]***  
   came true       today                       [-----0-----0---0-----2----]  
-         ***C  G/B     A                         [---2-----0---------2------]***  
+    ***C  G/B     A                         [---2-----0---------2------]***  
   came true       today  yes it did!          [-3-----2---------0--------]  
-                                              [--------------------------]  
+    [--------------------------]  
   ***C  G/B  A***  
   
    ***C            G/B***  

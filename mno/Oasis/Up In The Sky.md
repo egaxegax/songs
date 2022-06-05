@@ -39,7 +39,7 @@ Definitely Maybe (1994)
   *plays the below chords)*  
   ***G***  
   Hey you! Up in the sky, learning to fly, tell me how high  
-         ***Fadd9          Cadd6    G***  
+    ***Fadd9          Cadd6    G***  
   Do you think you'll go,   before you start fallin'  
       ***G***  
   Hey you! Up in the tree, you wanna be me, well that couldn't be  
@@ -49,7 +49,7 @@ Definitely Maybe (1994)
   *Chorus*  
   ***C           A7/C#***  
   How does it feel  
-                ****G*** (w/ main riff)*  
+    ****G*** (w/ main riff)*  
   When you're inside me.  
   
   *Verse 2*  
@@ -61,7 +61,7 @@ Definitely Maybe (1994)
   Well that's just too bad, welcome to my world  
   ***C     A7/C#***  
       So how does it feel  
-         ***G***  
+    ***G***  
   When you're inside me?  
   
   *Bridge*  
@@ -72,7 +72,7 @@ Definitely Maybe (1994)
     ***Em                   D  C5***  
   Before you've breathed it in  
      ***A7/C#     C       G***  
-                     So how does it feel              when you're inside me  
+    So how does it feel              when you're inside me  
   [e--0---0--0--0--0---0---0---0-----0---0--0--0--0--0--0--0------------------  
   B--2---2--0--2--3---2---0---2-----1---1--0--1--3--1--0--1------------------  
   G--0---0--0--0--0---0---0---0-----0---0--0--0--0--0--0--0----------main----  

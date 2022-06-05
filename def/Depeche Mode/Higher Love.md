@@ -34,7 +34,7 @@ Higher Love - Songs of Faith and Devotion
   Moved, lifted higher  
   ***D#  Gm D#  C#       Cm           Gm***  
   Moved, moved, by a higher love  
-       ***Cm             Gm***  
+    ***Cm             Gm***  
   By a higher love  
       ***Cm***  
   I surrender heart and soul  
@@ -42,5 +42,5 @@ Higher Love - Songs of Faith and Devotion
   Sacrificed to a higher goal  
   ***D#  Cm D#  C#      Cm            Gm***  
   Moved, moved by a higher love  
-       ***Cm              Gm***  
+    ***Cm              Gm***  
   By a higher love

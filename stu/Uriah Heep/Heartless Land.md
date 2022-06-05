@@ -4,7 +4,7 @@ Heartless Land
   
   *guitar intro:*  
   *NB! Play this guitar below in the verses!*  
-       ***G                           Dm             G***  
+    ***G                           Dm             G***  
   [E|---3-3-3-3--3----3-3-3-3--3-----0--0--0--0----3-3-3-3--3---|  
   B|---1-0-0-0--0----1-0-0-0--0------6--6--6--6---1-0-0-0--0---|  
   G|---0-0-0-0--0----0-0-0-0--0-------------------0-0-0-0--0---|  
@@ -17,18 +17,18 @@ verse:  I know the world is full of light
   So why can't things just work out right  
       ***Dm***  
   Oh take me, take me  
-                       ***G***  
+    ***G***  
   From this heartless land  
   It used to be so full of love  
   But now it's only push and shove  
       ***Dm***  
   Oh take me, take me  
-                       ***G***  
+    ***G***  
   From this heartless land  
   
    ***Am***  
 bridge:  Just a breath of new life  
-          ***G***  
+    ***G***  
   Into an empty sky  
     ***Am              C***  
   From deep inside, where love must lie  
@@ -46,24 +46,24 @@ verse:  No need to play the perfect fool
   
    ***Am***  
 bridge:  Just a breath of new life  
-          ***G***  
+    ***G***  
   Into an empty sky  
    ***Am***  
   Somewhere in your soul  
-         ***G    C    D***  
+    ***G    C    D***  
   Where love must lie  
   
-                 ***G           D/G***  
+    ***G           D/G***  
 chorus:  And I say ... come to the light  
-        ***Am***  
+    ***Am***  
   Everyday is getting closer  
-            ***C***  
+    ***C***  
   To your sweet surrender  
   ***G           D/G***  
   Out of the cold  
-            ***Am***  
+    ***Am***  
   'Cause I found a way  
-                ***C***  
+    ***C***  
   That we can fly forever  
    ***Am                 G/B***  
   With direction and peace of mind  
@@ -71,9 +71,9 @@ chorus:  And I say ... come to the light
   The river will flow  
    ***G           D/G       Am***  
   Come to the light, my love  
-            ***C***  
+    ***C***  
   'Cause I need you here  
-                     ***G***  
+    ***G***  
   I need you here tonight  
   
   *Guitar intro*  
@@ -93,20 +93,20 @@ bridge:  Just a breath of new life
   Into an empty sky  
    ***Am***  
   Somewhere in your soul  
-         ***D***  
+    ***D***  
   Where love must lie  
   
-                 ***G           D/G***  
+    ***G           D/G***  
 chorus:  And I say ... come to the light  
-        ***Am***  
+    ***Am***  
   Everyday is getting closer  
-            ***C***  
+    ***C***  
   To your sweet surrender  
   ***G           D/G***  
   Out of the cold  
-            ***Am***  
+    ***Am***  
   'Cause I found a way  
-                ***C***  
+    ***C***  
   That we can fly forever  
    ***Am                 G/B***  
   With direction and peace of mind  
@@ -115,15 +115,15 @@ chorus:  And I say ... come to the light
   
    ***G           D/G***  
 chorus:  Come to the light  
-        ***Am***  
+    ***Am***  
   Everyday is getting closer  
-            ***C***  
+    ***C***  
   To your sweet surrender  
   ***G           D/G***  
   Out of the cold  
-            ***Am***  
+    ***Am***  
   'Cause I found a way  
-                ***C***  
+    ***C***  
   That we can fly forever  
    ***Am                 G/B***  
   With direction and peace of mind  
@@ -131,9 +131,9 @@ chorus:  Come to the light
   The river will flow  
    ***G           D/G       Am***  
   Come to the light, my love  
-            ***C***  
+    ***C***  
   'Cause I need you here  
-                     ***G***  
+    ***G***  
   I need you here tonight  
   
   *Guitar intro*

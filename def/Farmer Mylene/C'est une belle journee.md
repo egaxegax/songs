@@ -4,23 +4,23 @@ C'est une belle journee
 Вcтyплeниe: ***Am F G Am***  
      ***F G Am***  
   
-             ***F***  
+    ***F***  
   Allonge le corps est mort  
   ***G***  
   Pour des milliers  
-           ***Am***  
+    ***Am***  
   C'est un homme qui dort...  
-                  ***F***  
+    ***F***  
   A moitie pleine est l'amphore  
       ***G***  
   C'est a moitie vide  
-                ***Am***  
+    ***Am***  
   Qu'on la voit sans effort  
-                   ***F***  
+    ***F***  
   Voir la vie, son cote pile  
      ***G***  
   Oh philosophie  
-            ***Am***  
+    ***Am***  
   Dis-moi des elegies  
   
   Le bonheur  
@@ -28,52 +28,52 @@ C'est une belle journee
   Lui me fait peur  
      ***G***  
   D'avoir tant d'envies  
-              ***Am***  
+    ***Am***  
   Moi j'ai un souffle au coeur  
   Aussi  
-            ***F         C***  
+    ***F         C***  
   C'est une belle journee  
      ***G          Am***  
   Je vais me coucher  
-         ***F         C***  
+    ***F         C***  
   Une si belle journee  
-         ***G***  
+    ***G***  
   Qui s'acheve  
   ***Am    F           C***  
   Donne l'envie d'aimer  
-          ***G          Am***  
+    ***G          Am***  
   Mais je vais me coucher  
-         ***F       C***  
+    ***F       C***  
   Mordre l'eternite  
-          ***G***  
+    ***G***  
   A dents pleines  
   ***Am        F         C***  
   C'est une belle journee  
      ***G          Am***  
   Je vais me coucher  
-         ***F         C***  
+    ***F         C***  
   Une si belle journee  
-       ***G***  
+    ***G***  
   Souveraine  
   ***Am    F          C***  
   Donne l'envie de paix  
-         ***G             Am***  
+    ***G             Am***  
   Voir des anges a mes pieds  
-          ***F          C***  
+    ***F          C***  
   Mais je vais me coucher  
-             ***G***  
+    ***G***  
   M'faire la belle  
   ***Am         F***  
   Allonge le corps est mort  
   ***G***  
   Pour des milliers  
-           ***Am***  
+    ***Am***  
   C'est un homme qui dort...  
-                  ***F***  
+    ***F***  
   A moitie pleine est l'amphore  
       ***G***  
   C'est a moitie vide  
-            ***Am***  
+    ***Am***  
   Que je la vois encore  
   
   Tout est dit puisqu'en amour  
@@ -81,134 +81,134 @@ C'est une belle journee
   Si c'est du lourd  
      ***G***  
   Si le coeur leger  
-         ***Am***  
+    ***Am***  
   Des elegies toujours  
-                    ***F***  
+    ***F***  
   Les plaisirs, les longs, les courts  
-       ***G***  
+    ***G***  
   Vois-tu mon amour  
-               ***Am***  
+    ***Am***  
   Moi, j'ai le souffle court  
   
   Vois-tu  
-            ***F         C***  
+    ***F         C***  
   C'est une belle journee  
      ***G          Am***  
   Je vais me coucher  
-         ***F         C***  
+    ***F         C***  
   Une si belle journee  
-         ***G***  
+    ***G***  
   Qui s'acheve  
   ***Am    F           C***  
   Donne l'envie d'aimer  
-          ***G          Am***  
+    ***G          Am***  
   Mais je vais me coucher  
-         ***F       C***  
+    ***F       C***  
   Mordre l'eternite  
-          ***G***  
+    ***G***  
   A dents pleines  
   ***Am        F         C***  
   C'est une belle journee  
      ***G          Am***  
   Je vais me coucher  
-         ***F         C***  
+    ***F         C***  
   Une si belle journee  
-       ***G***  
+    ***G***  
   Souveraine  
   ***Am    F          C***  
   Donne l'envie de paix  
-         ***G             Am***  
+    ***G             Am***  
   Voir des anges a mes pieds  
-          ***F          C***  
+    ***F          C***  
   Mais je vais me coucher  
-             ***G***  
+    ***G***  
   M'faire la belle  
   ***Am***  
   Belle  
-             ***F***  
+    ***F***  
   La vie est belle  
-           ***G***  
+    ***G***  
   Comme une aile  
      ***Am***  
   Qu'on ne doit froisser  
   
   Belle  
-             ***F***  
+    ***F***  
   La vie est belle  
-        ***G    Am***  
+    ***G    Am***  
   Et je vais la  
   Belle  
-             ***F***  
+    ***F***  
   La vie est belle  
-          ***G***  
+    ***G***  
   Mais la mienne  
      ***Am***  
   Un monde emporte  
-                   ***F***  
+    ***F***  
   Elle, j'entre en elle  
-        ***G      Am***  
+    ***G      Am***  
   Et mortelle, va  
-            ***F         C***  
+    ***F         C***  
   C'est une belle journee  
      ***G          Am***  
   Je vais me coucher  
-         ***F         C***  
+    ***F         C***  
   Une si belle journee  
-         ***G***  
+    ***G***  
   Qui s'acheve  
   ***Am    F           C***  
   Donne l'envie d'aimer  
-          ***G          Am***  
+    ***G          Am***  
   Mais je vais me coucher  
-         ***F       C***  
+    ***F       C***  
   Mordre l'eternite  
-          ***G***  
+    ***G***  
   A dents pleines  
   ***Am        F         C***  
   C'est une belle journee  
      ***G          Am***  
   Je vais me coucher  
-         ***F         C***  
+    ***F         C***  
   Une si belle journee  
-       ***G***  
+    ***G***  
   Souveraine  
   ***Am    F          C***  
   Donne l'envie de paix  
-         ***G             Am***  
+    ***G             Am***  
   Voir des anges a mes pieds  
-          ***F          C***  
+    ***F          C***  
   Mais je vais me coucher  
-             ***G***  
+    ***G***  
   M'faire la belle  
   ***Am#       F#        C#***  
   C'est une belle journee  
      ***G#         AmH***  
   Je vais me coucher  
-         ***F#        C#***  
+    ***F#        C#***  
   Une si belle journee  
-         ***G#***  
+    ***G#***  
   Qui s'acheve  
   ***Am#   F#          C#***  
   Donne l'envie d'aimer  
-          ***G#         Am#***  
+    ***G#         Am#***  
   Mais je vais me coucher  
-         ***F#      C#***  
+    ***F#      C#***  
   Mordre l'eternite  
-          ***G#***  
+    ***G#***  
   A dents pleines  
   ***Am#       F#        C#***  
   C'est une belle journee  
      ***G#         Am#***  
   Je vais me coucher  
-         ***F#        C#***  
+    ***F#        C#***  
   Une si belle journee  
-       ***G#***  
+    ***G#***  
   Souveraine  
   ***Am#   F#         C#***  
   Donne l'envie de paix  
-         ***G#            Am#***  
+    ***G#            Am#***  
   Voir des anges a mes pieds  
-          ***F#         C#***  
+    ***F#         C#***  
   Mais je vais me coucher  
-             ***G#     Am#***  
+    ***G#     Am#***  
   M'faire la belle

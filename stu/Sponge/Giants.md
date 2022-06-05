@@ -40,7 +40,7 @@ Giants
   D:-7-----7-----7-7--7-7--|-7--7--7--7--7--7--7--7-|  
   A:-5-----5-----5-5--5-5--|-5--5--5--5--5--5--5--5-|  
   E:-----------------------|------------------------|]  
-                                           ***  
+    ***  
   *Right about where the asterisk is, the lead guitar comes in with the pickup*  
   *riff show below (with distortion), and continues on with a riff similar to*  
   *the intro/verse riff.*  

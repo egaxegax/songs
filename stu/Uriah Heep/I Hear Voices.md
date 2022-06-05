@@ -17,11 +17,11 @@ I Hear Voices
 verse:  I feel the pressure pushing down on me  
   Can't face the world  
   Can't change the things I see  
-            ***Em***  
+    ***Em***  
   I got my hands in my pockets  
     ***D***  
   Staring at the walls  
-       ***C                Bb          Em***  
+    ***C                Bb          Em***  
   Can nobody help to escape from it all  
   
   *Guitar intro*  
@@ -31,10 +31,10 @@ verse:  I hear voices in my head they taunt me
   They breathe in me  
   I got my hands in my pockets  
   Screaming at the walls  
-       ***C                   Bb          B***  
+    ***C                   Bb          B***  
   Can nobody help me to escape from it all  
   
-               ***C***  
+    ***C***  
 chorus:  I've got to run to be free, break the chains round my heart  
    ***Em            D            Em              D            Em***  
   Take away the pain and the joy release the man from the boy  
@@ -42,13 +42,13 @@ chorus:  I've got to run to be free, break the chains ro
   Run to be free, run from the heart  
    ***Em        D-Em              D-Em***  
   Life will take you where it goes  
-          ***Bm***  
+    ***Bm***  
   You can offer me salvation  
    ***C***  
   Feed me when I call  
    ***Bb***  
   Don't talk to me of sanity  
-          ***B                  A***  
+    ***B                  A***  
   When I'm not quite here at all  
   
   *Guitar solo:*  
@@ -59,7 +59,7 @@ chorus:  I've got to run to be free, break the chains ro
   D|-------------------------------------------------------------|  
   A|-------------------------------------------------------------|  
   E|-------------------------------------------------------------|  
-                       ***Em***  
+    ***Em***  
   E|----------15--------3-0-0-5-0-0-3-0-0-2-3--3-0-0-5-0-0-3-0-0-2-3-|  
   B|-17----------15b17-----------------------------------------------|  
   G|----16-15--------------------------------------------------------|  
@@ -73,7 +73,7 @@ chorus:  I've got to run to be free, break the chains ro
   D|----14-13----13-12----12-11----11-10----10-9---9-8---8-7--7-6-|  
   A|--------------------------------------------------------------|  
   E|--------------------------------------------------------------|  
-                         ***Em             D***  
+    ***Em             D***  
   E|-------------------------------------------------------|  
   B|---------------------22b24r22-22b24--22b24r22p20----20-|  
   G|-6-----5-----4-----------------------------------21----|  

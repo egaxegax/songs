@@ -13,7 +13,7 @@ Lovers in a Dangerous Time
   One day you're waiting for the sky to fall  
   ***G                              Amin         F***  
   And next you're dazzled by the beauty of it all  
-              ***G      Amin           F***  
+    ***G      Amin           F***  
   When you're lovers in a dangerous time  
   ***G      Amin           F***  
   Lovers in a dangerous time  
@@ -25,11 +25,11 @@ Lovers in a Dangerous Time
   Spirits open to the thrust of grace  
   ***G           Amin                 F***  
   Never a breath you can afford to waste  
-              ***G     Amin            F***  
+    ***G     Amin            F***  
   When you're lovers in a dangerous time  
   ***G      Amin           F***  
   Lovers in a dangerous time  
-              ***G     Amin            F***  
+    ***G     Amin            F***  
   When you're lovers in a  dangerous time  
   ***G      Amin           F***  
   Lovers in a dangerous time  
@@ -41,11 +41,11 @@ Lovers in a Dangerous Time
   But nothing worth having comes without some kind of fight  
   ***G                     Amin                       F***  
   You gotta kick at the darkness 'til it bleeds daylight  
-             ***G     Amin             F***  
+    ***G     Amin             F***  
   When you're lovers in a dangerous time  
   ***G      Amin           F***  
   Lovers in a dangerous time  
-             ***G     Amin             F***  
+    ***G     Amin             F***  
   When you're lovers in a dangerous time  
   ***G      Amin           F***  
   Lovers in a dangerous time

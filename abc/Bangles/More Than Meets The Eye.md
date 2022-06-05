@@ -5,7 +5,7 @@ More Than Meets The Eye
 (1)  He's got a slow slow ride, got a camera inside  
    ***A                   C#m            B***  
   He takes a picture, hangs it up to dry  
-                        ***E                      B***  
+    ***E                      B***  
   And there's one girl named, and another displayed  
    ***A                C#m                  B***  
   All the time you can't help feeling ashamed  
@@ -13,11 +13,11 @@ More Than Meets The Eye
   Given new reasons to survive  
    ***A           C#m           F#m  B***  
   He keeps a number of them alive  
-             ***E              G#m***  
+    ***E              G#m***  
   There's a warning in the sky  
-       ***E              G#m***  
+    ***E              G#m***  
   A stranger passing by  
-               ***E                   G#        C#***  
+    ***E                   G#        C#***  
   And there's more than meets the eye to the guy.  
   
 (2)  When you're so secure, never feeling unsure  

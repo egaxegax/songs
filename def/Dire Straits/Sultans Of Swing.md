@@ -18,9 +18,9 @@ Sultans Of Swing
   *The rest of the song continues with the same chord structure, but between*  
   *some verses there is a long-fill/chorus which is:*  
   ***Bbmaj Dmin Bbmaj-slide-C***  
-                               We are the sultans  
+    We are the sultans  
   ***Bbmaj Dmim Bbmaj-slide- C                                Dmin***  
-                 we are the sultans of swing  
+    we are the sultans of swing  
   ***Dmin Cmaj Bbmaj-slide-C      Dmin C  {repeat once}***  
   Note -  
   *The  ***Bb-Dmin-Bbmaj-C*** part in the chorus can be quite tricky if the song is*  
@@ -35,17 +35,17 @@ Sultans Of Swing
   *(single snare beat)*  
   ***Dm / C-C / Dm / C-C***  
   *Intro lead*  
-             ***Dm***  
+    ***Dm***  
   you get a shiver in the dark  
-           ***C           Bb       A***  
+    ***C           Bb       A***  
   it's raining in the park but meantime  
   ***Dm                      C           Bb          A***  
   south of the river you stop and you hold everything  
   ***F                   C***  
   a band is blowing Dixie double four time  
-          ***Bb                                 Dm    Bb-C***  
+    ***Bb                                 Dm    Bb-C***  
   you feel alright when you hear that music ring  
-                 ***Dm              C        Bb          A***  
+    ***Dm              C        Bb          A***  
   (Now) you step inside but you don't see too many faces  
    ***Dm                   C                        Bb      A***  
   coming in out of the rain to (you) hear the jazz go down  
@@ -55,12 +55,12 @@ Sultans Of Swing
   but not too many horns can make that sound  
   (But not too many horns are blowing that sound)  
   ***Bb-C***  
-          way on downsouth  
+    way on downsouth  
   ***Bb-C***  
-          way on downsouth  
+    way on downsouth  
   ***Dm              Dm-C-Bb-C       Dm-C-Bb-C***  
   London town  
-                  ***Dm          C       Bb          A***  
+    ***Dm          C       Bb          A***  
   you check out Guitar George he knows all the chords  
   ***Dm                                                 C   Bb             A***  
   mind he's (his) strictly rhythm he doesn't want to make it cry or sing  
@@ -77,12 +77,12 @@ Sultans Of Swing
   (He can play the honky tonk like anything)  
   ***Bb                      Dm      Bb-C***  
     saving it up for friday night  
-                    ***Bb-C***  
+    ***Bb-C***  
   with the sultans  
-                       ***Dm     Dm-C-Bb-C***  
+    ***Dm     Dm-C-Bb-C***  
   with the sultans of swing  
-                               ***Dm-C-Bb-C***  
-          ***Dm                          C           Bb            A***  
+    ***Dm-C-Bb-C***  
+    ***Dm                          C           Bb            A***  
   and a crowd of young boys they're fooling around in the corner  
   ***Dm                                    C                Bb           A***  
   drunk and dressed in their best brown baggies and their platform soles  
@@ -90,12 +90,12 @@ Sultans Of Swing
   they don't give a damn about ('bout) any trumpet playing band  
      ***Bb                           Dm      Bb-C***  
   it ain't what they call rock and roll  
-                  ***Bb-C***  
+    ***Bb-C***  
   and the sultans  
-                          ***Dm     Dm-C-Bb-C***  
+    ***Dm     Dm-C-Bb-C***  
   and the sultans played creole  
   (Yeah the Sultans they played Creole)  
-                                  ***Dm-C-Bb-C***  
+    ***Dm-C-Bb-C***  
   *Lead 1: ( chords:Follow 1 full verse)*  
   ***Dm                    C         Bb         A***  
   and then the man he steps right up to the microphone  
@@ -103,11 +103,11 @@ Sultans Of Swing
   and says at last just as the time bell rings  
   ***F                           C***  
   thank you goodnight now it's time to go home  
-          ***Bb                  Dm          Bb-C***  
+    ***Bb                  Dm          Bb-C***  
   and he makes it fast with one more thing  
-                    ***Bb-C***  
+    ***Bb-C***  
   we are the sultans  
-                        ***Dm        Dm-C-Bb-C***  
+    ***Dm        Dm-C-Bb-C***  
   we are the sultans of swing  
   ***Dm      -       C       -       Bb      -       C***  
   1.25            0.5           2.25              4.0

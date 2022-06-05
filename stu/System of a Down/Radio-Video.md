@@ -7,7 +7,7 @@ Radio/Video
   Hey man! Look at me rockin' out, I'm on the video  
   Hey man! Look at me rockin' out, I'm on the radio  
   Hey man! Look at me rockin' out, I'm on the video  
-       ***C#5 H5    A5 G#5***  
+    ***C#5 H5    A5 G#5***  
   With Danny and Lisa  
   
   ***F#m                 E***  

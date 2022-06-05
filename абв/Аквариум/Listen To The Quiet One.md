@@ -5,12 +5,12 @@ Radio London (1990)
   ***G#***  
   It's coming back now,  
   Back to the center,  
-            ***F#***  
+    ***F#***  
   Rest in twilight.  
   ***G#***  
   Talking in a different language,  
   Clear and delightful,  
-                   ***F#***  
+    ***F#***  
   There's no translation.  
   ***C#         D#***  
   Raised in wonder,  
@@ -20,7 +20,7 @@ Radio London (1990)
   This is The Central calling,  
   This is The Central calling,  
   This is the answer:  
-                 ***G#          F***  
+    ***G#          F***  
   Listen to The Quiet One.  
   
   No need to worry  

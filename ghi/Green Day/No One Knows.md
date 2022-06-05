@@ -30,7 +30,7 @@
   A|:---5----5--------4h5----4h5----5--------:|  
   E|:-3----3-----3----------------------*(5)-:|]  
   ** Played on last time - guitar plays ***A*** chord*  
-                                            *(Guitar plays A chord)*  
+    *(Guitar plays A chord)*  
   
   *(BASS LINE)*  
   [G|-----12-----12-----|-----12---14p12-----|-----11-----11-----|-----9----9------|  
@@ -63,11 +63,11 @@
   *VERSE 1*  
   ***G                               D (FILL 1)***  
   Why should my fun have to end?  
-                      ***A***  
+    ***A***  
   For me its only the beginning  
   ***G                               D (FILL 1)***  
   I see my friends begin to age  
-                            ***A***  
+    ***A***  
   A Short countdown to what end  
   
   *CHORUS*  
@@ -81,7 +81,7 @@
   Do you fill your head with schemes  
   ***G                D***  
   Better think again  
-               ***A***  
+    ***A***  
   Cause no one knows  
   
   *VERSE 2*  

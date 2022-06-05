@@ -28,11 +28,11 @@ When all along it was me and you
   
 Give me something that I need  
 Satisfaction guaranteed  
-             H                F#       G#m  
+    H                F#       G#m  
 Because I?m thinking about a brand new hope  
     F#               E  
 The one I?ve never known  
-              F#                   H  
+    F#                   H  
 Вывод сообщений и переключение режима отображения команд на экране.  
   
   ECHO [ON | OFF]  
@@ -46,21 +46,21 @@ What?s the consolation prize
 Economy sized dreams of hope  
 Give me somethig that I need  
 Satisfaction guaranteed  
-             H                F#       G#m  
+    H                F#       G#m  
 Because I?m thinking about a brand new hope  
     F#               E  
 The one I?ve never known  
-              F#  
+    F#  
 And where it goes  
   
 And I?m thinking about the only road  
 The one I?ve never known  
 And where it goes  
-             H                F#       G#m  
+    H                F#       G#m  
 Because I?m thinking about a brand new hope  
     F#               E  
 The one I?ve never known  
-              F#                   H  
+    F#                   H  
 Вывод сообщений и переключение режима отображения команд на экране.  
   
   ECHO [ON | OFF]  

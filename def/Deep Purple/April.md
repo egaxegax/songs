@@ -5,19 +5,19 @@
   
   ***Gm               F***  
   April is a cruel time  
-                          ***Eb7***  
+    ***Eb7***  
   Even though the sun may shine  
-                         ***D7+9***  
+    ***D7+9***  
   And world will turn to shake  
-                     ***Gm***  
+    ***Gm***  
   As it slowly comes away  
-                         ***F***  
+    ***F***  
   Still falls the April rain  
-                               ***Eb7+9***  
+    ***Eb7+9***  
   And the valley's filled with pain  
-                          ***D7+9***  
+    ***D7+9***  
   And you can't tell if I cry  
-                           ***Gm                 F***  
+    ***Gm                 F***  
   As i look up to the grey sky  
   ***(F)***  
   Where it should be blue  
@@ -29,15 +29,15 @@
   I'll cry,     say that I don't know  
   ***Eb              Bb***  
   Maybe once in a while I'll forget and I'll smile  
-               ***Cm***  
+    ***Cm***  
   But then the feeling comes again of an April without end  
-          ***D7(+9)***  
+    ***D7(+9)***  
   Of an April lonely as they come  
   ***Eb                Bb***  
   In the dark of my mind I can see all too fine  
-               ***Cm***  
+    ***Cm***  
   But there is nothing to be done when I just can't feel the sun  
-           ***D7+9***  
+    ***D7+9***  
   And the springtime's the season of the night  
   
   *NOTES: In the «***Gm***-***F***-***Eb***-***D7+9***» section, the ***Eb*** can be played on various manners,*  

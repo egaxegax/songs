@@ -12,16 +12,16 @@ It's my life
   A silent prayer for faith departed (repeat intro)  
   ***C5***  
   I ain-t gonna be just a face in the crowd  
-               ***F5***  
+    ***F5***  
   You-re gonna hear my voice when I shout it out loud  
   *Chorus: -*  
-           ***C5        G#5***  
+    ***C5        G#5***  
   It-s my life; it-s now or never  
   ***Eb5           Bb5***  
   I ain-t gonna live forever,  
   ***C5             G#5            Bb5***  
   I just want to live when I-m alive  
-                   ***C5               G#5***  
+    ***C5               G#5***  
   It-s my life; my heart is like an open highway  
   ***Eb5                Bb5***  
   Like franky said I did it my way,  
@@ -37,7 +37,7 @@ It's my life
   *Bridge: -*  
   ***C5***  
   You better stand tall when they-re calling you out  
-         ***F5***  
+    ***F5***  
   Don-t bend don-t break baby don-t back down  (Repeat chorus x2 to end)  
   *Now because I-m a nice guy, I-ve Tabbed the solo!*  
   [E|-------|----------------------------------------------|--------|  

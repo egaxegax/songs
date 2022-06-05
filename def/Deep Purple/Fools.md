@@ -23,13 +23,13 @@ Fools
   I am of the dead  
     ***Cm        F***  
   I died as I lived  
-       ***Bb            Cm***  
+    ***Bb            Cm***  
   As I loved and was born  
   ***Eb       Bb/D   Fm***  
   On some distant hill  
-       ***Cm        F***  
+    ***Cm        F***  
   The reasons to hide  
-            ***Bb       C***  
+    ***Bb       C***  
   Were the reasons I cried  
   ***Eb         Bb/D      F***  
   Fools pass laughing still  

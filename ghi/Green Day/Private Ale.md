@@ -20,13 +20,13 @@ Private Ale
   ***C#                          G#***  
   Or is your boyfriend there?  
   *CHORUS:*  
-                  ***C#  G#   Eb***  
+    ***C#  G#   Eb***  
   Because I feel so right  
-             ***C#    G#    Eb***  
+    ***C#    G#    Eb***  
   Let my imagination go  
-                   ***C#  G#   Eb***  
+    ***C#  G#   Eb***  
   Until you're in my sight  
-                          ***C#          G#        Eb***  
+    ***C#          G#        Eb***  
   And through my veins temptation flows  
   *BREAK:*  
       ***F#--G#     F#   C# } X4***  

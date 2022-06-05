@@ -6,7 +6,7 @@ Silent Hedges
   *[----0---0----------0---0----------0---0----------0---0----]  overdubbed a*  
   *[----------------------------------------------------------]  bunch of times*  
   *[--2------------2-1------------1-2------------2-1----------]  w/extra notes*  
-                                                              *overdubbed*  
+    *overdubbed*  
   *Repeat this a bunch of times over the 1st verse....Vary the picking at the*  
   *end of the 3rd line and then.....*  
   [--------------------  

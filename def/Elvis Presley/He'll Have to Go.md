@@ -8,29 +8,29 @@ Intro:  [E||----------------------------------------------||
   A||---5~-7------------7----5-7-5-----------------||  
   E||-5~-------5-----------5---------7b-7b-5-10----||]  
   
-           ***D                   G             D***  
+    ***D                   G             D***  
   Put your sweet lips a little closer to the phone  
-          ***D                            A***  
+    ***D                            A***  
   Just pretend that we're together all alone  
-           ***D               D7           G***  
+    ***D               D7           G***  
   Tell the man to turn the juke box way down low  
-          ***D                      A                       D     D7***  
+    ***D                      A                       D     D7***  
   You can tell your friend there with you, he'll have to go  
-            ***G***  
+    ***G***  
   You can't say the words I want to hear  
-            ***D                D7***  
+    ***D                D7***  
   When your with another man  
-         ***G***  
+    ***G***  
   If you love me, answer yes or no  
-          ***D            A***  
+    ***D            A***  
   Darling I will understand  
-           ***D                   G             D***  
+    ***D                   G             D***  
   Put your sweet lips a little closer to the phone  
-          ***D                            A***  
+    ***D                            A***  
   Just pretend that we're together all alone  
-           ***D               D7           G***  
+    ***D               D7           G***  
   Tell the man to turn the juke box way down low  
-          ***D                      A                       D     D7***  
+    ***D                      A                       D     D7***  
   You can tell your friend there with you, he'll have to go  
   
   *Solo:(James Burton break)*  

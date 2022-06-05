@@ -14,7 +14,7 @@ I Dream My Self Alive (3:06)
   Against the light  
   ***Hm F#m***  
   All i can say  
-         ***G    C***  
+    ***G    C***  
   It doesn't have to be this way  
   We'll be chasing our tails madly  
   See days pass like wildfire  

@@ -5,9 +5,9 @@ Brown Eyed Handsome Man
   Arrested on charges of unemployment,  
   ***E***  
   he was sitting in the witness stand  
-                                 ***A***  
+    ***A***  
   The judge's wife called up the district attorney  
-           ***B                    E***  
+    ***B                    E***  
   Said you free that brown eyed man  
   ***E                            D                    E***  
   You want your job you better free that brown eyed man  

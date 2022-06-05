@@ -91,7 +91,7 @@ Drowin'
   D |---------------------------------------|  it is a B-Chord, then an  
   A |--9--11-11--9--9---7--9--9---9--9---7--|  A-chord is played  
   E |--0--0--0---0--0---0--0--0---0--0---0--|]  
-       *(B-chord) (    play an A-chord     )*  
+    *(B-chord) (    play an A-chord     )*  
   *oh.......yeah, the do a lot of fill in solos and stuff, you could*  
   *use this scale and go crazy with the whole fucking thing and use*  
   *your creative skills*  

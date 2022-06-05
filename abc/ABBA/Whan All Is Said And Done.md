@@ -18,7 +18,7 @@ Thanks for all your generous love and thanks for all the f
 Neither you nor I'm to blame when all is said and done  
   
 Instrumental:  D   G/D  Dsus4 D    D  
-               D   G/D  Dsus4 D    A/D* (xx0220)   D     D  
+    D   G/D  Dsus4 D    A/D* (xx0220)   D     D  
   
 It's so strange when you're down and lying on the floor  
 How you rise, shake your head, get up and ask for more  

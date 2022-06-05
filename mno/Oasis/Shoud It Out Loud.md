@@ -17,9 +17,9 @@ INTRO:  ***EM  D  C D  C*** } X2
   We'll never be enough to love, the rivers deep and the road is long, and  
   ***C               D***  
   every which way we turn all seems insane but it  
-                 ***AM     C***  
+    ***AM     C***  
   makes me feel alive.  
-               ***G   D             AM   C              G D          AM   C***  
+    ***G   D             AM   C              G D          AM   C***  
   Shout it out loud ....when I'm alive, shout it out loud when I'm alive,  
   ***G   D          AM C             G***  
   shout it out loud when I'm alive, shout it out loud.  ***F  C***  
@@ -38,13 +38,13 @@ GUITAR SOLO: ***EM ... D..  C ... D.... EM ......*** } X
   which way we turn all seems insane but it makes me  
    ***AM  C***  
   feel alive.  
-               ***G  D          AM  C               G D            AM C***  
+    ***G  D          AM  C               G D            AM C***  
   Shout it out loud when I'm alive, shout it out loud when I'm alive, shout  
   ***G  D      AM  C               G  D***  
   it out loud when I'm alive, shout it out loud  
-           ***AM C            G  D          C                   G  D***  
+    ***AM C            G  D          C                   G  D***  
   when I'm alive, shout it loud when I'm alive, shout it out loud when I'm  
   ***AM  C              G  D           AM  C***  
   alive, shout it out loud when I'm alive  
-               ***G  D                G***  
+    ***G  D                G***  
   shout it out loud. Shout it out loud.

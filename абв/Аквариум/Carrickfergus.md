@@ -2,21 +2,21 @@
 Carrickfergus  
   *(Ирландская народная песня)*  
   
-            ***Dm G          C***  
+    ***Dm G          C***  
   I wish I was in Carrickfergus  
-            ***Dm   G          C***  
+    ***Dm   G          C***  
   Only for nights in Ballygran  
-               ***Dm  G            C***  
+    ***Dm  G            C***  
   I would swim over the deepest ocean  
-            ***F    G          C***  
+    ***F    G          C***  
   Only for nights in Ballygran.  
-                  ***C  Am                 Dm G***  
+    ***C  Am                 Dm G***  
   But the sea is wide and I cannot swim over  
-               ***C  Am                Dm G***  
+    ***C  Am                Dm G***  
   And neither have I the wings to fly  
-            ***Dm G           C***  
+    ***Dm G           C***  
   I wish I had a handsome boatman  
-            ***Dm G               C***  
+    ***Dm G               C***  
   To ferry me over my love and I.  
   
   Now in Kilkenny, it is reported  

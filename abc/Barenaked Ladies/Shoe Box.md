@@ -14,71 +14,71 @@
   
   ***D            E                   G***  
 (1)  A key in the door, a step on the floor  
-                ***Gm          A           D***  
+    ***Gm          A           D***  
   A note on the table and a meal in the micro  
-                    ***E                                 G***  
+    ***E                                 G***  
   Note says "I'm in bed, please make sure that you're fed  
-                     ***Gm              A         D***  
+    ***Gm              A         D***  
   If you're taking a shower, you can borrow my bathrobe  
-               ***E                                G***  
+    ***E                                G***  
   And when I'm asleep, I dream you move in next week"  
-                ***Gm                 A***  
+    ***Gm                 A***  
   I crumple the note and save it to put inside my  
   
   ***D              A***  
 PRE-CHORUS: Shoe box (shoe box)  
-              ***Bm    A   G***  
+    ***Bm    A   G***  
   Shoe box of lies  
   
   ***D             E                    G***  
 (2)  It's under my bed, it's never been read  
-                  ***Gm                  A         D***  
+    ***Gm                  A         D***  
   It's in with my school stuff and my mom never cleans there  
-                       ***E                        G***  
+    ***E                        G***  
   From my first little fib, when I still wore a bib  
-                  ***Gm         A           D***  
+    ***Gm         A           D***  
   To my latest attempt at pretending I'm someone  
-                ***E                               G***  
+    ***E                               G***  
   He's not seventeen, and doesn't know what you mean  
-                     ***Gm              A***  
+    ***Gm              A***  
   When talk turns to single malts or stilton or my  
   
   ***D              A***  
 CHORUS:  Shoe box (shoe box)  
-              ***Bm    A   G***  
+    ***Bm    A   G***  
   Shoe box of lies  
   ***D              A***  
   Shoe box (shoe box)  
-              ***Bm    A   G***  
+    ***Bm    A   G***  
   Shoe box of lies  
   
   ***G       A             G          A                    G***  
 BRIDGE:  Did somebody tell you    this is how it's supposed to be?  
-         ***A                Bm        G        D         A***  
+    ***A                Bm        G        D         A***  
   Or are you just finding you don't want any more from me?  
   
   *("one-note solo" over chorus-like ***D***-***A***-***Bm***-***G*** progression x2)*  
   
   ***D                  E                            G***  
 (3)  Was it something I said or was it something you read  
-                   ***Gm                  A          D***  
+    ***Gm                  A          D***  
   That's making me think that I should never have come here  
-                  ***E                    G***  
+    ***E                    G***  
   I can offer you lies, I can tell you goodbye  
-                     ***Gm           A              D***  
+    ***Gm           A              D***  
   I can tell you I'm sorry, but I can't tell the truth, dear  
-                ***E                     G***  
+    ***E                     G***  
   And what if I could-would it do any good?  
-                      ***Gm             A***  
+    ***Gm             A***  
   'Cause you'll never get to see the contents of my  
   
   ***D              A***  
 CHORUS:  Shoe box (shoe box)  
-              ***Bm    A   G***  
+    ***Bm    A   G***  
   Shoe box of lies  
   ***D              A***  
   Shoe box (shoe box)  
-              ***Bm    A   G***  
+    ***Bm    A   G***  
   Shoe box of lies  
   
   ***G         A                 G                           A***  

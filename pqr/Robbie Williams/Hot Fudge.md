@@ -5,17 +5,17 @@ Hot Fudge
   ***Db  Bbm  F#m-Db***  
   ***Db                Bbm***  
   Queen bitch eat the rich  
-                    ***F#         Db***  
+    ***F#         Db***  
   I'm on the second course today  
-             ***Db                            Bbm***  
+    ***Db                            Bbm***  
   I'm not the first and I won't be the worst  
-             ***F#      Db***  
+    ***F#      Db***  
   She's done most of LA  
   ***Db                                   Bbm***  
   Can't find a virgin, I can get you a surgeon  
   ***F#                   Db***  
   Twenty-four hours a day  
-              ***Db                 Bbm***  
+    ***Db                 Bbm***  
   Call it 'Collagen Jeanie' you big lip meanie  
   ***F#                        Db***  
   I'm about to be blown away  
@@ -26,17 +26,17 @@ Hot Fudge
   Oh my Sunset Rodeo  
   ***Db***  
   Hot fudge here comes the judge  
-            ***Abm***  
+    ***Abm***  
   There's a green card in the way  
   ***Bbm***  
   The Holy Ghost and the whole East Coast  
   ***F#***  
   Are moving to LA  
-                  ***Db                             Abm***  
+    ***Db                             Abm***  
   And we've been dreaming of this feeling since 1988  
   ***F#     Bbm                Ab***  
   Mother things have got to change  
-               ***Db***  
+    ***Db***  
   I'm moving to LA  
   Take the piss always English  
   God bless you Uncle Sam  

@@ -55,19 +55,19 @@ Immigrant Song
   
 -  
   
-                                           [e:----0------------|]  
+    [e:----0------------|]  
   *The first ***A*** in the song is a regular ***A***:  [B:----2------------|]*  
-                                           [G:----2------------|  
-                                           D:----2------------|  
-                                           A:----0------------|  
-                                           E:-----------------|]  
+    [G:----2------------|  
+    D:----2------------|  
+    A:----0------------|  
+    E:-----------------|]  
   
   *And the ***E*** is a regular ***E***: [e:----0------------|]*  
-                            [B:----0------------|  
-                            G:----1------------|  
-                            D:----2------------|  
-                            A:----2------------|  
-                            E:----0------------|]  
+    [B:----0------------|  
+    G:----1------------|  
+    D:----2------------|  
+    A:----2------------|  
+    E:----0------------|]  
   *But the crescendo in the middle, ("on we sweep, with threshing*  
   *oar....) is actually ***A5 - B5 - C5***:*  
       ***A5                  B5             C5***  
@@ -92,12 +92,12 @@ Immigrant Song
   *Play (Riff 1) 4 times while someone goes "Ahhhhhhh......"*  
   ***A   E***  
   We come from the land of the ice and snow, from the midnight sun  
-             ***E     A***  
+    ***E     A***  
   where the hot springs blow;  
   *Play (Riff 1) 3 times with the lyrics:*  
   The hammer of the gods .. will drive our ships to new lands,  
   
-                                         ***A***  
+    ***A***  
   to fight the horde, singing and crying:  
   ***E                     E  A***  
   Valhalla, I am coming!  

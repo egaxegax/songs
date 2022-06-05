@@ -66,11 +66,11 @@ Nobody's Fault But Mine
   *Well that's basically it. The next couple of times through there*  
   *is a few percussive notes here and there, most notably 1 percussive*  
   *note in place of [F-----0-0-0-0-]; play a heavy [---]*  
-                                                [-©©  
-                                                -x-  
-                                                -x-  
-                                                -x-  
-                                                ©©©]  
+    [-©©  
+    -x-  
+    -x-  
+    -x-  
+    ©©©]  
   
   *I'll check the original notes when I go home and post any*  
   *corrections if need be. Otherwise, this is the way she is folks.*  

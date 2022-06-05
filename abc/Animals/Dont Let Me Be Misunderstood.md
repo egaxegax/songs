@@ -2,13 +2,13 @@
 Intro:  Bm | Em  
   
 Verse 1: Bm | A | G | F#7  
-         Bm | A | G | F#7  
+    Bm | A | G | F#7  
   
 Chorus: D | Bm | Em        { the Em bar is actually 6 quarters, though this  
-                             is a four quarters song }  
+    is a four quarters song }  
   
 Verse 2: G A | G A | G A | D Bm   { the G is played on 3 eighths, the A on  
-         G A | G A | G A | F#7      5 eighths }  
+    G A | G A | G A | F#7      5 eighths }  
   
 Bm:  7-9-9-7-7-7  
 Em:  x-7-9-9-8-7  

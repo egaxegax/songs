@@ -88,7 +88,7 @@ A man lies and dreams, of green fields and river,
 But awakes to the morning, with no reason for waking.  
   
 Fill 1  
-              D/E  
+    D/E  
 -------------------  
 ----0-------7------ <-- sustain into the D/E chord.  
 ------------7------  
@@ -158,9 +158,9 @@ A grim intmation, of what is to be.
 ------------------------------------------------------------------  
 -------------------------------------0vvvvvvv---------------------  
   
-            Em  
+    Em  
 There's an unceasing wind, that blows through this night,  
-        D/E  
+    D/E  
 There's dust in my eyes, it blinds my sight, (Play Fill D)  
     C/E  
 And silence that speaks so much louder than words,  (Play Fill D)  

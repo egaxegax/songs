@@ -15,9 +15,9 @@ Alone Tonight
   Until the year is done, and fades away  
     ***G                  Bm7***  
   There's a time in between the two  
-       ***G                       Bm7            Asus***  
+    ***G                       Bm7            Asus***  
   The old year's gone but it's not the new and I,  I,  I  
-               ***A       D    Em7          D            Em7***  
+    ***A       D    Em7          D            Em7***  
   I know that I'll be all alone again, alone again tonight  
       ***D    Em7          D            Em7***  
   Oh I'm alone again, alone again tonight  
@@ -27,11 +27,11 @@ Alone Tonight
   Say that you'll say that you'll help me reach the other side  
   ***F(8th fret)   Eb                F              Eb           F***  
   And when the morning comes the sun is out and warms me up again  
-          ***Eb            F             Eb             F     Eb***  
+    ***Eb            F             Eb             F     Eb***  
   What a funny world it is for me and all I'll ever be  
   ***Em                                      Bm          A         Em***  
   It's not enough, it's not enough, this feeling I'm feeling inside  
-       ***Asus                           A***  
+    ***Asus                           A***  
   Oh I know it,  I know tonight that I'll be  
   ***D     Em7            D            Em7***  
   On my own tonight, alone again tonight  

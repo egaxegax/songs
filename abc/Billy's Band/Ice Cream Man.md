@@ -3,20 +3,20 @@
   Ice Cream Man  
   *(Tom Waits)*  
   
-            ***Hm              Hm/d         Em       F#7***  
+    ***Hm              Hm/d         Em       F#7***  
   I'll be clickin' by your house about two forty-five  
-        ***Hm       Hm/d        Em        F#7***  
+    ***Hm       Hm/d        Em        F#7***  
   With sidewalk sundae strawberry surprise  
-            ***Hm       Hm/d  Em       Ddim***  
+    ***Hm       Hm/d  Em       Ddim***  
   I got a cherry popsicle right on time  
-           ***F#7***  
+    ***F#7***  
   I got a big stick, mamma, that'll blow your mind  
   
-                  ***Hm         Hm/d Em F#7***  
+    ***Hm         Hm/d Em F#7***  
   'Cause I'm your ice cream man,  
-            ***Hm       Hm/d Em F#7***  
+    ***Hm       Hm/d Em F#7***  
   Yes I'm a one-man band  
-           ***Hm         Hm/d***  
+    ***Hm         Hm/d***  
   I'm your ice cream man, honey,  
   ***Em       F#7      Hm Hm/d Em F#7***  
   I'll be good to you.  

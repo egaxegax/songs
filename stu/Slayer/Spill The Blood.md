@@ -23,9 +23,9 @@ From Slayer's South of Heaven
 -  
   
   *Notes:*  
-         *-Timing is exact (or as close as possible).  ---- = 1/8 beat*  
-         *-Where the full staff is not displayed, the letter on the left*  
-          *represents the string.*  
+    *-Timing is exact (or as close as possible).  ---- = 1/8 beat*  
+    *-Where the full staff is not displayed, the letter on the left*  
+    *represents the string.*  
   *Intro: (Play twice)*  
    *(clean, let ring)*  
   |--------0---------------0-------|--------0---------------0-------|  
@@ -106,7 +106,7 @@ From Slayer's South of Heaven
   A|------------7-------6-------2---|3-----------------------6-------|  
   E|0---0---0-------0-------0-------|----0---0---0---0---0---4-------|]  
   *End of solo:*  
-                                                                     *(hold)*  
+    *(hold)*  
   [G|--------------------------------|--------------------------------|----|  
   D|--------------------------------|--------------------------------|----|  
   A|5-------------------------------|3-------------------------------|2---|  

@@ -42,13 +42,13 @@
   Somehow I know you're still there       (chords as verse I)  
   Send me please some peace of mind  
   Take away this pain  
-           ***Bm            G***          (I'm not really sure about)  
+    ***Bm            G***          (I'm not really sure about)  
   I can't wait, I can't wait        (this part... but it sounds)  
-           ***C        D***               (pretty close.)  
+    ***C        D***               (pretty close.)  
   I can't wait any longer  
-           ***Bm            G***  
+    ***Bm            G***  
   I can't wait, I can't wait  
-           ***C        D***  
+    ***C        D***  
   I can't wait for you.  
   Holy Mother, hear my cry  
   I've cursed your name a thousand times          (chords as verse I)  

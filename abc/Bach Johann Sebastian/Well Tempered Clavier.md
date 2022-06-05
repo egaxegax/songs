@@ -56,7 +56,7 @@ Well Tempered Clavier
   D----||-0-3------------|---0-5-----5----|---2-5-----5----|---5------------||]  
   *Finger: - 1 - 2 3 - 2 3    - 4 1 2 4 1 2    1 4 2 1 4 2 1    4 1 2 1 1 2 1*  
   *Note:   d f a c f a c f  g d g b f g b f  c e g c e g c e  c g b c e b c e*  
-                           *^- bass note     ^- bass note     ^- bass note*  
+    *^- bass note     ^- bass note     ^- bass note*  
   *Measure:17              18               19               20*  
   [e----||----------------|----------------|----------------|----------------||  
   B----||----------------|----------------|----------------|----------------||  
@@ -66,7 +66,7 @@ Well Tempered Clavier
   D----||---3------------|----------------|---3------------|---3-5-----5----||]  
   *Finger:   2 - 3 1 - 3 1      - 3 1 - 3 1    2 1 3 - 1 3 -    2 4 1 - 4 1 -*  
   *Note:   f f a c e a c e  f#c a c d#a c d# g#f b c d b c d  g f g b d g b d*  
-          *^- bass note     ^-^- bass notes  ^- bass note     ^- bass note*  
+    *^- bass note     ^-^- bass notes  ^- bass note     ^- bass note*  
   *Measure:21              22               23               24*  
   [e----||----------------|----------------|----------------|----------------||  
   B----||----------------|----------------|----------------|----------------||  
@@ -76,7 +76,7 @@ Well Tempered Clavier
   D----||---2-5-----5----|---0-5-----5----|---0-5-----5----|---1------------||]  
   *Finger:   1 4 2 1 4 2 1    - 4 1 2 4 1 2    - 4 1 - 4 1 -    1 - 3 4 - 3 4*  
   *Note:   g e g c e g c e  g d g c f g c f  g d g b d g b d  g d#a c f#a c f#*  
-          *^- bass note     ^- bass note     ^- bass note     ^- bass note*  
+    *^- bass note     ^- bass note     ^- bass note     ^- bass note*  
   *Measure:25              26               27               28*  
   [e----||----------------|----------------|----------------|----------------||  
   B----||----------------|----------------|----------------|----------------||  
@@ -86,7 +86,7 @@ Well Tempered Clavier
   D----||---2-5-----5----|---0-5-----5----|---0-5-----5----|-----5(8)-------||]  
   *Finger:   1 4 2 - 4 2 -    - 4 1 2 4 1 2    - 4 1 2 4 1 2      4 1 2 4 1 2*  
   *Note:   g e g c g g c g  g d g c f g c f  g d g b f g b f  c c g a#e g a#e*  
-          *^- bass note     ^- bass note     ^- bass note     ^-^- bass notes*  
+    *^- bass note     ^- bass note     ^- bass note     ^-^- bass notes*  
   *Measure:29              30               31               32*  
   [e----||--------------------------------|----------------|-0--------------||  
   B----||--------------------------------|-------0-3---0-3|-1--------------||  
@@ -96,5 +96,5 @@ Well Tempered Clavier
   D----||-----3---------------3---3-0-3-0|----------------|----------------||]  
   *Finger:     1 - 2 3 2 - 2 - 1 - 1 - 1 -      - - 2 - - 2      ^- bass notes*  
   *Note:   c c f a c f c a c a f a f d f d  c b g b d g b d           played*  
-          *^-^- bass notes                  ^-^- bass notes      together with*  
+    *^-^- bass notes                  ^-^- bass notes      together with*  
   *Measure:33                                34               35      C-chord*

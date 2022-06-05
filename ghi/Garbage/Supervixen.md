@@ -11,8 +11,8 @@ Supervixen
   d--2----------  -2-----------2-----------2-2-2-  
   a--0----------  -0-----------0-----------0-0-0-  
   E--0----------  -0-----------0-----------0-0-0-]  
-                 *^*  
-              *Silence*  
+    *^*  
+    *Silence*  
   ***A         C     D              G             A      C D G***  
   Come down to my house, stick a stone in your mouth  
   ***A       C           D          G          A     C D G***  

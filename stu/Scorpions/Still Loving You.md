@@ -77,18 +77,18 @@ Solo 1:  |----------------------------------------------------------------
   I would try to change, the things that killed our love.  
   ***Gm             Cm               D                       G?***  
   Your pride has built a wall, so strong that I can't get through.  
-           ***Eb                  F***  
+    ***Eb                  F***  
   Is there really no chance to start once again.  
-             ***Gm***  
+    ***Gm***  
   I'm loving you.  
   
   ***Gm***  
   Try, baby try to trust in my love again.  
-            ***A                D***  
+    ***A                D***  
   I will be there, I will be there.  
   ***Gm***  
   Love our love, Just shouldn't be thrown away  
-            ***A                D***  
+    ***A                D***  
   I will be there, I will be there.  
   
   *REFRAIN*  
@@ -99,22 +99,22 @@ Solo 1:  |----------------------------------------------------------------
   I would try to change, the things that killed our love.  
   
   ***Gm F Gm         Cm                      D    C  D***  
-        Yes, I've hurt your pride, and I know  
-                        ***Gm***  
+    Yes, I've hurt your pride, and I know  
+    ***Gm***  
   What you've been through  
-             ****Eb*** (lick A)*  
+    ****Eb*** (lick A)*  
   You should give me a chance  
-        ***F***  
+    ***F***  
   This can't be the end  
-                    ****Gm  Eb Bb   F*** (Lick B)*  
+    ****Gm  Eb Bb   F*** (Lick B)*  
   I'm still loving you  
-                    ****Gm  Eb Bb   F*** (Lick C)*  
+    ****Gm  Eb Bb   F*** (Lick C)*  
   I'm still loving you  
-                    ***Gm  Eb Bb***  
+    ***Gm  Eb Bb***  
   I'm still loving you  
-               ***F***  
+    ***F***  
   I need your love  
-                    ***Gm  Eb Bb***  
+    ***Gm  Eb Bb***  
   I'm still loving you  
   
   *Still loving you baby...*  

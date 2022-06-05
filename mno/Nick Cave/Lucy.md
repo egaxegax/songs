@@ -15,9 +15,9 @@ G                Em
 came a vision of beauty  
     Am         Em  
 all covered in white  
-        G             D  
+    G             D  
 now the bell tower is ringing  
-         G              D  
+    G              D  
 and the night has stole past  
   Em            C  
 O Lucy, can you hear me?  

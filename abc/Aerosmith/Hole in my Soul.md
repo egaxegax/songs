@@ -25,7 +25,7 @@
   Is it over  
   ***C***  
   Is it over  
-                     ***Dsus4 D Dsus4 G***  
+    ***Dsus4 D Dsus4 G***  
   Cause I'm blowin' out the       flame  
   ***G                        Dsus4 D***  
   Take a walk outside your mind  
@@ -35,15 +35,15 @@
   The one who turns the knife inside of me  
   ***G                        Dsus4 D      Am***  
   Take a look and you will find there's nothing there girl  
-                    ***C***  
+    ***C***  
   Yeah I swear, I'm telling you girl yeah 'cause  
-            ***D#         C                G            G#***  
+    ***D#         C                G            G#***  
   There's a hole in my soul that's been killing me forever  
-         ***F             C#           D#***  
+    ***F             C#           D#***  
   It's a place where a garden never grows  
-            ***D#         C            G                 G#***  
+    ***D#         C            G                 G#***  
   There's a hole in my soul, yeah I should have known better  
-              ***F             C#              D#***  
+    ***F             C#              D#***  
   'Cause your love's like a thorn without a rose  
   *interlude:*  
   ***D G G G***  
@@ -88,7 +88,7 @@
   Is it over  
   ***C***  
   Is it over  
-                     ***Dsus4 D Dsus4 G***  
+    ***Dsus4 D Dsus4 G***  
   'Cause I'm blowin' out the       flame  
   ***G                        Dsus4 D***  
   Take a walk outside your mind  
@@ -98,15 +98,15 @@
   The one who turns the knife inside of me  
   ***G                        Dsus4 D      Am***  
   Take a look and you will find there's nothing there girl  
-                    ***C***  
+    ***C***  
   Yeah I swear, I'm telling you girl yeah 'cause  
-            ***D#         C                G            F#***  
+    ***D#         C                G            F#***  
   There's a hole in my soul that's been killing me forever  
-         ***F             C#           D#***  
+    ***F             C#           D#***  
   It's a place where a garden never grows  
-            ***D#         C            G                 F#***  
+    ***D#         C            G                 F#***  
   There's a hole in my soul, yeah I should have known better  
-              ***F             C#              D#***  
+    ***F             C#              D#***  
   'Cause your love's like a thorn without a rose  
   *interlude:*  
   ***D G G G***  

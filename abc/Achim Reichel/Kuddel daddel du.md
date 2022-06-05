@@ -17,17 +17,17 @@
   Kuddel daddel du - fьhlt sich famos  
   ***Em                                                                               D***  
   Und Kuddel kцnnte die ganze Welt umarmen, er atmet tief durch und singt das schцne Lied:  
-          ***G                                              D***  
+    ***G                                              D***  
   Was kann die Welt dafьr, daЯ ich sie liebe,  
-                   ***C                G***  
+    ***C                G***  
   Ich lieb sie nur wegen dir,  
   Wer hat dem blonden Hans sein Toupet geklaut.  
   Wer hat der feschen Lola die Frisur versaut.  
   Oh-da gibt's nur ein und der heiЯt Kuddel  
   Was kann die Welt dafьr  
-                         ***Em7                                   Am***  
+    ***Em7                                   Am***  
   Was kann denn ich dafьr, daЯ die Welt so groЯ ist,  
-                   ***C                           D                G              Em***  
+    ***C                           D                G              Em***  
   Aber heut Nacht mein Schatz, geh ich vor Anker bei Dir  
   ***Em    D    Em    D    Em    D     Hm7    Em***  
   LALLALALLALALALLLALAAALALLALALLA  

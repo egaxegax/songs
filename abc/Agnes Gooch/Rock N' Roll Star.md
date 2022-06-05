@@ -33,11 +33,11 @@
   I'd wear lots of rings and I  
   ***Gb          Db***  
   wouldn't really say a thing  
-        ***Ab***  
+    ***Ab***  
   but you'd think I was  
-                  ***Gb***  
+    ***Gb***  
   that's all that matters  
-                  ***Ab***  
+    ***Ab***  
   that's all that matters  
-              ***Db***  
+    ***Db***  
   is that and money

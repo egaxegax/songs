@@ -5,15 +5,15 @@ Intro:  ***Am Em F***
   
   ***Am                 Em***  
   Everybody searching  
-               ***F***  
+    ***F***  
   Everybody's looking for  
-                  ***Am     Em***  
+    ***Am     Em***  
   Something to believe in  
    ***F***  
   Something more  
-                ***Am         Em***  
+    ***Am         Em***  
   Well baby I know the pain  
-        ***F***  
+    ***F***  
   That you go through  
   ***Dm                         G***  
   So let me be the arms that you can run to  
@@ -22,13 +22,13 @@ Intro:  ***Am Em F***
   
   ***C             G***  
 Chorus:  Whenever you hit the sky  
-                 ***Am***  
+    ***Am***  
   Feel like you live a lie  
-            ***F                  C***  
+    ***F                  C***  
   And your world is a broken dream  
-                   ***G***  
+    ***G***  
   Don't lose your faith in love  
-            ***Am    G***  
+    ***Am    G***  
   Baby I'll be enough  
   ******** (cм.нижe)                              ***C*****  
   When you don't have the strength in your eyes  
@@ -49,11 +49,11 @@ Chorus:  Whenever you hit the sky
   
   ***F         Am***  
   Trust me  
-          ***Em***  
+    ***Em***  
   I will keep you safe  
   ***F      C***  
   Baby  
-           ***G***  
+    ***G***  
   I will show you the way  
   
   *Chorus*  

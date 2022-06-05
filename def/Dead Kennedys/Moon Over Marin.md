@@ -58,7 +58,7 @@ Intro:  (riff 1)
   
     ***A***  
   Unlock my section of the sand  
-       ***G***  
+    ***G***  
   It's fenced off to the water's edge  
     ***B***  
   I clamp a gasmask on my head  
@@ -128,12 +128,12 @@ Solo:  [e -------- --------
   *(with riff 2:)*  
   
   ***A      G        B        D                      C#***  
-         ...ight  ...ight  There will always be a moon over marin  
+    ...ight  ...ight  There will always be a moon over marin  
   
   ***A      G        B        D  C#***  
   
   *(with riff 1:)*  
-                                    *(slowing down)*  
+    *(slowing down)*  
   ***(D)    A     D     A    D    A    D  A  D  A  D  A  D  G#  A***  
   
   *-----------------------------------------------------------------*  

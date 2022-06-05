@@ -51,7 +51,7 @@ B   E
   B  
  What do you do, to get to feel alive,  
   
-       F#  
+    F#  
  You go downtown, and get some of that prime jive,  
   
     B      F#  

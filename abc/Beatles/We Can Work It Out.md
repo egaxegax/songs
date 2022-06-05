@@ -4,7 +4,7 @@ We Can Work It Out
   
 Verse 1: ***D             Dsus4 D***  
   Try to see it  my   way  
-               ***Dsus4           C               D***  
+    ***Dsus4           C               D***  
   Do I have to keep on talking till I can't go on  
   ***D                 Dsus4 D***  
   Why do you see it your  way?  

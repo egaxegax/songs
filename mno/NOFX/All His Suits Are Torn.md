@@ -2,7 +2,7 @@
 All His Suits Are Torn  
   
   *VERSE 1: All power chords as per usual. (---) Means*  
-           *that you need to palm mute.*  
+    *that you need to palm mute.*  
   ***A***--------------------***F#***--***D***-----------------------***A***--  
   Billy Cobin lost it all we knew he would eventually  
   -----------------------------***F#***--  
@@ -22,7 +22,7 @@ All His Suits Are Torn
   *THEN: ***E  F#*** - to chorus*  
   
   *CHORUS: Here you can play the E chord high or low -*  
-          *whichever sounds best to you*  
+    *whichever sounds best to you*  
   ***A         E      F#            D                  A***  
   Kill the pain integrity don't keep you warm and sane  
   ***A               E   F#             D***  

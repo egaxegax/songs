@@ -4,23 +4,23 @@
   *(Elton John)*  
   
   ***A  D/A  A  A7/C#  D  A  E7***  
-            ***A                  D/A***  
+    ***A                  D/A***  
   When it's springtime down in Georgia  
-       ***A           A7/C# D***  
+    ***A           A7/C# D***  
   It's winter time up in Maine  
-          ***C#7     C#7/E#  F#m***  
+    ***C#7     C#7/E#  F#m***  
   You can go from snow to sunshine  
-         ***A       A7         D***  
+    ***A       A7         D***  
   If you board a southbound train  
-          ***A              D/A***  
+    ***A              D/A***  
   You get used to taking orders  
-           ***A/C#              D***  
+    ***A/C#              D***  
   But it's sometimes kind of rough  
-        ***C#7   C#7/E#       F#m***  
+    ***C#7   C#7/E#       F#m***  
   I got every thing that a man could need  
-         ***A     A7          E/D***  
+    ***A     A7          E/D***  
   But it still ain't quite enough  
-               ***A  D/A  A  D/A  A  A7/C#   D***  
+    ***A  D/A  A  D/A  A  A7/C#   D***  
   Taking about oh Georgia take me to your Southlands  
     ***A                 F#m     A7/E    D***  
   I sometimes feel my life is rolling on  

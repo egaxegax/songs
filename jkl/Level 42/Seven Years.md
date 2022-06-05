@@ -5,17 +5,17 @@
   
 Intro chords: ***E       DMaj7  C#7     F#m***  
   
-          ***E***  
+    ***E***  
   There's thunder rolling in your eyes  
-        ***A***  
+    ***A***  
   It's raining in your heart  
-        ***Bm***  
+    ***Bm***  
   What lies around the corner  
-           ***Bm***  
+    ***Bm***  
   You have seen a hundred times  
-           ***E                                            A***  
+    ***E                                            A***  
   But you never thought anyting like it would happen to you  
-          ***Bm***  
+    ***Bm***  
   Baby's gone  
       ***Bm***  
   He walked out on you  
@@ -24,26 +24,26 @@ Intro chords: ***E       DMaj7  C#7     F#m***
 Chorus:  Seven years have come and gone  
   ***C#7               F#m***  
   All that time for you  
-          ***F#m                  DMaj7***  
+    ***F#m                  DMaj7***  
   And now both our hearts must beat the drum  
   ***C#7            F#m***  
   To a different tune  
   ***E    DMaj7             C#7  F#m***  
   Send all those dreams away baby  
   
-          ***E***  
+    ***E***  
   You can lose yourself in yourself  
-           ***A***  
+    ***A***  
   Hurt yourself a little more  
-           ***Bm***  
+    ***Bm***  
   Turn the key and hate the boy  
-           ***Bm***  
+    ***Bm***  
   Forget a soul in distress, leave the real world to others  
   ***E                                         A***  
   That's not the way he's coming back ever again  
-         ***Bm***  
+    ***Bm***  
   Baby's gone  
-               ***Bm***  
+    ***Bm***  
   Now what are you gonna do  
   
   *Repeat Chorus*  
@@ -71,9 +71,9 @@ Solo:  ***E       DMaj7   C#7     F#m***
   
   ***E                                 A***  
   In a funny way I don't feel sorry getting what you served  
-       ***Bm***  
+    ***Bm***  
   Just you remember very well the lessons you have learned  
-           ***F#m                    DMaj7***  
+    ***F#m                    DMaj7***  
   And it's August now, your seven years are gone  
   ***C#7           F#m***  
   All that time for you  

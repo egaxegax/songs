@@ -21,7 +21,7 @@ once knew.
 (All other chords play as A and E form barres)  
 G  
 Floating down the sound resounds  
-                             A  
+    A  
 around the icey waters underground  
 E                                             Eb  
 Jupiter and Saturn, Oberon, Miranda, and Titania  
@@ -103,4 +103,4 @@ E
 Lime and limpid green the sound resounds the icey waters under  
 E  
 Lime and limpid green the sound resounds the icey waters  
-                                                    underground.
+    underground.

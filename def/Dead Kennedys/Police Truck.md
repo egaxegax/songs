@@ -90,7 +90,7 @@ Solo:  [e -------- --------        --------
   
       ***B               Bb            A  G***  
   The left newspapers might whine a bit  
-          ***B                              Bb     A   G***  
+    ***B                              Bb     A   G***  
   But the guys at the station they don't give a shit  
   ***B        Bb B   D       B               Bb    A***  
   Dispatch calls "Are you doin' something wicked?"  

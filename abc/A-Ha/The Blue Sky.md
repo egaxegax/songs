@@ -16,13 +16,13 @@ The Blue Sky (2:22)
   Doesn't want me here  
   ***Am         D***  
   I just want to talk to her  
-            ***F      G***  
+    ***F      G***  
   But would she laugh at my accent  
     ***Em***  
   And make fun of me  
   ***F         G***  
   It doesn't seem like this  
-            ***Em F Em F Em***  
+    ***Em F Em F Em***  
   blue sky's here for me  
   ***F***  
   There are no girls in here  
@@ -38,11 +38,11 @@ The Blue Sky (2:22)
   Growing cold before my eyes  
   ***Am***  
   All the things I see  
-            ***D***  
+    ***D***  
   That make me realize  
    ***F                  G***  
   I'm in this big world without you  
-           ***Em***  
+    ***Em***  
   Nothing to my name  
   ***F***  
   I never knew that  

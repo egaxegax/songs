@@ -2,7 +2,7 @@
 Long Gone  
   
   *Note: The chords marked in the "I stood very still" bits*  
-        *are played as standard shape barre chords :)*  
+    *are played as standard shape barre chords :)*  
   
   *Intro:*  
       *1   +   +   2   +   +   3   +   +   4   +   +*  
@@ -21,7 +21,7 @@ Long Gone
   D --------------------------------------  
   A --------------------------------------  
   E --0---3---5---6-----------3-----------]  
-          She was long        gone,  
+    She was long        gone,  
       *1   +   +   2   +   +   3   +   +*  
   [e ------0-0-0-0-----0-0-0-0-----0-0-0-0-  
   B ------0-0-0-0-----0-0-0-0-----0-0-0-0-  
@@ -37,7 +37,7 @@ Long Gone
   D --------------------------------------------------------------  
   A --------------7-----------5-----------3-------3---2-------2---  
   E --0---3---5---------------------------------------------------]  
-          She was gone,       gone,   the bigger they come    the  
+    She was gone,       gone,   the bigger they come    the  
       *1   +   +   2   +   +   3   +   +   4   +   +*  
   [e ------0-0-0-0-----0-0-0-0-----0-0-0-0-----0-0-0-0-  
   B ------0-0-0-0-----0-0-0-0-----0-0-0-0-----0-0-0-0-  
@@ -55,9 +55,9 @@ Long Gone
   E --------------3---2---1---0---0-0-0-0-0---0-0-0-0-]  
       so   long   she'd  been gone...            (And I...)  
   
-        ***Am                      Am***  
+    ***Am                      Am***  
   And I stood very still by the window sill  
-        ***D                         D***  
+    ***D                         D***  
   and I wondered for those I love still  
     ***G                        A***  
   I cried in my mind where I stand behind  
@@ -67,9 +67,9 @@ Long Gone
   she was gone, gone, the bigger they come  
   the larger her hand, tell no one, understand,  
   why for so long she'd been gone.  
-        ***Am                     Am***  
+    ***Am                     Am***  
   And I borrowed a page from a leopard's cage  
-        ***D                            D***  
+    ***D                            D***  
   and I prowled in the evening sun's glaze  
       ***G                       A***  
   her head lifted high to the light in the sky  
@@ -130,7 +130,7 @@ Long Gone
   D --------------------------------------  
   A --------------------------------------  
   E --0---3---5---6-----------3-----------]  
-          She was long        gone,  
+    She was long        gone,  
       *1   +   +   2   +   +   3   +   +*  
   [e ------0-0-0-0-----0-0-0-0-----0-0-0-0-  
   B ------0-0-0-0-----0-0-0-0-----0-0-0-0-]  

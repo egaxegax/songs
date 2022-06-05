@@ -29,20 +29,20 @@
   I don't wanna go.  
   ***F/G               F/C               Fsus4                F/C***  
   Throwing it all    away  
-              ***Fsus4   F***  
+    ***Fsus4   F***  
   Throwing it all    away  
-              ***Fsus4   F***  
+    ***Fsus4   F***  
   ***F/G               F/C               Fsus4                F/C***  
   Is there nothing that I      can say  
-                        ***Fsus4  F***  
+    ***Fsus4  F***  
   To make you change your mind  
-                     ***F/C***  
+    ***F/C***  
   I watch the world go round and round  
     ***C                  F/C       C***  
   And see mine turning upside down          whoa  whoa   whoa  whoa whoa whoa  
       ***C                F/C    C             C     F/C    C     F/C***  
   You're throwing it all away.              whoa whoa whoa whoa whoa  
-                         ***C                  F/C  C    F/C***  
+    ***C                  F/C  C    F/C***  
   
   Who will light up the darkness  
   Who will hold your hand  

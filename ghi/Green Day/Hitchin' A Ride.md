@@ -228,11 +228,11 @@ Verse 2: Cold turkeys gettin stale.
 Chorus:  [D|2--2--2--2--4--4--4--4--9--9--7--7--6--6--5-5-5-5  
   A|2--2--2--2--4--4--4--4--9--9--7--7--6--6--5-5-5-5  
   D|2--2--2--2--4--4--4--4--9--9--7--7--6--6--5-5-5-5]  
-               Troubled times    you know I cannot lie  
+    Troubled times    you know I cannot lie  
   [D|2--2--2--2--4--4--4--4--  
   A|2--2--2--2--4--4--4--4--  
   D|2--2--2--2--4--4--4--4--]  
-         I'm off the wagon and I'm hitchin' a ride.  
+    I'm off the wagon and I'm hitchin' a ride.  
   
   *Bridge: (Play same as verses.)*  
   There's a drought at the fountain of youth  

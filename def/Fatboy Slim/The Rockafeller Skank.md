@@ -8,7 +8,7 @@ The Rockafeller Skank
   ****G*** - [5 5 6 7 7 5]*  
   ****A*** - [7 7 8 9 9 7]*  
   
-         ***E             G            A***  
+    ***E             G            A***  
   That about now. The punk's show brothers  
-         ***E            G            A***  
+    ***E            G            A***  
   Shakedown now. The punk's show brothers

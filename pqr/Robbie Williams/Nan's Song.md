@@ -8,33 +8,33 @@ Nan's Song
   ***D4 [00023x]***  
   ***G* [320030]***  
   
-          ***D1      D2                   D3***  
+    ***D1      D2                   D3***  
   You said when you'd die that you'd walk  
       ***D4       G****  
   with me every day  
-          ***D1      D2            D3          D4         G****  
+    ***D1      D2            D3          D4         G****  
   And I'd start to cry and say please don't talk that way  
-            ***D1              D2         D3***  
+    ***D1              D2         D3***  
   With the blink of an eye the Lord came  
-          ***D4        G****  
+    ***D4        G****  
   and asked you to meet  
-          ***D1            D2            D3***  
+    ***D1            D2            D3***  
   You went to a better place but He stole you  
   ***D4       G*-A***  
   away from me  
   ***D           A          Em~G***  
   And now she lives in heaven  
-           ***D      A          Em~G***  
+    ***D      A          Em~G***  
   But I know they let her out  
-                    ***G****  
+    ***G****  
   To take care of me  
-                                ***D***  
+    ***D***  
   There's a strange kind of light  
   ***G*                   D***  
   Caressing me tonight  
   ***G               D                C***  
   Pray silence my fear she is near  
-                        ***A***  
+    ***A***  
   Bringing heaven down here  
   I miss your love I miss your touch  
   But I'm feeling you every day  
@@ -49,7 +49,7 @@ Nan's Song
   Bring your heaven down here  
   ***Hm                      Hm/A***  
   You taught me kings and queens  
-        ***G           F#m-F#***  
+    ***G           F#m-F#***  
   While stroking my hair  
   ***Hm            Hm/A   G             F#m-F#***  
   In my darkest hour i know you are there  
@@ -63,9 +63,9 @@ Nan's Song
   Caressing me tonight  
   ***G               D***  
   Pray silence my fear  
-         ***C***  
+    ***C***  
   She is near  
-                  ***A***  
+    ***A***  
   Bringing heaven down here  
   ***G                     D***  
   The next time that we meet  
@@ -73,7 +73,7 @@ Nan's Song
   I will bow at her feet  
   ***G                   D***  
   And say wasn't life sweet  
-            ***C***  
+    ***C***  
   Then we'll prepare  
-                      ***A***  
+    ***A***  
   To take heaven down here

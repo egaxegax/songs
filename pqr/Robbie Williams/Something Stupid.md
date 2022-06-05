@@ -5,31 +5,31 @@ Something Stupid
   
   ***G        G/Am***  
   I know I stand in line  
-            ***G/Hm              G/Am***  
+    ***G/Hm              G/Am***  
   Until you think you have the time  
-              ***Am***  
+    ***Am***  
   To spend an evening with me  
       ***Am       Am/Hm***  
   And if we go someplace to dance  
     ***Am/C                    D***  
   I know that there's a chance  
-                  ***G***  
+    ***G***  
   You won't be leaving with me  
-       ***G7            G7/A              G7/Bm        G/C***  
+    ***G7            G7/A              G7/Bm        G/C***  
   Then afterwards we drop into a quiet little place  
-                  ***C           Eb***  
+    ***C           Eb***  
   And have a drink or two  
-           ***Am       D***  
+    ***Am       D***  
   And then I go and spoil it all  
-        ***Am   D***  
+    ***Am   D***  
   By saying something stupid  
-          ***G***  
+    ***G***  
   Like I love you  
   ***G                    G/Am***  
   I can see it in your eyes  
-           ***G/Hm                 G/Am***  
+    ***G/Hm                 G/Am***  
   That you despise the same old lines  
-                  ***Am***  
+    ***Am***  
   You heard the night before  
   ***A                      A/Hm***  
   And though it's just a line to you  

@@ -13,9 +13,9 @@ Afterglow
   Are all as one to me now  
       ***Eb                Fm                   Db        Eb***  
   But I, I would search everywhere, just to hear your call  
-                  ***Fm***  
+    ***Fm***  
   And walk upon stranger roads than this one  
-        ***Db                     Eb      Bb       C  /  Gsus  /***  
+    ***Db                     Eb      Bb       C  /  Gsus  /***  
   In a world I used to know before, I miss you more  
   ***G       Gmaj7   C/G           Gsus***  
   Than the sun reflecting on my pillow  
@@ -27,19 +27,19 @@ Afterglow
   I caught a glimpse of in the night  
       ***Eb                 Fm                    Db      Eb***  
   But now, now I've lost everything, I give to you my soul  
-                 ***Fm***  
+    ***Fm***  
   The meaning of all that I believed before  
      ***Db                        Eb       Bb       C***  
   Escapes me in this world of none, no thing no-one  
-                     ***Dm                   Bb        C***  
+    ***Dm                   Bb        C***  
   And I would search everywhere, just to hear your call  
-                   ***Dm***  
+    ***Dm***  
   And walk upon stranger roads than this one  
-        ***Bb                     C***  
+    ***Bb                     C***  
   In a world I used to know before  
-                    ***Dm                    Bb      C***  
+    ***Dm                    Bb      C***  
   For now I've lost everything, I give to you my soul  
-                 ***Dm***  
+    ***Dm***  
   The meaning of all that I believed before  
      ***Bb                        C       G        A***  
   Escapes me in this world of none, I miss you more  

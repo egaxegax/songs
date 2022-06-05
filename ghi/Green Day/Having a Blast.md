@@ -117,12 +117,12 @@ INTRO:  ***A5 G5***
   
   ***D5                A5***  
 chorus:  No one is getting out alive  
-                             ***H5***  
+    ***H5***  
   this time i've really lost my mind  
-                     ***G5***  
+    ***G5***  
   an i don't care  
   so close your eyes and kiss your self goodbye  
   and think about the time you spent  
   and what they've.  
-                     ***A5          G5***  
+    ***A5          G5***  
   to me it's nothing. . . . . .

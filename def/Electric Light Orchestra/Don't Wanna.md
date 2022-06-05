@@ -2,9 +2,9 @@
 Moment Of Truth (1994)  
   Don't Wanna  
   
-                ***F#m***  
+    ***F#m***  
   Don't want to talk, don't want to walk  
-                ***A   E   F#m***  
+    ***A   E   F#m***  
   Don't want to do anything  
   Don't want to kick, don't want to scream  
   Don't want to sleep, don't want to dream  
@@ -14,21 +14,21 @@ Moment Of Truth (1994)
   Don't want to do anything  
   
   *CHORUS*  
-                 ***D                   A***  
+    ***D                   A***  
   Don't want to work, don't want to play  
-             ***E        H***  
+    ***E        H***  
   Just sit around everyday  
-                 ***D                   A***  
+    ***D                   A***  
   Don't want to dance, don't want to sing  
-                ***E   H***  
+    ***E   H***  
   Don't want to do anything  
-                 ***F#m***  
+    ***F#m***  
   Don't want to laugh, don't want to cry  
-               ***A       E      F#m***  
+    ***A       E      F#m***  
   Just want to sit and wonder why  
-                ***F#m***  
+    ***F#m***  
   It's just too much without your touch  
-             ***A        E    F#***  
+    ***A        E    F#***  
   Don't want to do anything  
   
   *CHORUS*

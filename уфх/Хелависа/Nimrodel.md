@@ -3,31 +3,31 @@ Running to Paradise (1996)
   Nimrodel  
   *(J. R. R. Tolkien)*  
   
-       ***Am               Em***  
+    ***Am               Em***  
 (a)  An Elven-maid there was of old,  
-       ***F             C  G7***  
+    ***F             C  G7***  
   A shining star by day:  
-       ***Am                Em***  
+    ***Am                Em***  
   Her mantle white was hemmed with gold,  
-        ***F         Em    Am***  
+    ***F         Em    Am***  
   Her shoes of silver-grey.  
   
       ***Am            G***  
 (b)  A star was bound upon her brows,  
       ***F               C***  
   A light was on her hair  
-       ***Dm             Am***  
+    ***Dm             Am***  
   As sun upon the golden boughs  
-       ***F  Em      Am***  
+    ***F  Em      Am***  
   In Lorien the fair.  
   
-                 ***C                     G***  
+    ***C                     G***  
 (c)  Her hair was long, her limbs where white,  
-       ***C                 D  E7***  
+    ***C                 D  E7***  
   And fair she was and free;  
-       ***Am      Em       Am      F***  
+    ***Am      Em       Am      F***  
   And in the wind she went as light  
-       ***Dm      Em      Am***  
+    ***Dm      Em      Am***  
   As leaf of linden-tree.  
   
 (a)  Beside the falls of Nimrodel,  

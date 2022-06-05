@@ -5,13 +5,13 @@ Cuts Like A Knife (A&M 1983)
   
   ***A D G E A D G E***  
   ***A D G E A D G E D***  
-                    ***A         F#m             E    D***  
+    ***A         F#m             E    D***  
   I think about her all the time, she's my fantasy  
-                    ***A        F#m              E    D***  
+    ***A        F#m              E    D***  
   An image burning in my mind, calling out to me  
-                 ***A                      Bm7***  
+    ***A                      Bm7***  
   While my imagination's running wild, yeah  
-                       ***E      Bm7***  
+    ***E      Bm7***  
   Things are getting clearer, oh  
   *CHORUS:*  
   ***A     D***  
@@ -29,15 +29,15 @@ Cuts Like A Knife (A&M 1983)
   Hey turn up your radio, oh  
   There's something I want you to know, yeah  
   *Chorus*  
-        ***F#m                       E***  
+    ***F#m                       E***  
   It's hard to take, cause she's miles away  
-            ***F#m           E***  
+    ***F#m           E***  
   And I've waited a long time  
-           ***F#m***  
+    ***F#m***  
   But the feeling is right  
-           ***E                Bm7***  
+    ***E                Bm7***  
   Darling one of these nights, yeah  
-                     ***E***  
+    ***E***  
   I'm gonna let you know, oh  
   *Chorus*  
   ***G E D***

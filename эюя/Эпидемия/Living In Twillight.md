@@ -11,11 +11,11 @@
   I tried to feel their strength,  
   ***G      A    G   F#***  
   But I was crucified.  
-         ***G***  
+    ***G***  
   Indestructible body  
    ***D           A***  
   Lied under snow  
-       ***G                F#***  
+    ***G                F#***  
   And time flows very slow.  
   I've been punished by darkness  
   I've been damned by light  
@@ -24,11 +24,11 @@
   Is this abyss or desert -  
   Gray landscape surronds,  
   Just one thought in my head - I am bound!  
-       ***Bm                        G             F#***  
+    ***Bm                        G             F#***  
   I'm livin' in twilight - I am damned by the Light  
       ***Bm                         G            A***  
   My life is closed circle - but I'm still alright!  
-       ***G                        D            A***  
+    ***G                        D            A***  
   I'm livin' in twilight - no stars in the sky,  
       ***G                              F#***  
   A place, where the dreams cannot fly!  
@@ -50,9 +50,9 @@
   I'm livin' in twilight...  
   I'm livin' in twilight...  
   
-             ***Bm             G             D              A***  
+    ***Bm             G             D              A***  
   I cannot fly, I cannot creep, I cannot die, I cannot sleep... } x3  
-             ***Bm             G             D              A   D***  
+    ***Bm             G             D              A   D***  
   I cannot fly, I cannot creep, I cannot die, I cannot sle-e-ep.  
   
   *Соответственно, по тем же аккордам играется и "Жизнь в сумерках".*  

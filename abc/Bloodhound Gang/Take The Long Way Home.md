@@ -39,9 +39,9 @@ Take The Long Way Home
   A--5-5-5-5-5-5-5-5----9-----------------------------------------------  
   E--3-3-3-3-3-3-3-3----7---------------------------------------------]  
   
-                                             *after u play the 9    he says take the long way*  
-                                                                      *9     home*  
-                                                                      *7*  
+    *after u play the 9    he says take the long way*  
+    *9     home*  
+    *7*  
   *PLAY INTRO AGAIN*  
   *THEN THE VERSE BUT THERE IS NO GUITAR*  
   *THEN THE CHORUS*  

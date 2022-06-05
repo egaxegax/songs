@@ -8,12 +8,12 @@ Intro:  ***D7      G***
 (A)  Don't wanna four leaf clover, don't wanna an old horse shoe.  
    ***G                    C***  
   Want your kiss cos I just can't miss  
-          ***D                    G***  
+    ***D                    G***  
   With a good luck charm like you.  
   
-           ***D7                             G***  
+    ***D7                             G***  
 (B)  C'mon n' be my little good luck charm ah  
-                             ***D7***  
+    ***D7***  
   You sweet delight, I wanna good luck charm  
   I'm hanging on my own, du hau, do hau  
       ***G           C     G***  

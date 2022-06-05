@@ -73,25 +73,25 @@ Every hand moving on John Finns' wife
 Fm              Bb  
 And John Finns' wife  
   
-             F  
+    F  
 Took all the flowers down  
-          Gm  
+    Gm  
 From her hair  
   
     Cm                F  
 And threw them on the ground  
   
-                  Bb  
+    Bb  
 And the flies did hum  
   
-                  F  
+    F  
 And the flies did buzz around  
   
-          Gm  
+    Gm  
 Poor John Finn  
   
       Cm            F  
 Lying dead upon the ground  
   
-                    Bb  
+    Bb  
 Lying dead upon the ground

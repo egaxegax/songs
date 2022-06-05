@@ -15,9 +15,9 @@ Writing On The Wall
   Hiding hearth the rainbow...  
   ***Fm-Fm/Gm-Fm/A      Bb-Bb/A-Bb/Gm***  
   Had my heart on a silver chain  
-           ***Eb-Eb/Dm-Eb/Cm***  
+    ***Eb-Eb/Dm-Eb/Cm***  
   With the words engraved  
-           ***D***  
+    ***D***  
   "I loved you"...  
   ***Fm-Fm/Gm-Fm/A      Bb-Bb/A-Bb/Gm***  
   Like a swan that was lost at sea  

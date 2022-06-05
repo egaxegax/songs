@@ -36,7 +36,7 @@ Rabbit
   Say Im not concerned  
   ***C                          B***  
   But I don't wanna go with you  
-               ***A              BA***  
+    ***A              BA***  
   To the point of no return  
   ***C        B                 A             BA***  
   Thats because I'm a rabbit..  

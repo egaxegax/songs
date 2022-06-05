@@ -12,7 +12,7 @@ Gm
   
  Bb                 Gm  
  Mama   just killed a man  
-        Cm                              Cm7                F  
+    Cm                              Cm7                F  
  put a gun against his head, pulled my trigger, now he`s dead  
  Bb               Gm              Cm               G+5/B   Eb/Bb    Adim  
  Mama  life had just begun, but now I`ve gone and thrown it all away  
@@ -20,15 +20,15 @@ Gm
  Mama Oooo  didn`t mean to make you cry, if I`m not back again this time  
       Eb  
  tomarrow,  
-       Bb/D    Cm             Abm          Eb       Ab/Eb  Eb  Cdim Bb7sus4b9 Bb  
+    Bb/D    Cm             Abm          Eb       Ab/Eb  Eb  Cdim Bb7sus4b9 Bb  
  Carry on, carry on as if nothing really matters.  
-                        Gm  
+    Gm  
  Too late, my time has come  
-       Cm                    Cm7                      F  
+    Cm                    Cm7                      F  
  Sent shivers down my spine, body`s achin` all the time,  
  Bb                      Gm  
  Goodbye everybody, I`ve got to go,  
-         Cm              G+5/B     Eb/Bb  Adim    Abmaj7   Eb/G  
+    Cm              G+5/B     Eb/Bb  Adim    Abmaj7   Eb/G  
  Gotta leave you all behind and face the truth.  
  Eb    Bb/D Cm  Fm       C/E Ab/Eb Ddim  Bb          Bb6          Bb7  
  Mama Ooo     I don`t want to die, I sometimes wish I`d never been born at all.  
@@ -87,7 +87,7 @@ Gm
  Scarmouch  Scarmouch  will  you  do  the  fandango?  
  C#/G#    G#       C#/G#   G#      C/G         E7          A  
  Thunder  bolts  and  lightening  very  very  frightening  me  
-                           N.C.  
+    N.C.  
  Galileo  Galileo Galileo Galileofigaro Mangnifico oh oh oh  
  B    Bb        A    Bb   B    Bb   A    Bb  
  I`m  just  a  poor  boy  nobody  loves  me  

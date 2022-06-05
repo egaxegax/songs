@@ -31,11 +31,11 @@ How can one little street
 Swallow so many lives  
   
   Припев:  
-           Bb  
+    Bb  
 Chances thrown  
-           F#  
+    F#  
 Nothing's free  
-         C#               G#  
+    C#               G#  
 Longing for what used to be  
 Still it's hard  
 Hard to see  

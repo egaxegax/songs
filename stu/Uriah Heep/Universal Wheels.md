@@ -55,7 +55,7 @@ verse:  Rivers of pollution
   
    ***B                C                B***  
 middle 8: Better take good care of all the things  
-               ***C - Am***  
+    ***C - Am***  
   You say and do  
    ***B                C***  
   Look out for the warning sign  

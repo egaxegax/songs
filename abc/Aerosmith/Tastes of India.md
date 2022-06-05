@@ -2,7 +2,7 @@
 "Nine Lives"  
   Tastes of India  
   
-        God I love the sweet taste of India   Lingers on the tip...  
+    God I love the sweet taste of India   Lingers on the tip...  
   [E--------------------------------------------------------------------4{-----|  
   B------------------------------------------------------------------5--v--(5)|  
   G---------------------1------2---4---2-1---------------------1-2\4----------|  
@@ -27,7 +27,7 @@
   E-----|]  
   ***E***  
   Oh yeah she's got that kind of love incense  
-                             ***F***  
+    ***F***  
   That lives in her back room  
   And when it mixes with the funk my friend  
   It turns into perfume  

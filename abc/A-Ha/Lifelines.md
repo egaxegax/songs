@@ -12,34 +12,34 @@ Intro:  ***Em Hm A A6/A***
   One time to know that it's real  
   ***Hm     E***  
   One time to know how it feels  
-         ***Amaj7  F#***  
+    ***Amaj7  F#***  
   That's all  
   ***Hm    E***  
   One call - your voice on the phone  
   ***Hm       E***  
   One place - a moment alone  
-         ***Amaj7  F#***  
+    ***Amaj7  F#***  
   That's all  
   
   ***D***  
   What do you see?  
-              ***Fm#***  
+    ***Fm#***  
   What do you know?  
   What are the signs?  
-            ***G***  
+    ***G***  
   What do I do?  
-                   ***D   A     Hm***  
+    ***D   A     Hm***  
   Just follow your lifelines through  
   ***Hm***  
   What do you hate?  
-              ***Fm#***  
+    ***Fm#***  
   What do you back?  
   What do I do?  
-              ***G***  
+    ***G***  
   What do you say?  
-                   ****D   A      Em   Hm A*** (from intro)*  
+    ****D   A      Em   Hm A*** (from intro)*  
   Don't throw your lifelines away  
-                   ***A6  A      Em   Hm A F7#***  
+    ***A6  A      Em   Hm A F7#***  
   Don't throw your lifelines away  
   
   ***Hm         E***  
@@ -52,7 +52,7 @@ Intro:  ***Em Hm A A6/A***
   One look - I see no reasons why you can't  
   ***D          E***  
   One chance to be back to the point  
-         ***A/Amaj7   D    Fm#***  
+    ***A/Amaj7   D    Fm#***  
   Where everything starts  
   ***D        Hm        E***  
   Once chance to keep it together  
@@ -63,25 +63,25 @@ Intro:  ***Em Hm A A6/A***
   
   ***D***  
   What do we see?  
-              ***Fm#***  
+    ***Fm#***  
   Where do we go?  
   What are the signs?  
-            ***G***  
+    ***G***  
   How do we grow?  
-                  ***D   A     Hm***  
+    ***D   A     Hm***  
   By letting your lifelines show  
   ***Hm***  
   What if we do?  
-             ***Fm#***  
+    ***Fm#***  
   What up to now?  
   What do you say?  
-           ***G***  
+    ***G***  
   How do I know?  
-                 ****D   A    Em  Hm A*** (from intro)*  
+    ****D   A    Em  Hm A*** (from intro)*  
   Don't let your lifeline go  
-                 ***A6  A    Em  Hm A***  
+    ***A6  A    Em  Hm A***  
   Don't let your lifeline go  
-                 ***A6  A    Em  Hm A***  
+    ***A6  A    Em  Hm A***  
   Don't let your lifeline go…  
   
 -  
@@ -93,25 +93,25 @@ Intro:  ***Em Hm A A6/A***
   One time, to know that it's real  
   ***Am           D***  
   One time, to know how it feels  
-         ***G     E***  
+    ***G     E***  
   That's all  
   ***Am             D***  
   One call, your voice on the phone  
   ***Am           D***  
   One place, a moment alone  
-         ***G     E***  
+    ***G     E***  
   That's all  
   ***C                            Em***  
   What do you see, what do you know?  
-                     ***F***  
+    ***F***  
   One sign; What do I do?  
-                   ***C   G      Am***  
+    ***C   G      Am***  
   Just follow your lifeline through  
-                         ***Em***  
+    ***Em***  
   What if it hurts, what then?  
-                            ***F***  
+    ***F***  
   What do we do, what do you say?  
-                   ***C   G      Dm   Am   G***  
+    ***C   G      Dm   Am   G***  
   Don't throw your lifelines away  
   ***G                           Dm   Am   G   E***  
   Don't throw your lifelines away  
@@ -127,7 +127,7 @@ Intro:  ***Em Hm A A6/A***
   We can't  
   ***C***  
   One chance  
-        ***D                       G    D      C***  
+    ***D                       G    D      C***  
   To go back to the point where everything starts  
   ***C***  
   One chance  
@@ -137,15 +137,15 @@ Intro:  ***Em Hm A A6/A***
   One sign to make us believe it's true  
   ***C                           Em***  
   What do you see, where do we go?  
-                     ***F***  
+    ***F***  
   One sign; how do we grow?  
-                  ***C   G     Am***  
+    ***C   G     Am***  
   By letting your lifelines show  
-                      ***Em***  
+    ***Em***  
   What if we do, what now?  
-                           ***F***  
+    ***F***  
   What do you say, how do I know?  
-                 ***C   G    Dm   Am   G***  
+    ***C   G    Dm   Am   G***  
   Don't let your lifeline go  
   ***G                       Dm   Am   G   E***  
   Don't let your lifeline go  

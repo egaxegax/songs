@@ -22,16 +22,16 @@
   
   ***Em       Amaj7      Em             Amaj7   Em***  
 Verse:  Sun is shining the weather is sweet it yeh  
-                            ***Amaj7      Em     Amaj7***  
+    ***Amaj7      Em     Amaj7***  
   Makes you makes you wanna move your dancing feet.  
   ***Em      Amaj7  Am       Amaj7***  
   To the rescue. Here I am.  
   ***Em            Amaj7              Em    Amaj7***  
   I want you to know y'all where i stand  
   
-         ***C                Bb***  
+    ***C                Bb***  
 Chorus:  As the morning gathers a rainbow.  
-                ***C                      Em       Amaj7 Em Amaj7***  
+    ***C                      Em       Amaj7 Em Amaj7***  
   I want you to know that I'm a rainbow with you.  
   
   ***Em        Amaj7 Em          Amaj7***  
@@ -51,9 +51,9 @@ Verse:  Cause I'm hero. Like Robert DeNiro.
   ***Em                  Amaj7***  
   There's nothing else to do.  
   
-         ***C                Bb***  
+    ***C                Bb***  
 Chorus:  As the morning gathers a rainbow.  
-                ***C                      Em       Amaj7 Em Amaj7***  
+    ***C                      Em       Amaj7 Em Amaj7***  
   I want you to know that I'm a rainbow with you.  
   
   *Bridge*  
@@ -75,15 +75,15 @@ Verse:  Some say - Yeah. Money in my... One on one.
   ***Em        Amaj7***  
   There's nothing else to do.  
   
-         ***C                Bb***  
+    ***C                Bb***  
 Chorus:  As the morning gathers a rainbow.  
-                ***C                      Em         Amaj7 Em Amaj7***  
+    ***C                      Em         Amaj7 Em Amaj7***  
   I want you to know that I'm a rainbow with you.  
-         ***C                Bb***  
+    ***C                Bb***  
   As the morning gathers a rainbow.  
-                ***C***  
+    ***C***  
   I'm rougher than rough, rougher than rough.  
-                           ***Em         Amaj7 Em Amaj7***  
+    ***Em         Amaj7 Em Amaj7***  
   Cause I'm a rainbow with you.  
   
   *I would be grateful for any corrections. Im not certain whether*  

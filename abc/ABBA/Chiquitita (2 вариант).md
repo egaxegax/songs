@@ -22,50 +22,50 @@ E|-------------------------------------------------------------|
   
 Verse 1:  
   
-       Asus4               A       Asus4   A  
+    Asus4               A       Asus4   A  
 Chiquitita, tell me what's wrong.  
-                             E  
+    E  
 You're enchained by your own sorrow.  
 E     D       E             E7          A          Asus4   A  
 I-i-i-in your eyes there is no hope for tomorrow.  
       Asus4                A     Asus4  A  
 How I hate to see you like this.  
-         Asus4  C#min              C#add9  C#min  C#add9  
+    Asus4  C#min              C#add9  C#min  C#add9  
 There is no way you can deny it.  
 E     D     E               E7    A              Asus4   A  
 I-I-I-I can see that you're oh so sad, so quiet.  
       Asus4             A      Asus4  A  
 Chiquitita, tell me the truth.  
-                       E       Esus4   E  
+    E       Esus4   E  
 I'm a shoulder you can cry on,  
 E D       E               E7      A              Asus4  A  
 Your best friend, I'm the one you must rely on.  
-         Asus4          A           Asus4  A  
+    Asus4          A           Asus4  A  
 You were always sure of yourself.  
-                          C#min     C#add9  C#min  C#add9  
+    C#min     C#add9  C#min  C#add9  
 Now I see you've broken a feather.  
 E     D E           E7       A  
 I-I-I-I hope we can patch it up together.  
   
 Chorus:  
   
-                            D  
+    D  
 Chiquitita, you and I know how the heartaches come and they go  
-              A  
+    A  
 And the scars they're leavin'.  
-                       E             D         E  
+    E             D         E  
 You'll be dancin' once again and the pain will end,  
-         E7      A  
+    E7      A  
 You will have no time for grievin'.  
-                      D  
+    D  
 Chiquitita, you and I cry but the sun is still in the sky  
     A  
 And shinin' above you.  
-                          E             D     E  
+    E             D     E  
 Let me hear you sing once more like you did before,  
-           E7    A  
+    E7    A  
 Sing a new song, Chiquitita.  
-         E             D      E           E7        A  
+    E             D      E           E7        A  
 Try once more like you did before, sing a new song, Chiquitita.  
   
 Verse 2:  

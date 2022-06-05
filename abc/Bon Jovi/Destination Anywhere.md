@@ -34,7 +34,7 @@ Bridge:  When these wheels spin, they can all our dust,
   As far as I'm concerned, this whole town lost its nuts,  
   ***Em                                C***  
   We won't be here when they put us down,  
-               ***G                          D***  
+    ***G                          D***  
   It's our big chance and I'm calling you now,  
   *NC - (keyboards + piano part)*  
   They'll never let us go unless we try  

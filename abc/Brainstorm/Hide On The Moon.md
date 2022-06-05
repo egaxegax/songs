@@ -1,11 +1,11 @@
 <!--2020-09-04 23:55:54-->
 D                    A        Hm  
 Centuries-oceans, put your memories away  
-       D                        A            Hm  
+    D                        A            Hm  
 New history has just begun and we are here to stay  
       G                        A  
 They say we are the next generation  
-       Hm                           G  
+    Hm                           G  
 Sometimes it?s just too much information  
     D  
 I?ll just hide on the moon  

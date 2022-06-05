@@ -10,9 +10,9 @@ Running to Paradise (1996)
   Do you not hear me calling, white dear with no horns?  
    ***Am           Am/G         F         C       E7***  
   I have been changed to a hound with one red ear;  
-          ***Am          G        F        C                 G***  
+    ***Am          G        F        C                 G***  
   I have been in the Path of Stones and in the Wood of Thorns,  
-                    ***D          Dm        F         E***  
+    ***D          Dm        F         E***  
   For somebody hid hatred and hope and desire and fear  
   Under my feet so they follow you night and day.  
   A man with a hazel wand came without sound;  
@@ -24,7 +24,7 @@ Running to Paradise (1996)
   And Time and Birth and Change are hurrying by.  
   I would for the Boar without bristles had come from the West  
   And had rooted the sun and moon and stars out of the sky  
-                                                              ***Am***  
+    ***Am***  
   And lay in the darkness, grunting, and turning to his rest.  
   
   ****Am Am/G Am/F E7*** etc*

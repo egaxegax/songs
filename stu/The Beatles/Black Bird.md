@@ -22,5 +22,5 @@ Black - bird, fly.
  F  Em  Dm  C  Bb  A7  
 Black - bird, fly...  
   
-          Dm        Dm7          G  C  G  C  G  
+    Dm        Dm7          G  C  G  C  G  
 Into the light of a dark, black night.

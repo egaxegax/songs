@@ -4,7 +4,7 @@ Am          D           Bb    
 I`ve got a word or two      to say about the things that you do  
 Am            D                 Bb  
 Your telling all those lies  
-           C                  G          Am  
+    C                  G          Am  
 About the good things we can have if we close our eyes  
   
 Chorus  

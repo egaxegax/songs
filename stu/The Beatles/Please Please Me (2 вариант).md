@@ -1,6 +1,6 @@
 <!--2020-09-06 04:23:21-->
 Intro:  
-          E  
+    E  
  -|----------12--11--9--7--9--7--4----12--11--9--7--9--7--4--0------------  
  -|----------------------------------------------------------0------------  
  -|-----------9---8--6--4--6--4--1-----9---8--6--4--6--4--1--1------------  
@@ -31,9 +31,9 @@ Intro:
  Chorus:  
       A              F#m             C#m              A  
  Come on         Come on         Come on         Come on  
-         Come on         Come on         Come on         Come on  
+    Come on         Come on         Come on         Come on  
   
-           E           A       B         E  (repeat intro riff)  
+    E           A       B         E  (repeat intro riff)  
  Please please me oh yeah like I please you.  
   
   

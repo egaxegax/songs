@@ -9,13 +9,13 @@ Last Drop Falls
   After all these years we had do I know you now  
    ***F#               C#            Dm#             F#***  
   Have I trusted blindly in your love, too many times  
-             ***Gm#                            Dm#   C#***  
+    ***Gm#                            Dm#   C#***  
   You said: "hey, my love, I'm sorry but we can't go on 'cause  
   ***Dm#                        F#***  
   I'm in love with someone else"  
   ***Gm#***  
   Tell me, what do you want me to say  
-             ***C#           Dm#***  
+    ***C#           Dm#***  
   When you treat me this way  
   ***F# C#  H        Dm#***  
   Oh I love you, maybe  
@@ -40,7 +40,7 @@ Last Drop Falls
   Tell me now that...  
   ***Gm#                H***  
   I have found the whore in you  
-       ***Dm#             F#***  
+    ***Dm#             F#***  
   Why can't I tell you no  
   ***Gm#              H                    Dm#***  
   Time will show, the last word is for me  

@@ -10,7 +10,7 @@ News Of The World 1977
   *creat your own melancholy blues...*  
   *hope this helps:*  
   ***E B C#m                       G#m***  
-       Another party's over   And I'm left cold sober  
+    Another party's over   And I'm left cold sober  
   [-----------------------------------4--  
   -4-5-4-5---------4-5-4-5-------6---6--  
   -3---------------2-------------4---7--  
@@ -36,7 +36,7 @@ News Of The World 1977
   -0-----0--------------------------------  
   ----------------------------4------3----                2xx220      x0x212]  
   get in that sinking feeling that says my heart is on an all-time low  
-           ***E               G#         G#7***  
+    ***E               G#         G#7***  
   So don't expect me t behave perfectly  
   ***A             Am             E           Gdim                    A/F#***  
   And wear that sunny smile   my guess is I'm in for a cloudy and overcast  
@@ -51,7 +51,7 @@ News Of The World 1977
   I'm causing a mild sensation  with this new occupation  
   [466474          x46654]   ***G#7                C#m***  
   I'm permenantly glued to this extraordinary mood.  
-        [244252]             ***Gdim***                 ***A/F# Gdim*** [x0x213 x2x442] ***E***  
+    [244252]             ***Gdim***                 ***A/F# Gdim*** [x0x213 x2x442] ***E***  
   So now move over let me take over    with my  melancholy blues  
   *'solo'*  
   [-7-97-9797--7-97-9---9---------0-20-2020---------020--  
@@ -71,7 +71,7 @@ News Of The World 1977
   I'm causing a mild sensation  with this new occupation  
   ***466474     x46654   G#7                       C#m***  
   I'm in the news     just getting used to this exposure  
-        ***[244252]          Gdim                 A/F# Gdim [x0x213 x2x442] E***  
+    ***[244252]          Gdim                 A/F# Gdim [x0x213 x2x442] E***  
   So come into my enclosure     and meet my  melancholy blues  
   
 -  

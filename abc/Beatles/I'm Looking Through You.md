@@ -2,7 +2,7 @@
 I'm Looking Through You  
   *(Lennon/McCartney)*  
   
-               ***Dm7/***  ***/***  ***/*** ***Am***   ***/***    ***/***    ***/***  ***G*** ***///***  
+    ***Dm7/***  ***/***  ***/*** ***Am***   ***/***    ***/***    ***/***  ***G*** ***///***  
   I'm looking thru you       Where did you go  
   ***C/***  ***F***     ***/***  ***Dm7*** ***/*** ***/***  ***/*** ***Am*** ***/***     ***/*** ***/***    ***G*** ***///*** ***Am***  
   I thought I knew you       What did I know?  

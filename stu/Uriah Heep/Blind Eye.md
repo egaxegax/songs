@@ -55,44 +55,44 @@ verse:  Weaker than a moment
   
      ***A                    Bm***  
 bridge:  I ran to a place in the open sea  
-            ***D***  
+    ***D***  
   Where I pledged  
-                  ***G***  
+    ***G***  
   My life to the sun  
-          ***A***  
+    ***A***  
   It was good for a while  
-           ***Bm***  
+    ***Bm***  
   I could laugh, I could smile  
-              ***D***  
+    ***D***  
   But when I woke up one day  
-       ***E        Am***  
+    ***E        Am***  
   The sun had gone  
   
   *Play the dbl lead guitar theme twice here!*  
   
      ***A                    Bm***  
 bridge:  I ran to a place in the open sea  
-            ***D***  
+    ***D***  
   Where I pledged  
-                  ***G***  
+    ***G***  
   My life to the sun  
-          ***A***  
+    ***A***  
   It was good for a while  
-           ***Bm***  
+    ***Bm***  
   I could laugh, I could smile  
-              ***D***  
+    ***D***  
   But when I woke up one day  
-       ***E        Am***  
+    ***E        Am***  
   The sun had gone  
   
-       ***Am***  
+    ***Am***  
 verse:  So what of my meaning  
   What am I trying to say  
     ***Am-D      Am***  
   What of my caution  
-         ***G      Am***  
+    ***G      Am***  
   I'm a man anyway  
-         ***G      Am***  
+    ***G      Am***  
   I'm a man anyway  
   
   *fade to the very first part of the dbl guitar theme!*

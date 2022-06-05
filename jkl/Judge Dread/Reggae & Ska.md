@@ -1,22 +1,22 @@
 <!--2020-09-07 06:04:54-->
 Reggae & Ska  
   
-       ***D               G***  
+    ***D               G***  
   Come on, everybody, join our song,  
-           ***A                      D***  
+    ***A                      D***  
   We’re playing ska, come on and sing along.  
     ***Hm                Em***  
   Grab a Rude Girl, shuffle down,  
     ***A                     A7***  
   Ska is the sound that’s going down.  
   
-        ***D           G***  
+    ***D           G***  
   Sing Reggae, and Ska,  
-        ***A            D***  
+    ***A            D***  
   Sing Reggae, and Ska,  
-        ***Hm           Em***  
+    ***Hm           Em***  
   Sing Reggae, and Ska,  
-            ***A                   A7***  
+    ***A                   A7***  
   When the rhythm drums, it’ll take you far...  
   
   I danced to that the beat that’s really hot,  

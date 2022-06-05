@@ -3,7 +3,7 @@
   
   ***Gm      A7              Dm               G7***  
   Дoлгий cвeт нepeaльныx кapтин в oтpaжeньe витpин  
-               ***Gm              A7***  
+    ***Gm              A7***  
   Cнoвa oceнь, зимa, cнoвa лeтo, вecнa  
   ***Dm    G7***  
   Вceгдa  

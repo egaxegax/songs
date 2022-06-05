@@ -6,27 +6,27 @@ Live Killers 1977, Jazz 1978
   
      ***F                      Am7           Dm7***  
   Tonight, I'm gonna have myself a real good time  
-          ***Gm7 C7         F              F7    Bb***  
+    ***Gm7 C7         F              F7    Bb***  
   I feel alive, and the world, turning inside out, yeah  
-       ***Gm7               D7           Gm    Dm  Gm Gm7***  
+    ***Gm7               D7           Gm    Dm  Gm Gm7***  
   and floating around in ecstasy, so don't stop me now  
    ***Gm    Dm  Gm                                C7***  
   Don't stop me 'cause I'm having a good time, having a good time.  
-         ***F                                Am7           Dm7***  
+    ***F                                Am7           Dm7***  
   I'm a shooting star leaping through the sky, like a tiger  
-                ***Gm7         C7***  
+    ***Gm7         C7***  
   defying the laws of grafity  
-         ***F                  Am                Dm***  
+    ***F                  Am                Dm***  
   I'm a racing car, passing by, like lady Godiva  
-           ***Gm         C7                   F***  
+    ***Gm         C7                   F***  
   I'm gonna go, go, go,there's no stopping me  
-       ***F7                  Bb         Gm7***  
+    ***F7                  Bb         Gm7***  
   I'm burning through the sky, yeah, 200 degrees,  
-                  ***D7                   Gm***  
+    ***D7                   Gm***  
   that's why they call me Mister Fahrenheit  
-       ***D7                         Gm7***  
+    ***D7                         Gm7***  
   I'm travelling at the speed of light.  
-                  ***Bb                       C***  
+    ***Bb                       C***  
   I wanna make a supersonic man out of you  
    ***F     Gm  F  Dm                      Gm7           C7***  
   Don't stop me now, I'm having such a good time, I'm having a ball  

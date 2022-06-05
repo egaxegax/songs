@@ -24,7 +24,7 @@ G
 I wouldn't know  
    G9/b   C           A  
 I'm just holding the fort  
-            G/d  
+    G/d  
 Since that day  
       D11         G    D11  
 They wounded New York  
@@ -43,17 +43,17 @@ Our women unveiled
 Our slaves and our gold  
 G              G9  
 I wouldn't know  
-          C           A  
+    C           A  
 I'm just holding the fort  
     G            D11  
 But answer me this  
-         G           D11  
+    G           D11  
 I won't take you to court  
  G           D11  
 Did you go crazy  
     G         D11  
 Or did you report  
-         G     G/b  
+    G     G/b  
 On that day  
 C6       G/d  
 On that day  

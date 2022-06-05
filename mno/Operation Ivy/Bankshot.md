@@ -6,7 +6,7 @@ Bankshot
   *xby = x bent to y*  
   *xry = play prebent to tone of x and fret y*  
   *~=hold note (sort of, listen to the record. You'll know what*  
-               *to do)*  
+    *to do)*  
   
 Guitar:  [e------------------------------------------------------  
   B------------------------------------------------------  

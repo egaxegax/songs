@@ -3,13 +3,13 @@ Dehumanized States of America (1994)
   Baby, What's Your Sign?!  
   *(Наив)*  
   
-        ***Am                            C D***  
+    ***Am                            C D***  
   In school you get a loose-leaf book.  
-          ***Am                            C D***  
+    ***Am                            C D***  
   First thing you drew in it was znook.  
       ***Am                                 C D***  
   If you're a boy and you're full grown,  
-        ***Am***  
+    ***Am***  
   Your macho shit gets overblown:  
   ***D             C                       Am***  
   A cock, and swastika, and skull, and bones...  

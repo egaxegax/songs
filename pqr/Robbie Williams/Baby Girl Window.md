@@ -22,9 +22,9 @@ Verse 2: I know  youre happy where you are
 Bridge 1: Theres finger marks around her  soul  
   ***G           D        Asus2***  
   But your laughter fills the  hole  
-                 ***D   Dsus4 D Asus2***  
+    ***D   Dsus4 D Asus2***  
   Through her  window  
-                      ***D    Dsus4 D Asus2***  
+    ***D    Dsus4 D Asus2***  
   Your baby girls  window  
   
   ***Csus4  Fmaj                    Em***  

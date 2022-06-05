@@ -14,7 +14,7 @@ Come on, come on, come on, come on
 Come on it`s such a joy, come on, it`s such a joy  
   
 Come on let`s make it easy, come on let`s make it easy  
-         A             D  
+    A             D  
 Make it easy, make it easy  
       B7                                       E  D  G  E  G  D  
 Everybody`s got something to hide except for me and my monkey  

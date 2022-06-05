@@ -6,30 +6,30 @@ Mystery train
   
 Intro:  ***D*** | ***A*** | ***E*** | ***G*** | } x2  
   
-            ***D***  
+    ***D***  
   There are days when she's a whisper,  
   ***A***  
   Nights when she-s a scream,  
-             ***E                G***  
+    ***E                G***  
   A reason to wake up in the morning,  
      ***A                   G***  
   To close your eyes and dream.  
-         ***D***  
+    ***D***  
   She'll curse you like a sailor,  
-         ***A***  
+    ***A***  
   She'll wound you with her eyes,  
       ***Em              G          Am          G***  
   She always makes it better She won't apologize,  
-            ***E          G             A                G***  
+    ***E          G             A                G***  
   You know everything about her but don't know her at all  
   
   ***D        A            E        G***  
 CHORUS:  She's a day ride on a mystery train  
-       ***D              A          G***  
+    ***D              A          G***  
   To a place, you've never been before.  
-         ***D       A             Em      G***  
+    ***D       A             Em      G***  
   Better hold on tight to that mystery train  
-        ***Am                G***  
+    ***Am                G***  
   We're not in Kansas, anymore  
      ***A        E                     G***  
   Oh she's a hey ride on a mystery, train.  
@@ -37,11 +37,11 @@ CHORUS:  She's a day ride on a mystery train
   She cries because she's happy,  
       ***A***  
   She sings songs when she's sad  
-         ***E                    G***  
+    ***E                    G***  
   Like a stiff drink when you need it,  
-       ***A              G***  
+    ***A              G***  
   She's good at being bad  
-       ***Em             G             A                G***  
+    ***Em             G             A                G***  
   And long before you knew her, you knew she was the one  
   
   *Chorus*  
@@ -52,15 +52,15 @@ SOLO:  ***E*** | ***G*** | } x2
   
   ***D*       D*2           D*         D*2***  
 Chorus 2: She's a day ride on a mystery train  
-        ***D*           D*2           D*      D*3***  
+    ***D*           D*2           D*      D*3***  
   To a place, you've never been before,  
-               ***D     A             E       G***  
+    ***D     A             E       G***  
   I've waited all my life for that mystery train  
-        ***Am               G***  
+    ***Am               G***  
   We're not in Kansas anymore  
   ***D*       D*2***  
   She's a day ride.  
-       ***D*          D*3***  
+    ***D*          D*3***  
   On a mystery train, yeah, yeah  
   
   *Special chords.*  

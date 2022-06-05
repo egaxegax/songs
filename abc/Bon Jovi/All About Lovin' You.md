@@ -39,7 +39,7 @@ Every time I look at you, baby, I see something new
 That takes me higher than before and makes me want you more  
     G                  Bm       Em  
 I don't wanna sleep tonight, dreamin's just a waste of time  
-       F           D  
+    F           D  
 When I look at what my life's been comin' to  
 C  
 I'm all about lovin' you  
@@ -67,7 +67,7 @@ Every time I look at you, baby, I see something new
 That takes me higher than before and makes me want you more  
     G          Bm       Em  
 I don't wanna sleep tonight, dreamin's just a waste of time  
-       F           D  
+    F           D  
 When I look at what my life's been comin' to  
 C  
 I'm all about lovin' you  
@@ -75,7 +75,7 @@ I'm all about lovin' you
   
 Am    C/B   C  
 You can take this world away  
-       C/B  
+    C/B  
 You're everything I am  
 Am            C/B           C   D  
 Just read the lines upon my face  

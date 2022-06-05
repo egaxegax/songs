@@ -1,25 +1,25 @@
 <!--2020-09-05 04:41:12-->
 intro: Am;Fm;Am;Fm  
-             Am                Fm  
+    Am                Fm  
 I wrote this novel just for you  
-          Am                    Fm  
+    Am                    Fm  
 It sounds pretentious but it`s true  
-             Am               Fm  
+    Am               Fm  
 I wrote this novel just for you  
-                 Am  
+    Am  
 That`s why it`s vulgar  
-               Fm  
+    Fm  
 That`s why it`s blue  
-       C         Fm  
+    C         Fm  
 And I say,thank you  
-        C        Fm  
+    C        Fm  
 And I say,thank you  
   
 I wrote this novel just for mom  
 For all the mommy thing she`s done  
 For all the time she showed me wrong  
 For all the time she sang God`s song  
-       C             Fm  
+    C             Fm  
 And I say thank you mom  
 C        Fm  
   Hello mom  
@@ -50,9 +50,9 @@ I don`t care
   
 I wrote this novel just for you  
 I`m so pretentious,yes it`s true  
-              Am              Fm  
+    Am              Fm  
 I wrote this novel just for you  
-          Am  
+    Am  
 Just for you  
-          Fm  
+    Fm  
 Just for you

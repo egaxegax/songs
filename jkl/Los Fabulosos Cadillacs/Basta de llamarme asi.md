@@ -7,7 +7,7 @@ Basta de llamarme asi
   Ya voy a ir  
   ***C***  
   Voy a subir  
-            ***G          D-G***  
+    ***G          D-G***  
   Cuando me toque a mi  
   
   ***G            D***  
@@ -16,9 +16,9 @@ Basta de llamarme asi
   En tu voz  
   ***C***  
   En tu honor  
-          ***G***  
+    ***G***  
   O en la voz  
-                       ***D         G***  
+    ***D         G***  
   De los que estйn durmiendo allн  
   
   Y juro  

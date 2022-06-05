@@ -3,14 +3,14 @@ Somebody told me
   
     ***Bm***  
   Breaking my back just to know your name  
-                                             ***Ebm  Gb***  
+    ***Ebm  Gb***  
   Seventeen tracks and I've had it with this game  
-        ***Bm***  
+    ***Bm***  
   I'm breaking my back just to know your name  
   But heaven ain't close in a place like this  
-                                           ***Ebm Gb***  
+    ***Ebm Gb***  
   Anything goes but don't blink you might miss  
-         ***Bm***  
+    ***Bm***  
   Cause heaven ain't close in a place like this  
   I said heaven ain't close in a place like this  
   
@@ -19,11 +19,11 @@ Somebody told me
    ***Gb                                 Ab***  
   Never thought I'd let a rumour ruin my moonlight  
   
-                 ***Bm                Gb***  
+    ***Bm                Gb***  
   Well somebody told me you had a boyfriend  
-                    ***Ab                        F           Bm***  
+    ***Ab                        F           Bm***  
   Who looks like a girlfriend, that I had in February of last year  
-                 ***Gb                  Ab***  
+    ***Gb                  Ab***  
   It's not confidential, I've got potential...  
   
   Ready? Let's roll onto something new  
@@ -37,14 +37,14 @@ Somebody told me
   *Pre-chorus*  
   
   *Chorus*  
-                ***F***  
+    ***F***  
   A rushin', a rushin' around  
   
    ***Gb       Ab       Ebm***  
   Pace yourself from me  
-          ***Db   Ebm    Gb***  
+    ***Db   Ebm    Gb***  
   I said maybe baby please  
-                     ***Bm     Ab Gb F Ab***  
+    ***Bm     Ab Gb F Ab***  
   But I just don't know now  
   
   *Chorus } 3 times*

@@ -17,7 +17,7 @@ Ich bau euch ein lied (I) (Hohl-Demmler)
   
       ***G                           C***  
   und blast ihr in den sand euren atem aus  
-         ***Am     D     Am***  
+    ***Am     D     Am***  
   werden wellen draus  
   
   ***D***  

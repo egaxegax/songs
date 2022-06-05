@@ -5,18 +5,18 @@ G  C  G  C
   
 G             C         Csus4      C  
 If you didn't care  
-                G      Gsus4      G  
+    G      Gsus4      G  
 what happened to me  
-            C          Csus4      C  
+    C          Csus4      C  
 And I didn't care  
     G       Gsus4     G             A               G(frm2) A G(frm2)  
 For you.                    We would zig-zag our way  
-           A7                     G              C  
+    A7                     G              C  
 Through the boredom and pain.      Occasionally   glancing  
 D              G      Am             F                 Am         F  
 up through the rain       Wondering       which of the buggers to blame  
 C    Am7/B   Am         D        Dsus4   D               G  
-                   And watching         for pigs on the wing.  
+    And watching         for pigs on the wing.  
   
   
 CHORDS USED:  

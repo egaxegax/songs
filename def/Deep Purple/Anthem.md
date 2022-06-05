@@ -8,14 +8,14 @@
   then I start to remember     the girl that brought me joy  
   ***Am         C               F       E7         Am      C     F***  
   Now the night winds softly blow    sadness to tomorrow  
-                    ***E7       Am   C***  
+    ***E7       Am   C***  
   bringing tears to eyes so tired  
   ***F       F       E7     E7***  
   Eyes I thought could cry no more  
   
   ***A      Cm#            Bm7       Bm7              D***  
 Chorus:  If the day would only come then you might just appear  
-         ***Cm#                 Bm       Bm               A***  
+    ***Cm#                 Bm       Bm               A***  
   even though you'd soon be gone when I reached out my hand  
   ***A          A       E     Bm7       Bm7***  
   If I could see you (ooohh ooooh)  

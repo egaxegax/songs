@@ -3,7 +3,7 @@ Can't Find My Way Home
   
 Intro:  ***D/C  D/B  D/Bb  D/A  F  G  D (Dsus2 D)***  
   
-       ***D/C           D/B***  
+    ***D/C           D/B***  
 (1)  Come down off your throne  
       ***D/Bb  D/A***  
   And leave your body alone  
@@ -11,7 +11,7 @@ Intro:  ***D/C  D/B  D/Bb  D/A  F  G  D (Dsus2 D
   Somebody must change  
   ***D/C         D/B              D/Bb***  
   You are the reason I've been waiting  
-         ***D/A***  
+    ***D/A***  
   All so long  
   ***F   G              D***  
   Somebody holds the key  

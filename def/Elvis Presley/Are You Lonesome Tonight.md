@@ -4,21 +4,21 @@ Are You Lonesome Tonight?
   
 Intro:  [V-3 IV-0-2-0]  
   *rem  ***G7  C   G7****  
-           ***C        Em            Am         Am***  
+    ***C        Em            Am         Am***  
   Are you lonesome tonight, do you miss me tonight?  
-           ***C        C7          F  F***  
+    ***C        C7          F  F***  
   Are you sorry we drifted apart?  
-             ***G      G            G7           G7***  
+    ***G      G            G7           G7***  
   Does your memory stray to a brighter sunny day  
-           ***G7             G7            C     C***  
+    ***G7             G7            C     C***  
   When I kissed you and called you sweetheart?  
-          ***C7              C7          F         F***  
+    ***C7              C7          F         F***  
   Do the chairs and your partner seem empty and bare?  
-         ***D            D            rem           G***  
+    ***D            D            rem           G***  
   Do you gaze at your doorstep and picture me there?  
-          ***C                 Em           D           D***  
+    ***C                 Em           D           D***  
   Is your heart filled with pain, shall I come back again?  
-          ***rem            G7        C    G7***  
+    ***rem            G7        C    G7***  
   Tell me dear are you lonesome tonight.  
   I wonder if   you are lonesome tonight  
   You know someone said that the world is a stage  
@@ -40,30 +40,30 @@ Intro:  [V-3 IV-0-2-0]
   
 -  
   
-           ***C          Em***  
+    ***C          Em***  
   Are You lonesome tonight?  
-          ***Am***  
+    ***Am***  
   Do You miss me tonight?  
-           ***C         A7b9    Dm    A7   Dm***  
+    ***C         A7b9    Dm    A7   Dm***  
   Are You sorry we drifted apart?  
-             ***G7***  
+    ***G7***  
   Does Your memory stray  
   to a brighter summer day  
-                         ***G7#5            C      Fm6  C***  
+    ***G7#5            C      Fm6  C***  
   when I kissed You and called You sweetheart?  
-           ***C9***  
+    ***C9***  
   Do the chairs in Your parlour  
-       ***F***  
+    ***F***  
   seem empty and bare?  
-          ***D7***  
+    ***D7***  
   Do You gaze at Your doorstep  (Do you gaze at Your bold head  
-       ***G           G7***  
+    ***G           G7***  
   and picture me there?          and wish you had hair?)  
-           ***C                 Em7***  
+    ***C                 Em7***  
   Is Your heart filled with pain?  
-           ***D7***  
+    ***D7***  
   Shall I come back again?  
-            ****Dm7           G7#5       C       G7*** (exc. last time)*  
+    ****Dm7           G7#5       C       G7*** (exc. last time)*  
   Tell me, Dear, are You lonesome tonight?  
   
   *I wonder if you're lonesome tonight.. You know someone said the*  

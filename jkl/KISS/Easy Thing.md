@@ -13,27 +13,27 @@ Intro:  ***D***, ***G***, ***D***, ***G***.
   Such an easy thing to lose, yeah.  
   ***D                   D*                 D7           G     Em***  
   Words, words are so hard, words are so hard to find. When love,  
-          ***A           Em      A***  
+    ***A           Em      A***  
   such an easy thing, such an easy thing  
   ***Em      A             G, D       Dsus4, Dsus4, G***  
   Such an easy thing to lose, yeah.  
   ***A                        Bm                       F#7***  
   When you find your love, will you know it's real. When you lose  
-          ***D        A      A7        D***  
+    ***D        A      A7        D***  
   it all, will you really feel that love.  
   ***D                D*               D7           G       Em***  
   Love, love is so hard, love is so hard to find. 'Cause love's  
-          ***A           Em      A***  
+    ***A           Em      A***  
   such an easy thing, such an easy thing.  
   ***Em        A           G, D        Dsus4, Dsus4, G***  
   Such an easy thing to lose, yeah.  
   ***A                        Bm                       F#7***  
   When you find your love, will you know it's real. When you lose  
-          ***D        A      A7        D***  
+    ***D        A      A7        D***  
   it all, will you really feel that love.  
   ***D                D*               D7           G       Em***  
   Love, love is so hard, love is so hard to find. 'Cause love  
-                 ***A***  
+    ***A***  
   (love) such an easy thing(so easy),  
   ***Em      A                            Em      A***  
   such an easy thing(love is so easy), such an easy thing to  
@@ -41,12 +41,12 @@ Intro:  ***D***, ***G***, ***D***, ***G***.
   lose, yeah(love).  
   ***Em                 A                    Em      A***  
   Love(love) such an easy thing(so easy), such an easy thing  
-                     ***Em      A             G, D***  
+    ***Em      A             G, D***  
   (love is so easy), such an easy thing to lose, yeah(love, love  
   is so easy to lose).  
   ***Em                  A                    Em      A***  
   Love(love) such an easy thing(so easy), such an easy thing  
-                     ***Em      A             G, D***  
+    ***Em      A             G, D***  
   (love is so easy), such an easy thing to lose, yeah(love).  
   
   ****D****=[0, 0, 0, 2, 2, 2].*  

@@ -5,14 +5,14 @@ Nadine
   
   ***A***  
   I got on a city bus and found a vacant seat, thought I saw my future bride  
-                           ***B9***  
+    ***B9***  
   walking up the street, I shouted to the driver hey conductor, you must slow  
-       ***A***  
+    ***A***  
   down. I think I see her please let me off this bus  
   
-          ***A                A         B9                     A              E7***  
+    ***A                A         B9                     A              E7***  
 CHORUS:  Nadine, honey is that you.  Oh, Nadine. Honey, is that you? Seems like every  
-                                                     ***A***  
+    ***A***  
   time I see you Darling you got something else to do  
   *(Alternate verse: Seems like every time I catch you, datcha you're up to*  
   *something new)*  

@@ -7,10 +7,10 @@ Lucky
   Early morning...  
   ***C            Am    C   Am***  
   ***C            Am    F   G***  
-            ***C     Am***  
+    ***C     Am***  
   And they say...  
-            ***F     G     Em     Am***  
-            ***C     F     G***  
+    ***F     G     Em     Am***  
+    ***C     F     G***  
   ***C         Am    C    Am***  
   Lost in...  
   ***C         G     Am   F***  

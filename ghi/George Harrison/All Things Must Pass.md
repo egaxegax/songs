@@ -15,7 +15,7 @@ Verse:  Sunrise doesn't last all morning
   ***E    A/E                         E(2)       A***  
   A cloudburst doesn't last all day  
   ***E                  A/E                               E(2)***  
-         ***A(2)***  
+    ***A(2)***  
   It seems my love is up and has left you with no warning  
   ***E              A/E                E(2)     A(2)***  
   It's not always gonna be this grey  
@@ -34,9 +34,9 @@ Chorus:  All things must pass
 Bridge:  All things must pass  
   ***Bm                                          A     Asus4    A***  
   None of life's strings can last  
-         ***E               A/E***  
+    ***E               A/E***  
   So I must be on my way  
-        ***E(2)       A***  
+    ***E(2)       A***  
   To face another day  
   Now the darkness only stays the nighttime  
   In the morning it will fade away  

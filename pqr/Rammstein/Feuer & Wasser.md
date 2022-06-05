@@ -237,10 +237,10 @@
   [C|-0---x--x---|||  
   G|-0---x--x---|||  
   C|-0---x--x---|||]  
-                  |Ich halt sie fest mit nassen Handen.....|  
-                  |Glatt wie ein Fisch und kalt wie Eis....|  
-                  |sie wird sich nicht an mich verschwenden|  
-                  |Ich wei?................................|  
+    |Ich halt sie fest mit nassen Handen.....|  
+    |Glatt wie ein Fisch und kalt wie Eis....|  
+    |sie wird sich nicht an mich verschwenden|  
+    |Ich wei?................................|  
   
   *[d|---------](Kopru/Bridge/Guitar 2)[-|]*  
   [A|---------------------------------|  

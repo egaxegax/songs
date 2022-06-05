@@ -64,12 +64,12 @@ From the Inside
   
   ***E                    A***  
   I don't know who to trust  
-       ***Fm#  G#  Cm#***  
+    ***Fm#  G#  Cm#***  
   No surprise  
   Everyone feels so far away from me  
   ***E                            A***  
   Heavy thoughts sift through dust  
-         ***Fm# G# Cm#***  
+    ***Fm# G# Cm#***  
   And the lies  
   Trying not to break  
   But I'm so tired of this deceit  
@@ -82,9 +82,9 @@ From the Inside
   Just takes so much out of me  
   ***Cm#           E             A***  
   I take everything from the inside  
-        ***Fm#      G#   Cm#***  
+    ***Fm#      G#   Cm#***  
   And throw it all away  
-             ***E             A***  
+    ***E             A***  
   'Cause I swear/for the last time  
     ***Fm#         G#           Cm#***  
   I won't trust myself with you  
@@ -105,7 +105,7 @@ From the Inside
   I take everything from the inside  
   And throw it all away  
   'Cause I swear/for the last time  
-                            ***Cm#***  
+    ***Cm#***  
   I won't trust myself with you  ***Cm#***  
   I won't waste myself on you, you, you  
   Waste myself on you, you, you  

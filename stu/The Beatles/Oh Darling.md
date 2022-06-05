@@ -16,9 +16,9 @@ C               G
  CHORUS:  
  G7         C                  G#  
  When you told me you didn`t need me anymore  
-            C                             C7  
+    C                             C7  
  Well you know I nearly broke down and cried  
-            D7  
+    D7  
  When you told me you didn`t need me anymore  
   
  Well you know I nearly broke down and died  

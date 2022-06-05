@@ -5,8 +5,8 @@ INTRO:
 (Em7)  x11 bars  
   
 spoken:  "For millions of years mankind liked just like the animals.  
-         Then something happened that unleashed the power of our imagination.  
-         We learned to talk."  
+    Then something happened that unleashed the power of our imagination.  
+    We learned to talk."  
   
 VERSE:  
 Em7   There's a silence surrounding me  
@@ -50,5 +50,5 @@ C/E   Where do we go from here
 (Em, Cmaj7)     "It doesn't have to be like this."  
 (Bm7, Cmaj7, Bm7)  
 (Cmaj7, Cmaj7)  "All we need to do  
-                is make sure we keep talking."  
+    is make sure we keep talking."  
 (Em)

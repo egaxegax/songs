@@ -16,13 +16,13 @@ Red, red rose, blood red rose
 Like a fire inside that grows, blood red rose  
   
 (Bridge)  
-           ***Dm             Am***  
+    ***Dm             Am***  
 When you're hungry, I will fill you up  
-           ***Dm             Am***  
+    ***Dm             Am***  
 When you're thirsty, drink out of my loving cup  
-           ***G                      F***  
+    ***G                      F***  
 When you're crying, I'll be the tears for you  
-           ***G               E         Am***  
+    ***G               E         Am***  
 There's nothing that I wouldn't do for you  
   
 (Solo Vers)  
@@ -37,7 +37,7 @@ There's nothing that I wouldn't do
 (Link)  
       ***F                              G***  
 You know, I bleed every night you sleep,  
-       ***Am     Am/G       F            Esus4     E***  
+    ***Am     Am/G       F            Esus4     E***  
 'Cause I don't know if I'm in your dreams I want to be your everything...  
   
 (Verse1)  

@@ -1,19 +1,19 @@
 <!--2020-09-04 18:33:33-->
 Monkees Theme  
   
-            ***Am***  
+    ***Am***  
   "Here we come...  
-                     ***F***  
+    ***F***  
   walking down the street..  
-                        ***D***  
+    ***D***  
   we get the funniest looks from  
-               ***G***  
+    ***G***  
   everyone we meet  
-                     ***C      C7***  
+    ***C      C7***  
   Hey Hey we're the Monkees...  
-        ***F            G         C   C7***  
+    ***F            G         C   C7***  
   and people say we monkey around  
-       ***F         G    C         C7***  
+    ***F         G    C         C7***  
   but we're too busy singing  
       ***F      G    Am***  
   to put anybody down  
@@ -25,7 +25,7 @@ Monkees Theme
   *and there's a repeat of the chorus, only in ***D***:*  
       ***F     G      A***  
   ...put anybody down  
-                            ***D      D7***  
+    ***D      D7***  
   we're just trying to be friendly  
    ***G                A        D     D7***  
   something mumble sing and play  

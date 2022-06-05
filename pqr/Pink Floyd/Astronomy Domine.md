@@ -1,15 +1,15 @@
 <!--2020-09-05 04:58:27-->
 E5  
 Lime and limpid green, a second scene,  
-                              Eb5  
+    Eb5  
 a fight between the blue you once knew.  
 G5  
 Floating down, the sound resounds around  
-                     A5/A7  
+    A5/A7  
 the icy waters underground.  
 E6                F E6                    Eb5    G5  
 Jupiter and Saturn, Oberon, Miranda and Titania, Neptune, Titan,  
-                G#5  
+    G#5  
 Stars can frighten.  
   
 Соло:  

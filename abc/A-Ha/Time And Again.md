@@ -1,26 +1,26 @@
 <!--2020-09-07 10:15:33-->
 Time And Again  
   
-          ***E***  
+    ***E***  
   The sun brought me  
-           ***H***  
+    ***H***  
   The moon caught me  
-         ***C#m***  
+    ***C#m***  
   The wind fought me  
-         ***A          H***  
+    ***A          H***  
   The rain got me  
   
   The road sent me  
   For years bent me  
   The stars overwhelmed me  
   Time and again  
-        ***A+H               E***  
+    ***A+H               E***  
   But now I can't see the stars  
-           ***A                      H***  
+    ***A                      H***  
   The star is a thing I can't see  
-        ***A+H                       E***  
+    ***A+H                       E***  
   And now I don't feel the same  
-       ***A                         H***  
+    ***A                         H***  
   To feel is a thing I can't be  
   
   Earth crushed me  

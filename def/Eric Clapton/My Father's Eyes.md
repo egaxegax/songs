@@ -65,7 +65,7 @@ FILL 1:  [e -------------|
    When I look in my father's eyes.  
   ***B            E    A2  F#-***  
    My father's eyes.  
-               ***B             C#-   A2  F#-***  
+    ***B             C#-   A2  F#-***  
    When I look in my father's eyes.  
   ****B           E     A2  D***   (***D  A  E  A***)*  
    My father's eyes.  
@@ -99,7 +99,7 @@ FILL 2:  [e -4----2-p-0---|
    That's when I need my father's eyes.  
   ***B            E    A2  F#-***  
    My father's eyes.  
-                 ***B                C#-  A2  F#-***  
+    ***B                C#-  A2  F#-***  
    That's when I need my father's eyes.  
   ***B            E    A2  F#-***  
    My father's eyes.  
@@ -240,7 +240,7 @@ FILL 2:    vibr...........
   (lead continues)  
   ***E         C#m      ;A         B    F#  ;B                  ;F#***  
   ***B***  
-                                            When the jagged edge appears  
+    When the jagged edge appears  
   ***C#m       G#m      ;B    F#   B        ;B                  ;F#***  
   ***B***  
   thru the distance, clouds of tears.     I'm like a bridge that was  
@@ -274,12 +274,12 @@ FILL 2:    vibr...........
   eyes     (slide)                        (LIMFE)  
   ***E         C#m      ;A         B        ;E         C#m      ;C#m***  
   ***B***  
-           (slide)                        (LIMFE)  
+    (slide)                        (LIMFE)  
   ***E         C#m      ;A         B        ;E         C#m      ;C#m***  
   ***B***  
-                                          (LIMFE)  
+    (LIMFE)  
   ***E         C#m      ;A         B        ;E                  ;***  
-                                          (end)  
+    (end)  
   Fo' a' that 'n' a' that  
   It's comin' yet, fo' a' that  
   That man to man, the world o'er  

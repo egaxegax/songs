@@ -6,26 +6,26 @@ from Plastic Ono Band, 1970
   ***E (riff) F#m  G#m  A***  
   ***E (riff)***  
   Hold on John, John hold on  
-             ***F#m***  
+    ***F#m***  
   It's gonna be alright  
-                 ***G#m        A***  
+    ***G#m        A***  
   You gonna win the fight  
    ***E***  
   Hold on Yoko, Yoko hold on  
-              ***F#m***  
+    ***F#m***  
   It's gonna be alright  
-                 ***G#m          A***  
+    ***G#m          A***  
   You're gonna make the fight  
   
-              ***F#m    C#m***  
+    ***F#m    C#m***  
 CHORUS #1: When you're by yourself  
-              ***F#m     C#m***  
+    ***F#m     C#m***  
   And there's noone else  
-            ***F#m      C#m***  
+    ***F#m      C#m***  
   You just have yourself  
-            ***F#m      C#m***  
+    ***F#m      C#m***  
   And you tell yourself  
-            ***E (riff) F#m  G#m A***  
+    ***E (riff) F#m  G#m A***  
   Just to hold on            (Cookie!)  
   Hold on world, world hold on  
   It's gonna be alright  

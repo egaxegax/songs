@@ -3,7 +3,7 @@ G*             Am
 You look so fine  
 Am        F  
 I want to   break your heart  
-              C  
+    C  
 And give you mine  
 C                 Em  
 You're taking me over  

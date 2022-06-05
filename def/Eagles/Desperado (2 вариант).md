@@ -1,31 +1,31 @@
 <!--2020-09-04 23:02:39-->
 Ab    Fm            Bbm          Fm  
 Desperado, why don't you come to your senses  
-       Cm              Fm   Bbm  
+    Cm              Fm   Bbm  
 You've been out riding fences for so long now  
    Ab                      Fm                     Bbm     Fm  
 Oh you are hard one, but I know that you have got your reason  
-         Cm                   Fm      Bbm             Ab  Cm  
+    Cm                   Fm      Bbm             Ab  Cm  
 These things that are pleasing you can't hurt you somehow  
-           Fm                   Cm  
+    Fm                   Cm  
 Don't you draw the cream of diamonds, boy  
-       Fm                Cm  
+    Fm                Cm  
 She'll beat you if she's able  
-          Fm             Bbm       Ab  
+    Fm             Bbm       Ab  
 The queen of hears is always your best bet  
 Cm       Fm              Cm  
 How it seems to me some fine thing  
-          Fm             Cm  
+    Fm             Cm  
 Have been laid upon your table  
-        Fm             Bbm     Eb  
+    Fm             Bbm     Eb  
 But you only want the ones you can't  
   
 Desperado, Oh you ain't getting younger  
 Your pain and you hunger, they're ruining your home freedom,  
 Oh, freedom  
-       Fm               Bb  Fm  
+    Fm               Bb  Fm  
 That's just some people talking  
-        Cm       Em                 Bbm  
+    Cm       Em                 Bbm  
 You are prison walking through this world all alone  
 Cm              Fm            Cm  
 Don't your feet get cold in winter time  
@@ -35,7 +35,7 @@ The sky won't snow and the sun won't shine
 It's hard to tell the night time from the day  
 Cm     Fm               Cm  
 You're loosing all your highs and lows  
-         Fm                 Cm  Fm   Bbm  
+    Fm                 Cm  Fm   Bbm  
 Ain't it funny how the feeling goes away  
   
 Desperado, why don't you come to your senses  

@@ -20,7 +20,7 @@
   And in a wink, the funk was all around me  
    ***E                       B***  
   And I think, I'm dead in love again  
-        ****C#*** (for the entire chorus)*  
+    ****C#*** (for the entire chorus)*  
   Nine lives, feelin' lucky, nine lives, live again...  
   *Ф*  
   [E-----------------|  

@@ -17,15 +17,15 @@
   Really want to repeat all the time  
   Really want to repeat all the time  
   
-       ***C D G***  
+    ***C D G***  
   Her name!  
-            ***C    D***  
+    ***C    D***  
   Cammie Toloui!  
-            ***G***  
+    ***G***  
   Cammie Toloui! - Oh!Oh!  
-            ***C    D***  
+    ***C    D***  
   Cammie Toloui!  
-            ***G             C D G***  
+    ***G             C D G***  
   Cammie Toloui! - Oh!Oh!  
   
   She is a real EASTY GIRL!  
@@ -48,7 +48,7 @@
   LA-LA-LA-LA-LA-LA-LA-LA!  
   ***E                 A***  
   She lives in California,  
-                         ***D***  
+    ***D***  
   She is my friend and that is why,  
   ***E                   D***  
   I really want to repeat all the time...  
@@ -58,13 +58,13 @@
   Really want to repeat all the time,  
   Really want to repeat all the time  
   
-       ***D E A***  
+    ***D E A***  
   Her name!  
-            ***D             E***  
+    ***D             E***  
   Cammie Toloui! - Oh!Oh!  
-            ***A***  
+    ***A***  
   Cammie Toloui! - Oh!Oh!  
-            ***D             E***  
+    ***D             E***  
   Cammie Toloui! - Oh!Oh!  
-            ***A***  
+    ***A***  
   Cammie Toloui! - Oh!Oh!

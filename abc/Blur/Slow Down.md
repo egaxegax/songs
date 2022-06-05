@@ -11,12 +11,12 @@
   |---0---0---------2---------    -----2--2----------2----    ---------5---------  
   |---2---2---------3---------    -----0--0----------3----    -------------------  
   |---3---3-------------------    ------------------------    --1st time only----  
-        ***G           C                   A            C***  
-                                        *Note:  h = hammer on    p = pull off*  
+    ***G           C                   A            C***  
+    *Note:  h = hammer on    p = pull off*  
   *Here's the chord pattern:*  
   ***G          C   G           C   A                 C    A              C***  
   Its up to you, you know it is, I can't convince you, all you have to do is  
-       ***G***  
+    ***G***  
   slow down...   etc.  
   *Then there's that cool part:*  
   ***G           A#       C      F       F     Ab     Eb    A#***  

@@ -36,15 +36,15 @@ intro:  ***Gm  Gm/F  Eb  Cm  Dsus4 D*** } repeat
   Without love I wouldn't believe  
     ***Ab***  
   I couldn't believe in you  
-        ***Fm7                 G7aug5***  
+    ***Fm7                 G7aug5***  
   And I wouldn't believe in me  
   ***G       Cm   Gm/Bb  Ab***  
   Without love  
-        ***G7aug5 Cm   Gm/Bb  Ab***  
+    ***G7aug5 Cm   Gm/Bb  Ab***  
   I believe in love  
-        ***G7aug5 Cm   Gm/Bb  Ab***  
+    ***G7aug5 Cm   Gm/Bb  Ab***  
   I believe in love  
-        ***G7aug5 C     G/D   Eb    Fm  Gsus4  G  Cm***  
+    ***G7aug5 C     G/D   Eb    Fm  Gsus4  G  Cm***  
   I believe in love  
   
 outro:  ***Cm  Bb/C  Ab/C  Fm/C  Cm  G7/C  C5***  

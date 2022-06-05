@@ -1,11 +1,11 @@
 <!--2020-09-05 20:11:21-->
 Am  
 Well, how can I begin  
-                        E7  
+    E7  
 To tell the story of my Murka,  
       E7-9  
 my darling.  
-                 E7  
+    E7  
 To tell the frightful story  
 Am                 F  
 As she's lived and died,  
@@ -17,7 +17,7 @@ Now I'll tell the story
 How this all has happened  
 Dm7  
 Murka was a nice of juice -  
-       E7  
+    E7  
 that's right.  
 Am  
 And in our district  

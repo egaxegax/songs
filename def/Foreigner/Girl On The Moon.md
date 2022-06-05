@@ -14,24 +14,24 @@ From the album "4"
   ***Am***  
   Off on a journey, through space and time, in search of a face I can  
   never find  
-           ***F                    G      Am***  
+    ***F                    G      Am***  
   So I close my eyes and look inside  
   ***Am***  
   I can't forget, the night that I saw her we never met  
   ***Am***  
   She felt so close to me as I reached for her hand, she drifted away like  
   the desert sand  
-              ***F      G          Am***  
+    ***F      G          Am***  
   It was her and she was gone  
-                   ***Fmaj7            G***  
+    ***Fmaj7            G***  
   I wish she'd come back tonight  
-         ***Fmaj7             G***  
+    ***Fmaj7             G***  
   Like a star shining bright  
-            ***Fmaj7                   G***  
+    ***Fmaj7                   G***  
   I don't know where she's from  
   
   *(Chorus all on ***Am***)*  
-               ***Am***  
+    ***Am***  
   She's like a girl on the moon  
   A girl on the moon  
   She's like a girl on the moon  

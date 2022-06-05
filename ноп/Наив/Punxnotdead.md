@@ -3,7 +3,7 @@ Punxnotdead
   
   ***C            Am***  
   Punxnotdead-УРА!  
-               ***Dm***  
+    ***Dm***  
   Punxnotdead-УРА!  
-               ***F  E C***  
+    ***F  E C***  
   Punxnotdead-УРА-А-А!

@@ -6,7 +6,7 @@ Why don't we do it in the road?
   *Played at the battle of the bandin my high school by*  
   *"The Flying Buttafuocoes"*  
   
-                ***D***  
+    ***D***  
   Why don't we do it in the road?  
   
   Why don't we do it in the road?  

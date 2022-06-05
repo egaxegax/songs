@@ -2,9 +2,9 @@
 See You  
   
   *Chords  -  ***A7***   [x7768x]       ***G#***   [466544]*  
-             ****A***    [577655]       ***D***    [x5777x] (or [xx0232])*  
-             ***F    [133211]       C    [x3555x]***  
-             ***E    [022100]***  
+    ****A***    [577655]       ***D***    [x5777x] (or [xx0232])*  
+    ***F    [133211]       C    [x3555x]***  
+    ***E    [022100]***  
   
   ****A7*** (slow strum)   ***A*** (quick strum)*  
   ***F               E         A***  
@@ -23,7 +23,7 @@ See You
   I'm done resenting you, you represented me so well  
   ***D                       F                         E***  
   And this I promise you, how could I end up in the hands  
-                 ***A7   A***  
+    ***A7   A***  
   of someone else  
   
   *the album version is cool, but the b side version on*  

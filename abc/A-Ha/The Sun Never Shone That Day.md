@@ -4,7 +4,7 @@ The Sun Never Shone That Day (4:39)
   
       ***Cm                 Fm***  
   The sun never shone that day  
-           ***Db            Cm-Eb***  
+    ***Db            Cm-Eb***  
   From an early dawn the sky was grey  
      ***Cm                    Fm***  
   I never should've walked away  
@@ -16,11 +16,11 @@ The Sun Never Shone That Day (4:39)
   Everybody's led astray  
   ***C                      Fm***  
   Breaking every plan to stay  
-          ***Db  Db/Eb        C***  
+    ***Db  Db/Eb        C***  
   It happens all the time  
       ***Cm                   Fm***  
   The sun never shone that day  
-           ***Db             Cm     Eb***  
+    ***Db             Cm     Eb***  
   From an early dawn the sky was grey  
      ***Cm                    Fm***  
   I never should've walked I know  
@@ -32,7 +32,7 @@ The Sun Never Shone That Day (4:39)
   Everybody tells you so  
   ***C                   Fm***  
   Everybody wants to know  
-            ***Db   Db/Eb     C***  
+    ***Db   Db/Eb     C***  
   Why it happens all the time  
   ***F       Eb        Bb               C***  
   I can't see the point of turning everything upside down  
@@ -44,7 +44,7 @@ The Sun Never Shone That Day (4:39)
   I can't see the point of leaving everyone full of doubt (oh doubt)  
       ***Cm                   Fm***  
   The sun never shone that day  
-           ***Db             Cm     Eb***  
+    ***Db             Cm     Eb***  
   From an early dawn the sky was grey  
       ***Cm                   Fm***  
   I never should've walked away  
@@ -56,7 +56,7 @@ The Sun Never Shone That Day (4:39)
   Everybody lives alone  
   ***C               Fm***  
   Everybody hogs the phone  
-         ***Db  Db/Eb       C***  
+    ***Db  Db/Eb       C***  
   It happens all the time  
   ***C                   Fm***  
   Everybody feels the strain  
@@ -64,7 +64,7 @@ The Sun Never Shone That Day (4:39)
   Everybody holds the pain  
   ***C                   Fm***  
   Everybody stays the same  
-         ***Db  Db/Eb       C***  
+    ***Db  Db/Eb       C***  
   It happens all the time  
   ***F       Eb     Bb               C***  
   I can see the point of turning everything upside down  

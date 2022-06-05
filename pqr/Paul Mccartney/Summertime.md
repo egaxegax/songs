@@ -3,7 +3,7 @@ Summertime
   
   *Intro/vamp:*  
   ***|:  Dm6         A7       :|   Dm6         A+           |***  
-                                            Summer-  
+    Summer-  
   ***|   Dm6         A7        |   Dm6         A7           |***  
       time,                         an' the livin' is  
   ***|   Dm6         A7        |   Dm6         A7   Dm6     |***  
@@ -21,7 +21,7 @@ Summertime
   ***|   Dm                    |   Dm          Dm#7         |***  
       cry.  
   ***|   Dm6         A7        |   Dm6         A+           |***  
-                                        One of these  
+    One of these  
   ***|   Dm6         A7        |   Dm6         A7           |***  
       mornin's,                you goin' to rise up  
   ***|   Dm6         A7        |   Dm6         A7  Dm6      |***  

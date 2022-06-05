@@ -28,7 +28,7 @@ Riff:  3|----4--5--4-0-|
   With the lord of the boards you'll come and get around  
    ***C A H***  
   With the lord of the boards you'll come and get around  
-          ***C***  
+    ***C***  
   With the lord of the boards you'll come and get around  
    ***H         C  A***  
   With the lord of the boards, go mad like a clown  
@@ -49,7 +49,7 @@ Riff:  3|----4--5--4-0-|
   With the lord of the boards you'll come and get around  
    ***C A H***  
   With the lord of the boards you'll come and get around  
-          ***C***  
+    ***C***  
   With the lord of the boards you'll come and get around  
    ***H         C  A***  
   With the lord of the boards, go mad like a clown

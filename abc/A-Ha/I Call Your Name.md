@@ -2,41 +2,41 @@
 I Call Your Name (4:51)  
   *(Pal Waaktaar/Magne Furuholmen)*  
   
-          ***D           Am                G      F***  
+    ***D           Am                G      F***  
   We got married on a cold mid-winter's morning  
      ***D***  
   We said our lines  
-       ***Am***  
+    ***Am***  
   Then kissed  
-             ***G   F***  
+    ***G   F***  
   And it was over  
-         ***Hm                     G***  
+    ***Hm                     G***  
   Those pronouncements had such weight  
-               ***C           G***  
+    ***C           G***  
   I guess they made us hesitate  
-       ***D***  
+    ***D***  
   Hesitate  
-           ***D***  
+    ***D***  
   When she moved her hips  
-       ***Am             G      F***  
+    ***Am             G      F***  
   And swayed in my direction  
-                     ***D***  
+    ***D***  
   I thought we could make it yet  
-       ***Am            G    F***  
+    ***Am            G    F***  
   And beat the isolation  
       ***Hm             G***  
   But in that gentle dark  
-          ***C              G***  
+    ***C              G***  
   Man, we tore ourselves apart  
-          ***D         C***  
+    ***D         C***  
   Through fire and rain  
-          ***D              G***  
+    ***D              G***  
   Through wilderness and pain  
-               ***D                  Am***  
+    ***D                  Am***  
   Through the losses, through the gains  
       ***D                    G***  
   On love's roller coaster train  
-              ***D***  
+    ***D***  
   I call your name  
   ***D Am G F***  
   ***D                    G     F***  
@@ -45,5 +45,5 @@ I Call Your Name (4:51)
   Is the fire dying, babe  
   ***G           F***  
   It hurts to ask  
-         ***Hm           G       D  Am   G***  
+    ***Hm           G       D  Am   G***  
   Let me hold you for awhile.

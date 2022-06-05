@@ -31,6 +31,6 @@ Peach
   Around your neck from the girl you once loved  
     ***B***  
   Where is she now  
-       ***A***  
+    ***A***  
   You’re plum crazy  
   *(repeat chorus, then middle same as verse, then repeat chorus many times!)*

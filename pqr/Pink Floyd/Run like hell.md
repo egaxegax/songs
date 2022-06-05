@@ -22,33 +22,33 @@ Eb
 Run, run, run, run, run, run, run, run  
   
   
-           ->Em  
-          Fm  
+    ->Em  
+    Fm  
 You better make your face up in  
 Your favourite disguise  
   
-            ->F  
-          F#  
+    ->F  
+    F#  
 With your button down lips and your  
 Roller blind eyes  
   
-           ->Em  
-          Fm  
+    ->Em  
+    Fm  
 With your empty smile  
   
 And your hungry heart  
   
-          ->C  
-         Db  
+    ->C  
+    Db  
 Feel the bile rising from your guilty past  
-          B7  
+    B7  
 With your nerves in tatters  
 When the cockleshell shatters  
-        E  
+    E  
 And the hammers batter  
 Down your door  
-                 ->D  
-           D        Dm  
+    ->D  
+    D        Dm  
 You better run  
   
 D  A/D     Dsus  D    G6/D  G/D     D(9)  D  
@@ -61,13 +61,13 @@ Run, run,  run, run,   run, run, run, run
 Eb  
 Run, run, run, run, run, run, run, run  
   
-          ->Em  
-          F  
+    ->Em  
+    F  
 You better run all day  
 And run all night  
   
-               -> F  
-              F#  
+    -> F  
+    F#  
 And keep your dirty feelings  
 Deep inside. And if you're  
   
@@ -80,13 +80,13 @@ Out tonight,
     Fm     Db  
 You better park the car  
 Well out of sight  
-             B7  
+    B7  
 'Cos if they catch you in the backseat  
 Trying to pick her locks  
-              E  
+    E  
 They're gonna send you back to mother  
 In a cardboard box  
-           D  
+    D  
 You better run.  
   
 D  A/D     Dsus  D    G6/D  G/D     D(9)  D

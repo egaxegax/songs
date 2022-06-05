@@ -72,7 +72,7 @@ Ixnay On The Hombre 1997
   |-5--5--5-xxxx-3--3--5--5-5-|  
   |------------- 1--1--3--3-3-|  
   *Verse: Just Bass and Percussion until "When I was a..." then play*  
-         *the INTRO again 4 times.*  
+    *the INTRO again 4 times.*  
   *Chorus riff 1:  Play this 2 times...*  
   |--------------|  
   |--------------|  

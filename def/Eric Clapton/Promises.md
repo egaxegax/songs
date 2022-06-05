@@ -15,7 +15,7 @@
   The cause of commotion when you come to town  
   ***C***  
   Give 'em a smile and they melt  
-          ***G***  
+    ***G***  
   And the lovers and friends are all good and fine,  
       ***D                                *    G***  
   But I don't like yours and you don't like mine.  
@@ -27,7 +27,7 @@
   I don't care what you do at night and  
   ***C***  
   I don't care how you get your delights,  
-       ***G***  
+    ***G***  
   I'll leave you alone, I'll just let it be  
   ***D                              *    G***  
   I don't love you and you don't love me.  
@@ -47,7 +47,7 @@
   I try to love you for years upon years,  
   ***C***  
   You refuse to take me for real  
-       ***G***  
+    ***G***  
   It's time you saw what I want you to see  
       ***D                              *    G***  
   And I'd still love you if you just like me.  

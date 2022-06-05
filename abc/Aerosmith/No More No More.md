@@ -70,7 +70,7 @@ No More No More
   
   *(w/Fig. 1)*  
   *baby I'm a screamer  
-                     ***B***  
+    ***B***  
   bound to a wife in marriage  
   
   *(w/Fig. 1)*  
@@ -84,7 +84,7 @@ No More No More
   ***A***  
   times they're a changin' nothing ever stands still  
   if I don't* stop changin' I'll be writin' my will  
-           ***B***  
+    ***B***  
   it's the same old story never get a second chance  
   for a dance to the top of the hill  
   

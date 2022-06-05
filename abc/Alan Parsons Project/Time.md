@@ -2,7 +2,7 @@
 "The Turn of a Friendly Card"  
   Time  
   
-       ***D6         C9***  
+    ***D6         C9***  
   [X X O    X  
   ___________   ___________  
   | | | | | |   | | | | | |  
@@ -19,31 +19,31 @@
   Time, flowing like a river  
   ***D                    D6      Bm***  
   Time, beckoning me  
-                 ***A             C***  
+    ***A             C***  
   Who knows when we shall meet again  
   ***Bm      Bb***  
   If ever  
       ***D***  
   But time  
-                       ***D6***  
+    ***D6***  
   Keeps flowing like a river  
-         ***D***  
+    ***D***  
   To the sea  
   ***D                          D6       Bm***  
   Goodbye my love, Maybe for forever  
   ***D                                   D6***  
   Goodbye my love, The tide waits for me  
-                 ***A             C***  
+    ***A             C***  
   Who knows when we shall meet again  
   ***Bm      Bb***  
   If ever  
       ***D***  
   But time  
-                       ***D6***  
+    ***D6***  
   Keeps flowing like a river (on and on)  
-         ***D***  
+    ***D***  
   To the sea, to the sea  
-            ***Bm      Em***  
+    ***Bm      Em***  
   Till it's gone forever  
   ***C       B***  
   Gone forever  
@@ -53,17 +53,17 @@
   Goodbye my friends, Maybe for forever  
   ***D                                      D6***  
   Goodbye my friends, The stars wait for me  
-                  ***A             C***  
+    ***A             C***  
   Who knows where we shall meet again  
   ***Bm      Bb***  
   If ever  
       ***D***  
   But time  
-                       ***D6***  
+    ***D6***  
   Keeps flowing like a river (on and on)  
-         ***D***  
+    ***D***  
   To the sea, to the sea  
-            ***Bm      Em***  
+    ***Bm      Em***  
   Till it's gone forever  
   ***C       B***  
   Gone forever  

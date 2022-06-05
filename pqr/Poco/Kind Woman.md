@@ -13,17 +13,17 @@ Kind Woman
   ***F                       C         F-Em-Dm-C***  
   Fell in love the first time.  
   
-       ***Am         C-Am***  
+    ***Am         C-Am***  
 CHORUS:  Kind woman  
   ***Am                   F***  
   Won't you love me tonight  
-                     ***C    F-C-F G***  
+    ***C    F-C-F G***  
   The look in your eyes  
-         ***Am    C-Am***  
+    ***Am    C-Am***  
   Kind woman  
   ***Am7                      F***  
   Don't leave me lonely tonight  
-                       ***C     F-Em-Dm-C***  
+    ***C     F-Em-Dm-C***  
   Please say it's all right  
   
   ***C                                 F - F# - G***  

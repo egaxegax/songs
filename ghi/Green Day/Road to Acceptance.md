@@ -38,18 +38,18 @@ PreChorus: i feel forgotten feel like rotting
   do you feel the same?  
   ***D           C***  
   adolescence just can't make sense  
-       ***G       D  C***  
+    ***G       D  C***  
   it's calling my name  
   
   ***D              C                           G***  
 CHORUS:  i take a look around at all the things i've found  
-                  ***D***  
+    ***D***  
   i call it blind hatred  
   ***D                   C                     G***  
   if you'd stop for a while, maybe if you'd smile  
-                    ***D          C       D***  
+    ***D          C       D***  
   you would realize that we're all the same  
-       ***D    C      G***  
+    ***D    C      G***  
   it's just like a brain  
   when it   goes   insane  
   we   feel the same pain  
@@ -73,7 +73,7 @@ CHORUS:  i take a look around at all the things i've fou
   you would realize  
   ***D          C       D***  
   that we're all the same  
-       ***D    C      G***  
+    ***D    C      G***  
   it's just like a brain  
   when it   goes   insane  
   we   feel the same pain  

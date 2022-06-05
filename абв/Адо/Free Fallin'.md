@@ -3,7 +3,7 @@
   Free Fallin'  
   (Tom Petty & Jeff Lynne)  
   
-           ***G          C         D***  
+    ***G          C         D***  
   She's a good girl, loves her mama.  
   Loves Jesus and America too.  
   She's good girl. She's crazy 'bout Elvis.  
@@ -14,7 +14,7 @@
   And I'm a bad boy 'cause I don't even miss her.  
   I'm a bad boy for breakin' her heart.  
   
-            ***G C D     G     C D***  
+    ***G C D     G     C D***  
   An' I'm free, free fallin'  
   Yeah I'm free, free fallin'  
   

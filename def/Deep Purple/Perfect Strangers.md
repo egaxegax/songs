@@ -34,8 +34,8 @@ Perfect Strangers
   ***C5***/***D5*** | ***F5***/***G5***  
   ***C5***/***D5                          F5***/***G5***  
      Can you remember...  
-                                ***C5***/***D5***  
-                        ...your life  
+    ***C5***/***D5***  
+    ...your life  
   
   *Bridge 1*  
   ****A5*** Powerchord, with:*  
@@ -54,7 +54,7 @@ Perfect Strangers
   ***F5***  
   ***C       Dm***  
   And if you...  
-            ***G***  
+    ***G***  
   ...understand  
      ***Dm    C***  
   we must remain...  

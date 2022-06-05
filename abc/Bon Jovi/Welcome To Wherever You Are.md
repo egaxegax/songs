@@ -19,7 +19,7 @@ E---------------------------------------------|
   
  ***E***  
 Maybe we're all different  
-          ***A***  
+    ***A***  
 But we're still the same  
  ***C#m                          A***  
 We all got the blood of Eden running to our veins  
@@ -31,7 +31,7 @@ You cought between just who you are and who you want to 
 (bridge)  
  ***H                              A***  
 If you feel alone and lost and need a friend  
-        ***H                       A***  
+    ***H                       A***  
 Remember every new beginning is some beginning's end  
   
 (Chorus)  
@@ -43,7 +43,7 @@ This is your life, you made it this far
 Welcome, you got to believe  
      ***C#m                         A***  
 That right here right now you're exactly where you're supposed to be  
-         ***H               E    A***  
+    ***H               E    A***  
 Welcome to wherever you are  
   
 (Verse)  
@@ -56,9 +56,9 @@ Everyone's a miracle in their own way
      ***C#m                        A***  
 Just listen to yourself not what other people say  
   
-        ***H                              A***  
+    ***H                              A***  
 When it seems you're lost alone and feeling down  
-         ***H                            A***  
+    ***H                            A***  
 Remember everybody's different, just take a look around  
   
  ***E          H***  
@@ -91,7 +91,7 @@ That right here right now you're exactly where you're supposed
 Welcome to wherever you are  
  ***C#m                    A***  
 This is your life, you made it this far  
-             ***E          E5/Eb***  
+    ***E          E5/Eb***  
 (I say welcome) Welcome to wherever you are  
  ***C#m                    A***  
 This is your life, you made it this far (Welcome)

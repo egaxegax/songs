@@ -6,7 +6,7 @@ D|-------------4/2--------------0-----|
 A|-7---6---5-------4------2-------4-0-|  
 E|------------------------------------|  
   
-                 (A)                Em7  
+    (A)                Em7  
 Let me take you down, cos I`m going to Strawberry Fields  
 F#m7                   D            F#  
 Nothing is real, and nothing to get hung about  
@@ -33,7 +33,7 @@ Strawberry Fields forever
 riff 2  
 No one I think is in my tree,  
  C#m7 F#m          F#m7            Dmaj7  
-        I mean it must be high or low  
+    I mean it must be high or low  
  D            E7                  A                F#m  E  
 That is, you can`t you know tune in but it`s all right  
  D            E                D  A  
@@ -41,7 +41,7 @@ That is, I think it`s not too bad ...CHORUS
   
  E(IV)  G#m       E7(II)           Bm7 C#m7 F#m  
 Always know, sometimes think it`s me  
-                F#m7                Dmaj7  riff 2  
+    F#m7                Dmaj7  riff 2  
 But you know I know when it`s a dream  
  D          E7             A                  F#m  E  
 I think a "no" will be a "yes", but it`s all wrong  

@@ -6,7 +6,7 @@
   
     ***G                  Am***  
   Clouds so swift and rain fallen in  
-          ***C                          G***  
+    ***C                          G***  
   You're gotta see your movie, call dong and ding  
   Back up your money, but all you (ten) from the wind  
   You ain't goin' nowhere  

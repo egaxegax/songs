@@ -2,23 +2,23 @@
 D  
 Christina the Astonishing  
   
-                  Gm  
+    Gm  
 Lived a long time ago  
 She was stricken with a seizure  
   
-                     D  
+    D  
 At the age of twenty-two  
 They took her body in a coffin  
   
-                    Gm  
+    Gm  
 To a tiny church in Liege  
 Where she sprang up from the coffin  
   
-                     D  
+    D  
 Just after the Agnus Dei  
 She soared up to the rafters  
   
-                      Gm  
+    Gm  
 Perched on a beam up there  
 Cried "The stink of human sin  
   

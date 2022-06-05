@@ -11,12 +11,12 @@ intro:  |------------------------------2---3----------2-------3------2-----5
   |----5-----------------------------5------------------5----------------5-----  
   |-----3----------------------------3------------------3----------------3-----  
   
-                                    ***(G)                   (D)***  
-                                       "Some want to think hope is lost  
-                                    ***(G)           (D)***  
-                                       see me stand alone  
-                                    ***(G)             (D)***  
-                                       I can do what others may want  
+    ***(G)                   (D)***  
+    "Some want to think hope is lost  
+    ***(G)           (D)***  
+    see me stand alone  
+    ***(G)             (D)***  
+    I can do what others may want  
   
   |-2---2-----------3------2----|  
   |-3-----5p3-3-2p3-3------3----|  
@@ -24,11 +24,11 @@ intro:  |------------------------------2---3----------2-------3------2-----5
   |-0---------------5------0----|  
   |-----------------5-----------|  
   |-----------------3-----------|  
-          ***(G)                (D)***  
-            but then I'll have no home.  
+    ***(G)                (D)***  
+    but then I'll have no home.  
   
   *verse(clean):*  
-         ***D            A       Bm                   F#m***  
+    ***D            A       Bm                   F#m***  
   So for now wave goodbye and keep your hands held high  
   ***G                 D       Em            A***  
   hear this song of courage long into the night  
@@ -61,9 +61,9 @@ intro:  |------------------------------2---3----------2-------3------2-----5
   *bridge:*  
   ***B5          G5                       D5           A5***  
   Battles are fought by those with the courage to believe  
-           ***B5               G5               D5                A5***  
+    ***B5               G5               D5                A5***  
   they are won by those who find the hearts, find the heart to share  
-       ***B5                G5                  D5          A5***  
+    ***B5                G5                  D5          A5***  
   this partner feels the soul will point the way to victory  
   ***G5                          A5***  
   if there's a fight, I'll be there, I'll be there  

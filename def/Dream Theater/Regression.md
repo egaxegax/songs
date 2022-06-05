@@ -3,7 +3,7 @@ Metropolis Pt. 2: Scenes from a memory
   Regression (act I-scene One)  
   
   *Here's the chords. Play it now!*  
-        ***D   D/F#  G   D/C# D/B  D/A  E/G# Asus4 A***  
+    ***D   D/F#  G   D/C# D/B  D/A  E/G# Asus4 A***  
   [E|----2----2----3----2----2----2----0----0----0----|  
   B|----3----3----3----3----3----3----0----3----2----|  
   G|----2----2----0----2----2----2----1----2----2----|  
@@ -17,13 +17,13 @@ Metropolis Pt. 2: Scenes from a memory
   Free of the fear and the pain  
      ***D/B***  
   My subconcious mind  
-         ***D/A***  
+    ***D/A***  
   Starts spinning through time  
      ***E/G#                   Asus4   A***  
   To rejoin the past once again  
   ***D***  
   Nothing seems real  
-        ***D/F#***  
+    ***D/F#***  
   I'm starting to feel  
   ***G                       D   D/C#***  
   Lost in the haze of a dream  

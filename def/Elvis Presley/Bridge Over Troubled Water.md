@@ -10,13 +10,13 @@ Bridge Over Troubled Water
   I'm on your site, oh, When times get rough  
   ***C  C7           F     Dm  G7    C7***  
   And friends just can't be found  
-        ***Dm      G7    C       Am     F***  
+    ***Dm      G7    C       Am     F***  
   Like a bridge over troubled water,  
-         ***G     Am    C7***  
+    ***G     Am    C7***  
   I will lay me down,  
-            ***Dm      G7    C       Am    F***  
+    ***Dm      G7    C       Am    F***  
   Oh, like a bridge over troubled water  
-         ***G7       C***  
+    ***G7       C***  
   I will lay me down  
   ***C                         F              C***  
   When you're down and out, when you're on the streets  

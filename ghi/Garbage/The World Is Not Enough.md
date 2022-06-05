@@ -7,7 +7,7 @@ Am              Em
 I know how to kill  
 Am               F  
 I know what to show  
-                H7  
+    H7  
 And what to conceal  
 Am              Em  
 I know when to talk  
@@ -17,13 +17,13 @@ And I know when to touch
 No one ever died from wanting too much  
   
 Chorus:  
-              Em  
+    Em  
 The world is not enough  
-                           Am                H7  
+    Am                H7  
 But it is such a perfect place to start, my love  
-                 Em  
+    Em  
 And if you're strong enough  
-                          Am               H7  
+    Am               H7  
 Together we can take the world apart, my love  
   
 People like us  

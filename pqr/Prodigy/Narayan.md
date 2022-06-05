@@ -9,12 +9,12 @@ intro:  ***F G#***
   If you believe the western sun is falling down on everyone  
   ***G#***  
   If you break it free and the morning’s come  
-                                   ***F***  
+    ***F***  
   If you would now your time has come  
   If you believe the western sun is falling down on everyone  
   ***G#***  
   And you feel it burn, don’t try to run  
-                                       ***A#***  
+    ***A#***  
   And you feel it burn, your time has come  
   ***F***  
   And I feel it  

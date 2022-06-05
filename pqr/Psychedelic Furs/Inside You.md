@@ -8,16 +8,16 @@
   And all the papers lie tonight  
       ***A***  
   And falling over you  
-         ***D***  
+    ***D***  
   Is the news of the day  
   ***D2               C#m***  
   Angles fall like rain  
-       ***D2                    (C#m)Amaj7***  
+    ***D2                    (C#m)Amaj7***  
   And love (love,love...) is only heaven away  
   
      ***E                          F#m         D***  
 chorus:  Inside you the time moves and she don't find  
-       ***E                     F#m***  
+    ***E                     F#m***  
   The ghost in you she don't find  
      ***E                          F#m          D***  
   Inside you the time moves and she don't find  

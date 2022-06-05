@@ -9,11 +9,11 @@ Intro:  ***Bm   G  Em  Bm***
   
   ***Bm***  
   You keep on moving  
-        ***G  Em       Bm***  
+    ***G  Em       Bm***  
   Far away,   far away  
   ***Bm***  
   You keep on moving  
-        ***G  Em       Bm***  
+    ***G  Em       Bm***  
   Far away,   far away  
   ***Bm***  
   Everyday, wheels are turning  
@@ -21,7 +21,7 @@ Intro:  ***Bm   G  Em  Bm***
   And the cry.....still returning  
   ***Em***  
   Dawn will soon be breaking  
-       ***Bm***  
+    ***Bm***  
   The day has just begun  
   ***Em***  
   You put your arms around me  
@@ -35,11 +35,11 @@ Intro:  ***Bm   G  Em  Bm***
   Where angels fear to tread  
   ***Bm***  
   You keep on moving  
-        ***G  Em       Bm***  
+    ***G  Em       Bm***  
   Far away,   far away  
   ***Bm***  
   You keep on moving  
-        ***G  Em       Bm***  
+    ***G  Em       Bm***  
   Far away,   far away  
   ***Bm***  
   Everyday, wheels are turning  

@@ -5,11 +5,11 @@ Dehumanized States of America (1994)
   
    ***A***  
   More or less! More or less! More or less! More or less!  
-                                            ***G# G***  
+    ***G# G***  
   More or less! More or less! - organized chaos!  
    ***A***  
   More or less! More or less! More or less! More or less!  
-                                            ***G# G***  
+    ***G# G***  
   More or less! More or less! - organized chaos!  
   
    ***D                      C***  
@@ -23,11 +23,11 @@ Dehumanized States of America (1994)
   
   ***A***  
   Don't give me peace and love  
-          ***Cdim***  
+    ***Cdim***  
   Or the good lord above...  
   ***A***  
   I was told someone died last night  
-       ***Cdim***  
+    ***Cdim***  
   Why do I have to make love tonight...  
   ***A                         Cdim***  
   My eyes are dry, but I'm bored to tears,  
@@ -45,9 +45,9 @@ Dehumanized States of America (1994)
   
   ***E          G               Hm***  
   I made my way across the skin,  
-               ***Dm                 E***  
+    ***Dm                 E***  
   Across the skin - right to the heart,  
-                 ***G                    Hm***  
+    ***G                    Hm***  
   But I slipped face down on all the fat!  
-                    ***Dm                    A C#m A B C D***  
+    ***Dm                    A C#m A B C D***  
   Right face down flat - in all that fat!

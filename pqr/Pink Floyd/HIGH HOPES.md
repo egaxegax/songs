@@ -10,14 +10,14 @@ E------------------------------------------------------------------------
   
 Cm            Cm7           Ab                              Cm  
 Beyond the horizon of the place we lived when we were young  
-              Cm7                 Ab  
+    Cm7                 Ab  
 In a world of magnets and miracles  
 Cm                      Cm7              Ab  
 Our thoughts strayed constantly and without boundary  
 Cm                   Cm7                 Ab  
 The ringing of the division bell had begun  
   
-              Bb            G7  
+    Bb            G7  
 Along the long road and on down the causeway  
 Ab             Bb            G7  
 Do they still meet there by the cut.  

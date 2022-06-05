@@ -5,15 +5,15 @@ Dark Globe
   Oh where are you now, pussy willow that smiled on this leaf?  
   ***C                               D               G***  
   When I was alone you promised a stone from your heart.  
-                     ***G7***  
+    ***G7***  
   My head kissed the ground  
-                     ***C***  
+    ***C***  
   I was half the way down  
-               ***G     D***  
+    ***G     D***  
   Treading the sand, please...  
   ***G             C         D      C***  
   Please lift a hand, I'm only a person  
-        ***D         C            D***  
+    ***D         C            D***  
   Whose arm bands beads on his hands hang tall.  
   ***G                  D***  
   Won't you miss me,  
@@ -25,9 +25,9 @@ Dark Globe
   Brandish a wand with a feathery tong.  
   ***G                  G7***  
   My head kissed the ground  
-                     ***C***  
+    ***C***  
   I was half the way down  
-               ***G     D       C***  
+    ***G     D       C***  
   Treading the sand, please, please...  
   ***G             C         D      C***  
   Please lift a hand, I'm only a person.  

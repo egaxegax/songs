@@ -10,14 +10,14 @@ from the albumn Led Zeppelin III
   *it is...*  
   
   *Key:   ^  =  downstroke*  
-         *v  =  upstroke*  
+    *v  =  upstroke*  
   
   *Open G tuning  [| D |]*  
-                 [| B |]  
-                 [| G |]  
-                 [| D |]  
-                 [| G |]  
-                 [| D |]  
+    [| B |]  
+    [| G |]  
+    [| D |]  
+    [| G |]  
+    [| D |]  
   ** (If you want you can play the fifth string also)*  
   *Riff 1*  
      *^ v ^ v  ^  ^   v   ^  v ^  ^ v ^ v  ^  ^   v ^ ^ v ^ v*  

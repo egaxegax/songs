@@ -38,7 +38,7 @@
   A lot of people won't get no justice tonight  
       ***Bm      F#m7       Bm      F#m7***  
   The battle   is gettin hotter  
-           ***Bm   F#m7       Bm          F#m7***  
+    ***Bm   F#m7       Bm          F#m7***  
   In this iration,     Armegideon time  
   A lot of people runnin and a hiding tonight  
   A lot of people won't get no justice tonight  

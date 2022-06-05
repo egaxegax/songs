@@ -21,16 +21,16 @@
 CHORUS:  Jane    doesn't think a man can ever be faithful  
       ***D       G      G/F# Em                Am***  
   Jane  isn't giving me a chance to be shameful  
-       ***D  Am     D***  
+    ***D  Am     D***  
   Jane    Jane  
   
   ***Bm        Em***  
 BRIDGE:  I wrote a letter  
-                  ***C            D    Eb   Em***  
+    ***C            D    Eb   Em***  
   She should have got it yesterday  
-                ***Bm***  
+    ***Bm***  
   Life could be better  
-             ***C***  
+    ***C***  
   By being together  
-            ***Am        D       Csus2  Em7  A7sus4  G***  
+    ***Am        D       Csus2  Em7  A7sus4  G***  
   Is what I cannot explain to Jane

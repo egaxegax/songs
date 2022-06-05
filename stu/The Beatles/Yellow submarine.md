@@ -19,12 +19,12 @@ In our yellow submarine
 CHORUS:  
    G                  D  
   We all live in a yellow submarine  
-                       G  
+    G  
   Yellow submarine, yellow submarine  
   
   G                  D  
   We all live in a yellow submarine  
-                     G  
+    G  
   Yellow submarine, yellow submarine  
   
 And our friends are all on board  

@@ -35,7 +35,7 @@ Et I?on s?aimera encore lorsque I?amour sera mort
 Eb  
 Toute la vie  
   
-                Dm  
+    Dm  
 Sera pareille a ce matin  
   
 A7#                       A  

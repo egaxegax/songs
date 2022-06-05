@@ -8,15 +8,15 @@ Intro:  ***Em G C G Am G C D Am G C D G***
   When lights go down I see no reason   for you to cry  
   ***G                 C       D     D        Em              G C***  
   We've been thro' this before   in every time   in every season  
-        ***G         Am    G                   C       D***  
+    ***G         Am    G                   C       D***  
   God knows I've tried     so please don't ask for more  
-             ***C            D          C                 Am       D    C D***  
+    ***C            D          C                 Am       D    C D***  
   Can't you see it in my eyes  Well this might be our last goodbye  
   ***G   D   Em         D      C D Em***  
   Car    rie     car   rie  
-              ***Dsus4       D     G     D      G      D     C D Em***  
+    ***Dsus4       D     G     D      G      D     C D Em***  
   things they change my friend     Car  rie     car  rie  
-              ***Dsus4     D   Am        G C             G***  
+    ***Dsus4     D   Am        G C             G***  
   maybe we'll meet        again       somewhere      again  
   
 verse 2: I read your mind, with no intensions  

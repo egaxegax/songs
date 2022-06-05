@@ -11,7 +11,7 @@ Moment Of Truth (1994)
   
   ***Am               Am/G#***  
   Love is blind but I can see  
-         ***Am/G             Am/F#***  
+    ***Am/G             Am/F#***  
   You're trying to make a fool of me  
   ***F           E***  
   I know - I know  
@@ -19,7 +19,7 @@ Moment Of Truth (1994)
   Sometimes I feel just like I'm running on ice  
   ***Fm               Db***  
   I might slip and slide girl  
-           ***Ab           Bb***  
+    ***Ab           Bb***  
   But you won't hurt me twice, oh no  
   *CHORUS*  
   ***C         C/H      Am***  
@@ -46,15 +46,15 @@ Moment Of Truth (1994)
   ***Eb                     F***  
   Did you ever feel like superman  
   got the world in your hands  
-                ***Cm***  
+    ***Cm***  
   But you never can  
   Seem to break down the walls  
   ***Eb                       F***  
   Did you ever feel like a drowning man  
   Got your life in your hands  
-                ***Cm***  
+    ***Cm***  
   But you never can  
-          ***F***  
+    ***F***  
   Seem to break down the walls  
   Sometimes it feels just like I'm running on ice  
   I might slip and slide girl  

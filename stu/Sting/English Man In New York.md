@@ -7,7 +7,7 @@ Em         A                Bm
 I like my toast done on the side  
 Em           A            Bm            Bm7  
 And you can hear it in my accent when I talk  
-        Em        A       Bm   Bm7  
+    Em        A       Bm   Bm7  
 I'm an Englishman in New York  
   
 See me walking down Fifth Avenue  
@@ -17,11 +17,11 @@ I'm an Englishman in New York
   
 Em      A      Bm          Bm7  
 I'm an alien   I'm a legal alien  
-        Em        A       Bm   Bm7  
+    Em        A       Bm   Bm7  
 I'm an Englishman in New York  
 Em      A      Bm          Bm7  
 I'm an alien   I'm a legal alien  
-        Em        A       Bm   Bm7  
+    Em        A       Bm   Bm7  
 I'm an Englishman in New York  
   
 If "manners maketh man" as someone said  

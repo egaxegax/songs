@@ -11,11 +11,11 @@ verse:  You're not the only one
   Amongst the saints and sinners  
   ***F#m                   D***  
   There are those that we can see  
-        ***B              E***  
+    ***B              E***  
   And those no longer with us  
   ***F#m           D***  
   To take that walk again  
-        ***E                 B***  
+    ***E                 B***  
   With someone you were close to  
   ***F#m             D              C#***  
   On stage in the other world tonight  
@@ -67,7 +67,7 @@ guitar:                        *
 bridge:  I can remember  
   ***Em9            G-Em9***  
   You were no stranger  
-          ***F#***  
+    ***F#***  
   As you came to me  
   ***Am***  
   Dreamers walking  
@@ -75,7 +75,7 @@ bridge:  I can remember
   And in that moment  
   ***Em9           G-Em9***  
   Between two worlds  
-             ***F#***  
+    ***F#***  
   I saw the furthest star  
   ***Am***  
   Exploding all around you  
@@ -231,14 +231,14 @@ verse:  A time so real as the one
   D|----------------------------------------------------------|  
   A|----------------------------------------------------------|  
   E|----------------------------------------------------------|  
-                    ***B***  
+    ***B***  
   E|-14-14-17-14-14-16-14-14-17-14-14-19-14-14-17-14-14-16-|  
   B|-------------------------------------------------------|  
   G|-------------------------------------------------------|  
   D|-------------------------------------------------------|  
   A|-------------------------------------------------------|  
   E|-------------------------------------------------------|  
-                                       ***F#m***  
+    ***F#m***  
   E|-14-14-17-14-14-19-14-14-17-14-14--14--|  
   B|---------------------------------------|  
   G|---------------------------------------|  

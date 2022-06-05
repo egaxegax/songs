@@ -16,7 +16,7 @@ Intro:  ***Gm***
    ***C                                         Gm***  
   she makes you burn with a wave of her hand.___  
   The city's ablaze, the town's on fire;  
-       ***F/G***  
+    ***F/G***  
   the woman's flames are reachin' higher.  
   ***Gm***  
   We were fools, we called her "liar";  
@@ -33,9 +33,9 @@ Intro:  ***Gm***
   
   ***Dm                  Bb***  
   You know we had no time,  
-                   ***Am         Bb***  
+    ***Am         Bb***  
   we could not even try,______  
-                     ***Dm      Bb/D    C/D   Gm***  
+    ***Dm      Bb/D    C/D   Gm***  
   You know we had no time.  
   
   The sky is red, I don't understand;  

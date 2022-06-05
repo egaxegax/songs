@@ -10,7 +10,7 @@ Atomic Punk
   *This seem's to make it more fatter or give it just the right hint of*  
   *sustain when you need it. I think. Tune those babies down a 1/2 step too.*  
     *Atomic Punk by V.H. intro                                        _*  
-                             *use vibrato    _= whammy a few times[re 7]*  
+    *use vibrato    _= whammy a few times[re 7]*  
   [e  
   b                                                                           _  
   g                                                        7   8              7  

@@ -23,7 +23,7 @@ A cage or the heaviest cross ever made
 G                G7         G         Eb5  
 A gauge of the deadliest trap ever laid  
   
-       Cm             Em         G  
+    Cm             Em         G  
 And I thank you for bringing me here  
       Am        C  
 For showing me home  

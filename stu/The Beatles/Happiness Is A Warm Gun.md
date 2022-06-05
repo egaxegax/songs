@@ -3,17 +3,17 @@ Am9       Am6    Em         Am   �
 She`s not a girl   who misses much Du du du du du du Oh yeah  
 Dm  
 She`s well acquainted with the touch of the velvet hand  
-                   Am  
+    Am  
 like a lizard on a window pane The  
 Dm  
 man in the crowd with the multicolored  
-               Am  
+    Am  
 mirrors on his hobnail boots  
 Dm                                                   Am  
 Lying with his eyes while his hands are busy working overtime  
 Dm  
 A soap impression of his wife which  
-                          Am  
+    Am  
 he ate and donated to the national trust  
   
 A7 C Am  

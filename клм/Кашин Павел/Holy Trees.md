@@ -3,16 +3,16 @@
   Holy Trees  
   *(П. Кашин)*  
   
-          ***Cm               Gm***  
+    ***Cm               Gm***  
   You’ve got an invitation  
-       ***Cm                     Gm***  
+    ***Cm                     Gm***  
   But you don’t have the guts  
    ***Cm                        Gm***  
   You have been so kind, so patient  
    ***Cm                        Gm***  
   Now you’re going slightly nuts  
   
-       ***Fm***  
+    ***Fm***  
   With all your plastic desires  
   With all your trivial dreams  
    ***Cm***  
@@ -20,7 +20,7 @@
   ***D7                   G7***  
   All of them full of beans  
   
-            ***Fm***  
+    ***Fm***  
   When the world becomes a little bit concrete  
   And all those clowns displease  
    ***Cm***  

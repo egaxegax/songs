@@ -11,7 +11,7 @@ My Town
   E:-5-5-5-5-5-5-5---0-0-0-0-0-0-0--2-2-2-2-2-2-2----5-5-5-5-5-5-5------]  
   
   *Main Riff: Play several times*  
-       ***A                        E                    F#m            D***  
+    ***A                        E                    F#m            D***  
   ***A***  
   [e:--x-5-x-5-x-5-x-5--x-------------------------------------x-5-x5x5-5-  
   B:--x-5-x 5-x-5-x-5--x-9-x-9x9-x9---x-10-10-10---x-7-7-7---x-5x-5x5-5-  
@@ -27,6 +27,6 @@ My Town
   ***D                             E                      D             Dbm***  
   ***Bm***  
   My town, my street...Give me peace of mind that cant be beat,  
-                                 ***E                      D             Dbm***  
+    ***E                      D             Dbm***  
   ***Bm***  
-                                 Give me peace of mind that cant be beat
+    Give me peace of mind that cant be beat

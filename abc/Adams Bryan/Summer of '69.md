@@ -33,7 +33,7 @@ Intro:  ***D* A* D* A****
   those were the best days of my life - back in the summer of '69  
   ***F           Bb***  
   man we were killin' time  
-          ***C                       Bb***  
+    ***C                       Bb***  
   we were young and reckless - we needed to unwind  
   ***F       Bb                  C***  
   i guess nothing can last forever...  

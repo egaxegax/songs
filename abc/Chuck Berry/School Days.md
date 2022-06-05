@@ -1,17 +1,17 @@
 <!--2020-09-06 19:11:21-->
 School Days  
   
-                                   ***G***  
+    ***G***  
   Up in the mornin' and out to school  
-                                      ***G***  
+    ***G***  
   The teacher is teachin' the Golden Rule  
-                                  ***C***  
+    ***C***  
   American history and practical math  
-                                   ***G***  
+    ***G***  
   You studyin' hard and hopin' to pass  
-                                          ****D   C***(no chords)*  
+    ****D   C***(no chords)*  
   Workin' your fingers right down to the bone  
-                                           ***G***  
+    ***G***  
   And the guy behind you won't leave you alone  
   Ring, ring goes the bell  
   The cook in the lunch room's ready to sell  

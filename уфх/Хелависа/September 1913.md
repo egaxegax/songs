@@ -3,21 +3,21 @@ Running to Paradise (1996)
   September 1913  
   *(W. B. Yeats)*  
   
-         ***Em             C***  
+    ***Em             C***  
   What need you, being come to sence,  
-       ***G                  D***  
+    ***G                  D***  
   But fumble in a greasy till  
-       ***Em                C***  
+    ***Em                C***  
   And add the halfpence to the pence  
-        ***G                            D***  
+    ***G                            D***  
   And prayer to shivering prayer, until  
-             ***Em       F#       Hm(?)  G***  
+    ***Em       F#       Hm(?)  G***  
   You have dried the marrow from the bone?  
-       ***D                         A***  
+    ***D                         A***  
   For men were born to pray and save:  
       ***C                D       Am***  
   Romantic Ireland's dead and gone, | ***C D G***  
-        ***C            D       Em     |***  
+    ***C            D       Em     |***  
   It's with O'Leary in the grave.   | ***C D Em***  
   
   Yet they were of a different kind,  
@@ -49,25 +49,25 @@ Running to Paradise (1996)
   
 -  
   
-         ***Em             C***  
+    ***Em             C***  
   What need you, being come to sence,  
-       ***G                  D***  
+    ***G                  D***  
   But fumble in a greasy till  
-       ***Em                C***  
+    ***Em                C***  
   And add the halfpence to the pence  
-        ***G                            D***  
+    ***G                            D***  
   And prayer to shivering prayer, until  
-             ***Em       F#      Hm      D***  
+    ***Em       F#      Hm      D***  
   You have dried the marrow from the bone?  
-                                 ***A***  
+    ***A***  
   For men were born to pray and save:  
      ***C                D        Am***  
   Romantic Ireland's dead and gone,  
-        ***C            D       Em***  
+    ***C            D       Em***  
   It's with O'Leary in the grave.  
      ***C                D        G***  
   Romantic Ireland's dead and gone,  
-        ***C            D       Em***  
+    ***C            D       Em***  
   It's with O'Leary in the grave.  
   
   Yet they were of a different kind,  

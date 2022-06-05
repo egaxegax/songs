@@ -9,7 +9,7 @@
       *1st time    Slowly crossing...*  
       *2nd time    Never stopping...*  
       *3rd time    And this last time...*  
-        *x8        x4         x3*  
+    *x8        x4         x3*  
   [e|-----|     |----|     |----|   |-----------|  
   B|---5-|     |4---|     |---4|   |7p4h7p4---4|  
   G|6-6--|     |-6-6|     |5-5-|   |-------5-5-|  
@@ -17,7 +17,7 @@
   A|-----|     |----|     |----|   |-----------|  
   E|-----|     |----|     |----|   |-----------|]  
       *4th time    For he awaits me...*  
-        *x8         x4        x3*  
+    *x8         x4        x3*  
   [e|-----|     |----|     |----|   |----------|  
   B|---5-|     |4---|     |---4|   |5-6-8-6-5-|  
   G|6-6--|     |-6-6|     |5-5-|   |----------|  
@@ -25,7 +25,7 @@
   A|-----|     |----|     |----|   |----------|  
   E|-----|     |----|     |----|   |----------|]  
   
-              He calls my name,             .. and waves me on.  
+    He calls my name,             .. and waves me on.  
   [e |-------|                     e |-------|  
   B |-------|                     B |-------|  
   G |-------|                     G |-------|  
@@ -39,7 +39,7 @@
   D |6---6-6-2---4---4-4-2---6---6-6-4-6-|  |----------|  
   A |4---4-4-0---2---2-2-0---4---4-4-2-4-|  |----------|  
   E |------------------------------------|  |----------|]  
-              The fallen one,             .. he stands in flames.  
+    The fallen one,             .. he stands in flames.  
   [e |-------|                     e |-------|  
   B |-------|                     B |-------|  
   G |-------|                     G |-------|  
@@ -90,7 +90,7 @@
   *wrote it. -Make your own solo, dude!*  
   
   *After the solo:*  
-                    Dark Lord, I summon thee  
+    Dark Lord, I summon thee  
   [e |--------------|  
   B |--------------|  
   G |--------------|  
@@ -98,21 +98,21 @@
   A |2-2---4--2--4-|  
   E |0-0---2--0----|]  
   
-                    Demanding the sacred right to burn in hell  
+    Demanding the sacred right to burn in hell  
   [e |--------------|  
   B |--------------|  
   G |--------------|  
   D |------------4-|  
   A |2-2---4--2--2-|  
   E |0-0---2--0----|]  
-                    Ride up on hell's hot wind  
+    Ride up on hell's hot wind  
   [e |--------------|  
   B |--------------|  
   G |--------------|  
   D |------------2-|  
   A |2-2---4--2--0-|  
   E |0-0---2--0----|]  
-                   Face one more evil than thou  
+    Face one more evil than thou  
   
   [e |--------------|  
   B |--------------|  
@@ -120,7 +120,7 @@
   D |--------------|  
   A |2-2---4--2--2-|  
   E |0-0---2--0--0-|]  
-                   Take my lustful soul  
+    Take my lustful soul  
   [B |--------------|  
   G |--------------|  
   D |------------6-|  
@@ -128,21 +128,21 @@
   E |0-0---2--0----|  
   e |--------------|]  
   
-                   Drink my blood as I drink yours  
+    Drink my blood as I drink yours  
   [e |--------------|  
   B |--------------|  
   G |--------------|  
   D |------------4-|  
   A |2-2---4--2--2-|  
   E |0-0---2--0----|]  
-                    Impale me on the horns of death  
+    Impale me on the horns of death  
   [e |--------------|  
   B |--------------|  
   G |--------------|  
   D |------------2-|  
   A |2-2---4--2--0-|  
   E |0-0---2--0----|]  
-                  Cut off my head release all my evil   Lucifer is king  
+    Cut off my head release all my evil   Lucifer is king  
   Praise Satan  
   [e |--------------|                                   |----|  
   B |--------------|                                   |----|  
@@ -151,8 +151,8 @@
   A |2-2---4--2--7-|                                   |7-6-|  
   E |0-0---2--0--0-|                                   |----|]  
   
-        I know the one who waits, -Satan!  is his name  
-        Across the bridge of death, here he stands in flame  
+    I know the one who waits, -Satan!  is his name  
+    Across the bridge of death, here he stands in flame  
   [e |----------------------------------------------------------|  
   B |----------------------------------------------------------|  
   G |----------------------------------------------------------|  

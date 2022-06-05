@@ -50,7 +50,7 @@ One Rainy Day Wish
   ----7h9p7--7h9---------7----7---------7---9/11-  
   -----------------7--9----------7---9-----------]  
   
-                             *Bend down 1/2  w/ bar*  
+    *Bend down 1/2  w/ bar*  
   [-----------------------------------------------  
   -----------------------------------------------  
   -----------------------------------------------  
@@ -60,23 +60,23 @@ One Rainy Day Wish
   
   ***E                               Aadd9***  
   Gold and rose the color of the dream I had  
-                    ***E       A***  
+    ***E       A***  
   not too long ago. A misty blue and the lilac  
-         ***E     C#m***  
+    ***E     C#m***  
   too a never  to grow old  a there you were under  
-       ***Asus2          E        C#m7***  
+    ***Asus2          E        C#m7***  
   the tree of song sleeping so peacefully  
   ***E                A                C#m7***  
   In your hand a flower played, a waiting  
-                    ***C#***  
+    ***C#***  
   there for me.  
-                  ***G#    B      F#            C#***  
+    ***G#    B      F#            C#***  
   I have never laid eyes on you not like before  
      ***G#          B  F#7          C#         G#***  
   this timeless day. A but you walked and ya once  
      ***B          F#7           C#   G#        B***  
   smiled my name and you stole my heart away  
-       ***F#7             C#                  G#   B***  
+    ***F#7             C#                  G#   B***  
   Ah, stole my heart away little girl, yeah  ______alright!  
   
   ****C#   G#   B  F#7***  (chords during solo)*  

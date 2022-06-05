@@ -7,11 +7,11 @@ I'm gonna be an Engineer
   I tagged along behind the gang and wore me corduroys.  
   ***G***  
   Ev'rybody said I only did it to annoy,  
-            ***A7               D7***  
+    ***A7               D7***  
   but I was gonna be an engineer.  
   ***G                             A    B***  
   Mama told me, "Can't you be a la - dy?  
-       ***C          G           Am          D7***  
+    ***C          G           Am          D7***  
   Your duty is to make me the mother of a pearl.  
   ***G                                  B7    C7***  
   Wait until you're older, dear, and may - be  
@@ -19,7 +19,7 @@ I'm gonna be an Engineer
   you'll be glad that you're a girl."  
   ***Em          Bm      Em***  
   Dainty as a Dresden statue,  
-                     ***Bm***  
+    ***Bm***  
   gentle as a Jersey cow-  
   ***Cm                    G***  
   Smooth as silk, gives creamy milk.  

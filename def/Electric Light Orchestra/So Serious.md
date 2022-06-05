@@ -24,20 +24,20 @@ Verse:  Night after night
   
   ***C                 Dm***  
 Pre-Chorus: You took me by surprise  
-               ***Em***  
+    ***Em***  
   Opened up my eyes  
-               ****F***              (riff 2)*  
+    ****F***              (riff 2)*  
   Now we gotta talk this over.  
   
   ***Am     F         G      C***  
 Chorus:  Can it really be so serious?  
-        ***Am         F      G     C***  
+    ***Am         F      G     C***  
   To be all broken up and delirious  
   ***C       G            Am          F***  
   I guess we've really been out of touch  
       ***Am     F         G      C***  
   But can it really be so serious?  
-       ***Am   F      G***  
+    ***Am   F      G***  
   (Serious, so serious)  
   
   *Verse (same as first verse):*  

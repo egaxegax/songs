@@ -7,17 +7,17 @@ INTRO:  ***G D Em  G D C***
   I went around to the house  
   ***D               C***  
   seems like she had a whole new bunch of friends  
-                ***G                       D***  
+    ***G                       D***  
   I said "I'll take some of this stuff with me now  
-                ***C***  
+    ***C***  
   and come and pick up the rest on the weekend"  
-               ***G                  D***  
+    ***G                  D***  
   One of the new friends followed me down the hall  
-               ***C***  
+    ***C***  
   and pull me up just inside the front door and said  
    ***G                       D***  
   "Take all that you can carry now,  
-               ***C***  
+    ***C***  
   she dosn't want you coming here anymore"  
   
   *REPEAT INTRO BETWEEN VERSES*  

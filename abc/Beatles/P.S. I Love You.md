@@ -12,7 +12,7 @@ Please Please Me (Mar.1963)
   
     ***D                 Em                 D***  
   Treasure these few words till we're together,  
-        ***A     A7       Bm   D  A7     Bb   Bb   C   D***  
+    ***A     A7       Bm   D  A7     Bb   Bb   C   D***  
   Keep all my love forever. PS I love you, you you you.  
   
   ***G                D       G               D***  

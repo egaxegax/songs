@@ -20,7 +20,7 @@
   Fireman’s blind, the conductor is lame  
   A cincinnati jacket and a sad-luck dame  
   Hanging out the window with a bottle full of rain  
-        ***Cdim        Cm7         Cdim        Cm7***  
+    ***Cdim        Cm7         Cdim        Cm7***  
   Clap hands, clap hands, clap hands, clap hands...  
   
   Roar, roar, the thunder and the roar  
@@ -29,13 +29,13 @@
   Can always find a millionaire to shovel all the coal  
   Clap hands, clap hands, clap hands, clap hands...  
   
-              ***Cdim           Cm7***  
+    ***Cdim           Cm7***  
   I've said steam, steam, a hundred bad dreams  
    ***Cdim                         Cm7***  
   Going back to harlem with a pistol in his jeans  
   ***Cdim                   Cm7***  
   A fifty-dollar bill inside a palladin’s hat  
-       ***Cdim***  
+    ***Cdim***  
   And nobody was sure where mister knickerbocker’s at  
   
   Shine, shine, a roosevelt dime  

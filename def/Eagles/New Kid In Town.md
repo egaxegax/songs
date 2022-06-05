@@ -85,4 +85,4 @@ Outro:
     E    | E      |  
  There's a new kid in town, (I don't want to hear it)  
     C#m    | C#m      |  
-        There's a new kid in town, (I don't want to hear it)
+    There's a new kid in town, (I don't want to hear it)

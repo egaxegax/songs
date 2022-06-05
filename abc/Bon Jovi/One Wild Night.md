@@ -5,10 +5,10 @@ One Wild Night
   
 Intro:  ***C | Ab| Bb | C | C | Eb | Bb | C | C***  
   
-          ***C***  
+    ***C***  
   It-s a, hot night and the natives are restless  
   We-re sweating by the light of the moon,  
-            ***Bb***  
+    ***Bb***  
   There-s a voodoo mojo brewing at the go, go  
   That could knock a witch off her broom  
      ***C***  
@@ -16,13 +16,13 @@ Intro:  ***C | Ab| Bb | C | C | Eb | Bb | C | 
   Passing by, she gives me the eye so I stop, to give her a light  
   
   *Chorus:*  
-           ***C                     Ab***  
+    ***C                     Ab***  
   One Wild Night (Blinded by the moonlight)  
-           ***Bb         C***  
+    ***Bb         C***  
   One Wild Night (24 hours of midnight)  
-           ***C                          Ab                Bb***  
+    ***C                          Ab                Bb***  
   One Wild Night (We stepped into the twilight zone she left  
-                ***C***  
+    ***C***  
   My heart with vertigo)  
   ***Bb***  
   One wild, One Wild, One Wild, One Wild Night.  

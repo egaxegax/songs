@@ -140,7 +140,7 @@ Someday
     --0--]  
   ***Hm                  D(1)         A***  
   How the hell`d we wind up like this  
-       ***Fm#***  
+    ***Fm#***  
   Why weren't we able  
   To see the signs that we missed  
   And try to turn the tables  
@@ -150,13 +150,13 @@ Someday
   Dont think its too late  
   ***E***  
   Nothin's wrong  
-            ***G***  
+    ***G***  
   just as long as  
-                   ***D    A***  
+    ***D    A***  
   you know that someday I will  
   ***G              D***  
   Someday, somehow  
-                   ***E(1)***  
+    ***E(1)***  
   gonna make it allright but not right now  
   ***G              A           E7***  
   I know you're wondering when  

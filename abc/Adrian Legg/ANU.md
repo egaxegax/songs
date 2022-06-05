@@ -3,11 +3,11 @@ ANU
   
   *NOTES*  
    *1.) Even though I am pretty sure this is a release note,*  
-       *I pick it as it seems to work best as an accent note.*  
-       *(and this goes for all the rest of the song where the*  
-        *pattern is the same)*  
+    *I pick it as it seems to work best as an accent note.*  
+    *(and this goes for all the rest of the song where the*  
+    *pattern is the same)*  
    *2.) had a heck of a time making this sound smooth - thus*  
-       *I changed it a bit to:*  
+    *I changed it a bit to:*  
   [E-|-0-----0---------0-----0--3-----3-------3-----------3-2---------------|  
   B-|-----1---3-----3-----1--------0-------3---3-------3-----3-------------|  
   G-|---0---------0-----0--------0-------2-------2---2---------2---------0-|  
@@ -22,12 +22,12 @@ ANU
   A-|-0---0-2-4---10----10-  
   D-|----------------------]  
    *4.) the D-G notes in between are not what he plays. Couldn't figure*  
-       *this one out. I accent the other notes and play these quiet and*  
-       *mix it a bit (sometimes use G-D) and it seems to work...*  
+    *this one out. I accent the other notes and play these quiet and*  
+    *mix it a bit (sometimes use G-D) and it seems to work...*  
    *5.) These seem to be the correct notes, but for the life of me I can't*  
-       *perform this near as smooth as is on the recording. I've tried*  
-       *different positioning (different frets - same notes) but this*  
-       *seems to be the easiest.*  
+    *perform this near as smooth as is on the recording. I've tried*  
+    *different positioning (different frets - same notes) but this*  
+    *seems to be the easiest.*  
   *All that said - Good Luck!!!!*  
   
   [1.  
@@ -317,5 +317,5 @@ ANU
   D-|---12-------12-------12----|  
   A-|----------0----------------|  
   D-|-0-----------------0-------|]  
-        *^        ^        ^*  
-        *These are actually arpeggios (sp?)*
+    *^        ^        ^*  
+    *These are actually arpeggios (sp?)*

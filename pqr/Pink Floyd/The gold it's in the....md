@@ -5,9 +5,9 @@ E                          D
 Come on, my friends, let's make for the hills.  
      E                       D           A  
 They say there's gold but I'm looking for thrills.  
-       E                 D           A  
+    E                 D           A  
 You can get your hands on whatever we find,  
-            E                   D    A  
+    E                   D    A  
 'Cause I'm only coming along for the ride.  
       B  
 Well, you go your way, I'll go mine.  
@@ -22,7 +22,7 @@ E                     D     
 Over the mountains, across the seas,  
 E                      D           A  
 Who knows what will be waiting for me?  
-       E               D                A  
+    E               D                A  
 I could sail forever to strange sounding names.  
  E                 D      A  
 Faces of people and places don't change.  

@@ -5,13 +5,13 @@ intro:  ***F# Gm# Am# F# Gm# Gm7*** } x6
   
      ***F\Gm***  
 (1)  Forces of hate meet  
-        ***Am# \ Gm7***  
+    ***Am# \ Gm7***  
   Gather for the siege  
       ***F\Gm***  
   The raid begins  
-             ***Am# \ Gm7***  
+    ***Am# \ Gm7***  
   Their revence, smashing, killing  
-           ***F#\Gm***  
+    ***F#\Gm***  
   stabbing, poudind Iron weapon crash  
     ***Gm           Am***  
   Evil warriors strike  
@@ -26,11 +26,11 @@ intro:  ***F# Gm# Am# F# Gm# Gm7*** } x6
      ***F                Gm#***  
   killing, stabbing poundig  
   
-          ***Am#\Gm***  
+    ***Am#\Gm***  
 chours:  Blood soaks the ground  
-           ***Am#\Gm***  
+    ***Am#\Gm***  
   in their own, the will drown  
-            ***Am#\Gm***  
+    ***Am#\Gm***  
   Surrounded by disgust  
    ***Am    Gm          F#***  
   Pountedinto du-uu-ust  

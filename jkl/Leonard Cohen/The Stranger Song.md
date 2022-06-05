@@ -27,17 +27,17 @@ Intro: Esus2-Em
   
  Em*       C/G              G6                 G*  
      It?s true that all the men you knew were dealers  
-                                      D*/F  
+    D*/F  
      who said they were through with dealing  
-                                Em*  
+    Em*  
      Every time you gave them shelter  
-       D*/F  
+    D*/F  
      I know that kind of man  
-                   Em*  
+    Em*  
      It?s hard to hold the hand of anyone  
-             D*/F                            Em*  
+    D*/F                            Em*  
      who is reaching for the sky just to surrender,  
-             D*/F                            Em*  
+    D*/F                            Em*  
      who is reaching for the sky just to surrender.  
   
      And then sweeping up the jokers that he left behind  

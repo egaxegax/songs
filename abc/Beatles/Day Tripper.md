@@ -16,9 +16,9 @@ Day Tripper
   Got a good reason, for taking the easy way out  
   ***A7                 E7***  
   Got a good reason, for taking the easy way out  
-            ***F#***  
+    ***F#***  
   She was a day____ tripper, one way ticket yeah  
-             ***A7     G#7          C#               B***  
+    ***A7     G#7          C#               B***  
   It took me so____ long to find out, and I found out  
   
   She's a big teaser, she took me half the way there  

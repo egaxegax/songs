@@ -16,7 +16,7 @@
 CHORUS:  All I have is yours  
   ***C        G       F   A***  
   All you see is mine  
-            ***D              D/C***  
+    ***D              D/C***  
   And I'm glad to hold you in my arms  
   ***D/B          D/Bb  A  Asus4 A***  
   I'd have you anytime  

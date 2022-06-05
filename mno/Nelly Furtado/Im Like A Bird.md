@@ -5,7 +5,7 @@ Am             F
 You?ll never ever fade  
 You?re lovely, but it?s not for sure  
 That I won?t ever change  
-                  C     G  
+    C     G  
 And though my love is rare  
 Am                   G  
 Though my love is true  
@@ -13,9 +13,9 @@ Though my love is true
 Chorus:  
 C                           G  
 I?m like a bird, I?ll only fly away  
-                        Dm  
+    Dm  
 I don?t know where my soul is  
-                        F  
+    F  
 I don?t know where my home is  
 (And baby all I need for you to know is)  
 I?m like a bird, I?ll only fly away  

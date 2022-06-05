@@ -7,31 +7,31 @@ Intro:  ***G G Am     G G Am     F F G  
   
   ***G G Am              G G Am***  
 (1)  Sweet Child in time  
-                      ***F F G***  
+    ***F F G***  
   you'll see the line  
-                     ***G G Am***  
+    ***G G Am***  
   The line that's drawn between  
-                 ***G G Am***  
+    ***G G Am***  
   The good and the bad  
-                          ***G G Am***  
+    ***G G Am***  
   See the blind man  
-                         ***F F G***  
+    ***F F G***  
   Shooting at the world  
-                       ***G G Am***  
+    ***G G Am***  
   Bullets flying  
-                ***G G Am***  
+    ***G G Am***  
   taking toll  
-                     ***G G Am***  
+    ***G G Am***  
   If you've been bad,  
-                     ***F F G***  
+    ***F F G***  
   Lord I bet you have  
-                          ***G G Am***  
+    ***G G Am***  
   And you've not been hit  
-                   ***G G Am***  
+    ***G G Am***  
   by flying lead  
-                               ***G G Am***  
+    ***G G Am***  
   You'd better close your eyes  
-                     ***F F G***  
+    ***F F G***  
   and bow your head  
   ***G G Am***  
   Wait for the ricochet  

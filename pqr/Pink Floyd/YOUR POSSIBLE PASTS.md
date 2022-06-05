@@ -13,7 +13,7 @@ In derelict sidings the poppies entwine
 With cattle trucks lying in wait for the next time.  
 Em  
 Do you remember me, how we used to be,  
-                        D  
+    D  
 Do you think we shoud be closer?  
   
    G                                       Am  
@@ -22,15 +22,15 @@ C                        D  
 Haunting her face like a cheap hotel sign.  
    G                                     Am  
 Her cold eyes imploring the men in their macs  
-       C                         D               G  
+    C                         D               G  
 For the gold in their bags or the knives in their backs.  
 G                                   Am  
 Stepping up boldly one put out his hand.  
-         C                      D                G  
+    C                      D                G  
 He said, "I was just a child then, now I'm only a man."  
 Em  
 Do you remember me,  how we used to be,  
-                         D  
+    D  
 Do you think we should be closer?  
   
 Em  C  Em  C  Em  D  C  D  Cmaj9  
@@ -45,5 +45,5 @@ Strung out behind us the banners and flags
 Of our possible pasts lie in tatters and rags.  
 Em  
 Do you remember me, how we used to be,  
-                         D  
+    D  
 Do you think we should be closer?

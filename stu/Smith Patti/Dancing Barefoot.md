@@ -17,7 +17,7 @@ Verse:  She is benediction
   Here I go and I don't know why  
     ***D       Em       D  Em***  
   I spin so ceaselessly  
-           ***D       Em     D    Em D Em D***  
+    ***D       Em     D    Em D Em D***  
   Could it be he's taking over me  
   
   ***G           A***  

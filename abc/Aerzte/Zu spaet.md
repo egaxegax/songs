@@ -39,15 +39,15 @@ Intro:  ***G Am C D     G Am C D***
   und nicht wie ich ein klappriges Damenrad.  
   ***Bb . . . . . . . D . . . . . . . .***  
   
-             ***G   Am***  
+    ***G   Am***  
 Chorus:  Doch eines Tages werd' ich mich raechen,  
   ***C     D***  
   ich werd die Herzen aller Maedchen brechen,  
-            ***G    Am***  
+    ***G    Am***  
   dann bin ich ein Star, der in der Zeitung steht,  
-       ***C    D***  
+    ***C    D***  
   dann tut es dir leid, doch dann ist es zu spaet,  
-         ***F***  
+    ***F***  
   zu spaet.  
   
 (2)  Du bist mit ihm im Theater gewesen,  

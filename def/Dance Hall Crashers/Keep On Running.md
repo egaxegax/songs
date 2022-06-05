@@ -16,7 +16,7 @@ Keep On Running
   
   *Play this riff 2x, then go into verse:*  
   
-       ***D   G***  
+    ***D   G***  
   [e:---2---3---  
   B:---3---3---  
   G:---2---4---  
@@ -42,7 +42,7 @@ Solo:  [e:----------------------------------------------------
   E:-----------------]  
   
   *During last chorus, there is a key change, and the chords change to ***E***-***A***:*  
-       ***E   A***  
+    ***E   A***  
   [e:---4---5---  
   B:---5---5---  
   G:---4---6---  

@@ -17,9 +17,9 @@ Than move around just like this
   
 Bb        Eb                Bb  
 But do I have to dance all night?  
-          Eb                Bb  
+    Eb                Bb  
 But do I have to dance all night?  
-              Eb          Bb  
+    Eb          Bb  
 Ooh tell me, Bird of Paradise  
       Eb                Bb  
 Do I have to dance all night?  
@@ -36,7 +36,7 @@ Do I have to dance all night?
   
 Gm                            Dm  
 I learned this step a while ago  
-           Gm                          Dm  
+    Gm                          Dm  
 I had to practice it while everybody slept  
    C                       G  
 I waited half my life for you, you know  
@@ -44,7 +44,7 @@ I waited half my life for you, you know
 I didn't even think that you'd accept  
      Ab                             Eb  
 And here you are before me in the flesh  
-         Gm   Bb   D7  
+    Gm   Bb   D7  
 Saying "Yes, yes, yes!"  
   
 But do I have to dance all night?  
@@ -89,9 +89,9 @@ Than move around just like this
   
 A         D                 A  
 But do I have to dance all night?  
-          D                 A  
+    D                 A  
 But do I have to dance all night?  
-              D           A  
+    D           A  
 Ooh tell me, Bird of Paradise  
       D                 A  
 Do I have to dance all night?  
@@ -108,7 +108,7 @@ Do I have to dance all night?
   
 F#m                           C#m  
 I learned this step a while ago  
-           F#m                         C#m  
+    F#m                         C#m  
 I had to practice it while everybody slept  
    B                       F#  
 I waited half my life for you, you know  
@@ -116,7 +116,7 @@ I waited half my life for you, you know
 I didn't even think that you'd accept  
      G                              D  
 And here you are before me in the flesh  
-         F#m  A    C#7  
+    F#m  A    C#7  
 Saying "Yes, yes, yes!"  
   
 But do I have to dance all night?  

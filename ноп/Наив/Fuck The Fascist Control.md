@@ -6,7 +6,7 @@ Dehumanized States of America (1994)
   ***Dm***  
   We know what is going on:  
   Here comes the fascist control!  
-        ***A***  
+    ***A***  
   They force you to be sober,  
   Then ask you to be quiet,  
   And if you don't obey,  

@@ -8,7 +8,7 @@ The Wall (1979)
   *the ***F***-***C*** progression in the middle. The main chords are ***G***, ***C***, and ***D***.*  
   *Gilmour fiddles aroung with the ***D***, adding a ***G*** occasionally. You have*  
   *to listen to the album. Its a cool little tune.*  
-             ***G               C               D***  
+    ***G               C               D***  
   [e----------3---------------0---------------2  
   b----------3---------------1---------------3  
   g----------0---------------0---------------2  
@@ -23,7 +23,7 @@ The Wall (1979)
   Ahhhhhhhhh Ahhhhhhhhhh  
   ***D     C***  
   Oooh Ma   Oooh Pa  
-                       ***G***  
+    ***G***  
   Must the show go on  
   ***D            C***  
   Ooooooh Ma  Take me home take me home take me home take me home  

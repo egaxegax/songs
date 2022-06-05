@@ -10,17 +10,17 @@ Im Not Crying For You
   
   ***D           Bm***  
 Vs1:  Baby listen to me  
-       ***G                A***  
+    ***G                A***  
   I've got something to say  
   ***D            Bm***  
   I have finally realized  
-           ***G               A***  
+    ***G               A***  
   That I'm wasting my life away  
-         ***D            Bm***  
+    ***D            Bm***  
   You've made so many promises  
-       ***F              G***  
+    ***F              G***  
   That's all you ever do  
-         ***D            Bm***  
+    ***D            Bm***  
   So know tonight I'm leaving  
   ***F                G***  
   And I won't come back to you  
@@ -31,7 +31,7 @@ Pre-Chorus: Well, it doesn't really matter
   What you have to say  
   ***G                            Bm***  
   Cuz' you know it won't bring us back  
-                   ***G***  
+    ***G***  
   Won't bring back yesterday  
   
   *Chorus:(same progression as Vs)*  
@@ -65,7 +65,7 @@ Bridge:  Making empty promises is all you do
   You say that you will change  
   ***G                 Bm***  
   But it's just not true  
-            ***D             Bm***  
+    ***D             Bm***  
   So please listen when I say  
   ***F                  G***  
   That I must find a better way  

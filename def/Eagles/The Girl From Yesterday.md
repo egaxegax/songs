@@ -9,16 +9,16 @@ Or maybe it just hurt so bad she couldn't cry
 C/E  D/F#  G        G7        C  
      He    packed his things, walked out the door and drove away  
 G/B  Am7   G    D7       G  D7  
-       And she became the girl from yesterday  
+    And she became the girl from yesterday  
   
   
 He took a plane across the sea to some foreign land  
 She stayed at home and tried so hard to understand  
 How someone who had been so close could be so far away  
 G/B  Am7   G    D7       G  
-       And she became the girl from yesterday  
+    And she became the girl from yesterday  
 D/F#  Em7   D  
-        She doesn't know what's right  
+    She doesn't know what's right  
     C   G  
 She doesn't know what's wrong  
     C    D/F#        Em7       G/D C     D7  

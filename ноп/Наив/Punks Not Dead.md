@@ -20,7 +20,7 @@
   A white Kleenex up mу mouth?  
       ***Am                      H***  
   Or rush to the toilet and slash their wrists,  
-        ***C                 D***  
+    ***C                 D***  
   But who really cares - no one gets pissed.  
   
   Your brain's a mess and that is fine,  

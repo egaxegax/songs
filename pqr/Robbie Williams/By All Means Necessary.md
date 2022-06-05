@@ -3,11 +3,11 @@ By All Means Necessary
   
   ***E***  
   Canned laughter for applause  
-                ***C    D***  
+    ***C    D***  
   You've opened doors  
   ***E***  
   In and out of their wives  
-                 ***C   D***  
+    ***C   D***  
   In and out of your smalls  
   ***A***  
   It's not a BAFTA you're after  
@@ -35,35 +35,35 @@ By All Means Necessary
   That's what I've heard them say  
   ***Em          A***  
   Sex with a stranger  
-                        ***Em***  
+    ***Em***  
   You've been laid in a manger  
-                          ***A***  
+    ***A***  
   And you think he's your saviour  
   ***Dm***  
   Will he leave his pager?  
-                    ***G***  
+    ***G***  
   You could be his daughter  
   ***Dm***  
   Look what he's bought ya  
-                      ***H***  
+    ***H***  
   But the money won't change ya  
-                      ***E***  
+    ***E***  
   Of that there's no danger  
-                          ***A***  
+    ***A***  
   Now your life's gettin' darker  
-                        ***Em***  
+    ***Em***  
   It's you that they're after  
-                    ***A***  
+    ***A***  
   Fifteen minutes a martyr  
-                   ***Dm***  
+    ***Dm***  
   Blame it on your father  
-                    ***G***  
+    ***G***  
   That dress nearly fits ya  
-                  ***Dm***  
+    ***Dm***  
   Girl what's possessed you  
-                          ***H***  
+    ***H***  
   Can we please take your picture  
-                    ***Em       G***  
+    ***Em       G***  
   You know they'll forget ya  
   ***C     H***  
   Ooh yeah  

@@ -4,7 +4,7 @@
   
   ***A                        E***  
   Jubilee slouches in the settee  
-             ***D                            F      G***  
+    ***D                            F      G***  
   He's losing all the will to move  
   ***A                         E***  
   He's gone divvy, too much telly  
@@ -12,7 +12,7 @@
   He's watching twenty four hours of rubbish  
   ***A                        E                      D***  
   He's got butane, he's got plastic bags  
-                                          ***F         G***  
+    ***F         G***  
   And his eyes are going square (oh yeah)  
   ***A                          E***  
   He's no raver just anti social  

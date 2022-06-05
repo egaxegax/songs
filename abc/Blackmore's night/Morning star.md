@@ -1,13 +1,13 @@
 <!--2020-09-06 03:22:54-->
 Morning star  
   
-            ***Am             C***  
+    ***Am             C***  
   There are shadows in the sky  
   ***G***  
   Dancing in the air  
   ***Am            C***  
   Calling to my heart  
-           ***G      E***  
+    ***G      E***  
   Saying, "If you dare,  
   ***Am            C***  
   We're running fast  
@@ -23,7 +23,7 @@ Morning star
   Trying to catch the morning star...  
   ***E***  
   I can fly through my mind  
-         ***Am***  
+    ***Am***  
   when I see them as they shine  
   ***Dm           C***  
   Can it be so hard to try and  

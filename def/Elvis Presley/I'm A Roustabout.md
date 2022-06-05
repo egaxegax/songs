@@ -26,7 +26,7 @@ I'm A Roustabout
   But it's too bad, (UH-HUH)  
   ***A                  A7***  
   I can't get mad,  
-                        ***D***  
+    ***D***  
   'Cause I'm a Roustabout! (UH-HUH, UH-HUH, UH-HUH)  
   *(riff)*  
   "Tie it loose... (UH-HUH)  

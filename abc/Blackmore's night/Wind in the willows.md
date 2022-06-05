@@ -23,13 +23,13 @@ Wind in the willows
   "With the wind in the willows  
   ***G                D***  
   The birds in the sky  
-            ***G             D***  
+    ***G             D***  
   There's a bright sun to warm us  
   ***G           A***  
   wherever we lie...  
   ***D                 G***  
   We have bread and fishes  
-        ***A          D***  
+    ***A          D***  
   and a jug of red wine  
   ***Hm              G***  
   To share on our journey  

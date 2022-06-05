@@ -82,9 +82,9 @@ CHORUS:  Here comes a low (I'm a boy and you're a girl)
   Here comes a high  (The only ones in the world)  
   ***D/F#       G***  
   Here comes everything (You and me we'll work it out)  
-          ***A***  
+    ***A***  
   Here it comes  
-                         ***D***  
+    ***D***  
   You, me, we'll work it out  
   
   *OK , thats it, pretty simple?*  

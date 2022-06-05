@@ -2,9 +2,9 @@
 Don't Think You're The First  
   
   *Verse 1*  
-        ***Cm               Gm***  
+    ***Cm               Gm***  
   Don't think you're the first  
-         ***Cm       Gm***  
+    ***Cm       Gm***  
   In the whole universe  
      ***Cm          Gm***  
   To follow your heart  
@@ -13,15 +13,15 @@ Don't Think You're The First
   *Verse 2*  
      ***Cm           Gm***  
   To stare at the night  
-              ***Cm    Gm***  
+    ***Cm    Gm***  
   Through the clear daylight  
-        ***Dm               Am***  
+    ***Dm               Am***  
   Don't think you're the first  
-         ***Dm       Am***  
+    ***Dm       Am***  
   In the whole universe  
-          ***Cm        Gm***  
+    ***Cm        Gm***  
   To feel sorrow or shame  
-         ***Cm          Gm***  
+    ***Cm          Gm***  
   As you walk in the rain  
   ***Cm Gm Cm   Cm***  
   Do I  love you?  
@@ -29,25 +29,25 @@ Don't Think You're The First
   Yes I  love you  
   ***Cm    Gm       Cm       Gm***  
   Or I  wouldn't tell you so  
-        ***Cm               Gm***  
+    ***Cm               Gm***  
   Don't think you're the first  
-         ***Cm       Gm***  
+    ***Cm       Gm***  
   In the whole universe  
-        ***Cm            Gm***  
+    ***Cm            Gm***  
   To be caught in the act  
   ***Cm           Gm***  
   Numbered and racked  
   ***Cm          Gm***  
   Put in your place  
-          ***Cm          Gm***  
+    ***Cm          Gm***  
   Made to feel like a fake  
-        ***Dm               Am***  
+    ***Dm               Am***  
   Don't think you're the first  
-         ***Dm       Am***  
+    ***Dm       Am***  
   In the whole universe  
-          ***Cm             Gm***  
+    ***Cm             Gm***  
   To be untouched by the time  
-               ***Cm       Gm***  
+    ***Cm       Gm***  
   Think you're one of a kind  
   ***Cm Gm Cm   Cm***  
   Do I  love you?  
@@ -55,28 +55,28 @@ Don't Think You're The First
   Yes I  love you  
   ***Cm   Gm       Cm       Gm***  
   Or I wouldn't tell you so  
-        ***Cm               Gm F#m Fm***  
+    ***Cm               Gm F#m Fm***  
   Don't think you're the first  
   *(solo)*  
-        ***Cm               Gm***  
+    ***Cm               Gm***  
   Don't think you're the first  
-         ***Cm       Gm***  
+    ***Cm       Gm***  
   In the whole universe  
      ***Cm          Gm***  
   To dance with delight  
-           ***Cm          Gm***  
+    ***Cm          Gm***  
   From the meek to the might  
-         ***Cm           Gm***  
+    ***Cm           Gm***  
   As the birds in the trees  
-             ***Cm        Gm***  
+    ***Cm        Gm***  
   Sing their sweet melodies  
-        ***Dm               Am***  
+    ***Dm               Am***  
   Don't think you're the first  
-         ***Dm       Am***  
+    ***Dm       Am***  
   In the whole universe  
-            ***Cm          Gm***  
+    ***Cm          Gm***  
   To hear a thousand violins  
-         ***Cm    Gm***  
+    ***Cm    Gm***  
   As the trail begins  
   ***Cm Gm Cm   Cm***  
   Do  I love you?  
@@ -84,25 +84,25 @@ Don't Think You're The First
   Yes I love you  
   ***Cm   Gm       Cm       Gm***  
   Or I wouldn't tell you so  
-        ***Cm               Gm***  
+    ***Cm               Gm***  
   Don't think you're the last  
-        ***Cm          Gm***  
+    ***Cm          Gm***  
   To be tied to the mast  
-            ***Cm         Gm***  
+    ***Cm         Gm***  
   While you watch from afar  
-          ***Cm          Gm***  
+    ***Cm          Gm***  
   As your world falls apart  
       ***Cm          Gm***  
   You hang on for help  
-          ***Cm            Gm***  
+    ***Cm            Gm***  
   But the rest help themselves  
-        ***Dm               Am***  
+    ***Dm               Am***  
   Don't think you're the last  
-        ***Dm          Am***  
+    ***Dm          Am***  
   To be tied to the past  
-             ***Cm       Gm***  
+    ***Cm       Gm***  
   While your future's controlled  
-         ***Cm        Gm***  
+    ***Cm        Gm***  
   By the present untold  
   ***Cm Gm Cm   Cm***  
   Do I  love you?  
@@ -110,5 +110,5 @@ Don't Think You're The First
   Yes I love you  
   ***Cm   Gm       Cm       Gm***  
   Or I wouldn't tell you so  
-        ***Cm               Gm F#m Fm Em***  
+    ***Cm               Gm F#m Fm Em***  
   Don't think you're the first

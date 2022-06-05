@@ -24,7 +24,7 @@ Anzug
   
   ***C***  
 Припев:  Anzug  
-       ***F                  G                 C***  
+    ***F                  G                 C***  
   Wie kann ich kommen zu meine Baby ohne anzug?  
   Was fuer ein mann ich bin ohne anzug?  
   Wie kann ich guten eindruck machen ohne anzug?  

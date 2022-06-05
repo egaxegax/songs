@@ -11,7 +11,7 @@ I don't even know your name
   Of course you weren't my waitress, mine was missing her front tooth  
   ***B***  
   I flagged you down for coffee, but I couldn't say a thing  
-             ****E*** (tacet)                      ***B*** (tacet)*  
+    ****E*** (tacet)                      ***B*** (tacet)*  
   But I'm in love with you baby and I don't even know your name  
   
   

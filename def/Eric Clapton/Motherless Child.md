@@ -30,39 +30,39 @@ Intro:  ***B B B***
   
      ****B***     (this time only) ***E7    E7                 B  B  B****  
   If I mistreat you girl,   I sure don't mean no harm  
-          ***B              E7    E7                 B  B  B***  
+    ***B              E7    E7                 B  B  B***  
   If I mistreat you girl,   I sure don't mean no harm  
-              ***F#7                 F#7                    B  B  B***  
+    ***F#7                 F#7                    B  B  B***  
   Well I'm a motherless child who don't know right from wrong.  
-         ***B                  E7  E7                          B  B  B***  
+    ***B                  E7  E7                          B  B  B***  
   Please tell me pretty mama, honey where'd you stay last night  
-          ***B                  E7   E7                       B  B  B***  
+    ***B                  E7   E7                       B  B  B***  
   Please tell me pretty mama, honey where'd you stay last night  
-           ***F#7                    F#7                 B  B  B***  
+    ***F#7                    F#7                 B  B  B***  
   Well you didn't come home til the sun was shining bright.  
-            ***B            E7  E7            B  B  B***  
+    ***B            E7  E7            B  B  B***  
   I have to go so far gal, get my ham bones boiled  
   ***B                      E7  E7                B  B  B***  
   I have to go so far gal, get my ham bones boiled  
-           ***F#7       F#7          B  B  B***  
+    ***F#7       F#7          B  B  B***  
   Well these other lotta women gonna let my ham bones burn.  
-         ***B                  E7 E7                   B  B  B***  
+    ***B                  E7 E7                   B  B  B***  
   Now I did more for you gal, than your daddy ever done  
-         ***B                  E7  E7                   B  B  B***  
+    ***B                  E7  E7                   B  B  B***  
   Now I did more for you gal, than your daddy ever done  
-         ***F#7             F#7 F#7               B  B  B***  
+    ***F#7             F#7 F#7               B  B  B***  
   Well I give you my jelly, he ain't give you none.  
-               ***B            E7 E7                   B  B  B***  
+    ***B            E7 E7                   B  B  B***  
   And when you see two women always runnin hand in hand  
-          ***B            E7 E7                     B  B  B***  
+    ***B            E7 E7                     B  B  B***  
   And you see two women always running hand in hand  
-          ***F#7               F#7   F#7      B  B  B***  
+    ***F#7               F#7   F#7      B  B  B***  
   You can bet your bottom dollar one  
-            ***B               E7 E7                       B  B  B***  
+    ***B               E7 E7                       B  B  B***  
   Well I'm goin to the river get me a tangled rocking chair  
-       ***B               E7 E7                         B  B  B***  
+    ***B               E7 E7                         B  B  B***  
   I'm goin to the river get me a tangled rocking chair  
-             ***F#7                     F#7              B***  
+    ***F#7                     F#7              B***  
   And if the blues overtake me gonna rock away from there  
   
 End:  ***E7 F#7 E7 B***

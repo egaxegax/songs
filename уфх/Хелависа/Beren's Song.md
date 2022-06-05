@@ -5,18 +5,18 @@ Running to Paradise (1996)
   
   ***Em Am D G C H7 Em***  
   
-       ***Em          H7        Em      C***  
+    ***Em          H7        Em      C***  
 (1)  Farewell sweet earth and northern sky,  
-       ***Am                H7***  
+    ***Am                H7***  
   Forever blest, since here did lie  
-        ***Em        H7     Em       C***  
+    ***Em        H7     Em       C***  
   And here with lissom limbs did run  
      ***Am         C      D         D***  
   Beneath the Moon, beneath the Sun  
   
    ***C   G     D  G***  
 R:  Luthien Tinuviel  
-        ***C         G      D          Em***  
+    ***C         G      D          Em***  
   More fair than mortal tongue can tell.  
   
 (2)  O loveliest maid of elfiness,  
@@ -37,5 +37,5 @@ R:  The dusk, the dawn, the earth, the sea -
   
    ***C   G     D  G***  
 R:  Luthien Tinuviel  
-        ***C         A     D          Em Am D G D H7 Em***  
+    ***C         A     D          Em Am D G D H7 Em***  
   More fair than mortal tongue can tell.

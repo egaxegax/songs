@@ -7,9 +7,9 @@ Magical World
   The crystal I held was like an old friend  
       ***A***  
   The vines crawled the walls  
-                    ***E***  
+    ***E***  
   The wind held its breath  
-          ***A        D          E     A***  
+    ***A        D          E     A***  
   But the answer I longed for never came...  
   Your name, they had said,  
   Was cursed beyond measure,  

@@ -12,11 +12,11 @@ Cursed
   Flirt with danger and any stranger  
   ***Hm           A***  
   You're not as stupid as I look  
-             ***E***  
+    ***E***  
   Before I could read, you wrote the book  
   ***D  Hm***  
   Cursed, since your birth dear  
-          ***G             Em***  
+    ***G             Em***  
   And your worst fears have all come true  
   Held my hand when I got my first tatoo  
   I was naked when it penetrated  

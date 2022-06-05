@@ -2,19 +2,19 @@
 Radio London (1990)  
   The Angel Calling  
   
-                     ***G#***  
+    ***G#***  
   It's always like this -  
   Somebody puts some gunpowder into my brain,  
-            ***D#***  
+    ***D#***  
   Into my brain -  
-            ***C#             G#***  
+    ***C#             G#***  
   And then waits for the spark.  
-                  ***G#***  
+    ***G#***  
   And I say to myself -  
   Come on now, do you really have to be that insane?  
-             ***D#***  
+    ***D#***  
   Be that insane -  
-       ***C#          D#***  
+    ***C#          D#***  
   Than off I go...  
   
   Suppose I was made of steel,  
@@ -29,19 +29,19 @@ Radio London (1990)
   
   ***D#                                 G#***  
   All in all - it's another step to heaven,  
-          ***F#m         Bm      D#***  
+    ***F#m         Bm      D#***  
   And in heaven it's easy to see -  
-             ***C#             D#***  
+    ***C#             D#***  
   It was the angel, that's calling me;  
-             ***G#***  
+    ***G#***  
   It was the angel, that's calling me;  
-             ***C#         D#                  F#m  D#***  
+    ***C#         D#                  F#m  D#***  
   It was the angel, and I just did what he said;  
-             ***C#              D#***  
+    ***C#              D#***  
   It was the angel, and I'm satisfied;  
-             ***G#***  
+    ***G#***  
   It was the angel, and I cried and I cried,  
-          ***C#***  
+    ***C#***  
   And I tried and I tried,  
-         ***D#                      F#m  D#***  
+    ***D#                      F#m  D#***  
   And I can't get you out of my head.

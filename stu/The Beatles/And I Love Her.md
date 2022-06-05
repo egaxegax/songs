@@ -51,7 +51,7 @@ Cm7         Gm
 Could never die  
 Gm         Cm  
 As long as I  
-          B  
+    B  
 Have you near me  
   
 (Спеть 2 раза последний куплет. Между двумя запевками вставить  

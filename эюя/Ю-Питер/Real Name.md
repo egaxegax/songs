@@ -1,29 +1,29 @@
 <!--2020-09-06 06:26:57-->
 Am  
 Is it real big love?  
-                     Dm  
+    Dm  
 Yes, it's really my love.  
-                   E7  
+    E7  
 Is it really good life?  
-              Am  
+    Am  
 It's my real life.  
   
-                  C  
+    C  
    Is it my real mind?  
-                   G  
+    G  
    It's really my mind.  
-                  E7  
+    E7  
    Is it my real name?  
-                    Am  
+    Am  
    No, it isn't my name.  
   
-                        E7  
+    E7  
       Is it just a limitation of some flight?  
-                        Am  
+    Am  
       Try another one again.  
-                              E7  
+    E7  
       All the questions of myself will soon be solved  
-                          Am  
+    Am  
       By a little heavy train.  
   
 What is my real name?  

@@ -22,9 +22,9 @@ Things We Said Today
   2. Then we will re-mem-ber things we said today.  
   3. Then we will re-mem-ber things we said today.  
   
-       ***A                D           B7              E7                A***  
+    ***A                D           B7              E7                A***  
   2,3. Me I'm just the lucky kind, love to hear you say that love is love,  
-                      ***D             B7             Bb7***  
+    ***D             B7             Bb7***  
   2,3. And though we may be blind, love is here to stay and that's e--  
   
   *Repeat 3rd verse*  

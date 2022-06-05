@@ -3,7 +3,7 @@ Album: Holy Wood( in the ...)
   Valentines Day  
   *(Lirycs: Manson; music:Manson,Ramirez)*  
   
-         I sow the pratny girl today...  
+    I sow the pratny girl today...  
   
 Aккopды:  "Files are waiting..."  
   [e--------------------------------------------------------------------  

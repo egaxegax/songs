@@ -15,9 +15,9 @@ Heaven From Here
   Has run dry  
   We are love and I just wanna hold you near  
   Know no fear we will see heaven from here  
-        ***Dm    C           G***  
+    ***Dm    C           G***  
   I see real love in your eyes  
-          ***Dm      Am           Em       C***  
+    ***Dm      Am           Em       C***  
   And it fills me up when you start to cry  
   I just wanna hold you near  
   We will see heaven from here  

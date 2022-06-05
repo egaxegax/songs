@@ -4,7 +4,7 @@ I was riding on the Mayflower
 When I thought I spied some land  
 I yelled for Captain Arab  
 I have yuh understand  
-        C  
+    C  
 Who came running to the deck  
 Said, "Boys, forget the whale  
  G  
@@ -25,7 +25,7 @@ I fell down, I could not stand
  C  
 Captain Arab he started  
 Writing up some deeds  
-          G  
+    G  
 He said, "Let's set up a fort  
 And start buying the place with beads"  
     D  
@@ -46,7 +46,7 @@ To the Bowery slums
      G  
 Where people carried signs around  
 Saying, "Ban the bums"  
-        D  
+    D  
 I jumped right into line  
 Sayin', "I hope that I'm not late"  
       G  
@@ -89,7 +89,7 @@ I went, but she had a friend
 Who knocked me out and robbed my boots  
 And I was on the street again  
   
-       G      C/g    G  
+    G      C/g    G  
 Well, I rapped upon a house  
 With the U.S. flag upon display  
 I said, "Could you help me out  
@@ -97,7 +97,7 @@ I got some friends down the way"
    C  
 The man says, "Get out of here  
 I'll tear you limb from limb"  
-         G  
+    G  
 I said, "You know they refused Jesus, too"  
 He said, "You're not Him  
    D  
@@ -121,7 +121,7 @@ Advertising brotherhood
  D  
 I ran right through the front door  
 Like a hobo sailor does  
-          G  
+    G  
 But it was just a funeral parlor  
 And the man asked me who I was  
   
@@ -143,7 +143,7 @@ It just about blew my mind
 When I picked it up and said hello  
 This foot came through the line  
   
-       G        C/g    G  
+    G        C/g    G  
 Well,by this time I was fed up  
 At tryin' to make a stab  
 At bringin' back any help  
@@ -169,7 +169,7 @@ When this coastguard boat went past
  C  
 They asked me my name  
 And I said, "Captain Kidd"  
-       G  
+    G  
 They believed me but  
 They wanted to know  
 What exactly that I did  
@@ -180,12 +180,12 @@ I was employed
 They let me go right away  
 They were very paranoid  
   
-         G     C/g        G  
+    G     C/g        G  
 Well, the last I heard of Arab  
 He was stuck on a whale  
 That was married to the deputy  
 Sheriff of the jail  
-       C  
+    C  
 But the funniest thing was  
 When I was leavin' the bay  
   G  

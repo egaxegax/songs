@@ -6,33 +6,33 @@ Book of Saturday
   *feel free to make variations on the basic patterns. I have divided the*  
   *song up into bits that correspond with the roman numerals in the lyrics*  
   *here-in. (12)=harmonic*  
-                *I*  
+    *I*  
   If I only could deceive you  
   
   Forgetting the game  
-                *I*  
+    *I*  
   Every time I try to leave you  
   
   You laugh just the same  
-                *II*  
+    *II*  
   'Cause my wheels never touch the road  
   And the jumble of lies we told  
   Just returns to my back to weigh me down...  
-                *I*  
+    *I*  
   We lay cards upon the table  
   The backs of our hands  
-                *I*  
+    *I*  
   And I swear I like your people  
   The boys in the band  
-                *III*  
+    *III*  
   Reminiscences gone astray  
   Coming back to enjoy the fray  
   In a tangle of night and daylight sounds...  
-                 *IV*  
-                 *V*  
-                 *III*  
-                 *VI*  
-                 *VII*  
+    *IV*  
+    *V*  
+    *III*  
+    *VI*  
+    *VII*  
   All completeness in the morning  
   Asleep on your side  
   I'll be waking up the crewmen  
@@ -40,12 +40,12 @@ Book of Saturday
   She responds like a limousine  
   Brought alive on the silent screen  
   To the shuddering breath of yesterday...  
-                  *I*  
+    *I*  
   There's the succour of the needy  
   Incredible scenes  
   I'll believe you in the future  
   Your life and death dreams  
-                  *VIII*  
+    *VIII*  
   As the cavalry of despair  
   Takes a stand in the lady's hair  
   For the favour of making sweet sixteen...  

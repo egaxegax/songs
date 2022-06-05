@@ -4,7 +4,7 @@ Intro: A#
 Verse:  
 A#            D      G  
 He?s a victim of his own time  
-         D#       D        F  
+    D#       D        F  
 In his "vintage suit" and tie  
 He?s a casualty dressed to the teeth  
 In the latest genocide  
@@ -27,9 +27,9 @@ For paedophiles as the credit card explodes
   
 Chorus: X2  
   
-          C                 G#  
+    C                 G#  
 When you auctioned off you life  
-          F  
+    F  
 For the "most" expensive price  
 A#  
 Going once  

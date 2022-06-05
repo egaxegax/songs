@@ -27,7 +27,7 @@ G|----------------------------------------------12----|
 D|----------------------------------------------------|  
 A|----------------------------------------------------|  
 E|----------------------------------------------------|  
-                *  
+    *  
 E|-----------------------------------------------------------|  
 B|-11--10----------------------------------------------------|  
 G|----------12---10---12b14--12--b14--12--b14--12--14r12p10v-|  
@@ -69,27 +69,27 @@ Lyrics and chords:
   
    F                      Am            Dm  
 Tonight, I?m gonna have myself a real good time  
-        Gm  C           F        F7            Bb  
+    Gm  C           F        F7            Bb  
 I feel alive, and the world, turning inside out, yeah  
      Gm7                D7          Gm    F   C  Gm  
 and floating around in ecstasy, so don?t stop me now  
   Gm    F  C              Gm7                 C  
 Don?t stop me ?cause I?m having a good time, having a good time.  
-        F                               Am           Dm  
+    F                               Am           Dm  
 I?m a shooting star leaping through the sky, like a tiger  
-             Gm        C  
+    Gm        C  
 defying the laws of grafity  
-       F                  Am                Dm  
+    F                  Am                Dm  
 I?m a racing car, passing by, like lady Godiva  
-        Gm             C                 F  
+    Gm             C                 F  
 I?m gonna go, go, go,there?s no stopping me  
      F7                  Bb         Gm7  
 I?m burning through the sky, yeah, 200 degrees,  
-                 D7                  Gm  
+    D7                  Gm  
 that?s why they call me Mister Fahrenheit  
      D7                         Gm  
 I?m travelling at the speed of light.  
-                Bb   F    Bb      G7   C  
+    Bb   F    Bb      G7   C  
 I wanna make a supersonic man out of you  
  F     Gm  Am  Dm  
 Don?t stop me now, I?m having such a  
@@ -103,7 +103,7 @@ Gm    F    C           Gm7
 Don?t stop me cause I?m having a good time  
 Gm     F   C           Gm  
 Don?t stop me, yes I?m having a good time,  
-                     (x13141)  
+    (x13141)  
 C                    Bbm7sus4  
 I don?t want to stop at all  
   

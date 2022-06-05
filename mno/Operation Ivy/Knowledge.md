@@ -62,7 +62,7 @@ Knowledge
   D ---------------------------------3--  
   A ------------------------------------  
   E ------------------------------------]  
-               This time I got it all...  
+    This time I got it all...  
   
   *Here are the entire lyrics:*  
   *I know things are getting tougher  

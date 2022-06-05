@@ -13,7 +13,7 @@ Nothin'
 intro:  ***c1 e***  
   
   ***c                                  e f      a g***  
-       everytime i try so hard i get nothin' (nothin')  
+    everytime i try so hard i get nothin' (nothin')  
   ***c                                     e f      a g***  
   they say try and you won't fail i get nothin' (nothin')  
   ***c                            e f      a g***  
@@ -21,10 +21,10 @@ intro:  ***c1 e***
   ***c                   e f      a g***  
   i tried so hard for nothin' (nothin')  
   ***a   c f g                        a   c f g***  
-            i never wanted it that way  
-                                 ***a    c f g***  
+    i never wanted it that way  
+    ***a    c f g***  
   guess there was nothin' i could say  
-                                 ***a      c     f    g***  
+    ***a      c     f    g***  
   i don't know what i want but i know i don't want this  
   ***f                     g              f     g***  
   i give up i give in i know i'm never gonna win  
@@ -37,10 +37,10 @@ intro:  ***c1 e***
   ***c                   e f      a g***  
   i tried so hard for nothin' (nothin')  
   ***a   c f g                             a     c f g***  
-            i know it's really not your fault  
-                      ***a      c f g***  
+    i know it's really not your fault  
+    ***a      c f g***  
   i'm gonna blame you anyway  
-                             ***a             c  f  g***  
+    ***a             c  f  g***  
   you say you're sorry but i know it won't do no good  
   ***f                     g              f     g***  
   i give up i give in i know i'm never gonna win  
@@ -75,7 +75,7 @@ solo:  [e:--------------------------------------------
   e:---------------------------------------------]  
   
   *post-solo: ***c f c g*** (one measure each chord)*  
-                 ****f g*** (two downstrokes on ***f*** and then one on ***g***)*  
+    ****f g*** (two downstrokes on ***f*** and then one on ***g***)*  
   
   ***c***  
   i don't fuckin' care  

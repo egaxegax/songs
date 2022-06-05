@@ -15,7 +15,7 @@
   he`s hanging on dear life  
   so we hold each other tightly  
   and hold on for tomorrow  
-          ***Am      G       Am      G       Am      G***  
+    ***Am      G       Am      G       Am      G***  
   singing lala... lala... lala... lala... lala... lala...  
   ***F                 G***  
   holding on for tomorrow  

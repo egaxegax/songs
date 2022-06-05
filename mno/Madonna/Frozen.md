@@ -2,12 +2,12 @@
 F#m  
 You only see what your eyes want to see  
 How can life be what you want it to be  
-       D      E                     F#m  
+    D      E                     F#m  
 You're frozen when your heart's not open  
 F#m  
 You're so consumed with how much you get  
 You waste your time with hate and regret  
-       D      E  
+    D      E  
 You're frozen when your heart's not open  
   
 Chorus(I love this mmmm...)  

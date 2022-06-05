@@ -10,11 +10,11 @@ The Game 1980
   *it... I'm also not completely sure of the lyrical order...*  
   *Anyway... these are chords you will need to know.*  
   ***E (full)*** [-0-] ***B (full)*** [-2-] ***F# (full)*** [-1-] ***C# (full)*** [-4-]  
-           [-0-          -4-           -1-           -6-  
-           -1-          -4-           -2-           -6-  
-           -2-          -4-           -3-           -6-  
-           -2-          -2-           -3-           -4-  
-           -0-          -2-           -1-           -4-]  
+    [-0-          -4-           -1-           -6-  
+    -1-          -4-           -2-           -6-  
+    -2-          -4-           -3-           -6-  
+    -2-          -2-           -3-           -4-  
+    -0-          -2-           -1-           -4-]  
   *To make the power chord - just don't play the first three strings.*  
   *In the beginning part, it is all arpeggiated chords (they are all the "full" chords)*  
   ***B   E***  
@@ -31,7 +31,7 @@ The Game 1980
   ***F#***  
   You really think they like to rock in space?  
   Well I don't know.  
-       ***B***  
+    ***B***  
   What do you know? What do you hear?  
       ***F#***  
   On the radio. Coming through the air.  
@@ -45,7 +45,7 @@ The Game 1980
   Said come baby down, come and rock with me, I said yeah...  
    ***B***  
   What do you do, to get to feel alive,  
-        ***F#***  
+    ***F#***  
   You go downtown, and get some of that prime jive,  
      ***B      F#***  
   I said Mama,  I ain't crazy, I'm all right... all right...  
@@ -66,7 +66,7 @@ The Game 1980
   We're gonna rock it... Tonight  
   ***F#***  
   (We want some prime jive) Oh oh oh  
-       ***B***  
+    ***B***  
   (We want some prime jive) Oh oh oh oh oh rock it tonight...  
   *and it is ***F#*** -&gt; ***B*** ad infinitum (or at least, until the end)*  
   

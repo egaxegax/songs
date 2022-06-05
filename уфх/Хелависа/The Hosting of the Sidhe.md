@@ -5,27 +5,27 @@ Running to Paradise (1996)
   
 a:  ***Em  D  A  C  Hm  Em***  
   
-       ***Em              G         Am***  
+    ***Em              G         Am***  
   The host is riding from Knocknarea  
-       ***C                  D         Em***  
+    ***C                  D         Em***  
   And over the grave of Clooth-na-Bare;  
     ***Em             G           Am***  
   Caoilte tossing his burning hair,  
-        ***C             D          Em***  
+    ***C             D          Em***  
   And Niamh calling Away, come away:  
   
    ***F           Em      Am***  
 b:  Empty your heart of its mortal dream.  
-        ***F      Em         Am***  
+    ***F      Em         Am***  
   The winds awaken, the leaves whirl round,  
-        ***F         G         Am***  
+    ***F         G         Am***  
   Our cheeks are pale, our hair is unbound,  
-        ***F           G           A!***  
+    ***F           G           A!***  
   Our breasts are heaving, our eyes are agleam,  
   
-       ***D                     Am***  
+    ***D                     Am***  
 c1:  Our arms are waving, out lips are apart;  
-       ***D              Am***  
+    ***D              Am***  
 c2:  And if any gaze on our rushing band,  
       ***D                        C***  
   We come between him and the deed of his hand,  

@@ -39,9 +39,9 @@ G|-9-9-9-----| X2             |-12-|
 D|-9-9-9-----|                |-12-|  
 A|-7-7-7-----|    Im not too  |-14-|  
 E|-----------|    sure if this|-14-|  
-                  is the right|-12-|  
-                  chord but it|-12-|  
-                  sounds alright  
+    is the right|-12-|  
+    chord but it|-12-|  
+    sounds alright  
   
 solo  
 E|-------------------------------------------------------------|  

@@ -13,17 +13,17 @@
   Биллис Бэнд считается неоспоримым лидером данного жанра.  
   Сам себя не похвалишь - никто тебя не похвалит  
   
-                  ***Dm***  
+    ***Dm***  
   My Jesus gonna be here  
   He gonna be here soon  
   Well I don't have to shout  
-                ***A7***  
+    ***A7***  
   And I got no doubt  
-             ***Dm***  
+    ***Dm***  
   I'm gonna leave this place better  
-          ***Gm***  
+    ***Gm***  
   Than a way I found it was  
-               ***Dm***  
+    ***Dm***  
   Jesus gonna be here  
   ***A7                Dm***  
   He gonna be here soon  

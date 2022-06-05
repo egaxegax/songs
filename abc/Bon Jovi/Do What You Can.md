@@ -1,30 +1,30 @@
 <!--2022-03-20 00:51:09-->
 Intro:  ***G C G C G D G***  
   
-               ***G***  
+    ***G***  
 Tonight they’re shutting down the borders  
-        ***C                  G***  
+    ***C                  G***  
 And they’ve boarded up the schools  
-         ***Em                   D***  
+    ***Em                   D***  
 Small towns are rolling up their sidewalks,  
-                       ***G***  
+    ***G***  
 One last paycheck coming through  
-             ***G***  
+    ***G***  
 I know you're feeling kinda nervous  
-        ***C               G***  
+    ***C               G***  
 We're all a little bit confused  
     ***Em               D***  
 Nothin's the same, this ain't a same  
-                ***G***  
+    ***G***  
 We got to make it through  
   
-              ***G             C              G***  
+    ***G             C              G***  
   When you can’t do what you do, you do what you can  
-        ***Em                 D                       G***  
+    ***Em                 D                       G***  
   This ain’t my prayer, it’s just a thought I’m wanting to send  
-            ***G                  C                    G***  
+    ***G                  C                    G***  
   Round here we bend but don’t break, down here we all understand  
-              ***Em              D              G***  
+    ***Em              D              G***  
   When you can’t do what you do, you do what you can  
   
   Instrumental: ***G C G***  
@@ -48,17 +48,17 @@ And we still got bills to pay
   
 ***G C G Em D D G*** } 2x  
   
-       ***G              C                 G***  
+    ***G              C                 G***  
   When you can’t do what you do, you do what you can  
       ***Em                D                    G***  
   This ain’t my prayer, it’s just a thought I’m wanting to send  
-              ***G               C                 G***  
+    ***G               C                 G***  
   Round here we bend but don’t break, down here we all understand  
-          ***Em                   D               G***  
+    ***Em                   D               G***  
   When you can’t do what you do, you do what you can  
-          ***Em           G           C            G***  
+    ***Em           G           C            G***  
   When you can’t do what you do, you do what you can  
-          ***Em           G           C            G***  
+    ***Em           G           C            G***  
   When you can’t do what you do, you do what you can  
   
 Ending: ***G C G C G D G***

@@ -1,7 +1,7 @@
 <!--2020-09-05 08:30:15-->
 Firepile - Throwing Muses  
   
-       ***E        A        B***  
+    ***E        A        B***  
   [e|-------|----5---|----7---|  
   B|-------|----5---|----7---|  
   G|---1---|----6---|----8---|  
@@ -12,7 +12,7 @@ Firepile - Throwing Muses
   ***E A B A***  
   ***E***  
   This is him  
-          ***A         B  A       E A B A***  
+    ***A         B  A       E A B A***  
   When I,   when I,    I begin  
   ***E                      A     B A***  
   Call him tied call him taken  
@@ -20,19 +20,19 @@ Firepile - Throwing Muses
   Call him anything but shaken  
   ***A        E***  
   Call him wasted call him shaved  
-           ***A             B           A***  
+    ***A             B           A***  
   Call him anything but  shaved  
   ***E                    A    B A***  
   Call that firepile a home  
-        ***E***  
+    ***E***  
   Don't give away the end  
-         ***A***  
+    ***A***  
   I come back  
-                 ***B  A***  
+    ***B  A***  
   I rush to wait  
   ***E                            A***  
   Where the pavement starts to crack  
-                ***B    A***  
+    ***B    A***  
   I put my foot down  
   ***E***  
   The sidewalk's so hot  
@@ -40,9 +40,9 @@ Firepile - Throwing Muses
   The sidewalk's so hot  
   ***E***  
   Think of all the junk  
-          ***A                B   A     E     A***  
+    ***A                B   A     E     A***  
   I could lay my hands on, purify my heart  
-       ***B   A           E***  
+    ***B   A           E***  
   That firepile's your home  
   
   [e-------------------------------------------------------  
@@ -74,15 +74,15 @@ Firepile - Throwing Muses
   e-------------------------------------------------------]  
   ***E                    A***  
   Your baby's running faster  
-            ***B       A       E***  
+    ***B       A       E***  
   Count the times I left my clothes out  
-                           ***A***  
+    ***A***  
   Count the tires one more time  
-            ***B       A       E       A***  
+    ***B       A       E       A***  
   Count the times I let the air out  
-       ***B   A           E    A***  
+    ***B   A           E    A***  
   That firepile's your home  
-             ***B    A E***  
+    ***B    A E***  
   And you're mine  
   [e---------------------------------------------------------  
   b---------------------------------------------------------  

@@ -13,17 +13,17 @@ Intro:  (organ and strings):
   
   ***E   C        D                   A***  
 Verse 1: My, my the clock in the sky is pounding away  
-          ****E***               (organ fill: ***E A/E E7***(no3) ***A/E***)*  
+    ****E***               (organ fill: ***E A/E E7***(no3) ***A/E***)*  
   There's so much to say  
      ***E        C        D               A***  
   A face, a voice, an overdub has no choice  
-          ***E***  
+    ***E***  
   And it cannot rejoice  
    ***A         /G     D/F#       Esus4***  
   Wanting to be, to hear and to see  
    ***A     /G        D/F#***  
   Crying    to the sky  
-           ***E          E7/D        A/C#       D***  
+    ***E          E7/D        A/C#       D***  
   But the porpoise is laughing goodbye, goodbye  
    ****G                     D*** (vocals imply ***Dsus2***)*  
   Goodbye, goodbye, goodbye  

@@ -26,7 +26,7 @@
   now my state is plainly tame  
   ***D5       A5***  
   day to day, today today  
-         ***G5      E5 (7th fret)***  
+    ***G5      E5 (7th fret)***  
   I said hey, hooray  
   
   ***F#5        G5***  
@@ -44,7 +44,7 @@
   now my state is plainly tame  
   ***E5 (7th fret) B5***  
   day to day,     today today  
-         ***A5      F#5***  
+    ***A5      F#5***  
   I said hey, hooray  
   ***E5 (7th fret)     B5***  
   all my friends have gone away  

@@ -4,9 +4,9 @@ The Rawdon Hills
   
   ***A                   Gadd9             D7/F#          Gadd9***  
   Worn down shacks of labour past, on a hill of broken stone  
-       ***D/F#                  Em                G                 A7***  
+    ***D/F#                  Em                G                 A7***  
   Once brought by men to the stamping mills to crush away the gold  
-         ***A7/G               Gadd9             D/F#           Ema9***  
+    ***A7/G               Gadd9             D/F#           Ema9***  
   But before it could pass to their sons, the glory left the hole  
       ***G            A7                   G        D/F#***  
   The Rawdon Hills once were touched by gold  
@@ -20,11 +20,11 @@ The Rawdon Hills
 Bridge:  Grandsons of the mining men, you'll see it in your dreams  
   ***Fma9                  Em               D                    D/C***  
   Beneath your father's bones still lies the undiscovered seam  
-                                          ***D***  
+    ***D***  
   Of Quartzite, in a serpentine vein that marks the greatest yield  
       ***G                                     G***  
   And along the Midland railway, it's still told  
-          ***G            A7                   G      D***  
+    ***G            A7                   G      D***  
   How the Rawdon Hills once were touched by gold  
   Eighty years has been and gone since there was color in the hole  
   And the careworn shades of the hard-rock men surround the old Cope lode  

@@ -9,37 +9,37 @@ Fear Of Falling
   *word-processor. But in any event, you'll get the cadence, and it will*  
   *flow with the rest of the song very nicely.*  
   
-          ***D***  
+    ***D***  
   Last night I dreamt of flying  
-          ***C***  
+    ***C***  
   Over hillsides in the snow  
-            ***G***  
+    ***G***  
   And I dove down through the clouds  
-              ***D***  
+    ***D***  
   Into the valley there below  
-                   ***D***  
+    ***D***  
   When the fields turned into parking lots  
       ***C***  
   My freedom turned to dread  
-          ***G***  
+    ***G***  
   The ground rose up to greet me  
-             ***D***  
+    ***D***  
   And I jumped up out of bed  
-                ***C***  
+    ***C***  
   You can fly, fly, fly  
-                ***D***  
+    ***D***  
   Off to anywhere you choose  
-                ***C***  
+    ***C***  
   You can try, try, try  
-               ***D***  
+    ***D***  
   But eventually you'll lose  
-          ***D***  
+    ***D***  
   It seems there's always something  
-              ***G                C***  
+    ***G                C***  
   Tryin' to bring a good man down (stretch the word when sung)  
       ***C            G***  
   I have no fear of falling  
-          ***D***  
+    ***D***  
   But I hate hitting the ground  
   Searchin' through my sofa  
   Tryin' to find some extra change  

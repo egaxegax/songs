@@ -157,8 +157,8 @@ solo:  [e--9999888877778787-------------------------------------------
   A|5-------x-x---x-8---------x-3--|--------------------x---x-x---x|  
   D|5-------x-x---x-8---------x-3--|--------------------x---x-x---x|  
     ^   ^   ^   ^   ^   ^   ^   ^   ^   ^   ^   ^   ^   ^   ^   ^]  
-            Du      riechst so  guu....       ...uuut.  
-            Du      riechst so  guuuuuuut,       ich geh dir hinter-  
+    Du      riechst so  guu....       ...uuut.  
+    Du      riechst so  guuuuuuut,       ich geh dir hinter-  
    -her.    Du      riechst so  guu....       ...uuut,  
   
   [e|(------------------------------|---------------play 1x--------)|  
@@ -171,9 +171,9 @@ solo:  [e--9999888877778787-------------------------------------------
     ich             fiii..  .iinde dii...    ...iiich...  
   
   *(repeat 1st part, violins start playing)*  
-                            so  guu....       ...uuut.  
-                            So  gut.  Ich steig dir nach  
-            Du      riechst so  guu....       ...uuut,  
+    so  guu....       ...uuut.  
+    So  gut.  Ich steig dir nach  
+    Du      riechst so  guu....       ...uuut,  
   
   *(repeat 2nd part)*  
    gleich           hab ich     diii...      ...iiich.  
@@ -199,20 +199,20 @@ solo:  [e--9999888877778787-------------------------------------------
   
   *-chorus*  
   
-            Du      riechst so  guu....       ...uuut.  
-            Du      riechst so  guuuuuuut,       ich geh dir hinter-  
+    Du      riechst so  guu....       ...uuut.  
+    Du      riechst so  guuuuuuut,       ich geh dir hinter-  
   -her.     Du      riechst so  guu....       ...uuut,  
   ich               fiii..  .iinde dii...    ...iiich...  
   
     (violins start playing) so  guu....       ...uuut  
-                            so  gut.  ich    faB dich     an.  
-            Du      riechst so  guu....       ...uuut,  
+    so  gut.  ich    faB dich     an.  
+    Du      riechst so  guu....       ...uuut,  
   jetzt             hab ich     diii...      ...iiich.  
   
-            Du      riechst so  guu....       ...uuut.  
-            Du      riechst so  guuuuuuut,       ich geh dir hinter-  
+    Du      riechst so  guu....       ...uuut.  
+    Du      riechst so  guuuuuuut,       ich geh dir hinter-  
   -heee....                               ....eeeerrr.  
-            ....  
+    ....  
   
   *-end with:*  
   [e|-------------------------------|  

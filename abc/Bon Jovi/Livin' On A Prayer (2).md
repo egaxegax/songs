@@ -14,11 +14,11 @@ Gina work the dinner all day, Working for her man. She bri
     ***D     E      F#m***  
 For love, for love.  
   
-         ***D     E        F#m***  
+    ***D     E        F#m***  
 She says we've got to hold  on to  what we've got.  
  ***D                 E                 F#m***  
 It doesn't make a difference if we make it or not.  
-       ***D        E         F#m               D***  
+    ***D        E         F#m               D***  
 We've got each other and that's a lot, for love.  
       ***E***  
 We'll give it a shot.  
@@ -40,7 +40,7 @@ Gina dreams of running away, when she cries in the night, 
      ***D     E        F#m***  
 Baby its okey, some day.  
   
-        ***D     E        F#m***  
+    ***D     E        F#m***  
 We've got to hold   on to   what we've got.  
       ***D             E                 F#m***  
 It doesn't make a difference if we make it or not.  

@@ -1,13 +1,13 @@
 <!--2020-09-05 21:51:51-->
 Benzai-Ten  
   
-           ***C             F              C***  
+    ***C             F              C***  
   When the sun sets over cherry blossom skies  
    ***C-C/Hm-Am       C         G/Bb***  
   And the twilight fills the air  
-          ***C            F               C***  
+    ***C            F               C***  
   You can see the snow on the mountaintops  
-       ***C-C/Hm-Am      C    Am***  
+    ***C-C/Hm-Am      C    Am***  
   Through the veil of old Japan…  
   On an island lead by all the ancient ways  
   Just a million miles from here  

@@ -6,13 +6,13 @@ Jesus In A Camper Van
   Oo we've got a live one, featherweight icon  
   ***Am***  
   Heroes let'im down so he sleeps with the light on  
-               ***C                     G***  
+    ***C                     G***  
   And there's nothin' left to do but kneel down and pray  
   ***G***  
   Sail away with Caesar if you non believer  
   ***Am***  
   Everybody get high if you're a Diamond geezer  
-           ***C                    G***  
+    ***C                    G***  
   It's the devil that needs ya so go out and play  
   ***Dm           E***  
   Blame yourself it's easier  
@@ -24,9 +24,9 @@ Jesus In A Camper Van
   Leave you but I've done all I can  
   ***C***  
   I suppose even the son of God  
-                  ***G***  
+    ***G***  
   Gets it hard sometimes  
-                           ***D    C***  
+    ***D    C***  
   Especially when he goes round  
   ***G***  
   Saying I am the way  

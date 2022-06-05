@@ -69,15 +69,15 @@ Verse 2: One of these mornin's
   *My arrangement:*  
   *Intro:       prog-1*  
   *Verse-1:     prog-1*  
-               *prog-2*  
-               *prog-1b*  
-               *prog-3*  
+    *prog-2*  
+    *prog-1b*  
+    *prog-3*  
   *Verse-2:     (same as Verse-1, except use chords from 2nd-half of*  
-               *prog-3 instead of chords from prog-1)*  
+    *prog-3 instead of chords from prog-1)*  
   *Solo:*  
   *Verse-1:*  
   *Ending:      Repeat last line with prog-3 again, then*  
-               *repeat last line with prog-3b, very slowly.*  
-               *(It's nice to add a descending scale between the*  
-               ****F9+6*** & ***E7+5*** chords. Try an ***Fmaj*** scale from middle-***F***,*  
-               *and ending on the low-***E***.)*
+    *repeat last line with prog-3b, very slowly.*  
+    *(It's nice to add a descending scale between the*  
+    ****F9+6*** & ***E7+5*** chords. Try an ***Fmaj*** scale from middle-***F***,*  
+    *and ending on the low-***E***.)*

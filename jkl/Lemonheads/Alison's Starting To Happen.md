@@ -5,11 +5,11 @@ Alison's Starting To Happen
   
   *Intro: (muted guitar strings)*  
   
-                 ***G             D***  
+    ***G             D***  
   She'd shake it up,  was hard   to make out.  
       ***C                   G                                  Am***  
   Now   it's plain to see   I couldn't cook to save myself,  
-               ***C          D         G                  D***  
+    ***C          D         G                  D***  
   found my life a recipe.   I never looked at her this way before,  
       ***Cm***  
   but now she's all I see...  
@@ -19,9 +19,9 @@ Alison's Starting To Happen
   Alison's starting to happen,  
   ***Em                     D         C  Cmaj/B  Am***  
   Alison's starting to happen to me  
-          ***G            D                   C               G***  
+    ***G            D                   C               G***  
   It's so mesmerizing, can't describe it,  all that inside, hey.  
-                          ***Am***  
+    ***Am***  
   No one's heard her last name, I ain't asked,  
       ***C           D***  
   So, who am I to blame?  
@@ -36,17 +36,17 @@ Alison's Starting To Happen
   ***| F | F | G | G |***  
   ***| F | F | G | G |***  
   ***| F | F | A7 | A7 |***  
-           ***D              A           G                    D***  
+    ***D              A           G                    D***  
   Oh, this world is topsy-turvy,  and it is mine to eat.  
-                               ***Em     G                    D***  
+    ***Em     G                    D***  
   She's the pebble in my mouth    and underneath my feet.  
-                                ***A          Gm***  
+    ***A          Gm***  
   She's the puzzle piece behind the couch, made the sky complete.  
   ***Bm                      A       G                      Bm***  
   Alison's starting to happen.   Alison's starting to happen.  
-                          ***A        G                     Bm***  
+    ***A        G                     Bm***  
   Alison's starting to happen.   Alison's starting to happen.  
-                           ***A             G                  Bm***  
+    ***A             G                  Bm***  
   Alison's getting her tit   pierced.  Alison's growing a mohawk.  
    ***Bm                     A          G  Gmaj7/F#  Em7  D***  
   Alison's starting to happen to me.  
@@ -55,18 +55,18 @@ Alison's Starting To Happen
   
   *This tune is simple, but REALLY good. It is played with all barre chords)*  
   *Scratch effects (mute all of the strings with your hand, a watermelon, or*  
-                   *a camel)*  
-                 ***G***  
+    *a camel)*  
+    ***G***  
   She'd shake it up  
       ***D***  
   was hard to make out  
   ***C                 G***  
   Now it's plain to see.  
-             ***G              A***  
+    ***G              A***  
   I couldn't cook to save myself  
-           ***C          D***  
+    ***C          D***  
   found my life a recipe.  
-          ***G                  D***  
+    ***G                  D***  
   I never looked at her this way before  
       ***Cm***  
   but now she's all I see...  
@@ -78,11 +78,11 @@ Alison's Starting To Happen
   Allison's starting to happen  
      ****C*** (walk the bassline down --***C***,***B***,***A***,***G***)*  
   To me  
-         ***G            D***  
+    ***G            D***  
   I'm so mezmerized I can't describe it  
   ***D               G***  
   All that inside hate      (Not too sure about this line)  
-         ***G                    A***  
+    ***G                    A***  
   No one knows her last name; I didn't ask so  
   ***C           D***  
   Who am I to blame  
@@ -101,17 +101,17 @@ Alison's Starting To Happen
   ***F                     G***  
   ***F                     G***  
   ****F                     G*** (Here, they do an ascending bass run which I haven't*  
-                           *taken the time to figure out. I just play ***G***,***A***,***B***,***C***,***B***,*  
-                           ****C***,***D*** to the key change)*  
+    *taken the time to figure out. I just play ***G***,***A***,***B***,***C***,***B***,*  
+    ****C***,***D*** to the key change)*  
   ***D        D              A***  
   Oh, this world is topsy-turvy  
       ***G             D***  
   And it is mine to eat.  
-          ***D            E***  
+    ***D            E***  
   She's a pebble in my mouth  
       ***G             A***  
   And underneath my feet  
-            ***D            A                     Gm***  
+    ***D            A                     Gm***  
   She's the puzzle piece behind the couch that makes the sky complete...  
   ***Bm                    A***  
   Allison's starting to happen  

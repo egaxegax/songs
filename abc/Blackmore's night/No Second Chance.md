@@ -1,19 +1,19 @@
 <!--2020-09-06 08:28:36-->
 No Second Chance  
   
-        ***Hm             G***  
+    ***Hm             G***  
   My diamond's clouded over where  
       ***A                 D***  
   it used to shine like light,  
-          ***G                    Em***  
+    ***G                    Em***  
   And the day keeps running faster,  
   ***Hm***  
   Into the arms of night...  
-          ***Hm                    G***  
+    ***Hm                    G***  
   The stitches on the tapestry say,  
       ***A            D***  
   "Everything in time,  
-       ***G                      Em***  
+    ***G                      Em***  
   Will find it's way home again,"  
   ***F#***  
   But I'm tired of crying...  
@@ -23,15 +23,15 @@ No Second Chance
   Don't knock on my door  
   ***Em                  D***  
   There won't be any answer  
-              ***F#       Hm***  
+    ***F#       Hm***  
   I won't be here no more...  
-          ***Em           Hm***  
+    ***Em           Hm***  
   This house we had together  
-            ***Em         Hm***  
+    ***Em         Hm***  
   Might still be in its place  
-              ***G          Em                  F#***  
+    ***G          Em                  F#***  
   But the rest of this is much too hard to face,  
-                         ***Hm***  
+    ***Hm***  
   There'll be No Second Chance...  
   Lovely moonlit hours spent  
   Walking on the beach,  

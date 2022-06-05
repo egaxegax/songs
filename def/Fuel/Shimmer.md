@@ -20,51 +20,51 @@ Shimmer
   *Lyrics:*  
   ***C                        D****  
   She calls me from the cold  
-                   ***C                    D****  
+    ***C                    D****  
   Just when I was low, feeling short of stable  
   ***C                 D****  
   All that she intends  
-                        ***C                  D****  
+    ***C                  D****  
   And all she keeps inside, isn't on the label  
   ***C            D   Em  D***  
   She's, she's ashamed  
-              ***C           D  Em   D***  
+    ***C           D  Em   D***  
   And she can take me for a while  
   ***C                  D*                    C***  
   And can I be a friend, we'll forget the past  
-                    ***D***  
+    ***D***  
   Or maybe I'm not able  
-           ***D~***  
+    ***D~***  
   And I break at the bend  
   ***Em          C  Am    D       C***  
   We're here and now, will we ever be again  
   ***Am       D      C***  
   Cause I have found  
-         ***C~                                   C***  
+    ***C~                                   C***  
   All that shimmers in this world is sure to fade  
    ***D*    C    D****  
   Away again  
       ***C                         D****  
   She dreams the champagne dream  
-              ***C                            D****  
+    ***C                            D****  
   Strawberry surprise, pink linen on white paper  
   ***C              D****  
   Lavender and cream  
-                ***C                    D****  
+    ***C                    D****  
   Fields of butterflies, reality escapes her  
   ***C            D Em       D    C        D Em    D***  
   She says that love is for fools that fall behind  
   ***C                  D****  
   I'm somewhere in between  
-                   ***C                       D***  
+    ***C                       D***  
   I never really know A killer from a savior  
-        ***D~***  
+    ***D~***  
   And I break at the bend  
   ***Em          C  Am    D       C***  
   We're here and now, will we ever be again  
   ***Am      D      C***  
   Cause I have found  
-         ***C~                                   C***  
+    ***C~                                   C***  
   All that shimmers in this world is sure to fade  
    ***D*    C    D****  
   Away again  
@@ -80,7 +80,7 @@ Shimmer
   D------------------  
   A------------------  
   E------------------]  
-         *4X's*  
+    *4X's*  
   ***C          D Em          D***  
   It's too far away for me to hold  
   ***C        D Em***  

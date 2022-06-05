@@ -5,23 +5,23 @@ E C#m    B   B
   
 E                        C#m  
 When I look into your eyes  
-                 B  
+    B  
 I can see a love restrained  
 E                  C#m  
 But darlin` when I hold you  
-                          B  
+    B  
 Don`t you know I feel the same  
-       C#m           F#  
+    C#m           F#  
 `Cause nothin` lasts forever  
-                            B  
+    B  
 And we both know hearts can change  
 C#m                     F#  
 And it`s hard to hold a candle  
-                     B  
+    B  
 In the cold November rain  
 C#m                            F#  
 We`ve been through this such a long long time  
-                        B  
+    B  
 Just tryin` to kill the pain  
     C#m  
 But lovers always come and lovers always go  
@@ -31,28 +31,28 @@ Walking away
    C#m  
 If we could take the time  
 to lay it on the line  
-       F#  
+    F#  
 I could rest my head  
-                           B  
+    B  
 Just knowin` that you were mine  
 All mine  
    E              C#m  
 So if you want to love me  
-                   B  
+    B  
 then darlin` don`t refrain  
 E                   C#m  
 Or I`ll just end up walkin`  
-                     B  
+    B  
 In the cold November rain  
-       E                        F#  
+    E                        F#  
 Do you need some time...on your own  
-       E                      F#  
+    E                      F#  
 Do you need some time...all alone  
-          E  
+    E  
 Everybody needs some time...  
 F#  
 on their own  
-                   E                      F#  
+    E                      F#  
 Don`t you know you need some time...all alone  
 Ebm         E               B  
 I know it`s hard to keep an open heart  
@@ -62,15 +62,15 @@ Ebm    E                C#m
 But if you could heal a broken heart  
 Ebm      E              F#  
 Wouldn`t time be out to charm you  
-            E                      F#  
+    E                      F#  
 Sometimes I need some time...on my own  
-            E                      F#  
+    E                      F#  
 Sometimes I need some time...all alone  
-          E  
+    E  
 Everybody needs some time...  
-         F#  
+    F#  
 on their own  
-                   E                      F#  
+    E                      F#  
 Don`t you know you need some time...all alone  
   
 And when your fears subside  

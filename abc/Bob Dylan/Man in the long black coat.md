@@ -8,7 +8,7 @@ F#m   A   E   F#m
   
 F#m          A            E        C#m  
 Crickets are chirpin' the water is high  
-          F#m         A             E            F#m  
+    F#m         A             E            F#m  
 There's a soft cotton dress? on the line hangin' dry  
 F#m          A    E       C#m  
 Windows wide open African trees  
@@ -35,7 +35,7 @@ To give her heart to the man in the long black coat
   
 D                             A  
 There are no mistakes in life some people say  
-         F#m                    E           F#m  
+    F#m                    E           F#m  
 And it's true sometimes you can see it that way  
 D                         A  
 People don't live or die, people just float  

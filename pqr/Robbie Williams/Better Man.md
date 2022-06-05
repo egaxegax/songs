@@ -1,25 +1,25 @@
 <!--2020-09-06 09:10:36-->
 Better Man  
   
-                   ***F#***  
+    ***F#***  
   Send someone to love me  
-            ***Ebm***  
+    ***Ebm***  
   I need to rest in arms  
-          ***H***  
+    ***H***  
   Keep me safe from harm  
-             ***Db***  
+    ***Db***  
   In pouring rain  
   Give me endless summer  
   Lord I fear the cold  
   Feel I'm getting old  
   Before my time  
-        ***Ebm             Db***  
+    ***Ebm             Db***  
   As my soul heals the shame  
   ***F#                       Ebm***  
   I will grow through this pain  
-           ***H           Db***  
+    ***H           Db***  
   Lord I'm doing all I can  
-         ***F#***  
+    ***F#***  
   To be a better man  
   Go easy on my conscience  
   'Cause it's not my fault  
@@ -35,17 +35,17 @@ Better Man
   To be a better man  
   ***A9***  
   Once you've found that lover  
-                  ***D***  
+    ***D***  
   You're homeward bound  
-              ***E***  
+    ***E***  
   Love is all around  
-              ***F#m***  
+    ***F#m***  
   Love is all around  
   ***A9***  
   I know some have fallen  
-            ***D***  
+    ***D***  
   On stony ground  
-                  ***Abm Db***  
+    ***Abm Db***  
   But Love is all around  
   Send someone to love me  
   I need to rest in arms  

@@ -27,10 +27,10 @@ Intro:  ***E      B     E(IV) E(IV)-B-***
   turns my sky from blue to grey  
   ***E      B             A***  
   I ain't never been to Texas  
-        ***A/B                  A***  
+    ***A/B                  A***  
   but I sure gonna meet that lady  
   ***Esus4 - B7/E - E           A - B -***  
-        one fine day  
+    one fine day  
   When Texas smiles around my bedroom  
   who could ever turn her down  
   tears of joy roll down my pillow  

@@ -28,24 +28,24 @@ Hot Space 1982
   *[E--]                            you pick the entire chord.*  
   ***D                A/D***  
   Pressure pushing down on me  
-           ***G/D                    A/D    D***  
+    ***G/D                    A/D    D***  
   Pressing down on you no man ask for  
-          ***D                       A/C#***  
+    ***D                       A/C#***  
   Under pressure - that burns a building down  
-            ***G/B***  
+    ***G/B***  
   Splits a family in two  
-        ***A***  
+    ***A***  
   Puts people on streets (when they made the bah bah bah, make ***D***, ***A/C#***,***G/B***, ***A***)  
-            ***G          A***  
+    ***G          A***  
   It's the terror of knowing  
-              ***G        A***  
+    ***G        A***  
   What this world is about  
-             ***G        A***  
+    ***G        A***  
   Watching some good friends  
-       ***G             A***  
+    ***G             A***  
   Screaming let me out  
   Pray tomorrow - gets me higher  
-              ***D                 G  A***  
+    ***D                 G  A***  
   Pressure on people - people on streets  
   Chippin'around    (Then like in the start and the chords)  
   Kick my brains around the floor  
@@ -59,30 +59,30 @@ Hot Space 1982
   Screaming let me out  
   Pray tomorrow - gets me higher  
   Pressure on people - people on streets  
-          ***G                       C***  
+    ***G                       C***  
   Turned away from it all like a blind man  
   ***G                       C***  
   Sat on a fence but it don't work  
-        ***G                               C***  
+    ***G                               C***  
   Keep coming up with love but it's so slashed and torn  
   ***F     G     F    G***  
   Why - why - why  
   Love  
   ***A***  
   Insanity laughs under pressure we're cracking  
-             ***D                      G          A***  
+    ***D                      G          A***  
   Can't we give ourselves one more chance  
-         ***G       D                      G       A***  
+    ***G       D                      G       A***  
   Why can't we give love that one more chance  
-        ***G       D            G    A    G   D   A/C#***  
+    ***G       D            G    A    G   D   A/C#***  
   Why can't we give love  
-         ***G /B            A                    D***  
+    ***G /B            A                    D***  
   Cause love's such an old fashioned word  
-            ***A/C#        G/B***  
+    ***A/C#        G/B***  
   and love dares you to care for  
       ***A             D           A/C#***  
   The people on the edge of the night  
-           ***G/B          A***  
+    ***G/B          A***  
   And love dares you to change our way of  
   ***A***  
   Caring about ourselves  

@@ -17,19 +17,19 @@ The Hurting (1983)
   
       ***F***  
   And all this time he's been getting you down,  
-               ***C***  
+    ***C***  
   You ought to pick him up when there's no one around,  
-         ***F***  
+    ***F***  
   And convince him,  
-          ***C***  
+    ***C***  
   Oh just talk to him,  
-           ***F***  
+    ***F***  
   Cause he knows in his heart you won't be home soon,  
-          ***C***  
+    ***C***  
   And he's an only child in an only room  
-           ***F***  
+    ***F***  
   And he's dependent on you  
-           ***C***  
+    ***C***  
   Oh he's dependent on you  
   
   And it seems so strange,  

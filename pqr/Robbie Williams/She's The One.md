@@ -2,22 +2,22 @@
 She's The One  
   *(K. Wallinger)*  
   
-        ***Bb          Eb***  
+    ***Bb          Eb***  
   I was her she was me  
-          ***Bb     Eb       (Eb~)(D)(~Cm)***  
+    ***Bb     Eb       (Eb~)(D)(~Cm)***  
   We were one we were free  
-                 ***Cm                  F***  
+    ***Cm                  F***  
   And if there's somebody calling me on  
-            ***Bb   Eb***  
+    ***Bb   Eb***  
   She's the one  
-             ***Cm                  F***  
+    ***Cm                  F***  
   If there's somebody calling me on  
-            ***Bb   Eb***  
+    ***Bb   Eb***  
   She's the one  
   We were young we were wrong  
   We were fine all along  
   If there's somebody calling me on  
-            ***Bb  Bb7***  
+    ***Bb  Bb7***  
   She's the one  
   ***Eb***  
   When you get to where you wanna go  

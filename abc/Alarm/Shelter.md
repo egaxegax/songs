@@ -26,11 +26,11 @@ Shelter
   Shelter  
   ***B5         A               E***  
   I've been branded, I've been washed around left for dead,  
-            ***D     A      B5  D A***  
+    ***D     A      B5  D A***  
   I've been cast out from this world  
-            ***B5                 A      E***  
+    ***B5                 A      E***  
   I've been exiled, I've been stranded on the street,  
-            ***D    A       B5 D A***  
+    ***D    A       B5 D A***  
   Ain't got no place left to run  
   ****D***(Riff 2)***A         B5***      (Riff 1)*  
   No  one  loves me, anymore, anymore, anymore  

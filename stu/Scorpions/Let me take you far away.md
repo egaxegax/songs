@@ -1,52 +1,52 @@
 <!--2020-09-06 04:55:45-->
 Dm  
  Let me take you far away  
-       C       A    Dm  
+    C       A    Dm  
  You`d like a holiday  
  Dm  
  Let me take you far away  
-       C       A    Dm  
+    C       A    Dm  
  You`d like a holiday  
   
-            C                Dm  
+    C                Dm  
  Exchange the cold days for the sun  
  G              A  
  Good times and fun  
  Dm  
  Let me take you far away  
-       C       A    Dm  Dm7 Dm6 A4 A`  
+    C       A    Dm  Dm7 Dm6 A4 A`  
  You`d like a holiday  
   
  Dm  
  Let me take you far away  
-       C       A    Dm  
+    C       A    Dm  
  You`d like a holiday  
  Dm  
  Let me take you far away  
-       C       A    Dm  
+    C       A    Dm  
  You`d like a holiday  
-            C                 Dm  
+    C                 Dm  
  Exchange your troubles for some love  
      G        A  
  Wherever you are  
  Dm  
  Let me take you far away  
-       C       A    Dm  Dm7 Dm6 A4 A`  
+    C       A    Dm  Dm7 Dm6 A4 A`  
  You`d like a holiday  
   
  Dm  
  Longing for the sun you will come  
-        C              Bb  
+    C              Bb  
  To the island without name  
-           Dm  
+    Dm  
  Longing for the sun be welcome  
-        C           Bb              Dm  
+    C           Bb              Dm  
  On the island many miles away from home  
-             C              Bb  
+    C              Bb  
  Be welcome on the island without name  
-           Dm  
+    Dm  
  Longing for the sun you will come  
-        C           Bb              Dm   C  Bb  
+    C           Bb              Dm   C  Bb  
  To the island many miles away from home.  
   
   
@@ -61,7 +61,7 @@ Dm
   
  Picking:  
   
-       Dm                         C                         A  
+    Dm                         C                         A  
  e -------1--------1--------1--|-----0--------0-----------|----0-----0------0---  
    ----------3--------2--------|--------1--------1--------|------2-----2--------  
    -------------2--------3-----|-----------0--------------|--------2-----2------  
@@ -69,7 +69,7 @@ Dm
    ----------------------------|--3------------------3--2-|-0-------------------  
  E ----------------------------|--------------------------|---------------------  
   
-       C                          G  
+    C                          G  
  e -------0--------0--------0--|-----3--------3--------3---  
    ----------1--------1--------|--------0--------0---------  
    -------------0--------0-----|-----------0--------0------  

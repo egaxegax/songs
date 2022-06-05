@@ -46,7 +46,7 @@ When I first came to town
 All the people gathered round  
 They bought me drinks  
   
-           F pattern                 C Pattern  
+    F pattern                 C Pattern  
 Lord, how quickly they changed their tune  
   
 rpt over next lyrics;  
@@ -63,11 +63,11 @@ Is there for every citizen to see
   
 F  
 O sweet Jesus  
-                    C  
+    C  
 There is no turning back  
-         Gm              Eb  
+    Gm              Eb  
 There is always one more town  
-         Cm               F  
+    Cm               F  
 A little further down the track  
 C  
 And from my window, across the tracks  

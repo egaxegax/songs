@@ -5,17 +5,17 @@ Baby Lemonade
   
   *NOTES:*  
   *terminology: x/y slide from x up to y*  
-               *hx  hammer on to x*  
-               *px  pull off to x*  
+    *hx  hammer on to x*  
+    *px  pull off to x*  
   *I have not attempted to indicate rhythm or timing in any way.*  
   *"|" symbols demarcate sections of music and not measures.*  
   *For line 4 and 5, finger like so:*  
-        *[-----------] nth fret*  
-        [| | | | 1 |]  
-        [-----------]  
-        *[| | | 2 | 3]**  
-        [-----------]  
-        *[| | | | | |]    * the third finger only frets when appropriate.*  
+    *[-----------] nth fret*  
+    [| | | | 1 |]  
+    [-----------]  
+    *[| | | 2 | 3]**  
+    [-----------]  
+    *[| | | | | |]    * the third finger only frets when appropriate.*  
   |----0----2-----3----2------------0----2------|-3-2-0-------------------|  
   |--0---0----0-0---0----0-0-r--0-----0----0-0--|-0-0-0-------------------|  
   |--4----4----4-----4----4--e--2------4----4---|-4-4-4-------------------| 1  
@@ -72,7 +72,7 @@ Baby Lemonade
   
   ***A#***  
 (1)  In the sad town  
-       ***A***  
+    ***A***  
   Cold iron hands clap  
       ***D                  A***  
   The party of clowns outside  
@@ -94,11 +94,11 @@ Baby Lemonade
   I'm screaming  
   ***A***  
   I met you this way  
-         ***D               A***  
+    ***D               A***  
   You're nice to me like ice  
   ***G***  
   In the clock they sent  
-            ***D***  
+    ***D***  
   Through a washing machine  
   ***A#                         A***  
   Come around, make it soon, so alone  

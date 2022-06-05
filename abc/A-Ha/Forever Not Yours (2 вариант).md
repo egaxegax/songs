@@ -4,7 +4,7 @@ E|-656-313------|-656-313-656-535-313|
 B|---------313-1|--------------------|  
 Cm  
 Hold me tight  
-           Gm  
+    Gm  
 This is a lonely night  
      D#  
 And I've hurt you baby  

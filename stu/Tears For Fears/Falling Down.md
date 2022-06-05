@@ -25,19 +25,19 @@ Verse one: [----------------------------------------------------------
   Some of us are saints, some are clowns  
   Just like me, they're falling down  
   
-           ***C***  
+    ***C***  
 Chorus:  Well I lied to the nation  
-                                        ***Em***  
+    ***Em***  
   While my reputation ran dry  
-                 ***C***  
+    ***C***  
   &gt;From my lungs to my liver  
-                                          ***Em***  
+    ***Em***  
   Clung to the river bank's side  
-                        ***C***  
+    ***C***  
   Yeah well I'm back in the water  
   
   Doing what I oughtta  
-                                           ***Em***  
+    ***Em***  
   Trying to lead an ordinary life  
   
   *Verse two (as verse one):*  

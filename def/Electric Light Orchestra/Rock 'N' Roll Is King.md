@@ -4,24 +4,24 @@ Secret Messages (1983)
   
     ***A***  
   Listen everybody let me tell you 'bout the rock 'n' roll  
-                                                       ***E***  
+    ***E***  
   Feel that rhythm and it's really gonna thrill your soul  
-             ***D                        A***  
+    ***D                        A***  
   She said come along with me, to a land of make believe  
-             ***E                A***  
+    ***E                A***  
   She said rock'n' roll is king  
   She loves that rock 'n' roll and she plays it all night long  
   That's all she ever tells me when I call her on the telephone  
   She says feel that jumpin' beat, and git up on your feet  
   She says rock 'n' roll is king  
   
-                ***D        A***  
+    ***D        A***  
 Chorus:  Oh let those guitars play  
-              ***E           A***  
+    ***E           A***  
   Play for me play for me  
-                  ***D        A***  
+    ***D        A***  
   Oh let that song ring out  
-            ***H                 E***  
+    ***H                 E***  
   That's how it's meant to be  
   
   It rolls like a train that's comin' on down the track  

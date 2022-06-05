@@ -11,7 +11,7 @@ East Of The Sun (4:47)
   The way I see it  
   ***F***  
   It's half the worry  
-          ***Dm***  
+    ***Dm***  
   Where I came from  
      ***Am         G***  
   I forgot too soon...  
@@ -47,5 +47,5 @@ East Of The Sun (4:47)
   Before the wound  
   ***C***  
   East of the sun  
-                 ***F#***  
+    ***F#***  
   And west of the moon

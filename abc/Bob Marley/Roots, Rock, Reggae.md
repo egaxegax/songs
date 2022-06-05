@@ -6,7 +6,7 @@ Roots, Rock, Reggae
   *important is to have a really cool right-hand rythm.*  
   *A pretty good exercise for playing reggae!*  
   *So, the general pattern of the song goes like this ...*  
-         ***Bm               Em               Bm               F#m***  
+    ***Bm               Em               Bm               F#m***  
   [e|---------------------7-------7--------------------------9--------9-----------  
   B|----7------7---------8-------8--------7------7----------10-------10----------  
   G|----7------7---------9-------9--------7------7----------11-------11----------  
@@ -20,11 +20,11 @@ Roots, Rock, Reggae
   This a reggae music.  
   ***Bm                   Em***  
   Roots, Rock, Reggae,  
-         ***Bm            F#m***  
+    ***Bm            F#m***  
   This a reggae music.  
   ***Bm                    Em***  
   Roots, Rock, Reggae,  
-          ***Bm            F#m***  
+    ***Bm            F#m***  
   This a reggae music.  
   ***Bm               Em***  
   Hey mister music,  

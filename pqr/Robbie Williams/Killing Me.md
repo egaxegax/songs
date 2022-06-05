@@ -10,9 +10,9 @@ Killing Me
   I don't mind the abuse  
       ***A1        A***  
   It fills in time  
-             ***G/Bb    A2***  
+    ***G/Bb    A2***  
   When I'm not much use  
-            ***D G/Bb         Asus7-A***  
+    ***D G/Bb         Asus7-A***  
   But it's killing me, killing me slowly  
   
   They all say  
@@ -26,7 +26,7 @@ Killing Me
   And I could tolerate you  
   ***C***  
   I do believe that you should leave  
-               ***Asus         Am***  
+    ***Asus         Am***  
   'Cos I have grown to hate you  
   ***Dm***  
   Should I be weak and turn my cheek  
@@ -34,7 +34,7 @@ Killing Me
   'Cos I'm scared to fall  
   ***E***  
   But I just don't know you  
-                  ***E****  
+    ***E****  
   And you don't know me at all  
   I've been told that love's a celebration  
   But I've lost faith through frustration  
@@ -43,11 +43,11 @@ Killing Me
   You paint my picture black  
   ***Am***  
   The joke's on me  
-          ***D***  
+    ***D***  
   And I don't wanna laugh  
   ***F***  
   Remember the good times  
-              ***G                     F         Hm-H***  
+    ***G                     F         Hm-H***  
   Won't you bring them back to me someday, somehow  
   I don't mind feeling blue  
   If I could smile just like you do  

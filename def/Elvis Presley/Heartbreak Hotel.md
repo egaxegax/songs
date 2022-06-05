@@ -2,9 +2,9 @@
 Heartbreak Hotel  
   *(M. B. Axton/Tommy Durden/& E. Presley)*  
   
-                            ***E***  
+    ***E***  
   Well, since my baby left me,  
-                            ***E***  
+    ***E***  
   I found a new place to dwell.  
   
   It's down at the end of lonely street  
@@ -54,7 +54,7 @@ Heartbreak Hotel
    ***E***  
 (1)  Ever since my baby left me,  
   I found a new place to dwell.  
-                               ***E7***  
+    ***E7***  
   It's down at the end of lonely street at Heartbreak Hotel.  
   
    ***A7***  
@@ -83,15 +83,15 @@ Chorus:  You make me so lonely baby, I get so lonely,
   
 -  
   
-        ***E***  
+    ***E***  
   Well, since my baby left me,  
     ***E***  
   I found a new place to dwell.  
-       ***E***  
+    ***E***  
   It's down at the end of lonely street  
   ***E***  
   at Heartbreak Hotel.  
-                 ***A7***  
+    ***A7***  
   Where I'll be, I'll be so lonely baby,  
   ***A7***  
   Well, I'm so lonely  
@@ -127,7 +127,7 @@ Chorus:  You make me so lonely baby, I get so lonely,
   D||----------------------------------|--------------------------------|  
   A||----------------------------------|--------------------------------|  
   E||----------------------------------|--------------------------------|]  
-       *+----3---+                         +----3---+*  
+    *+----3---+                         +----3---+*  
   |--12--12--12--12----------12\-----||--12--12--12--12--12--15----------|  
   |----------------------------------||----------------------------------|  
   |----------------------------------||----------------------------------|  

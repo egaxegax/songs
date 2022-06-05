@@ -1,21 +1,21 @@
 <!--2020-09-04 23:33:06-->
 Intro: Dm . . . |A . . . |Dm . . . |. . . . |  
   
-            Dm  
+    Dm  
 Everybody knows that the dice are loaded  
-           Bb  
+    Bb  
 Everybody rolls with their fingers crossed  
-            Dm  
+    Dm  
 Everybody knows the war is over  
       Bb  
 Everybody knows the good guys lost  
-            Gm                      A  
+    Gm                      A  
 Everybody knows that the fight was fixed  
-               C                    Dm  
+    C                    Dm  
 The poor stay poor, the rich get rich  
-               Eb    A  
+    Eb    A  
 That's how it goes  
-            Dm  
+    Dm  
 Everybody knows  
   
 Everybody knows that the boat is leaking  
@@ -36,9 +36,9 @@ But there were so many people you just had to meet
 Without your clothes  
 Everybody knows  
   
-            F                C  
+    F                C  
 Everybody knows, everybody knows  
-               Dm     C  
+    Dm     C  
 That's how it goes  
      Bb     F  
 Everybody knows  

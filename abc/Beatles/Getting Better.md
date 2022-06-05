@@ -8,29 +8,29 @@ Getting Better
   It's getting better all the time  
      ***G           C/G        G              C/G***  
   I used to get mad at my school (No, I can't complain)  
-        ***G             C/G              G           C/G***  
+    ***G             C/G              G           C/G***  
   The teachers that taught me weren't cool  (No, I can't complain)  
-            ***G        C/G    G         C/G***  
+    ***G        C/G    G         C/G***  
   You're holding me down, turning me around  
    ***G          C/G            G  C/G  G***  
   Filling me up with your rules  
   
 CHORUS:        ***C                           F***  
   I've got to admit it's getting better  
-            ***Em              F***  
+    ***Em              F***  
   A little better all the time  
      ***C                          F***  
   I have to admit it's getting better  
-                ***Em              F       Fmaj7   G***  
+    ***Em              F       Fmaj7   G***  
   It's getting better since you've been mine  
   
   ***C    G         C/G         G  C/G***  
   Me used to be angry young man  
-       ***G        C/G         G   C/G***  
+    ***G        C/G         G   C/G***  
   Me hiding me head in the sand  
-       ***G           C/G      G      C/G***  
+    ***G           C/G      G      C/G***  
   You gave me the word I finally heard  
-        ***G         C/G        G***  
+    ***G         C/G        G***  
   I'm doing the best that I can ...  
   
   *CHORUS*  

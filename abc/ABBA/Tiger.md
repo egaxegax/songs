@@ -4,25 +4,25 @@ Chords to match the little guitar riff  :  xx654x  xx656
   
 VERSE:  
   
-          Eb                                                                 Db    Eb  
+    Eb                                                                 Db    Eb  
 The   city   is   a   jungle   you   better   take   care  
   
-                                                         Db  Ab  Eb  
+    Db  Ab  Eb  
 Never   walk   alone   after   midnight.           If   you   don't  
   
-                                                                      Ab  
+    Ab  
 Believe   it   you   better   beware   of    me.  
   
   
 CHORUS:  
   
-                         Db                                 Dbm6  
+    Db                                 Dbm6  
 I am    behind   you    I   always   find     you  
   
-                      Ab                                 Db  
+    Ab                                 Db  
 I am    the   tiger.   People   who   fear   me  
   
-                        Dbm6                                 Ab  
+    Dbm6                                 Ab  
 Never   go   near   me,  I am   the   tiger.  
   
 Fm                      Bb7                             Fm                Bb7  

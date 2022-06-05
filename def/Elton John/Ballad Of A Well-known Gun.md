@@ -6,30 +6,30 @@
   ***D***  
     ***D***  
   I pulled out my Stage Coach Times  
-        ***D7              G***  
+    ***D7              G***  
   And I read the latest news  
   ***A***  
   I tapped my feet in dumb surprise  
-         ***A7                D***  
+    ***A7                D***  
   And of course I saw they knew  
   The Pinkertons pulled out my bags  
-               ***D7     G***  
+    ***D7     G***  
   And asked me for my name  
   ***A***  
   I stuttered out my answer  
       ***A7              D***  
   And hung my head in shame  
   Now they've found me  
-                  ***A7***  
+    ***A7***  
   At last they've found me  
-               ***G***  
+    ***G***  
   It's hard to run  
-                  ***D***  
+    ***D***  
   From a starving family  
   Now they've found me  
-       ***D7      G***  
+    ***D7      G***  
   Well I won't run  
-               ***D***  
+    ***D***  
   I'm tired of hearing  
   ***Bm    A      G          D***  
   There goes a well-known gun  

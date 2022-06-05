@@ -6,11 +6,11 @@ Will You?
   
   ***Dm             F***  
   You drink your coffee,  
-       ***Bb        C***  
+    ***Bb        C***  
   While I sip my tea,  
-           ***Dm             F***  
+    ***Dm             F***  
   And we're sitting here, playing so cool,  
-           ***Bb                      A***  
+    ***Bb                      A***  
   Thinking, 'What will be, will be.'  
   ***F                        C***  
   And it's getting kind of late now,  
@@ -26,7 +26,7 @@ Will You?
   Not knowing quite what to do and I'm  
   ***Dm          F***  
   Feeling all fingers and thumbs,  
-             ***Bb            A***  
+    ***Bb            A***  
   I spill my tea, oh silly me,  
   ***F                        C***  
   But it's getting kind of late now,  
@@ -36,21 +36,21 @@ Will You?
   Stay now, stay now, stay now,  
      ***Dm       F       G              Dm       A***  
   Or will you just politely say 'Goodnight'?  
-              ***F               C***  
+    ***F               C***  
   And then we touch, much too much,  
-       ***Dm                            A***  
+    ***Dm                            A***  
   This moment has been waiting for a long, long time,  
-              ***F***  
+    ***F***  
   It makes me shiver,  
-           ***C***  
+    ***C***  
   Makes me quiver,  
-       ***Dm***  
+    ***Dm***  
   This moment I am so unsure,  
-       ***C***  
+    ***C***  
   This moment I have waited for,  
-             ***Bb***  
+    ***Bb***  
   Well is it something you've been waiting for,  
-              ***A***  
+    ***A***  
   Waiting for too?  
   ***Dm***  
   Take off your eyes,  

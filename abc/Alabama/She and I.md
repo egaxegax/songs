@@ -16,7 +16,7 @@ She and I
   people think we've got something to hide.  
   ***D                               A***  
   But all our friends know we're just a little old fashioned  
-           ***D***  
+    ***D***  
   She and I  
   ***D             G***  
   Oh ain't that great  
@@ -24,12 +24,12 @@ She and I
   aint it fine  
   ***G***  
   to have a love  someone that others can't find  
-          ***D            E7          G***  
+    ***D            E7          G***  
   Aint it wonderful to know all we ever need is just the two of us  
-           ***D***  
+    ***D***  
   She and I  
   so wonderful  
-           ***G***  
+    ***G***  
   She and I  
   She and I share with every body else  
   the same wants, needs and desires  

@@ -36,7 +36,7 @@ here comes the events all tumbling down
 and she said"well are you healed?"  
 and I said "yes, i'm healed"  
 and she said "well, yes I'm healed then too"  
-            Dm  
+    Dm  
 and I said "babe you are a liar"  
 "babe you are a liar"  
 "babe you are a liar"  

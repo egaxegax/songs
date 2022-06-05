@@ -9,7 +9,7 @@ C
 Down came the tears from her happiness  
     G  
 Her own little son named Johnny B Goode  
-             C  
+    C  
 Was going to make some motion pictures out in Holliwood  
   
 C                F           C  
@@ -27,7 +27,7 @@ As long as he would play it by the railroad side
 He wouldn't get in trouble, he was satisfied  
     G  
 But never thought there'd ever come a day like this  
-               C  
+    C  
 When she would have to give her son a goodbye kiss  
   
 C                F           C  
@@ -47,7 +47,7 @@ As soon as he was married he would bring her back
 And build a mansion for them by the railroad track  
    G  
 So every time they heard the locomotive roar  
-          C  
+    C  
 They'd be standing and waving in the kitchen door  
   
 C                F           C  

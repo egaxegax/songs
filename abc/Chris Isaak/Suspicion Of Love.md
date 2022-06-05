@@ -12,7 +12,7 @@ Am F Am F
 Picked her out of a thousand faces, said I could tell by the smile,  
 Am F Am F  
 Broke down started crying he put his hand on my shoulder,  
-                                            said it'll be all right in awhile.  
+    said it'll be all right in awhile.  
   
   
 Chrous:  

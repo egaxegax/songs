@@ -12,7 +12,7 @@ Big Me
 Intro:  ***C Am G F*** } x2  
   
   When I talk about it  
-         ***C***  
+    ***C***  
   it carries on  
   ***Am***  
   reasons only knew  
@@ -38,7 +38,7 @@ Intro:  ***C Am G F*** } x2
   reasons only knew  
   ***G                 F***  
   but it's you I fell into  
-           ***C   G F    C***  
+    ***C   G F    C***  
   *(repeat)*  
   well I talked about it  
   ***C***  
@@ -47,13 +47,13 @@ Intro:  ***C Am G F*** } x2
   never was it true  
   ***G                F***  
   but it's you i fell into  
-           ***C   G F    C***  
+    ***C   G F    C***  
   
 -  
   
 Intro:  ***C***,***G***,***C***,***F***, } X2  
   
-               ***C                    G                      C         F }***  
+    ***C                    G                      C         F }***  
 Verse:  When I talk about it,  carries  on, reasons old and new              } X2  
   
   ***E                 F                      C                          C7***  
@@ -78,7 +78,7 @@ Other Bit: But it's you......I  fell  in  to
   ***C        [x32010]***  
   ***C7       [x32310]***  
   
-              ***C(add G)***  
+    ***C(add G)***  
 Verse:  When I talk about it  
       ***Am7***  
   it carries on  
@@ -97,33 +97,33 @@ Chorus:  big me to talk about it
   if we can get around it  
   ***C                       G***  
   I know that it's true  
-            ***C***  
+    ***C***  
   well I talked about it  
   ***Am7***  
   carried on  
   ***G                   F***  
   reasons only knew  
-             ***C(add G)***  
+    ***C(add G)***  
   but it's you  
   ***G    F         C(addG)     G***  
   I    fell into  
-            ***C***  
+    ***C***  
   well I talked about it  
   ***Am7***  
   carried on  
   ***G                   F***  
   reasons only knew  
-             ***C(add G)***  
+    ***C(add G)***  
   but it's you  
   ***G    F         C(addG)     G***  
   I    fell into  
-            ***C(add G)***  
+    ***C(add G)***  
   well I talked about it  
   ***Am7***  
   put it on  
   ***G                   F***  
   never was it true  
-       ***C(add G)***  
+    ***C(add G)***  
   but it's you  
    ***G    F         C***  
   i    fell into  

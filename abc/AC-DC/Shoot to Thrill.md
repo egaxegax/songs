@@ -29,9 +29,9 @@ Shoot to Thrill
   -5----7----5----7------7---------------------------------------------  
   ------5---------5------5--(7)----------------------------------------  
   -------------------------8-5-----------------------------------------]  
-                            *^    No one will notice if you dont play*  
-                            *|    this whole chord & it's a pain in*  
-                            *+--- the ass, so dont worry about it!*  
+    *^    No one will notice if you dont play*  
+    *|    this whole chord & it's a pain in*  
+    *+--- the ass, so dont worry about it!*  
   *This is the piece that comes before the chorus.*  
   [---------------------------------------------------------------------  
   ---------------------------------------------------------------------  
@@ -53,8 +53,8 @@ Shoot to Thrill
   -2---2---2-2-2-0---0---0-0-0-0---0---0-0-0--0---0---0-0-0--0---------  
   -0---0---0-0-0-2---2---2-2-2-------------------------------^---------  
   ---------------3---3---3-3-3-------------------------------|---------]  
-                              *Just smack the open strings --+*  
-                              *once as you change back to the 1st chord*  
+    *Just smack the open strings --+*  
+    *once as you change back to the 1st chord*  
   *Of course, there's always the easy way which sounds just as good...*  
   [---------------------------------------------------------------------  
   ---------------------------------------------------------------------  

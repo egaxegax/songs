@@ -5,7 +5,7 @@ Intro: G     C     G
 Your father's gone a-hunting  
       C           F         C  
 He's deep in the forest so wild  
-        G               G7  
+    G               G7  
 And he cannot take his wife with him  
     F                C  
 He cannot take his child  
@@ -17,7 +17,7 @@ Although she knows the way
   
       G               Am  
 Your father's gone a-hunting  
-             F               G  
+    F               G  
 Through the silver and the glass  
       C      E7/b    Am    /g  
 Where only greed can enter  

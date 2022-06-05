@@ -15,7 +15,7 @@ Sucking My Love
   *other parts of the song, I will post them. Well..enough of the typing. Here's*  
   *the song.*  
   
-                                                *Repeat a whole bunch of times.*  
+    *Repeat a whole bunch of times.*  
   *P.M -----|             P.M. -------|          P.M. -----------|*  
   ||------------------------------------------------------------------------||  
   ||------------------------------------------------------------------------||  

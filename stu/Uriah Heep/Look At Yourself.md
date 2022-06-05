@@ -8,11 +8,11 @@ Look At Yourself
   ***Am***  
 verse:  I see you running  
   Don't know what  
-          ***G***  
+    ***G***  
   You're running from  
   ***Am***  
   Nobody's coming  
-                      ***G***  
+    ***G***  
   What'd you do that was so wrong  
   |***Am*** - - -|***C***-***D C***-***G***|***Am*** - - -|***C***-***D C***-***G***|  
   

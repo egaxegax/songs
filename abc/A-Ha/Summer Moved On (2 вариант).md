@@ -3,7 +3,7 @@ Em     Em9  Em
   
 Em                      Bm  
 Summer moved on  
-              A                          G A  
+    A                          G A  
 And the way it works  you can't tag along  
 Em                  Bm             A                G A  
 Honey moved out and the way it went leaves no doubt  

@@ -9,7 +9,7 @@ E-------------------------------------------------
   
   Dmaj7  
   Walk through winternight  
-       G      A  
+    G      A  
   looking the stars  passing time  
   Dmaj7  
   Dream about the summerdays  
@@ -23,19 +23,19 @@ E-------------------------------------------------
   
   Dmaj7  
   Dreaming through winternight  
-       G       A  
+    G       A  
   memories of you  of passing by  
   Dmaj7  
   Seems to me like yesterday  
-       G     A  
+    G     A  
   I think you do  I couldn?t stay  
   
   I see ...  
     D  
   like our love  
-       C                  D           C  
+    C                  D           C  
   lady starlight  help me to find  my love  
-       D                  C  
+    D                  C  
   lady starlight  help me tonight  
      D           C  
     help me to find  my love  

@@ -30,14 +30,14 @@ Wind & Wuthering (1976)
    you      will     reach  
   ***|C                                |C6                               |***  
   ***|Cmaj7                            |C6                               |***  
-                                                                     a  
+    a  
   ***|C                                |C6                               |***  
    place     where      the     sea_____                        runs  
   ***|Cmaj7                            |C6                               |***  
    un   -   der  - neath.____  
   ***|C                                |C6                               |***  
   ***|Cmaj7                            |C6                               |***  
-                                                                And  
+    And  
   ***|Ab                               |                                 |***  
    we'll      see     our____        shad  -  ow  
   ***|G                                |                                 |***  
@@ -48,7 +48,7 @@ Wind & Wuthering (1976)
    night._______________________________  
   ***|C                                |C6                               |***  
   ***|Cmaj7                            |C6                               |***  
-                                                                I've  
+    I've  
   
   *Verses 1 (cont. ), 2, & 3*  
   *~~~~~~~~~~~~~~~~~~~~~~~~*  
@@ -62,9 +62,9 @@ Wind & Wuthering (1976)
    af   -  ter    night?  
   ***|C                                |C6                               |***  
   |Cmaj7                            |C6                               |  
-                                                                and  
-                                                                But  
-                                                                The  
+    and  
+    But  
+    The  
   ***|C                                |C6                               |***  
    left        all       I     love_____                        be  -  
    when        the      ship  moves,____                        she's  
@@ -109,9 +109,9 @@ Wind & Wuthering (1976)
    own___________    spe  -  cial    way  
    own___________    spe  -  cial    way  
   ***|F                                |                                 |***  
-                                                 of  hold - ing   my  
-                                                 of  car - ry'ng  me  
-                                                 of  hold - ing   my  
+    of  hold - ing   my  
+    of  car - ry'ng  me  
+    of  hold - ing   my  
   ***|C/E              Fmaj7           |C/E               Fmaj7          |***  
    hand.  Keep  it  way  'bove  the  wa - ter.  Don't  ev  -  er   let  
    twice 'round the world, nev - er  clos - er   to    home  than  the  
@@ -133,9 +133,9 @@ Wind & Wuthering (1976)
    own___________    spe  -  cial    way  
    own___________    spe  -  cial    way  
   ***|F                                |                                 |***  
-                                                 of  turn - ing   the  
-                                                Hold  on -  to    my  
-                                                 of  turn - ing   the  
+    of  turn - ing   the  
+    Hold  on -  to    my  
+    of  turn - ing   the  
   ***|C/E               Fmaj7          |C/E              Fmaj7           |***  
    world   so  it's  fac - ing  the  way  that  I'm   go - ing.  Don't  
    hand.  Keep  it   way  'bove the  wa - ter.  Don't ev -  er   let  

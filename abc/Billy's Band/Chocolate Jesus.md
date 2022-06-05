@@ -19,11 +19,11 @@ Being Tom Waits (2002), Открытка от... (2003), Clap Ha
   Потому что это ведь был именно он, именно он  
   Кто подсадил меня на этих маленьких шоколадных Иисусиков  
   
-           ***Dm***  
+    ***Dm***  
   Well, I don't go to church on Sunday  
-                               ***Gm***  
+    ***Gm***  
   I don't get on my knees to pray  
-                                   ***Dm***  
+    ***Dm***  
   Don't memorize the books of the Bible  
      ***A***  
   I got my own special way  
@@ -33,13 +33,13 @@ Being Tom Waits (2002), Открытка от... (2003), Clap Ha
   I fall on my knees every Sunday  
   At Zeldera Lee's candy store  
   
-        ***Dm***  
+    ***Dm***  
   It's got to be a chocolate Jesus  
-                             ***Gm***  
+    ***Gm***  
   He make me feel so good inside  
-                              ***Dm***  
+    ***Dm***  
   It's got to be a chocolate Jesus  
-       ***A***  
+    ***A***  
   And keeps me satisfied  
   
   I don't want no Anna Zabba  
@@ -89,11 +89,11 @@ Being Tom Waits (2002), Открытка от... (2003), Clap Ha
   Что тут добавить, остальное принадлежит истории. Даже то, что я так толком и  
   не выучился на нем играть...  
   
-           ***Dm***  
+    ***Dm***  
   Well, I don't go to church on Sunday  
-                               ***Gm***  
+    ***Gm***  
   I don't get on my knees to pray  
-                                   ***Dm***  
+    ***Dm***  
   Don't memorize the books of the Bible  
      ***A***  
   I got my own special way  
@@ -123,11 +123,11 @@ Being Tom Waits (2002), Открытка от... (2003), Clap Ha
   Oh, it's got to be a chocolate Jesus  
   It's good enough for me  
   
-                 ***Gm***  
+    ***Gm***  
   And when the weather gets rough and it's whiskey in the shade  
-        ***Dm***  
+    ***Dm***  
   It's best to wrap your savior up in cellophane  
-       ***Gm***  
+    ***Gm***  
   He flows like the big muddy dut that's ok  
    ***A***  
   Pour him over ice cream for a nice parfait  

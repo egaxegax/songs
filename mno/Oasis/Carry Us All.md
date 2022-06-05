@@ -22,7 +22,7 @@ Carry Us All
   A keeper of right and wrong  
       ***Dm F***  
   And I've known all along  
-         ***G***  
+    ***G***  
   So let me just make it clear  
   
   *Chorus*  
@@ -59,7 +59,7 @@ Carry Us All
   A keeper of right and wrong  
       ***Dm F***  
   And I've known all along  
-         ***G***  
+    ***G***  
   But let me just make it clear  
   
   *Chorus*  

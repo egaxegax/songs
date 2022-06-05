@@ -44,8 +44,8 @@ Circus Left Town
   *half beats.*  
   
   *Key:    t = thumb*  
-          *i = index finger*  
-          *m = middle finger*  
+    *i = index finger*  
+    *m = middle finger*  
   
   [e|----|----|----|----|  
   B|--m-|--m-|--m-|--m-|]  

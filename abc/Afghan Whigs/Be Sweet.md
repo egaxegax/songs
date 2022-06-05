@@ -28,15 +28,15 @@
   *following fingering you should be able to come up with something similar...*  
   [E A D G B e  
   -----------  
-        1 1 1   9th fr.  
+    1 1 1   9th fr.  
   -----------  
-            2  -|              lift/press these fingers at  
+    2  -|              lift/press these fingers at  
   -----------   |              the appropriate points to get  
-            3  -|------------- a reasonable version of the solo.  
+    3  -|------------- a reasonable version of the solo.  
   -----------   |              a little futher into the solo, slide  
-            4  -|              about 4 frets up un the neck (12) - I think!  
+    4  -|              about 4 frets up un the neck (12) - I think!  
   -----------                  If anyone has a more accurate tab than this, let  
-                               me know!  
+    me know!  
   -----------]  
   
   *The song proceeds verse/chorus etc.*  

@@ -16,9 +16,9 @@ Sehnsucht (Japan) 1997, Live Aus Berlin (Limited Editition) 1999
   *W.b. - whammy bar*  
   *vio. - Violining, pick note with volume turned down, then raise volume*  
   *[9] - harmonic*  
-          *NH - Natural*  
-          *AH - Artificial*  
-          *PH - Pinch*  
+    *NH - Natural*  
+    *AH - Artificial*  
+    *PH - Pinch*  
   
   *pm - palm muting*  
   *rit. - Slower*  
@@ -347,7 +347,7 @@ MAIN RIFF: [e|------------------------------------------------|
   *pm . . .  . . .  . . .  . .   . . .  . . .  . . .  . .*  
   
 SOLO:  *THE SOLO IS ALL PULLOFFS (TO OPEN NOTE). THIS IS CORRECT FOR CONTENT,*  
-       *BUT I'M NOT SURE ABOUT THE NO. OF TIMES PLAYED. IT'S CLOSE.*  
+    *BUT I'M NOT SURE ABOUT THE NO. OF TIMES PLAYED. IT'S CLOSE.*  
   [e|----------------------------------------------------------------------------------&gt;  
   B|-12-12-12-12-12-12-12-12-11-12-12-12-12-12-12-12-11-12-12-12-12-12-12-12-12-12-12-&gt;  
   G|----------------------------------------------------------------------------------&gt;  

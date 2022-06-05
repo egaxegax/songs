@@ -13,9 +13,9 @@ But I do love you
    ***G      F        C***  
   And I don't like to  
   Have the rain on my shoes  
-        ***G   F    C***  
+    ***G   F    C***  
   But I do love you  
-        ***G   F    C***  
+    ***G   F    C***  
   But I do love you  
   
   ***G   F        C***  
@@ -27,20 +27,20 @@ But I do love you
    ***G      F        C***  
   And I don't like to  
   Be the one with the blues  
-        ***G   F    C***  
+    ***G   F    C***  
   But I do love you  
-        ***G   F    C***  
+    ***G   F    C***  
   But I do love you  
   
    ***F                        E7***  
   Love everything about the way you're loving me  
       ***Am                               G***  
   The way you lay your head upon my shoulder when you sleep  
-         ***Am***  
+    ***Am***  
   And I love to kiss you in the rain  
   ***Dm7                   C***  
   I love everything you do  
-        ***E7***  
+    ***E7***  
   Oh, I do  
   
   ***G   F        C***  
@@ -52,20 +52,20 @@ But I do love you
    ***G      F        C***  
   And I don't like to  
   Be the last to hear the news  
-        ***G   F    C***  
+    ***G   F    C***  
   But I do love you  
-        ***G   F    C***  
+    ***G   F    C***  
   But I do love you  
   
    ***F                        E7***  
   Love everything about the way you're loving me  
       ***Am                               G***  
   The way you lay your head upon my shoulder when you sleep  
-         ***Am***  
+    ***Am***  
   And I love to kiss you in the rain  
   ***Dm7                   C***  
   I love everything you do  
-        ***E7***  
+    ***E7***  
   Oh, I do  
   
    ***G      F        C***  
@@ -77,12 +77,12 @@ But I do love you
    ***G      F        C***  
   And I don't like to  
   Have the rain on my shoes  
-        ***G   F    C***  
+    ***G   F    C***  
   But I do love you  
-        ***G   F    C***  
+    ***G   F    C***  
   But I do love you  
   
-        ***G    F   C***  
+    ***G    F   C***  
   But I do love you  
-        ***G    F   C***  
+    ***G    F   C***  
   But I do love you

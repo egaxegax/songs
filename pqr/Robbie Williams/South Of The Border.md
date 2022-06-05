@@ -4,13 +4,13 @@ South Of The Border
   
   ***G***  
   I know a freaky young lady  
-          ***C***  
+    ***C***  
   Name of Cocaine Katie  
   ***G                        C***  
   She makes my temperature freeze  
-              ***G***  
+    ***G***  
   She's got a blood red powder  
-              ***C***  
+    ***C***  
   When she gives a shout  
   ***F                        A***  
   She'll bring you to your knees  
@@ -19,19 +19,19 @@ South Of The Border
   But I'm someone's brother  
   Got a father and a mother  
   You know I'm going to have to leave  
-               ***Em***  
+    ***Em***  
   South of the border  
   ***C***  
   I think you oughta  
-               ***Em***  
+    ***Em***  
   South of the border  
     ***C***  
   I think you oughta  
-           ***G                 C       F     C***  
+    ***G                 C       F     C***  
   'Cos you know you're gonna have to leave  
-          ***G        C       F        C***  
+    ***G        C       F        C***  
   To a place where you can breathe  
-          ***G            C  F***  
+    ***G            C  F***  
   And you know there's no reprieve  
   There'll be tears on leaving  
   But there won't be no grieving  

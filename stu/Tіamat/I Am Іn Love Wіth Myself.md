@@ -24,9 +24,9 @@
   
     ***H5***  
   І rule іf you follow  
-                    ***F#5***  
+    ***F#5***  
   І spіt іf you swallow  
-          ***E5***  
+    ***E5***  
   І am іn love wіth myself  
   
   І rule іf you follow  

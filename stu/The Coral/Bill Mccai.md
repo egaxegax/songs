@@ -24,7 +24,7 @@ Bill Mccai
   Looks out the window and thinks in vain  
   ***C          D            Em***(aqui la otra guitarra toca la intro)(here the  
   If I could only be that boy again         | other guitar plays the intro)  
-                                            |-------------------------------  
+    |-------------------------------  
   
   *--------------------------------------------------------------------------*  
   ***Em***  
@@ -49,7 +49,7 @@ Bill Mccai
   Looks out the window and thinks in vain  
   ***C          D            Em***(otra vez la intro la otra guitar)(the other  
   If I could only be that boy again             | guitar the intro again)  
-                                                |------------------------  
+    |------------------------  
   *--------------------------------------------------------------------------*  
   *SOLO*  
   [e|-------------------------------------------------------------------|  
@@ -68,7 +68,7 @@ Bill Mccai
   *--------------------------------------------------------------------------*  
      ***Am C     D       Em***(la otra guitarra el punteo del intro)(the other  
   If he could be that boy again     | guitar plays the riff of the intro)  
-                                    |---------------------------------------  
+    |---------------------------------------  
   
   ***Em***  
   Another day, another gin  
@@ -95,17 +95,17 @@ Bill Mccai
   
   ***C         D             Em***(la otra guitarra la intro)(the other guitar  
   Now he'll never be that boy again               | plays the intro again)  
-                                                  |-------------------------  
+    |-------------------------  
   *--------------------------------------------------------------------------*  
   
   And we say...  
   ***Am  C   D      Em***(la otra guitarra la intro)(the other guitar plays the  
   Bye bye Bill McCai                                       | intro again)  
-                                                           |-------------  
+    |-------------  
   
   ***Am  C   D      Em***(la otra guitarra la intro)(the other guitar plays the  
   Bye bye Bill McCai                                       | intro again)  
-                                                           |-------------  
+    |-------------  
   
   ******Am  C   D      Em******  
   Bye bye Bill McCai

@@ -17,11 +17,11 @@ Familiar To Millions (2000), Standing On The Shoulder Of Giant
   ***A***  
   taste every potion  
   cos if you like yourself a lot  
-             ***Dsus2***  
+    ***Dsus2***  
   go let it out  
-             ***Cadd9***  
+    ***Cadd9***  
   go let it in  
-                ***A***  
+    ***A***  
   and go let it out  
   *(pick up the bass)*  
   ***A***  
@@ -30,17 +30,17 @@ Familiar To Millions (2000), Standing On The Shoulder Of Giant
   ***A***  
   sister psychosis  
   don't got a lot to say  
-                ***Dsus2***  
+    ***Dsus2***  
   she go let it out  
-                ***Cadd9  Dsus2***  
+    ***Cadd9  Dsus2***  
   she go let it in  
-                 ***A***  
+    ***A***  
   she go let it out  
-                 ***Dsus2***  
+    ***Dsus2***  
   she go let it out  
-                ***Cadd9  Dsus2***  
+    ***Cadd9  Dsus2***  
   she go let it in  
-                   ***A***  
+    ***A***  
   she go let it out  
    ***Dsus2      Cadd9         A7         A7sus4***  
   is it any wonder why princes and kings  
@@ -48,9 +48,9 @@ Familiar To Millions (2000), Standing On The Shoulder Of Giant
   are clowns of paper in their sawdust rings  
    ***Dsus2      Cadd9         A7           A7sus4***  
   ordinary people that are like you and me  
-               ***G7                D***  
+    ***G7                D***  
   we're the keepers of their destiny  
-               ***G7               D***  
+    ***G7               D***  
   we're the keepers of their destiny  
   i'm gonna live in the city  
   i'm gonna drive in outta town  
@@ -69,11 +69,11 @@ Familiar To Millions (2000), Standing On The Shoulder Of Giant
   We're the builders of their destiny  
   We're the builders of their destiny  
   We're the builders of their destiny  
-               ***D***  
+    ***D***  
   So go let it out  
-             ***Cadd9***  
+    ***Cadd9***  
   Go let it in  
-              ***G***  
+    ***G***  
   Go Let It Out  
   Dont let it in  
   And dont let it out  

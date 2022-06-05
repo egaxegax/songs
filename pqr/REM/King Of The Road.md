@@ -12,11 +12,11 @@ King Of The Road
   No cars no pool no pets  
    ***G***  
   I ain't got no cigarettes  
-             ***C               F***  
+    ***C               F***  
   It takes four hours of pushin' broom  
-          ***F# G              C***  
+    ***F# G              C***  
   To buy a four-by-twelve two-bit room  
-          ***C       F               F#  G***  
+    ***C       F               F#  G***  
   I'm a man of means, by no means  
   King of the road  
   

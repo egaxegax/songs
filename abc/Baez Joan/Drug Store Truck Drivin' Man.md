@@ -9,7 +9,7 @@ Album: Woodstock, three days of peace & music, THE 25th ANNI
   *and some of the words were changed t o make it pertain to the draft*  
   *resistance and Ronald Regan.*  
   
-         ***C                        G***  
+    ***C                        G***  
 Chorus:  He's a drug store truck drivin' man  
   ***G                            C***  
   He's the head of the Ku Klux Klan  
@@ -18,7 +18,7 @@ Chorus:  He's a drug store truck drivin' man
   ***F        G                   C***  
   We'll be lucky to get out of town  
   
-       ***C                     G***  
+    ***C                     G***  
 (1)  He's been like a father to me  
   ***G                             F          C***  
   He's like the only DJ you can hear after three  

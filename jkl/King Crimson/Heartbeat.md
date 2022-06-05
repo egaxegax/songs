@@ -18,9 +18,9 @@ Heartbeat
   the rythm we made, the rythm we made  
   ***h-        A            h-      A***  
   I need to land sometime  
-            ***h-         A         h-         A***  
+    ***h-         A         h-         A***  
   feel your heartbeat      right next to me  
-        ***h-         A         A G***  
+    ***h-         A         A G***  
   right next to me  
   ****c#-     H       A       G6***  (interlude and solo)*  
   ****c#-     H***   (only last time)*

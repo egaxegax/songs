@@ -21,7 +21,7 @@ Intro:  ***G***
   And we're gonna kiss some more.  
       ***A***  
   Who cares how many times we kiss,  
-              ***D***  
+    ***D***  
   'Cause at a time like this, who keeps score?  
   Well, I don't care if the sun don't shine  
   I get my loving in the evening time  

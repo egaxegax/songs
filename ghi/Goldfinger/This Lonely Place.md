@@ -15,7 +15,7 @@
   *INTRO*  
   *Played with slight distortion throughout.*  
   *About 10 seconds of faint music then guitar enters*  
-                   *1,2,3,4...   Band enters*  
+    *1,2,3,4...   Band enters*  
   [e-|--2-2-2-2-0--|-2-2-2-2-0--|-2-2-2-2-0--|-3-3-3-3-3-|  
   B-|--3-3-3-3-3--|-3-3-3-3-3--|-3-3-3-3-3--|-3-3-3-3-3-|  
   G-|--2-2-2-2-2--|-2-2-2-2-2--|-2-2-2-2-2--|-0-0-0-0-0-|  

@@ -30,9 +30,9 @@ Dandelion
   
   ***(G7)      C           C7       G***  
   So you're holding out just the same  
-          ***C              C7   G***  
+    ***C              C7   G***  
   You can play the dandelion game  
-              ***C                            F7***  
+    ***C                            F7***  
   When you're finished with your childlike prayer  
   Well you know you should wear it  
   

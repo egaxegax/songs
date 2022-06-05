@@ -3,32 +3,32 @@ F#m-
  F#m--Em--F#m-Em-  
 (F#m-F#sus--;(2X) Em-Emsus--; (2X)) (2X)  
   
-        F#  
+    F#  
 I`m a cold heartbreaker  
 Fit ta burn and I`ll rip your heart in two  
-        E                       F#-B5-  
+    E                       F#-B5-  
 An I`ll leave you lyin` on the bed  
-        F#  
+    F#  
 I`ll be out the door before ya wake  
 It`s nuthin` new ta you  
-        E  
+    E  
 `Cause I think we`ve seen that movie,  
     F#-B5-  
 too  
   
 CHORUS:  
   
-                 A    B         F#  
+    A    B         F#  
 (OH woh) `Cause you could be mine  
-          A     B        F#m-  
+    A     B        F#m-  
 But you`re way out of line  
-            A  
+    A  
 With your bitch slap rappin`  
-           B  
+    B  
 And your cocaine tongue  
-         F#m  
+    F#m  
 You get nuthin` done  
-        A    B  
+    A    B  
 I said you could be mine  
   
 F#----E--F#--  
@@ -63,7 +63,7 @@ Solo:
 B--D,B----D,A---D,B  
 D,B-----;(2X)  
 D,A-----D,B---  
-                                     1/2    1/2 hold---|  
+    1/2    1/2 hold---|  
   
 E|-------------------------------------------------------|  
 B|--------9-----9-----9--------9--(9)p7---9--7-----------|  
@@ -111,33 +111,33 @@ B
 While you`re breakin` down my back n`  
      Db  
 I been rackin` out my brain  
-          D  
+    D  
 It don`t matter how we make it  
-                               D, Db  
+    D, Db  
 `Cause it always ends the same  
   B  
 You can push it for more mileage  
-          Db  
+    Db  
 But your flaps r` wearin` thin  
-           D  
+    D  
 And I could sleep on it `til mornin`  
-                            D, Db  
+    D, Db  
 But this nightmare never ends  
   
 B  
 Don`t forget to call my lawyers  
   
-        Db  
+    Db  
 With ridiculous demands  
-               D  
+    D  
 An you can take the pity so far  
-                                D, Db  
+    D, Db  
 But it`s more than I can stand  
-            B  
+    B  
 `Cause this couchtrip`s gettin` older  
-         Db  
+    Db  
 Tell me how long has it been  
-       D--  
+    D--  
 `Cause 5 years is forever  
 An you haven`t grown up yet  
   

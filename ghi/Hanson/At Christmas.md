@@ -18,29 +18,29 @@
   
   ***G                          C***  
 Verse:  Snow's falling down as you step out of your car  
-           ***G                        C***  
+    ***G                        C***  
   Presents in your arms and you've traveled far  
-          ***G                      C***  
+    ***G                      C***  
   Someone opens the door with a smile on their face  
-           ***D          D1      D***  
+    ***D          D1      D***  
   And you know you've come to the right place  
   
-         ***Em             C***  
+    ***Em             C***  
 Prechorus: Family nestled by the fire  
   ***Em              C***  
   Christmas hopes to inspire  
   ***Em                 C***  
   Loved ones by your side  
-                  ***D         D1         D    D1***  
+    ***D         D1         D    D1***  
   You know you'll kiss your babies goodnight  
   
-        ***G   C      G   C***  
+    ***G   C      G   C***  
 Chorus:  At Christmas, Christmas  
-            ***D       D1        D         D1***  
+    ***D       D1        D         D1***  
   No matter who you are, how far you've come  
   ***C***  
   This is is where you belong  
-        ***G   C***  
+    ***G   C***  
   At Christmas  
   
 Verse:  Memories 'round the chrismas tree  
@@ -58,15 +58,15 @@ Prechorus: Family nestled by the faire
   
   ***Em                  C***  
 Bridge:  Can't you feel it changin'  
-                  ***Em***  
+    ***Em***  
   Sense the anticipation  
-                            ***C***  
+    ***C***  
   You can tell we're almost there  
   ***E                   C***  
   Precious time we're takin'  
-                 ***Em***  
+    ***Em***  
   Memories we're makin'  
-                             ***D  D1***  
+    ***D  D1***  
   There's a Christmas in the air  
   
 Verse:  This is what Christmas means to me  

@@ -10,7 +10,7 @@ Made In Heaven 1995
   
   ***Gm-Eb/G-Gm Gm-Eb/G***  
   ***Gm-Eb/G-Gm Gm-Eb-F***  
-        ***Bb***  
+    ***Bb***  
   I'm taking my ride with destiny,  
     ***Dm                Gm    (F)***  
   Willing to play my part,  
@@ -18,21 +18,21 @@ Made In Heaven 1995
   Living with painful memories,  
    ***Eb/G***  
   loving with all my heart,  
-            ***Db              Ab***  
+    ***Db              Ab***  
   Made in heaven, made in heaven,  
-         ***Fm/C   Bb/Db        Eb***  
+    ***Fm/C   Bb/Db        Eb***  
   It was all    meant   to   be,  
      ***Db             Bb7***  
   Made in heaven, made in heaven  
   ***Ab              Cm/G            Fm(7)***  
   Thats what they say,  can't you see  
-                       ***Bbm          Bbm/A***  
+    ***Bbm          Bbm/A***  
   Thats what everybody says to me,  
   ***Dbm/Ab             Eb***  
   Can't   you  see  
   ***Ab        Cm/G                  Fm(7)***  
   I know, I know, I know that its true  
-                   ***Bb7***  
+    ***Bb7***  
   Yes, its really meant to be,  
   ***Dbm/Ab      Ab***  
   Deep in my heart,  
@@ -50,15 +50,15 @@ Made In Heaven 1995
   Can't you see,  
   Everybody, everybody, says,  
   Yes it was meant to be, yeah yeah,  
-                ***Db            Bbm***  
+    ***Db            Bbm***  
   When stormy weather comes around,  
      ***Ab***  
   It was made in heaven,  
-              ***Db                   Bb7***  
+    ***Db                   Bb7***  
   When sunny skies break through behind the clouds,  
-           ***Ab      Cm/G    Fm***  
+    ***Ab      Cm/G    Fm***  
   I wish it could last forever,  
-                       ***Bbm      Bb***  
+    ***Bbm      Bb***  
   Wish it could last forever, forever,  
 SOLO:  ***E B E/Ab Db Gb***  
   ***E Db B Gb***  
@@ -80,7 +80,7 @@ SOLO:  ***E B E/Ab Db Gb***
   Yes   it was meant to be,  
     ***Abm Abm-E/Ab-Abm Abm-E***  
   Written in the stars  
-                  ***Abm     Abm-E/Ab-Abm    Abm-E***  
+    ***Abm     Abm-E/Ab-Abm    Abm-E***  
   Written in the stars  
     ***Abm Abm-E/Ab-Abm Abm-E***  
   Written in the stars  

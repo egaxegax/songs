@@ -26,7 +26,7 @@ Octopus
   
   ***B       Bsus4         G5       C7***  
   Trip to heave and ho, up down, to and fro'  
-              ***A***  
+    ***A***  
   you have no word  
   ***B               Bsus4***  
   trip, trip to a dream dragon  
@@ -52,7 +52,7 @@ Octopus
   and the tune they play in us confide...  
   ***B          Bsus4         G5       C7***  
   so trip to heave and ho, up down, to and fro'  
-              ***A***  
+    ***A***  
   you have no word  
   ***F#              F#sus4***  
   Please leave us here  
@@ -64,7 +64,7 @@ Octopus
   isn't it bad so quiet there, in the wood  
   ***Ab                  Absus4***  
   twenty even less to me than I thought  
-         ***Ab                     Absus4***  
+    ***Ab                     Absus4***  
   with a honey plough of yellow prickly seeds  
   ***Ab                    Absus4         Bsus4(add Bb)***  
   clover honey pots and mystic shining feed...  

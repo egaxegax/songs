@@ -4,19 +4,19 @@ Marching On
   
 Intro:  ***D                   C     G/B***  
   ***D                   C     G/B***  
-                  ***D                   C     G/B***  
+    ***D                   C     G/B***  
   Well there's a young boy standing  
     ***D                   C     G/B***  
   staring at the world  
-                ***D                   C     G/B***  
+    ***D                   C     G/B***  
   you know he can't control his anger  
-         ***D                   C     G/B***  
+    ***D                   C     G/B***  
   you can see it in his     eyes  
-         ***D                   C     G/B***  
+    ***D                   C     G/B***  
   Gonna smash the windows          he's  
     ***D                   C     G/B***  
   gonna tear down the walls  
-           ***D                   C     G/B***  
+    ***D                   C     G/B***  
   hey hey mister you don't     understand it  
   ***D                 C          G/B***  
   take a look at it through my eyes  
@@ -26,15 +26,15 @@ Intro:  ***D                   C  
   so you tell them so  
   ***Asus4                        A***  
   These are the kids they're powerful  
-        ***Asus4                        A***  
+    ***Asus4                        A***  
   don't say   you  haven't  been    told  
-                ***D           Cadd9***  
+    ***D           Cadd9***  
   and we'll go marching on, hear our sound,  
   ***G/B                   Cadd9***  
   hear our voice, we're growing stronger  
    ***D                 Cadd9***  
   marching on, we're not   alone now  
-         ***G/B              Cadd9    D***  
+    ***G/B              Cadd9    D***  
   we're keeping on, we're marching on  
   *(***D*** - ***C*** - ***G/B*** pattern:)*  
   Take a walk round your city walls  
@@ -57,11 +57,11 @@ Intro:  ***D                   C  
   we're keeping on, we're marching on  
    ***G                                     D***  
   We're the young who stand up, we must never be silenced  
-         ***C                      D***  
+    ***C                      D***  
   we've gotta speak up now, for all our sakes  
-       ***C              G/B            D***  
+    ***C              G/B            D***  
   and lift our voices higher, let's sing our song  
-           ***C          G/B     A***  
+    ***C          G/B     A***  
   keep on marching, marching, and never forget that when the  
   *(***D*** - ***C*** - ***G/B*** pattern:)*  
   power on the right side  

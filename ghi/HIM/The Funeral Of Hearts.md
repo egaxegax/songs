@@ -3,11 +3,11 @@ The Funeral Of Hearts
   
       ***Am           G***  
   Love's the funeral of hearts  
-        ***F        C      G***  
+    ***F        C      G***  
   And an ode for cruelty  
-       ***Am          G***  
+    ***Am          G***  
   When angels cry blood  
-                ***F         C     G***  
+    ***F         C     G***  
   On flowers of evil in bloom  
   
   The funeral of hearts  
@@ -16,9 +16,9 @@ The Funeral Of Hearts
   Separating me from you  
   ***Am          G              C***  
   She was the sun shining upon  
-        ***F           Am***  
+    ***F           Am***  
   The tomb of your hopes  
-       ***G          Am***  
+    ***G          Am***  
   And dreams so frail  
   He was the moon painting you  
   With its glove, so vulnerable and pale  

@@ -5,7 +5,7 @@ F#m        B           D     A
 I FOLLOWED ALICE INTO WONDERLAND  
 F#m        B             D                A  
 I ATE THE MUSHROOM AND I DANCED WITH THE QUEEN  
-         D         A               C#   C#/B C#/A C#/G#  
+    D         A               C#   C#/B C#/A C#/G#  
 YEAH WE DANCED IN BETWEEN ALL THE LINES  
   
 I FOLLOWED DAYLIGHT RIGHT INTO THE DARK  
@@ -13,7 +13,7 @@ TOOK TO THE HATTER LIKE A WALK IN THE PARK
 BUT THEN I MET HER YEAH SHE FELT SO RIGHT  
 NO CHILD A THE NIGHT YEAH WAS SHE  
   
-               F#  D   B  
+    F#  D   B  
 THEY CALL HER SUNSHINE  
      G#            F#    D  
 THE KIND THAT EVERBODY KNOWS  

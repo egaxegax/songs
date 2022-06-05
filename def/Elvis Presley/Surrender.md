@@ -11,15 +11,15 @@ Intro:  ***Cm Fm***
   And I know each time I kiss you  
   ***G7                         Cm***  
   That your heart's on fire too.  
-                           ***rem***  
+    ***rem***  
   So my darling please surrender  
   ***G                          Am***  
   All your love so warm and tender  
-                        ***rem***  
+    ***rem***  
   Let me hold you in my arms dear  
   ***G                             C***  
   While the moon shines right above  
-                                 ***rem***  
+    ***rem***  
   All the stars would tell the story  
   ***G                       Am***  
   Of a love and all its glory.  
@@ -27,7 +27,7 @@ Intro:  ***Cm Fm***
   Let us take this night of magic  
   ***G                      Cm***  
   And make it a night of love.  
-                      ***rem***  
+    ***rem***  
   Won't you please surrender to me  
   ***G                                 C***  
   Your lips, your arms, your heart, dear  

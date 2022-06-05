@@ -3,13 +3,13 @@
 I'm still living for tomorrow  
 I'm living for today  
 Em  D  Em  Am  Em  D  Em Em  
-        Em  
+    Em  
 Let's make this world  
     D                    Em  Am  
 A better place to live  
-             Em  D  
+    Em  D  
 Stop to take  
-             Em           Em  
+    Em           Em  
 Start to give  
   
 Love's got the power  
@@ -18,15 +18,15 @@ To stop the pain
 Of a killing gun  
      G                   Am  
 And even if you say  
-           C                  D              D  
+    C                  D              D  
 We're gonna die today  
-             Em              C  
+    Em              C  
 I'm still living for tomorrow  
       Em              C  
 I'm living for today  
-            Em                  Hm  
+    Em                  Hm  
 Cause love will find a way my friend  
-       C                D  
+    C                D  
 Whatever it will take  
   
 I'm still living for tomorrow  

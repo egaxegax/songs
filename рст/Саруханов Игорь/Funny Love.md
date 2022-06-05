@@ -5,11 +5,11 @@
   
   ***G#m***  
   I can't stop the time  
-                               ***C#m       D#***  
+    ***C#m       D#***  
   And can not save my love in tenderness  
    ***G#m***  
   Devils in my mind  
-                              ***C#m***  
+    ***C#m***  
   It seems to me soon you in lonelyness  
   
    ***E              G#m***  

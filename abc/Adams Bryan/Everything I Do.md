@@ -26,7 +26,7 @@ INTRO:  ***C G F G***
   There's ***C***no where unless  
   ***G***you're there, all the ***D***time, all the ***G***way  
   
-           ***F                C                        F             C***  
+    ***F                C                        F             C***  
   |----------|-------------------------------------------------------9------  
   |----------|-----------------------------------------9-9------9/11--11-11-  
   |-8-10-----|-8/10~--/10-8/6-3/6---6/8------6-6--8/10-----6-6--------------  
@@ -53,7 +53,7 @@ INTRO:  ***C G F G***
   
   ***D     A  G        A***  
 Verse 1: Look into my eyes, you will see what you mean to me  
-              ***D            A    G***  
+    ***D            A    G***  
   Search your heart, search your soul and when you find me there,  
   ***G      D  A***  
   you'll search no more  
@@ -61,7 +61,7 @@ Verse 1: Look into my eyes, you will see what you mean t
   Don't tell me it's not worth trying for  
   ***D/F#     Em    D/F#  Em/G***  
   You can't tell me it's not worth dying for  
-                    ***D  A  Dsus2***  
+    ***D  A  Dsus2***  
   You know it's true, everything I do, I do it for you  
   
   ***D       A        G      Asus4  A***  
@@ -77,7 +77,7 @@ Verse 2: Look into your heart, you will find, there's nothin
   
   ***D C      F         C  G***  
 Bridge:  There's no love like your love, and no other could give more love  
-          ***D  A        E      A***  
+    ***D  A        E      A***  
   There's no where unless you're there, all the time, all the way  
   
 Solo:  ***G D    Dsus D G D     Dsus D***  
@@ -88,9 +88,9 @@ Last Chorus: Oh you can't tell me it's not worth trying fo
   I can't help it there's nothing I want more  
   ***G      D   A        G***  
   Yeah I would fight for you, I'd lie for you, walk the wire for you  
-           ***Gm***  
+    ***Gm***  
   Yeah I'd die for you  
-                ***D    Asus A     G  G6  D***  
+    ***D    Asus A     G  G6  D***  
   You know it's true, everything I do,    oh,         I do it for you  
   
 -  
@@ -102,38 +102,38 @@ Intro:  |***Db*** |***Dsu4*** |***Gb*** |***Ab7***|
   Look into my eyes,  you will see, what you mean to me.  
     ***Db            Dbsus4***  
   Search your heart,  search your soul,  
-                ***Gb                      Db      Ab***  
+    ***Gb                      Db      Ab***  
   And when you find me there, you will find no more.  
-         ***Ebm7                           Ab***  
+    ***Ebm7                           Ab***  
   Don't tell me, it's not worth trying for.  
-            ***Ebm7                           Ab***  
+    ***Ebm7                           Ab***  
   You can't tell me, it's not worth dying for.  
-                 ***Db                Dbsus4          Db***  
+    ***Db                Dbsus4          Db***  
   You know it's true, Everything I do, I do it for you.  
    ***Db                Dbsus4***  
   Look into your eyes,     you will find,  
-           ***Gb               Ab***  
+    ***Gb               Ab***  
   There's nothing there to hide.  
    ***Db            Dbsus4***  
   Take me as I am,     take my life  
-            ***Gb                    Db   Ab***  
+    ***Gb                    Db   Ab***  
   And I'll give it all,  I  will sacrifize (chorus)  
-           ***B               E***  
+    ***B               E***  
   There's no love,  like your love.  
-         ***B                 F#***  
+    ***B                 F#***  
   And no other could give more love.  
-           ***Db                 Ab***  
+    ***Db                 Ab***  
   There's nowhere on this ____?_______  
-           ***Eb             Ab***  
+    ***Eb             Ab***  
   All the time,  all the way.  
   *Solo:*  
-         ***Ebm7                      Ab***  
+    ***Ebm7                      Ab***  
   Don't tell me it's worth trying for.  
-           ***Ebm7                          Ab***  
+    ***Ebm7                          Ab***  
   I can't help it,  it's nothing I want more.  
-            ***Db                  Ab                     Gb***  
+    ***Db                  Ab                     Gb***  
   Yeah I'd fight for you,  I'd lie for you,  walk the wild for you,  
-                    ***Gb***  
+    ***Gb***  
   Yeah I'd die for you_________.  
-                  ***Db                Dbsus4  Gb                  Db***  
+    ***Db                Dbsus4  Gb                  Db***  
   You know it's true,  Everything I do,         I'll do it for you.

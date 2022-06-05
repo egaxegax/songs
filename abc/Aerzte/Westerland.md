@@ -8,11 +8,11 @@ Westerland
   Ah   ah   ah    Oho  
   ***G***  
   Jeden Tag sitz' ich am Wannsee  
-                          ***D***  
+    ***D***  
   und ich hoer den Wellen zu.  
   ***G***  
   Ich lieg hier auf meinem Handtuch  
-                       ***D***  
+    ***D***  
   Und ich finde keine Ruh  
   ***C                     em***  
   Diese eine Liebe wird nie zuende gehen.  
@@ -38,10 +38,10 @@ Westerland
   damit ich nicht untergeh.  
   Diese eine Liebe ...  
   Oh ich hab solche Sehnsucht ...  
-        ***F***  
+    ***F***  
   ..es ist zwar etwas teurer  
-          ***G***  
+    ***G***  
   Dafuer ist man unter sich  
-       ***F                                 G               D     C***  
+    ***F                                 G               D     C***  
   Und ich weiss jeder zweite hier ist genauso bloed wie ich  
   Oh, ich hab solche Sehnsucht ...  } 2x

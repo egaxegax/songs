@@ -7,7 +7,7 @@ Ballbreaker (1995)
   *Intro: Pattern 1*  
   *(Bass) slides to A (12. fret)*  
   *Tab-Pattern 2*  
-       *u  d  u  p  r  p  r  p   ((u)pstrokes,(d)ownstrokes w/indexfinger barre)*  
+    *u  d  u  p  r  p  r  p   ((u)pstrokes,(d)ownstrokes w/indexfinger barre)*  
   *[e|-----------------------------|------------------------------------]    p=pinky*  
   *[b|-----------------------------|------------------------------3-----]    r=ringfinger*  
   [g|---2--2--2-------------------|---2--2--2-----------------2--------  
@@ -30,7 +30,7 @@ Ballbreaker (1995)
   ***D      G   Bb       F      C***  
   Baby , Feel what you need, come on let's go  
   *Chorus: Played over ***A       G   F#   G   F#   D/F#****  
-                      ****A       G   F#   G   F#***  (end chorus with pattern 3)*  
+    ****A       G   F#   G   F#***  (end chorus with pattern 3)*  
   Cover you in oil  
   I wanna cover you in oil  
   let me cover you in oil  

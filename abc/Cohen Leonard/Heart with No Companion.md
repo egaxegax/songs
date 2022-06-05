@@ -1,13 +1,13 @@
 <!--2020-09-04 23:31:54-->
 Intro: G  
   
-        G      C         G  
+    G      C         G  
 Now I greet you from the other side  
     G    D        G  
 Of sorrow and despair  
-        G       C            G  
+    G       C            G  
 With a love so vast and so shattered  
-         G        D      G  
+    G        D      G  
 It will reach you everywhere  
   
 And I sing this for the captain  

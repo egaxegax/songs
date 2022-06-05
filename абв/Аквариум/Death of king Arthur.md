@@ -5,26 +5,26 @@
   
   ***Am***  
   Of Lancelot du Lake  
-       ***Em***  
+    ***Em***  
   tell i no more  
   But this by leave  
-        ***Am       Em***  
+    ***Am       Em***  
   these ermytes seven.  
   ***Am***  
   But still Kynge Arthur  
-          ***Em***  
+    ***Em***  
   lieth there, and Quene Guenever,  
      ***Am     Em***  
   As I you newyn.  
-       ***Am***  
+    ***Am***  
   And Monkes  
-            ***Em***  
+    ***Em***  
   That are right of lore  
-       ***Am                  Em***  
+    ***Am                  Em***  
   Who synge with moulded stewyn  
     ***Am             Em***  
   Ihesu, who hath woundes sore,  
-        ***Dm                Em***  
+    ***Dm                Em***  
   Grant us the blyss of Heaven.  
   
   *Boris Grebenshikov - vocals, acoustic guitar*  

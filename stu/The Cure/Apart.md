@@ -84,7 +84,7 @@ Apart
   i'll never leave again  
    ***G         Dm           Am***  
   how did we get this far apart?  
-             ***Am            G***  
+    ***Am            G***  
   we used to be so close together  
   how did we get this far apart?  
   i thought this love would last forever  

@@ -24,9 +24,9 @@ PC:  All these years, all our tears
   
      ***C          C/B                  E/G#***  
 C:  [|:] There's no beginning there's no end  
-              ***Am    Am/G   F                D/F#        G***  
+    ***Am    Am/G   F                D/F#        G***  
   There is no reason to pretend, crying for help, from above  
-               ***F    G   C***  
+    ***F    G   C***  
   We've got to save our love [:|]  
   
   ***Am                      Fma7***  

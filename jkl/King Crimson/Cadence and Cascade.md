@@ -32,8 +32,8 @@ from the 1970 album In The Wake of Poseidon
   b: We       only                     serve for you...S / chorus  
   c: Sad      paper      courtesan                \ 2nd  
   d: They     found him                just a man / chorus  
-                        ___________________________________________  
-                        |1:          |2:  
+    ___________________________________________  
+    |1:          |2:  
   |--------4-|--------7-|------------|----------|---------|-------|  
   |-------0--|-------4--|------5----.|----------|---------|-----5-|  
   |------1---|------4---|--4-6---4---|--4-----6-|-4-----6-|-4-6---|  
@@ -71,7 +71,7 @@ from the 1970 album In The Wake of Poseidon
   Caravan hotel    where the sequin spell fell, Custom of the game  
   ***F#m7                  Am7                Em7***  
   Cadence oiled in love lied hand, Cascade  
-              *(see below)*  
+    *(see below)*  
   kissed his name.  
   *(arpeggiate ***Amaj7*** on first ending, then for 2nd ending:)*  
   |-----------|  

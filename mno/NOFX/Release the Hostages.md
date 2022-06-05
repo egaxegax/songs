@@ -20,9 +20,9 @@ Chords used:         ***A F G E C***
   
   ***A             F            G           E             A***  
   Stop! Have a beer, it's on me, has anyone ever told you  
-             ***F          G              E           A***  
+    ***F          G              E           A***  
   That you look like a star, heard it said at the bar  
-         ***F  G            E***  
+    ***F  G            E***  
   So I drink, cause it makes me  
   ***A       F               G    E***  
      Happier than being alone  
@@ -32,13 +32,13 @@ Chords used:         ***A F G E C***
      Keeps me warm like a c--t  
   ***F              G         A***  
    Seems like everybody's got  
-            ***G       F***  
+    ***G       F***  
   Something I have not  
       ***G            C***  
   A reason not to die  
-           ***G      F***  
+    ***G      F***  
   Death to Mr. Right  
-          ***G         C***  
+    ***G         C***  
   'Cause that's not me!  
   
   *Verse repeats itself instrumental, then the chorus again.*  

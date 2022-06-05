@@ -55,11 +55,11 @@ Never Let Me Down
   *Riff 2:  ***Dm   C    G riff****  
   ***Cm           Bb***  
   We~re flying high  
-                     ***Gm            F***  
+    ***Gm            F***  
   We~re watching the world pass us by  
   ***Cm                 Bb***  
   Never want to come down  
-                       ***Gm                    F***  
+    ***Gm                    F***  
   Never want to put my feet back down on the ground  
   *Riff 1:  ***Dm   C    F    D#****  
   ***Dm           C                       G riff***  
@@ -75,11 +75,11 @@ Never Let Me Down
   *Riff 2:  ***Dm   C    G riff****  
   ***Cm           Bb***  
   We~re flying high  
-                     ***Gm            F***  
+    ***Gm            F***  
   We~re watching the world pass us by  
   ***Cm                 Bb***  
   Never want to come down  
-                       ***Gm                    F***  
+    ***Gm                    F***  
   Never want to put my feet back down on the ground  
   ***Dm   C    A    Gm***  
   ***Dm   C    A    Gm***  

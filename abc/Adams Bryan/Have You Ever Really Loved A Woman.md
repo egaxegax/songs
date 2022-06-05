@@ -55,7 +55,7 @@ Have You Ever Really Loved A Woman
   woman, to understand her, you've got to know her deep inside  
   ***Bb                            Fig1                F***  
   Hear every thought, see every dream, and give her wings when she wants to fly  
-                ***Cm                           Fig2   Fig3***  
+    ***Cm                           Fig2   Fig3***  
   Then when you find yourself lying helpless in her arms, you know you really  
   ***C      G***  
   love a woman  
@@ -86,7 +86,7 @@ Have You Ever Really Loved A Woman
   She will be there for you taking good care of you  
   You really gotta love your woman  
   **SOLO**  
-               ***Cm                          Fig2    Fig3***  
+    ***Cm                          Fig2    Fig3***  
   And when you find yourself lying helpless in her arms,  
   you know you really love a woman  
   *CHORUS 3X*  

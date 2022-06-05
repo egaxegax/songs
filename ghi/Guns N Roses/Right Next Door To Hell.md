@@ -22,7 +22,7 @@ D|-------------|
 A|-------------|  
 E|-------------|  
   
-                                         (end riff A1)  
+    (end riff A1)  
 E|--------------------------|------------|-------------|  
 B|--14^2p12--14^2p12--14p12-|------------|-14^r12-14---|  
 G|--14^2p12--14^2p12--14p12-|------------|-14^r12-14---|  
@@ -32,17 +32,17 @@ E|--------------------------|--0-3-------|-------------|
 [verse 1]  
 G5            B5            D5  
 i`ll take a nicotine cafeine sugar fix jesus  
-       B5              A5  
+    B5              A5  
 don`t ya git tired of turning tricks  
 my mama never really said much to me  
 she was much too young and scared ta be  
 A5             B5               D5  
 but when your innocence dies you`ll  
-                      B5                A5  
+    B5                A5  
 find the blues seems all our heroes were  
 hell "freud" might say that`s what i need  
 but all i really ever get is greed  
-          G5  A5   B5  
+    G5  A5   B5  
 born to lose just walkin` through time  
      D5                     B5  
 you believe this heat another empty house  
@@ -64,13 +64,13 @@ why don`t ya write a letter to me
 get deeper right next door to hell  
 why don`t ya write a letter to me  
   
-          D5                  A5  
+    D5                  A5  
 i said i`m right next door to hell  
 i said i`m right next door to hell  
   
 E5                   F#5       D5  
 an so many eyes are on me yeah right  
-              A5  E5                  F#5  
+    A5  E5                  F#5  
 next door to hell got nowhere else to be  
 an so many eyes are on me yeah right  
 next door to hell i never thought this is  
@@ -144,7 +144,7 @@ D|------------------------|
 A|------------------------|  
 E|------------------------|  
   
-                                 w/riff A(2x)  
+    w/riff A(2x)  
 E|-97-75-54-42-4-5-7-(7)---------------------------------------|  
 B|-97-75-54-42-4-5-7-(7)-12~~~~~~~~-5--6---7---(7)--6---7------|  
 G|-------------------------------------7^--8^--9^--(9)--8^--9^-|  
@@ -161,7 +161,7 @@ D|-------------------------------------------------------------|
 A|-------------------------------------------------------------|  
 E|-------------------------------------------------------------|  
   not bad kids just stupid ones yeah thought we`d own the world  
-                                                      an gettin`  
+    an gettin`  
   
   G5               A5                  E5  
 E|---------------------------------------------------------|  
@@ -171,7 +171,7 @@ D|----9-7h9---9---9---9---9---9----9--10^--------------12^-|
 A|---------------------------------------------------------|  
 E|---------------------------------------------------------|  
   used was havin` fun i said we`re not sad kids just lucid ones  
-                                                           yeah  
+    yeah  
   
    E5                                         G5            A5  
 E|-------------------------------------------------------------|  
@@ -181,9 +181,9 @@ D|-------------------------------------------------------------|
 A|-------------------------------------------------------------|  
 E|-------------------------------------------------------------|  
   flowin` through life not collectin` anyone so much out there  
-                                                  still so much  
+    still so much  
   
-       E5                                                   G5  
+    E5                                                   G5  
 E|-----------------------------------------------------------|  
 B|-5------------------------------------------------------8--|  
 G|-7^----------------------------------------------------10^-|  
@@ -191,7 +191,7 @@ D|-----------------------------------------------------------|
 A|-----------------------------------------------------------|  
 E|-----------------------------------------------------------|  
   to see time`s too much to handle time`s too much for me it  
-                                               drives me up the  
+    drives me up the  
     A5                 E5  
 E|---------------------------------------------------------|  
 B|-10------17---17--17--17--17---17---17---17---20---(20)^-|  

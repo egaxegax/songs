@@ -29,17 +29,17 @@ Intro riff: [---------------------------------------------
   Can't you hear the sighing  
   ***C                  F***  
   Eastside Jimmy and Southside Sue  
-       ***G                         Csus  C***  
+    ***G                         Csus  C***  
   Both say they needed something new  
   
-         ***C***  
+    ***C***  
 CHORUS:  So I'm standing at the gates of the West  
-         ***Em***  
+    ***Em***  
   I burn money at the lights of the sign  
      ***F     G        C***  
   The city casts a shadow of the perfect crime  
   I'm standing at the gates of the East  
-            ***Em***  
+    ***Em***  
   I take my pulse and the pulse of my friend  
      ***F      G               C***  
   The city casts a shadow, will I see you again?  

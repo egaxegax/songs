@@ -37,14 +37,14 @@ Intro:  ***D A   D A   D A   D A***
   
   ***A         E           A            D*****  
 Chorus:  Who knows who'll she make me, as I lie in her cocoon?  
-          ***A          C#7    F#m     B7***  
+    ***A          C#7    F#m     B7***  
   And the world will surely heal my ills  
       ***D                                A***  
   I'm warm and terrified, she makes me so  
   
 (3)  I know, the day I leave her  
   I'll love her still, she is my love  
-            ***A    E7***  
+    ***A    E7***  
   she is my love  
   
 Chorus music: Who knows where my dreams will end  

@@ -6,22 +6,22 @@
   *INTRO: ***G****  
   ***G                    Am   D                    Em***  
   ich hoff es geht dir gut, lange nichts von dir gehцrt  
-                      ***Am      D                      G***  
+    ***Am      D                      G***  
   frag mich was du so treibst und warum du nicht mal schreibst  
-                  ***Am    D                   Em***  
+    ***Am    D                   Em***  
   war schon lange her, das unsere Wege sich trennten.  
-                 ***Am                D                                G***  
+    ***Am                D                                G***  
   Wir haben geglaubt, es wird nie passieren und dann ist es doch geschehn.  
   *Ref.:*  
   ***G***  
   Und wir segelten raus,  
-        ***Am                  D***  
+    ***Am                  D***  
   unser Schiff hieЯ "Wahre Liebe"  
-              ***G   Em                   D***  
+    ***G   Em                   D***  
   ьbers weite Meer, der wilden Leidenschaft  
-                   ***Am    D                        Em***  
+    ***Am    D                        Em***  
   es kamen schwere Wetter, die "Wahre Liebe" zerbrach.  
-                              ***Am***  
+    ***Am***  
   Die Strцmung trieb mich ans Ufer  
       ***D                             G***  
   und seit dem lieg ich nachts oft wach  

@@ -4,7 +4,7 @@ Veg Enza
   *Intro:*  
   ****F# G F#*** (palm mute)*  
   
-              ***B                  A                   G                                F#***  
+    ***B                  A                   G                                F#***  
 Verse:  Entre el Atl?ntico y el Mar Mediterr?neo hay una tierra de mar y mucho sol  
   ***B                         A                   G                 F#***  
   que desde anta?o de viene practicando una asquerosa y sucia tradici?n:  
@@ -15,7 +15,7 @@ Verse:  Entre el Atl?ntico y el Mar Mediterr?neo hay una t
   Malherido, enviste con bravura contra el fr?o del acero que destroza su interior  
   agonizando en un charco de sangre, el puntillero remata la funci?n.  
   ***F# G F#          F# G F#             F# G F#              F# G F#***  
-           Festejo           criminal,         verg?enza...  
+    Festejo           criminal,         verg?enza...  
   ***B    A             G                F#***  
   Torero, eres la verg?enza de una naci?n  
   Torero, eres la violencia en televisi?n  

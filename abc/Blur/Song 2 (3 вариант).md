@@ -21,7 +21,7 @@ Pleased to meet ya
   
   F  D# G# A# C  
 I got my head done  
-       F  D# G# A# C  
+    F  D# G# A# C  
 When I was young  
      F  D# G# A# C  
 It's not my problem  

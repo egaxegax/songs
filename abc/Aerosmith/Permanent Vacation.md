@@ -37,7 +37,7 @@ PERMANENT VACATION (1987)
   
   *The bridge is another simple pattern of open chords:*  
   
-        ***C                       G              F       C***  
+    ***C                       G              F       C***  
   
   [E ----0--0--0--0--0--0--0--0--3--3--3--3-----1-1-1---0------  
   B ----1--1--1--1--1--1--1--1--0--0--0--0-----1-1-1---1------  
@@ -49,7 +49,7 @@ PERMANENT VACATION (1987)
   I really need it really really need it San Tro-pez  
   
   *This repeats four times, and the fourth time ends on an ***B***:*  
-        ***C                       G              F       B***  
+    ***C                       G              F       B***  
   
   [E ----0--0--0--0--0--0--0--0--3--3--3--3-----1-1-1----------  
   B ----1--1--1--1--1--1--1--1--0--0--0--0-----1-1-1---4------  
@@ -65,7 +65,7 @@ PERMANENT VACATION (1987)
   *the way I do it, and it sounds fine when played along with the*  
   *CD):*  
   
-       ***B   A   B    D           Db C  B  A  B***  
+    ***B   A   B    D           Db C  B  A  B***  
   
   [E -----------------------------------------------  
   B ---4---2---4----7-7-7-7-7-7-6--5--4--2--4------  

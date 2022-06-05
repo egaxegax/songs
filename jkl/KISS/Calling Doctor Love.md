@@ -15,17 +15,17 @@ Verse:  You need my love baby oh so bad
   ***F#         Db              Cb     Db***  
   Don't you know you'll be in misery  
   
-        ***Eb***  
+    ***Eb***  
 Chorus:  They call me  
-         ***Db***  
+    ***Db***  
   (doctor Love)  
-                      ***Eb***  
+    ***Eb***  
   They call me doctor Love  
-                  ***Db***  
+    ***Db***  
   (calling doctor Love)  
-                                     ***Eb***  
+    ***Eb***  
   I've got the cure you're thinking of  
-                 ***Cb    Db***  
+    ***Cb    Db***  
   (calling doctor Love)  
   
   ***Eb F# Db Ab***  

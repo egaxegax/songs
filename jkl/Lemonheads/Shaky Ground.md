@@ -3,25 +3,25 @@ Shaky Ground
   
   ***G***  
   Hey Jim how ya doing?  
-       ***D***  
+    ***D***  
   Do you need someone else?  
-          ***C***  
+    ***C***  
   Well actually Jemimah,  
     ***C***  
   I prefer to be by myself.  
   ***G   D***  
   Always helps to have someone else along,  
-        ***C***  
+    ***C***  
   But if my girlfriend sees us  
-            ***G         D***  
+    ***G         D***  
   She'll come to the conclusion it's wrong.  
-        ***G***  
+    ***G***  
   Does this mean we're on shaky ground?  
-       ***D***  
+    ***D***  
   I'm happy when you're around.  
-           ***C***  
+    ***C***  
   So let's not put our friendship at bay,  
-        ***G D***  
+    ***G D***  
   I love you in a different way.  
   Paradise and catastrophy,  
   They go side by side,  

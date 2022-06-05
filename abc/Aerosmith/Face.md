@@ -30,13 +30,13 @@ C          G         D
  AND SHE GAVE ME TOO MUCH ROPE  
   
 Chorus:  
-         Em      G     D  
+    Em      G     D  
  SHE DA QUEEN OF MY DELUSION  
-        C        G        D  
+    C        G        D  
  SHE MY ZEN FROM WAY BACK WHEN  
-         C        G      D  
+    C        G      D  
  AND THE CAUSE OF MY CONFUSION  
-        Em  
+    Em  
  IS THE FACE WITHOUT A NAME  
   
 G             Bm     Em  
@@ -48,13 +48,13 @@ C           G     D
      C         G        D  D9  D B  
  SHE KILLED ME WITH HER EYES  
   
-            Em      G     D  
+    Em      G     D  
  SHE?S THE QUEEN OF MY DELUSION  
-        C        G        D  
+    C        G        D  
  SHE MY ZEN FROM WAY BACK WHEN  
-         C        G      D  
+    C        G      D  
  AND THE CAUSE OF MY CONFUSION  
-        Em    F5#      G5     A5 B5 C5  
+    Em    F5#      G5     A5 B5 C5  
  IS THE FACE WITHOUT A NAME  
   
  B  
@@ -67,7 +67,7 @@ C           G     D
  I?LL BLAME IT ON THE DAMNED AMNESIA  
  C  
  FORGOTTEN LOVE?S NO DOUBT A WASTE  
-        D                       Em  F#5 A5 B5 C5  
+    D                       Em  F#5 A5 B5 C5  
  WHAT?S IN A NAME WITHOUT A FACE  
   
 G         Bm     Em  

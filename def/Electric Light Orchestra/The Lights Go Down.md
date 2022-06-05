@@ -20,20 +20,20 @@ Riff:  [e-------------------------
   
   ***C      F***  
   I know,  
-       ***G           C                 F***  
+    ***G           C                 F***  
   The way that I feel is wrong, so wrong.  
-         ***G     Am       G F***  
+    ***G     Am       G F***  
   But I gotta carry on,  
-       ***G          C     F  G***  
+    ***G          C     F  G***  
   When you ain't around.  
   
     ***C                  Am***  
   I believe things are going wrong,  
-          ***Dm               G***  
+    ***Dm               G***  
   And the nights go on and on,  
-           ***C                  Am***  
+    ***C                  Am***  
   All your dreams have flown away,  
-          ***Dm                G***  
+    ***Dm                G***  
   And the sun won't shine today.  
   
   ***C             F                G***  
@@ -42,7 +42,7 @@ Riff:  [e-------------------------
   The lights go down (I need you baby)  
   ***C             F***  
   The lights go down  
-              ***G       Am    G F  G***  
+    ***G       Am    G F  G***  
   And there's no one around.  
   
   I know,  
@@ -91,17 +91,17 @@ Riff:  [e-------------------------
   I know,  
       ***G          C                 F***  
   The way that I feel is wrong, so wrong.  
-        ***G     Am       G F***  
+    ***G     Am       G F***  
   But I gotta carry on,  
-       ***G          C     F  G***  
+    ***G          C     F  G***  
   When you ain't around.  
     ***C                  Am***  
   I believe things are going wrong,  
-          ***Dm               G***  
+    ***Dm               G***  
   And the nights go on and on,  
-           ***C                  Am***  
+    ***C                  Am***  
   All your dreams have flown away,  
-          ***Dm                G***  
+    ***Dm                G***  
   And the sun won't shine today.  
   
   ***C             F                G***  
@@ -110,7 +110,7 @@ Riff:  [e-------------------------
   The lights go down (I need you baby)  
   ***C             F***  
   The lights go down  
-              ***G       Am    G F  G***  
+    ***G       Am    G F  G***  
   And there's no one around.  
   
   ***C    F  G***  

@@ -6,9 +6,9 @@ You'll Never Get Over Me (5:38)
   
   ***Abm  Dbm      H               F#***  
   You     say you want some fun  
-                    ***Dbm     H***  
+    ***Dbm     H***  
   You're not the only one  
-           ***Dbm***  
+    ***Dbm***  
   Not the only one  
   
   And you say you wanna run  
@@ -17,11 +17,11 @@ You'll Never Get Over Me (5:38)
   
   ***Abm        E               Dbm***  
   You will never get over me  
-          ***F#                 H***  
+    ***F#                 H***  
   I'll never got under you  
       ***F#                     Dbm***  
   Whenever our voices speak  
-           ***E         F#        H***  
+    ***E         F#        H***  
   It's never our minds that meet  
   
   You say you want some fun  
@@ -49,36 +49,36 @@ You'll Never Get Over Me (5:38)
   Not the only one  
   ***Abm  C#m        H        F#***  
   And you say you wanna run  
-                 ***C#m    H F#***  
+    ***C#m    H F#***  
   You're not the only one  
-          ***C#m     H F#***  
+    ***C#m     H F#***  
   Not the only one  
    ***Abm        H           C#m***  
   You will never get over me  
-       ***F#                H***  
+    ***F#                H***  
   I'll never got under you  
   ***F#           C#m***  
   Whenever our voices speak  
-        ***H             C#m        Abm***  
+    ***H             C#m        Abm***  
   It's never our minds that meet  
   ***Abm  C#m    H   F#***  
   You say you want some fun  
-                 ***C#m     H F#***  
+    ***C#m     H F#***  
   You're not the only one  
-          ***C#m     H F#***  
+    ***C#m     H F#***  
   Not the only one  
   ***Abm  C#m    H   F#***  
   And you, you say you've come undone  
-                 ***C#m     H F#***  
+    ***C#m     H F#***  
   You're not the only one  
-          ***C#m     H F#***  
+    ***C#m     H F#***  
   Not the only one  
    ***Abm        H           C#m***  
   You will never get over me  
-       ***F#                H***  
+    ***F#                H***  
   I'll never got under you  
   ***F#           C#m***  
   Whenever our voices speak  
-        ***H             C#m        Abm***  
+    ***H             C#m        Abm***  
   It's never our minds that meet  
   You'll never get over me

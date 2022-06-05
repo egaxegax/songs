@@ -27,7 +27,7 @@ Chorus:  Oh   the night comes down, and I get afraid, 
   ***Dmaj7***  
   Once I could laugh with everyone, once I could see the good in me  
   The black and the white distinctively, coloring, holding the  
-       world inside  
+    world inside  
   Now all the world is grey to me, nobody can see  
   (you gotta believe it)  
   

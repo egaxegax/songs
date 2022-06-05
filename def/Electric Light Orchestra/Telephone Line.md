@@ -37,7 +37,7 @@ Live at Wembley'78 (1988)
   Hello--how are you  
       ***A7               A#dim      Bm***  
   Have you been alright, through all those lonely lonely lonely nights,  
-                   ***E    Bm           C#m***  
+    ***E    Bm           C#m***  
   That's what I'd say, I'd tell you everything,  
   ***D             E             Aj7   Dj7***  
   If you'd pick up that telephone.  

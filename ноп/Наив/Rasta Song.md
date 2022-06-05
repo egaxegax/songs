@@ -7,7 +7,7 @@
   It's a world of hashish laughter  
   ***C      D        Em***  
   And a world of liquor tears  
-                   ***Am***  
+    ***Am***  
   It's a world of cocaine hopes  
   ***C              H***  
   And a world of acid fears  
@@ -53,7 +53,7 @@
   It's a world of hashish laughter  
   ***D      E        F#m***  
   And a world of acid fears  
-                   ***Hm***  
+    ***Hm***  
   It's a world of cocaine hopes  
   ***D               C#***  
   And a world of liquor tears  

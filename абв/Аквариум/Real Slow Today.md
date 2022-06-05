@@ -3,11 +3,11 @@ Em         G
 This is a dangerous tale  
 C               G  D Em  
 Of oxygen and flame  
-         G  
+    G  
 Tale of running away  
 C           G  D Em  
 Nowhere to run  
-           Em  
+    Em  
 All I can see is you  
 Em          G                   C  
 Visions of water in the desert sun  

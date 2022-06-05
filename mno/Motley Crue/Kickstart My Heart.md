@@ -3,7 +3,7 @@ Intro: ***G G# Am   G G# Am ***
   
 ***Am G  D D/F D***  
   
-          ***Am***  
+    ***Am***  
 When I get high  
 I get high on speed  
  ***Am***  
@@ -11,7 +11,7 @@ Top fuel funny car's
 A drug for me  
      ***G                D***  
 My heart, my heart  
-                ***Am***  
+    ***Am***  
 Kickstart my heart  
    ***Am***  
 Always got the cops  
@@ -20,7 +20,7 @@ Coming after me
 Custom built bike doing 103  
     ***G             D***  
 My heart, my heart  
-              ***Am***  
+    ***Am***  
 Kickstart my heart  
   
 Ooh, are you ready girls?  

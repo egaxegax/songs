@@ -40,7 +40,7 @@ Be Here Now (1997)
   And on my shoulder, he asked me why,  
   ***F#m7             A               Esus***  
   His people wont fly through the storm  
-         ***D                   Esus                   B7***  
+    ***D                   Esus                   B7***  
   I said listen up man, they don't even know you're born  
    ***F#m7           A                Esus***  
   All my people right here, right now,  

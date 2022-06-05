@@ -1,15 +1,15 @@
 <!--2020-09-04 23:31:36-->
 Intro: E  
   
-          A  
+    A  
 Oh yes I loved you in the morning, our kisses deep and warm  
-         F#m  
+    F#m  
 Oh your hair upon the pillow like a sleepy golden storm  
     D  
 Yes, many loved before us, I know we are not new  
   A  
 In city and in forest they smiled like me and you  
-        F#m  
+    F#m  
 Oh but now it's come to distances and both of us must try  
      D  
 Your eyes are soft with sorrow  

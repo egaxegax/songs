@@ -26,11 +26,11 @@ Me And My Mokey
   monkey as well?  
   ***Gm***  
   He looked in the passenger seat of my car and  
-             ***Fm***  
+    ***Fm***  
   with a smile he said  
   ***Gm***  
   "If your monkey's got that kind of money sir,  
-            ***G***  
+    ***G***  
   then we've got a monkey bed!"  
   *(repeat: ***Cm Fm Bb Ab***)*  
   Me and my monkey  

@@ -7,19 +7,19 @@ Intro:  ***G***
   
       ***C***  
   Oh, dirty Maggie Mae  
-            ***G***  
+    ***G***  
   they have taken her away  
-                                              ***D***  
+    ***D***  
   and she'll never walk down Lime(?) Street any mower.  
-          ***G***  
+    ***G***  
   Oh, the judge he guilty found her  
      ***C***  
   of robbing the home-ward bounder  
-       ***D7                            G***  
+    ***D7                            G***  
   that dirty, no good robbin' Maggie Mae.  
-           ***C***  
+    ***C***  
   It's the part of Liverpool  
   ***G***  
   she returned me to  
-                  ***C         G      D***  
+    ***C         G      D***  
   Two pound ten a week that was my pay.

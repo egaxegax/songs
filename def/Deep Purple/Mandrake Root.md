@@ -5,7 +5,7 @@
   
   ***E7+9***  
   I've got a Mandrake Root  
-         ***D             E7+9***  
+    ***D             E7+9***  
   It's a thunder in my brain  
   I feed it to my babe  
       ***D                 E7+9***  

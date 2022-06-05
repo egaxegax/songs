@@ -12,9 +12,9 @@ Salisbury (1971)
   her long ......  
   ***Am***  
   I know not .......  
-          ***G                                  Am***  
+    ***G                                  Am***  
   and destruction .....  
-                 ***G      Am                        G      Am***  
+    ***G      Am                        G      Am***  
   Aaaah____________________,     Aaaah____________________  
   
   *Fill1:*  

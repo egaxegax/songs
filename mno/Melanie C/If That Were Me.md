@@ -4,10 +4,10 @@ If That Were Me
   *o.k.-The basic chord progression is ***G***-***Am***-***C D****  
   *and you can use "open chords"*  
   *i.e. ***G*** = [320003]*  
-       ****Am***= [x02210]*  
-       ****C*** = [x32010]*  
-       ****D*** = [xx0230]*  
-       ****Em***= [022000]*  
+    ****Am***= [x02210]*  
+    ****C*** = [x32010]*  
+    ****D*** = [xx0230]*  
+    ****Em***= [022000]*  
   *OR  Play the Accoustic Riff:-*  
       *(***G***)          (***Am***)      (***C***)        (***D***)*  
   [E--------3---|-----3---|-----3---|-----5------  
@@ -18,12 +18,12 @@ If That Were Me
   E------------|---------|---------|------------]  
   
   *(~ = slide)*  
-                                     *(***G***...)*  
+    *(***G***...)*  
   ***..Am            C       D           G-Am-C-D***  
     Where do they go and what do they do?  
    ***G        Am         C***  
     They're walking on by.  
-          ***D          G-Am-C-D***  
+    ***D          G-Am-C-D***  
     There looking at you.  
    ***G     Am     C          D      G-Am-C-D***  
     Some people stop, some people stare  
@@ -35,7 +35,7 @@ If That Were Me
     Did you fall at all?  
   ***..(D)     Em             C-D           Em            C-D***  
     Are you happy were you are sleeping underneath the stars?  
-              ***C               Em                  Am-D***  
+    ***C               Em                  Am-D***  
     When it's cold is it your hope that keeps you warm?  
   
   **********************************************************************  

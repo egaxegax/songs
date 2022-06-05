@@ -7,12 +7,12 @@ intro:  ***F G Bb G F G C Bb***
   ***G***  
   Come join the band  
   Come shag the damned  
-                       ***C-Bb***  
+    ***C-Bb***  
   God I blow then away  
   ***G***  
   A heart of chrome  
   A brocken home  
-                     ***C-Bb***  
+    ***C-Bb***  
   I got plenty to say  
   ***Em          A***  
   Who are you doing?  
@@ -35,12 +35,12 @@ intro:  ***F G Bb G F G C Bb***
   ***G***  
   So Ebay baby  
   Haven't seen you lately  
-                            ***C-Bb***  
+    ***C-Bb***  
   Do you still give it away?  
   ***G***  
   So get my peeps  
   To call your peeps  
-                                 ***C-Bb***  
+    ***C-Bb***  
   'Cause we've got nothing to say  
   ***Em             A***  
   Don't feed the models  

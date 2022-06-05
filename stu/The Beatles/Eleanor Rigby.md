@@ -18,16 +18,16 @@ Lives in a dream.
  C  
 Waits at the window,  
 Wearing the face that she keeps in a jar by the door,  
-           Em  
+    Em  
 Who is it for?  
   
       Em7           Em6  
      All the lonely people,  
-           C               Em  
+    C               Em  
      Where do they all come from?  
       Em7           Em6  
      All the lonely people,  
-           C              Em  
+    C              Em  
      Where do they all belong?  
   
 Father McKenzie,  

@@ -15,15 +15,15 @@ Radio Silence (1989)
   
   ***G                       H7 Em***  
   Well met and thank you  
-                ***C            D***  
+    ***C            D***  
   I'm glad you taught me so well  
-          ***G                       D     G***  
+    ***G                       D     G***  
   It was fun being around for a while  
       ***D                C***  
   So sad you have to stay here  
-       ***G             Hm        E          Am***  
+    ***G             Hm        E          Am***  
   Or, can you spread out your wings and fly  
-        ***C***  
+    ***C***  
   with me...  
   
   ***G           Am           C***  
@@ -43,7 +43,7 @@ Radio Silence (1989)
   So strange when you think about it  
   ***F7          D                   Gm***  
   I never did anything out of my way  
-            ***B     C***  
+    ***B     C***  
   I just strayed...  
   
    ***F Am        B           C***  

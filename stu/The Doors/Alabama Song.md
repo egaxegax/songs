@@ -37,7 +37,7 @@ Chorus #2:
   
     F                               E  
 Oh, moon of Alabama We now must say goodbye  
-       Eb               F  
+    Eb               F  
 Weґve lost our good old mama  
 C            C7                    F  
 And must have whiskey, oh, you now why.....Yeah!  

@@ -12,11 +12,11 @@ Still I see that she makes you blue
 Come on, I'll give you consolation  
   
  CHORUS  
-                 A                             A/C#    D  
+    A                             A/C#    D  
 Gonna sing you my lovesong, gonna bring you some light  
-           E9sus4  A                     A/C#    D  
+    E9sus4  A                     A/C#    D  
 Wanna make you feel happy every day of your life  
-           E9sus4  A                    A/C#      D  
+    E9sus4  A                    A/C#      D  
 Gonna sing you my lovesong, gonna make it alright  
  C#m  Bm7                 E  
 You're all I ever need, my darling  
@@ -32,7 +32,7 @@ What a miracle to happen
  BRIDGE  
  F#m    G#m              C#7  F#m  
 You're my love, you're my angel  
-        G#m               C#7  
+    G#m               C#7  
 You're my first, you're my last  
  F#m     E           A        D  
 Would she care if you lingered  
@@ -40,7 +40,7 @@ Would she care if you lingered
 For another night  
      D  
 Wanna hold you tight  
-        Bm7  
+    Bm7  
 We could make it right  
   
  CHORUS

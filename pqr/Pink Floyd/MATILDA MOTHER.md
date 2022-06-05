@@ -16,7 +16,7 @@ Oh____, mother, tell me more.
 N.C.  
 Why'd you have to leave me there,  
   
-                         B  
+    B  
 Hanging in my infant air, waiting?  
   
 N.C.  

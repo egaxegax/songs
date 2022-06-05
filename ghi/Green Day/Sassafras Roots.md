@@ -102,7 +102,7 @@ Outro:  I'm a waste like you
   W.Y.T  
   ***D5                 E5***  
   Iпm am waste like you  
-            ***D5             E5***  
+    ***D5             E5***  
   with nothing else to do  
-          ***D5       A5        H5***  
+    ***D5       A5        H5***  
   may i waste your time too

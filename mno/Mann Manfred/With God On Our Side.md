@@ -3,13 +3,13 @@ With God On Our Side
   
   *Time: 3/4*  
   ***A / / D - - A - - 2 - / E7 / / A / / 2 / / 3 /***  
-                 ***D A         E7            A***  
+    ***D A         E7            A***  
 Verse 1: My name, it is nothing; my age, it means less  
-                ***F#m            D                A***  
+    ***F#m            D                A***  
   The country I come from is a part of the free West  
-                           ***F#m           D        A***  
+    ***F#m           D        A***  
   I was taught and brought up there, its laws to abide  
-                           ***D    A      E7         A***  
+    ***D    A      E7         A***  
   And that the land that I live in has God on its side  
   
 Verse 2: Oh the history books tell it, they tell it so well  

@@ -41,9 +41,9 @@ intro:  ***G5 C5 A5 D5*** } 4paзa
   Stupid scum believe in straight edge!  
   ***C                Am             F#***  
   And some morons help them to believe.  
-         ***C            Am             D***  
+    ***C            Am             D***  
   Some stupid morons help them to believe.  
-          ***G            C              D     G C D A D E***  
+    ***G            C              D     G C D A D E***  
   Some idiotic morons help them to believe.  
   
   ***A***  
@@ -56,9 +56,9 @@ intro:  ***G5 C5 A5 D5*** } 4paзa
   Stupid scum believe in straight edge!  
   ***D                Hm             A***  
   And some morons help them to believe.  
-         ***D            Hm             E***  
+    ***D            Hm             E***  
   Some stupid morons help them to believe.  
-          ***D            Hm             E***  
+    ***D            Hm             E***  
   Some idiotic morons help them to believe.  
   
   ***A               F#m   Hm     E***  

@@ -29,7 +29,7 @@ The Final Cut (1983)
   And you'll never hear their voices  
   ***Bm                                 A***  
   And you'll never see their faces  
-       ***G          A                 D***  
+    ***G          A                 D***  
   You have no recourse to the law anymore  
   As the windshield melts and my tears evaporate  
   Leaving only charcoal to defend  

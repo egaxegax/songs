@@ -15,7 +15,7 @@
   Oh don't talk to me of love  
   ***Bb           C/E          Dm***  
   It's obvious it's not enough  
-         ***Bb/D     Dm         Bb       C***  
+    ***Bb/D     Dm         Bb       C***  
   Annihilation    kill them all  
   ***Dm           C          Bb***  
   Capitulation watch the mighty fall  

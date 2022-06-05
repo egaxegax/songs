@@ -20,7 +20,7 @@
   Games people play, You take it or you leave it  
   ***Em               G    A     Bm***  
   Things that they say, Honor Brite  
-       ***Em              G            A                  Bm***  
+    ***Em              G            A                  Bm***  
   If I promise you the Moon and the Stars, Would you believe it  
   ***Em           G           A             Bm***  
   Games people play in the middle of the night  
@@ -59,7 +59,7 @@
   Games people play, You take it or you leave it  
   ***Em               G    A     Bm***  
   Things that they say, Honor Brite  
-       ***Em              G            A                  Bm***  
+    ***Em              G            A                  Bm***  
   If I promise you the Moon and the Stars, Would you believe it  
   ***Em           G           A             Bm***  
   Games people play in the middle of the night  

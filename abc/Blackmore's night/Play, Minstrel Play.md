@@ -4,24 +4,24 @@ Play, Minstrel Play
   ***Cm***  
   Underneath the harvest moon  
   Where the ancient shadows will play and hide...  
-                                  ***Bb-Cm***  
+    ***Bb-Cm***  
   With a ghostly tune and the devil's pride...  
   ***Cm***  
   "Stranger" whispered all the town  
   Has he come to save us from Satan's hand?  
-       ***Bb-Cm***  
+    ***Bb-Cm***  
   Leading them away to a foreign land...  
   ***Eb***  
   Play for me, minstrel, play  
-       ***Bb           Cm***  
+    ***Bb           Cm***  
   And take away our sorrows...  
   ***Eb***  
   Play for me, minstrel, play  
-            ***Bb  Cm***  
+    ***Bb  Cm***  
   And we'll follow...  
   ***Eb***  
   Hear, listen, can you hear,  
-            ***Bb          Cm***  
+    ***Bb          Cm***  
   The haunting melody surrounding you,  
   ***Eb                         Bb    Cm***  
   Weaving a magic spell all around you...  

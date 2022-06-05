@@ -32,7 +32,7 @@ Can't Help Falling In Love
   
   ***D       A    D***  
   Wise men say  
-          ***G       D    A***  
+    ***G       D    A***  
   only fools rush in  
       ***G     A    Hm***  
   but I can?t help  

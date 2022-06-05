@@ -15,7 +15,7 @@ Let love rule
   Love is gentle as a rose  
       ***E                G       G G# A***  
   and love can concure any war  
-                            ***A A# C***  
+    ***A A# C***  
   it's time to take a stand  
   brothers and sisters join hands  
   
@@ -30,13 +30,13 @@ Chorus:  We've got to let love
   
   ***E                   G***  
   Love transcends all space and time  
-             ***E                            G***  
+    ***E                            G***  
   (and baby) love can make a little child smile (yes it will)  
-                    ***E***  
+    ***E***  
   oh baby can't you see  
-                ***G       G G# A***  
+    ***G       G G# A***  
   -----------------------------  
-                                 ***A A# C***  
+    ***A A# C***  
   but we, we've got to be strong  
   we can't do it alone  
   *Chorus*  

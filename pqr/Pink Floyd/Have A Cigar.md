@@ -5,36 +5,36 @@ Wish You Were Here (1975)
   ***Em  D/F#  G  C  C  G  D/F#  Em  D/F#  G  C  D  G  Em***  
   ***Em***  
   Come in here dear boy have a cigar you're gonna go far,  
-                                ***C***  
+    ***C***  
   You're gonna fly high, you're never gonna die,  
-               ***D                                 Em***  
+    ***D                                 Em***  
   You're gonna make it if you try, they're gonna love you.  
   ***Em***  
   Well I've always had a deep respect and I mean that most sincerely,  
-                                     ***C***  
+    ***C***  
   The band is just fantastic that is really what I think,  
      ***D                       Em***  
   Oh by the way, which one's Pink?  
-             ***C            D           Em    C***  
+    ***C            D           Em    C***  
   And did we tell you the name of the game, boy,  
-              ***D                G        C   G***  
+    ***D                G        C   G***  
   We call it "Riding the gravy train".  
   ***G  F#  F#  F  Em***  
   ***Em***  
   We're just knocked out, we heard about the sell out,  
-                                     ***C***  
+    ***C***  
   You've gotta get an album out, you owe it to the people,  
-           ***D                   Em***  
+    ***D                   Em***  
   We're so happy we can hardly count.  
   ***Em***  
   Everybody else is just green, have you seen the chart?  
-                                    ***C***  
+    ***C***  
   It's a helluva start, it could be made into a monster,  
-        ***D                      Em***  
+    ***D                      Em***  
   If we all pull together as a team.  
-             ***C            D           Em    C***  
+    ***C            D           Em    C***  
   And did we tell you the name of the game, boy,  
-              ***D                G        C   G***  
+    ***D                G        C   G***  
   We call it "Riding the gravy train".  
   ***G  F#  F#  F  Em***  
   ***Em  D/F#  G  C  C  G  D/F#***  

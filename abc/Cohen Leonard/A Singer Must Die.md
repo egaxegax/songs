@@ -8,15 +8,15 @@ E/b:       x22100
   
 Intro: Bb  
   
-         Bb                      Asus2  
+    Bb                      Asus2  
 Now the courtroom is quiet, but who will confess  
-       Bb                        Asus2  
+    Bb                        Asus2  
 Is it true you betrayed us, the answer is yes  
       Cmaj7                    F  
 Then read me the list of the crimes that are mine  
-       Dsus2                       G  
+    Dsus2                       G  
 I will ask for the mercy that you love to decline  
-             C                        E/b  
+    C                        E/b  
 And all the ladies go moist, and the judge has no choice  
    Am                      G  
 A singer must die for the lie in his voice  
@@ -44,11 +44,11 @@ Sir, I didn't see nothing, I was just getting home late
   
       Bb  
 La la la la la la la la  
-       Asus2  
+    Asus2  
 La la la la la  
 Bb  
 La la la la la  
-          Asus2  
+    Asus2  
 La la la la la la  
 Cmaj7  
 La la la la la la la  

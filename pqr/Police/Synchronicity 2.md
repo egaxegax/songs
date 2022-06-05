@@ -36,12 +36,12 @@
   But we know all her suicides are fake.  
    ***F/A        Dm6             F/A      Dm6***  
   Daddy only stares into the distance  
-           ***F/A          Dm6              E***  
+    ***F/A          Dm6              E***  
   There's only so much more that he can take.  
   
   ***Esus4       Fmaj7          G6                    Fmaj7***  
   Many miles away something crawls from the slime  
-          ***E              E?         E***  
+    ***E              E?         E***  
   At the bottom of a dark Scottish lake.  
   
   ***A          C#m7          D       Dsus2***  
@@ -57,14 +57,14 @@
   The secretaries pout and preen like cheap tarts in a red light street,  
   ***A                Bm7/11/nr       B7/11/nr  Bm7/11/nr***  
   But all he ever thinks to do is watch.  
-       ***F/A          Dm6                 F/A             Dm6***  
+    ***F/A          Dm6                 F/A             Dm6***  
   And every single meeting with his so-called superior  
-          ***F/A       Dm6                 E***  
+    ***F/A       Dm6                 E***  
   Is a humiliating kick in the crotch.  
   
   ***Esus4       Fmaj7          G6                    Fmaj7***  
   Many miles away something crawls to the surface  
-        ***E  E?         E***  
+    ***E  E?         E***  
   Of a dark Scottish lake.  
   
   *(Play the intro again 4 times singing "Yeee-ooo-ooo")*  
@@ -81,9 +81,9 @@
   
   ***Esus4       Fmaj7          G6                 Fmaj7***  
   Many miles away there's a shadow on the door  
-        ***E              E?***  
+    ***E              E?***  
   Of a cottage on the shore  
-        ***E  E?         E    E?  E??  E?  E  E?  E  E?  E+11***  
+    ***E  E?         E    E?  E??  E?  E  E?  E  E?  E+11***  
   Of a dark Scottish lake  
   
   *Chords used:*  
@@ -110,7 +110,7 @@
   A -----------------  
   E -----------------]  
   *For the verses I use the riff:*  
-                 [PM........|   PM...........|  
+    [PM........|   PM...........|  
   --------------------------------------------  
   --------------------------------------------  
   ----2-----2----4-4-4-4-2-----4---4-4-4-4-2--  

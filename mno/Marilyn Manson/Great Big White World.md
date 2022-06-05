@@ -37,7 +37,7 @@ TUNING: standard tuning (E,A,D,G,B,E)
     E|----------------------------------------------------|  
   
      PART 4: (I didn't write out the number of times to play each  
-             note, you should be able to figure it out)  
+    note, you should be able to figure it out)  
   
     E|-------------------------------------|  
     B|-------------------------------------|  

@@ -19,7 +19,7 @@ In the Gallery
   
   ***Am                                 D - G - C                    G***  
 CHORUS:  He might as well have been making toys         or strings of beads  
-       ***C       C                 G      C slide D***  
+    ***C       C                 G      C slide D***  
   He could'nt be...   He could'nt be.....         in the gallery  
   
   And then you get an artist says he doesn't want to paint at all  

@@ -5,28 +5,28 @@ Running to Paradise (1996)
   
    ***D       C***  
   "I am of Ireland,  
-           ***G           D***  
+    ***G           D***  
   And the Holy Land of Ireland,  
-       ***Em                    C***  
+    ***Em                    C***  
   And time runs on," cried she.  
-        ***Em           C***  
+    ***Em           C***  
   "Come out of charity,  
-        ***Am           C  D          C G D***  
+    ***Am           C  D          C G D***  
   Come dance with me in Ireland."  
   
   ***D             C***  
   One man, one man alone  
-       ***G              D***  
+    ***G              D***  
   In that outlandish gear,  
   ***D        C***  
   One solitary man  
      ***G                  D***  
   Of all that rambled there  
-       ***Am                 D***  
+    ***Am                 D***  
   Has turned his stately head.  
-       ***Am            D***  
+    ***Am            D***  
   That is a long way off,  
-                 ***Em***  
+    ***Em***  
   "And time runs on," he said,  
    ***C                    A***  
   "And the night grows rough."  
@@ -56,30 +56,30 @@ Running to Paradise (1996)
   
    ***D        C***  
   'I am of Ireland,  
-           ***G            D***  
+    ***G            D***  
   And the Holy Land of Ireland,  
-       ***Em                   C***  
+    ***Em                   C***  
   And time runs on,' cried she.  
-         ***Em          C***  
+    ***Em          C***  
   'Come out of charity,  
-         ***Am       C      D***  
+    ***Am       C      D***  
   Come dance with me in Ireland.'  
   
    ***D            C***  
   One man, one man alone  
-       ***G              D***  
+    ***G              D***  
   In that outlandish gear,  
    ***D       C***  
   One solitary man  
       ***G                 D***  
   Of all that rambled there  
-        ***Am                D***  
+    ***Am                D***  
   Has turned his stately head.  
-       ***Am            D***  
+    ***Am            D***  
   That is a long way off,  
-                ***Em***  
+    ***Em***  
   And time runs on,' he said,  
-            ***C           A***  
+    ***C           A***  
   'And the night grows rough.'  
   
   'I am of Ireland,  

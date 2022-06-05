@@ -43,7 +43,7 @@ Solo:                     )
   
   *STANDARD TUNING*  
   *KEY: /= Slide Up or Down*  
-       *x= Muted Note*  
+    *x= Muted Note*  
   
   *This is the best version of SLTS for bass out*  
   *there on the web. No one gets the sliding stuff*  

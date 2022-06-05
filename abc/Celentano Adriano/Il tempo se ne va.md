@@ -3,51 +3,51 @@ Il tempo se ne va
   
   ***Bm Em7 F# F#7 Bm Em F# F#7 Bm***  
   
-                             ***F#***  
+    ***F#***  
   Quel vestito da dove e' sbucato  
-           ***F#7                Bm***  
+    ***F#7                Bm***  
   che impressione vederlo indossato,  
-                          ***F#***  
+    ***F#***  
   se ti vede tua madre lo sai,  
-                ***F#7       Bm***  
+    ***F#7       Bm***  
   questa sera finiamo nei guai.  
      ***Em***  
   E' strano ma sei proprio tu,  
      ***Bm***  
   quattordici anni o un po' di piu'  
-                                      ***F#***  
+    ***F#***  
   la tua barbie e' da un po' che non l'hai,  
-                       ***F#7      Bm***  
+    ***F#7      Bm***  
   e il tuo passo e' da donna oramai  
-                             ***F#***  
+    ***F#***  
   Al telefono e' sempre un segreto,  
-         ***F#7                Bm***  
+    ***F#7                Bm***  
   quante cose in un filo di fiato,  
-                          ***F#***  
+    ***F#***  
   e vorrei domandarti chi e',  
-                      ***F#7      Bm***  
+    ***F#7      Bm***  
   ma lo so che hai vergogna di me.  
      ***Em***  
   La porta chiusa male e tu,  
      ***Bm***  
   lo specchio ,il trucco ed il seno in su,  
-                         ***F#***  
+    ***F#***  
   e tra poco la sera uscirai,  
-                  ***F#7      Bm***  
+    ***F#7      Bm***  
   quelle sere non dormiro' mai.  
-                           ***Em7***  
+    ***Em7***  
   E intanto il tempo se ne va  
     ***F#           F#7     Bm***  
   e non ti senti piu' bambina,  
-                                ***Em***  
+    ***Em***  
   si cresce in fretta alla tua eta'  
       ***F#         F#7     Bm***  
   non me ne sono accorto prima.  
-                           ***Em7***  
+    ***Em7***  
   E intanto il tempo se ne va  
   ***F#               F#7      Bm***  
   tra i sogni e le preoccupazioni,  
-                            ***Em***  
+    ***Em***  
   le calze a rete han preso gia'  
      ***F#        F#7  Bm***  
   il posto dei calzettoni  

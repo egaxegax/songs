@@ -14,13 +14,13 @@ Em          Am
   
 CHORUS:  
   
-           A             Em  
+    A             Em  
   Pull me out of the aircrash,  
-           A          Em  
+    A          Em  
   Pull me out of the lake,  
-                A        Em  
+    A        Em  
   If I?m your superhero,  
-            C             B7  
+    C             B7  
   We are standing on the edge.  
   
 VERSE 2:  

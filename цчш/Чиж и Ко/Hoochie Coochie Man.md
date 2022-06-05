@@ -3,12 +3,12 @@ G Gadd11 G G* Gadd11 G Gadd11
 G Gadd11 G G* Gadd11 G D_Dsus4_D  
 G Gadd11 G G* C G D  
   
-         G  
+    G  
 Я так решил еще с утра - сегодня точно напьюсь  
 Сегодня кончатся все деньги, сегодня пиво и блюз  
-         С                                        G  
+    С                                        G  
 Oh, я - Hoochie Coochie, oh, я - Hoochie Coochie Man  
-       D                                   G  
+    D                                   G  
 Перекати мое поле, мама, - я обессилил совсем  
   
 Я позвоню по телефону  
@@ -36,7 +36,7 @@ Oh, я - Hoochie Coochie, oh, я - Hoochie Coochie Man
 О не будь я Hoochie Coochie  
 Не будь я Hoochie Coochie Man  
 Перекати мое поле мама  
-       B  
+    B  
 Перекати мою душу мама  
 D                   G  
 Пока я не вышел совсем  

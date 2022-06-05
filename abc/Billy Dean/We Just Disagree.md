@@ -11,20 +11,20 @@ Let It Flow (1977)
   
 INTRO:  ***E   "A"   "A"/"B"*** } x 8  
   
-         ***E  "A"  "A"/"B"  C#m            B                   A***  
+    ***E  "A"  "A"/"B"  C#m            B                   A***  
   Been away,     haven't  seen you in a while.   How've you been?  
-            ***C#m     B   C#m       B       E***  
+    ***C#m     B   C#m       B       E***  
   Have you changed your style and do you think  
-              ***C#m               B                    A***  
+    ***C#m               B                    A***  
   That we've grown up differently?   Don't seem the same  
-                ***C#m  B    C#m B       E***  
+    ***C#m  B    C#m B       E***  
   Seems you've lost your   feel   for me  
   
-          ***C#m   B    E               C#m       B       E***  
+    ***C#m   B    E               C#m       B       E***  
   So let's leave it alone,  'cause we can't see eye to eye.  
   ***C#m         B        E      C#m        B       E    A***  
   There ain't no good guys,  there ain't no bad guys.  
-               ***C#m     B      A        B    E***  
+    ***C#m     B      A        B    E***  
   There's only you and me and we just disagree.  
   ***A     B      C#m       C#m  B    E      "A"  "A"/"B" } x 4***  
   Ooo - ooo - ooohoo     oh - oh - o-whoa  

@@ -9,15 +9,15 @@ Intro:  | ***G*** | ***Cadd9*** | } x4
      I tell you things I know you'd like to know,  
   ***Em                         D***  
      Treat you to cake every night.  
-           ***G                   D                G   Cadd9***  
+    ***G                   D                G   Cadd9***  
   Suddenly talk and it'll make   you fright.  
   ***D           A                 G               Em***  
      Smile at me, I'll hold you really tight,  
-                  ***G                    G***  
+    ***G                    G***  
   Follow you into bed, run around till mornin',  
-        ***G                Cadd9***  
+    ***G                Cadd9***  
   We'll   stay awake all night.  
-                        ***Cadd9                 Em                       A***  
+    ***Cadd9                 Em                       A***  
   We'll repeat the same       stories, but of course never in front of friends.  
   ***G          Cadd9          D***  
   How it all started in the kitchen.  
@@ -40,7 +40,7 @@ Intro:  | ***G*** | ***Cadd9*** | } x4
   Follow you into bed.  
   ***G                  Cadd9             G                Cadd9***  
      Run around till mornin' and we'll stay awake every night.  
-                     ***Cadd9                 Em                       A***  
+    ***Cadd9                 Em                       A***  
   We repeat the same       stories, but of course never in front of friends.  
   ***G             Cadd9          G***  
      How it all started in the kitchen.  

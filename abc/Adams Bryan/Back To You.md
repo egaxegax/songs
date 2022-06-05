@@ -18,28 +18,28 @@ Riff 1:       ***C               A
   *INTRO: (With Riff 1)*  
   ***C*** | ***Am*** | ***F*** | ***G*** } 2x  
   
-           ***C                Am***  
+    ***C                Am***  
 VERSE 1: I've been down - I've been beat  
-              ***F                         G***  
+    ***F                         G***  
   I've been so tired - that I could not speak  
-              ***C                    Am***  
+    ***C                    Am***  
   I've bin so lost that I could not see  
-           ***F                      G***  
+    ***F                      G***  
   I wanted things that were out of reach  
-       ***C                   Am***  
+    ***C                   Am***  
   Then I found you and you helped me through  
-         ***F                 G***  
+    ***F                 G***  
   and ya showed me what to do  
-         ***F                      E***  
+    ***F                      E***  
   that's why I'm comin' back to you...  
   
-         ***Am                 F               G***  
+    ***Am                 F               G***  
 CHORUS:  Like a star that guides a ship across the ocean  
-                 ***Am                F            G***  
+    ***Am                F            G***  
   that's how your love can take me home back to you  
-           ***Em              Am***  
+    ***Em              Am***  
   and if I wish upon that star,  
-               ***Em                Am***  
+    ***Em                Am***  
   that someday I'll be where you are  
     ***F                       G***  
   I know that day is comin' soon, yeah I'm coming back to you  
@@ -57,26 +57,26 @@ VERSE 2: You've been alone, ya didn't show it
   *CHORUS*  
   
   *SOLO (Almost like the intro, with just a little*  
-        *bit of variation on the B-string)*  
+    *bit of variation on the B-string)*  
   | ***C*** | ***Am*** | ***F*** | ***G*** | } 2x  
-         ***C                    Am***  
+    ***C                    Am***  
   Mighta let you down, mighta messed you round  
-         ***F                          G***  
+    ***F                          G***  
   But ya never changed your point of view  
-          ***F                     E***  
+    ***F                     E***  
   That's why I'm coming back to you  
   
   *CHORUS*  
-                      ***Am     F    G***  
+    ***Am     F    G***  
   I'm comin' back to you....  
-                      ***Am     F    G***  
+    ***Am     F    G***  
   I'm comin' back to you....  
-                      ***Am     F    G***  
+    ***Am     F    G***  
   I'm comin' back to you....  
-                      ***Am     F    G***  
+    ***Am     F    G***  
   I'm comin' back to you....  
-                      ***Am     F    G***  
+    ***Am     F    G***  
   That day is comin' soon  
-                      ***Am     F    G***  
+    ***Am     F    G***  
   I'm comin' back to you....  
-                      ***Am     F    G***
+    ***Am     F    G***

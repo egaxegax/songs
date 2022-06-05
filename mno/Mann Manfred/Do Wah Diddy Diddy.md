@@ -8,16 +8,16 @@ Intro:   ***E        A  E/B (N.C.)***
   *(1, 4: N.C on first line)*  
    ***E                     A                E/B***  
 Verse 1: There she was, just-a walkin' down the street  
-           ***E                    A         E/B***  
+    ***E                    A         E/B***  
   Singin' (do wah diddy, diddy dum, diddy do)  
    ***E                         A            E/B***  
   Snappin' her fingers and shufflin' her feet  
-           ***E                    A         E/B***  
+    ***E                    A         E/B***  
   Singin' (do wah diddy, diddy dum, diddy do)  
   *(N.C.)*  
   She looked good (she looked good)  
   She looked fine (she looked fine)  
-                        ****E     B***  &lt;- single notes, fuzz organ w/bass*  
+    ****E     B***  &lt;- single notes, fuzz organ w/bass*  
   She looked good, she looked fine  
    ****E     B      E      B***         &lt;- single notes, fuzz organ w/bass*  
   And I nearly lost my mind  
@@ -42,12 +42,12 @@ Verse 2: Before I knew it she was walkin' next to me
   -----------------|---  -----------------|-------  
   -----------------|---  -----------------|-------  
   -----------------|---  -----------------|-------]  
-           *^^^^^^^  quarter-note triplets  ^^^^^^^   ^^^^^^^*  
+    *^^^^^^^  quarter-note triplets  ^^^^^^^   ^^^^^^^*  
   ****E*** (fill 1)             ***C#m****  
-              Whoa-oa, I knew we was fallin' in love  
+    Whoa-oa, I knew we was fallin' in love  
   ****A*** (fill 2)                      ***B7****  
-              Yes I did and so I told her all the things I'd been  
-                  dreamin' of  
+    Yes I did and so I told her all the things I'd been  
+    dreamin' of  
   
 Verse 3: Now we're together nearly every single day  
   Singin' (do wah diddy, diddy dum, diddy do)  
@@ -83,9 +83,9 @@ Verse 3: Now we're together nearly every single day
   Snappin' her fingers and shufflin' her feet singin'  
   ***G                  C          G***  
   do wah diddy diddy dum diddy do  
-                  *(kettle drum rolls ***GGGGD***)       (kettle drum)*  
+    *(kettle drum rolls ***GGGGD***)       (kettle drum)*  
   She looked good (looked good!), she looked fine (looked fine!)  
-                       *(kettle drum..........................)*  
+    *(kettle drum..........................)*  
   She looked good, she looked fine, and I nearly lost my mind  
     ***G                      C               G***  
   Before I knew it she was walkin' next to me singing  
@@ -95,12 +95,12 @@ Verse 3: Now we're together nearly every single day
   Holdin' my hand just as natural as can be singin'  
   ***G                  C         G***  
   do wah diddy diddy dum diddy do  
-               *(kettle drum)           (kettle drum)*  
+    *(kettle drum)           (kettle drum)*  
   We walked on (walked on!) to my door (my door!)  
-                  *(kettle drum rolls.................)*  
+    *(kettle drum rolls.................)*  
   We walked on to my door then we kissed a little more  
   ****G*** (piano riff) ***Em****  
-       Whoaoa, I knew we was fallin' in love  
+    Whoaoa, I knew we was fallin' in love  
   ****C*** (piano riff)         ***D7****  
      Yes I did, and so I told her all the things I've been dreamin' of  
       ***G                     C            G***  
@@ -111,12 +111,12 @@ Verse 3: Now we're together nearly every single day
   Uh, we're so happy and that's how we're gonna stay, singin'  
   ***G                  C         G***  
   do wah diddy diddy dum diddy do  
-                *(Kettle drum)            (kettle drums)*  
+    *(Kettle drum)            (kettle drums)*  
   Well I'm hers (I'm hers!).  She's mine (she's mine!)  
-            *(Kettle drum rolls .......................)*  
+    *(Kettle drum rolls .......................)*  
   I'm hers, she's mine, wedding bells are gonna' chime  
   ****G*** (piano riff) ***Em****  
-       Whoaoa, I knew we was fallin' in love  
+    Whoaoa, I knew we was fallin' in love  
   ****C*** (piano riff)          ***D7****  
       Yes I did, and so I told her all the things I've been dreamin' of  
   *(no chords)*  
@@ -127,9 +127,9 @@ Verse 3: Now we're together nearly every single day
   Uh, we're so happy and that's how we're gonna stay, singin'  
   ***G                  C         G***  
   do wah diddy diddy dum diddy do  
-                *(Kettle drum)            (kettle drum)*  
+    *(Kettle drum)            (kettle drum)*  
   Well I'm hers (I'm hers!).  She's mine (she's mine!)  
-            *(Kettle drum............................)*  
+    *(Kettle drum............................)*  
   I'm hers, she's mine, wedding bells are gonna' chime  
   ***D7***  
   Uh ohooa, oh yeah  

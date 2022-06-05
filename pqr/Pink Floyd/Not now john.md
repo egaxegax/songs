@@ -3,9 +3,9 @@ G                   D       
 Fuck all that we've got to get on with these  
 G                      D          Em  
 Gotta compete with the wily Japanese.  
-       G                   D  
+    G                   D  
 There's too many home fires burning  
-              Em  
+    Em  
 And not enough trees,  
   G  
 So fuck all that  
@@ -16,7 +16,7 @@ We've got to get on with these.
 Can't stop       Lose job    Mind gone   Silicon  
 What bomb        Get away    Pay day     Make hay  
 Break down       Need fix    Big six  
-                                                       G      D  Em  
+    G      D  Em  
 Clickity click   Hold on     Oh no       Brrrrrrrrrring bingo!  
   
   
@@ -29,11 +29,11 @@ G
 Not nah John  
      D                      Em           G  
 We've got to get on with the film show.  
-         D                       Em  
+    D                       Em  
 Hollywood waits at the end of the rainbow.  
 G                    D  
 Who cares what it's about  
-              Em  
+    Em  
 As long as the kids go.  
 G  
 Not now John  
@@ -48,7 +48,7 @@ I don't know what it is
 But it fits on here like.....  
 G                      D  
 Come at the end of the shift,  
-                Em  
+    Em  
 We'll go and get pissed.  
    G  
 But now now John  
@@ -57,13 +57,13 @@ I've got to get on with this.
   
 C/E  
 Hold on John  
-               Em  
+    Em  
 I think there's something good on.  
  D/E                     Em  
 I used to read books but.....  
   C/E  
 It could be the news,  
-       Em  
+    Em  
 Or some other abuse,  
      D/E               Em  
 Or it could be reusable shows.  
@@ -78,7 +78,7 @@ G                         D 
 Got to bring the Russian bear to his knees.  
      G                     D  
 Well, maybe not the Russian bear,  
-         Em  
+    Em  
 Maybe the Swedes.  
   G  
 We showed Argentina  

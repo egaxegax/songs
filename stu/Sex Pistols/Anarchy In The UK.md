@@ -330,7 +330,7 @@ Verse:  I am an anti-Christ
   I am an anarchist.  
   ***G***  
   dont Know what i want  
-                    ***C   E***  
+    ***C   E***  
   but i know how to get it.  
   ***G                     C E***  
   I wanna destroy passer by  

@@ -1,21 +1,21 @@
 <!--2020-09-06 04:57:42-->
 Black Magic Woman  
   
-                       ***Dm                         Am***  
+    ***Dm                         Am***  
   I got a black magic woman, I got a black magic woman  
      ***Dm                                      Gm***  
   I got a black magic woman got me so blind I can't see  
     ***Dm                    A                           Dm***  
   I got a black magic woman she try'in to make a devil out of me  
-                       ***Dm                         Am***  
+    ***Dm                         Am***  
   Turn your back on me baby, turn your back on me baby  
      ***Dm                         Gm***  
   Turn your back on me baby don't turn babe  
-            ***Dm                    A                           Dm***  
+    ***Dm                    A                           Dm***  
   Turn your back on me baby you might just pick up my magic sticks  
-                       ***Dm                         Am***  
+    ***Dm                         Am***  
   Got your spell on me baby, got your spell on me baby  
-                ***Dm                         Gm***  
+    ***Dm                         Gm***  
   Got your spell on me baby turnin my heart into stone  
      ***Dm                    A                        Dm***  
   I need you so bad magic woman I can't leave you alone  

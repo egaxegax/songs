@@ -15,9 +15,9 @@ Intro:  ***Dm C Am*** } 4x
   Te jutu es, tas bij’ Tavs gars,  
   Kas nacis bij’, lai mani glabtu.  
   
-        ***F  C      Dm***  
+    ***F  C      Dm***  
   Jo Tu nac tikai tad,  
-            ***B       F    B      C***  
+    ***B       F    B      C***  
   Kad vairs negaidu to, negaidu to  
   Un Tu sauc tikai tad,  
   Kad vairs negribu to, negribu to  

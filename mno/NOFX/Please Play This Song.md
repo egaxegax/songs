@@ -14,13 +14,13 @@ CHORDS:     ***G5      G      D     
   |--3------3-------------0-----------------------|  
   
   *Intro:  (gtr.1)  ***G5****  
-          *(gtr.2)  ***G***, ***D***, ***E***, ***C****  
+    *(gtr.2)  ***G***, ***D***, ***E***, ***C****  
   
   *improv solo*  
   
   ***G             D                  E                  C***  
 Verse:  we wrote this song, it's not too short it's not too long  
-           ***G                D              E        C-C***  
+    ***G                D              E        C-C***  
   it's got backup vocals in just the right places  
   ***G              D             E              C***  
   it's got a few oohs and ahhs and it takes a little pause  

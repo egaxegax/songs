@@ -19,7 +19,7 @@ Love love me do
 You know I love you  
      G            C  
 I?ll always be true  
-            NC  
+    NC  
 So pleeeease  love me do  
   
 figure 1:  
@@ -37,7 +37,7 @@ Love love me do
 You know I love you  
      G            C  
 I?ll always be true  
-            NC  
+    NC  
 So pleeeease  love me do  
   
  (play figure 1 again)  
@@ -60,7 +60,7 @@ Love love me do
 You know I love you  
      G            C  
 I?ll always be true  
-            NC  
+    NC  
 So pleeeease  love me do  
   
   (play figure 1 again)  
@@ -83,7 +83,7 @@ Love love me do
 You know I love you  
      G            C  
 I?ll always be true  
-            NC  
+    NC  
 So pleeeease  love me do  
   
 (Fade out by playing intro a few times)  

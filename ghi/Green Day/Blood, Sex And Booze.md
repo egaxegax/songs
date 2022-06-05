@@ -44,7 +44,7 @@ Chorus:
 Post-Chorus:  
   
 Bridge:  
-       Oh...  
+    Oh...  
 E  E  E  E  C G C G C G C G  
   
 Chorus:  

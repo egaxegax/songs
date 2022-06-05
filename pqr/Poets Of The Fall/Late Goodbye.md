@@ -27,11 +27,11 @@ screaming stop signs, staring wild eyes, keep on flashing, fla
   
  ***Bm          A      Am       G6***  
 and we keep driving into the night  
-       ***Am       D          Em***  
+    ***Am       D          Em***  
 it's a late goodbye, such a late goodbye  
  ***Bm          A       Am       G6***  
 and we keep driving into the night  
-       ***Am       D       Em***  
+    ***Am       D       Em***  
 it's a late goodbye...  
   
   
@@ -46,9 +46,9 @@ till' in the john mirror you stare at yourself grown old a
   
  ***Bm              A    Am      G6***  
 and we keep driving into the night  
-        ***Am      D           Em***  
+    ***Am      D           Em***  
 it's a late goodbye, such a late goodbye.  
  ***Bm              A    Am      G6***  
 and we keep driving into the night  
-        ***Am      D           Em***  
+    ***Am      D           Em***  
 it's a late goodbye, such a late goodbye.

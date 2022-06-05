@@ -5,7 +5,7 @@ Cold Sweat
   *really more swing time. Listen to the song and it'll be easy.*  
   
   *Riff 1  (Main Riff in verse and Solo)*  
-         *Triplet*  
+    *Triplet*  
   [G -----7--------7-----------------|  
   D ----------7---------------------|  
   A 5---5-----------5-------------3-|  
@@ -32,6 +32,6 @@ Cold Sweat
   
   *Basic structure...*  
   *Intro: Riff1 } 2x*  
-         *Riff1 } 8x*  
-         *Riff2 } 5x*  
-         *Riff3 } 1x*
+    *Riff1 } 8x*  
+    *Riff2 } 5x*  
+    *Riff3 } 1x*

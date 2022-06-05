@@ -44,22 +44,22 @@ E--3--3-------------------0---0-0--
   
    Em  
 You shout in your sleep.  
-             Am  
+    Am  
 Perhaps the price is just too steep.  
-          Em                      Am  
+    Em                      Am  
 Is your conscience at rest if once put to the test?  
       Em                              Am  
 You awake with a start to just the beating of your heart.  
-                                      G     D        Em    G  D  Am  Em  
+    G     D        Em    G  D  Am  Em  
 Just one man beneath the sky, just two ears, just two eyes.  
   
-       Em                                   Am  
+    Em                                   Am  
 You set sail across the sea of long past thoughts and memories.  
-            Em                            Am  
+    Em                            Am  
 Childhood's end, your fantasies merge with harsh realities.  
-        Em                                   Am  
+    Em                                   Am  
 And then as the sail is hoist, you find your eyes are growing moist.  
-                                          G         D     Am     G  D Am Em  
+    G         D     Am     G  D Am Em  
 All the fears never voiced say you have to make your final choice.  
   
   
@@ -80,7 +80,7 @@ G ------14^12-----------12-14^-14-12---------------------
 D ------------14^^^--14--------------14------------------  
 A -------------------------------------------------------  
 E -------------------------------------------------------  
-                                            * let ring  
+    * let ring  
   
  full+1/2                       full  
 E --------------------15---------17^--17-15-17-15---  
@@ -89,7 +89,7 @@ G --------------------------------------------------
 D --------------------------------------------------  
 A --------------------------------------------------  
 E --------------------------------------------------  
-                    *hold bend and let ring  
+    *hold bend and let ring  
   
  full  full               sl       full               full  
 E 17^---17^-17-15-17---15-12\------------15-12---------------  
@@ -98,7 +98,7 @@ G --------(0)*-------------------------------------------14^-
 D -----------------------------------------------------------  
 A -----------------------------------------------------------  
 E -----------------------------------------------------------  
-            * open G accidentally hit when releasing bend  
+    * open G accidentally hit when releasing bend  
   
   
  full      full  
@@ -109,17 +109,17 @@ D -------------------------------------------14---
 A ------------------------------------------------  
 E ------------------------------------------------  
   
-       Em                           Am  
+    Em                           Am  
 Who are you and who am I to say we know the reason why?  
-         Em                            Am  
+    Em                            Am  
 Some are born; some men die beneath one infinite sky.  
-            Em  
+    Em  
 There'll be war, there'll be peace.  
-          Am  
+    Am  
 But everything one day will cease.  
-                                    G         D         Em  
+    G         D         Em  
 All the iron turned to rust; all the proud men turned to dust.  
-          Am  
+    Am  
 And so all things time will mend.  
 G       D         Em  
 So this song will end.  

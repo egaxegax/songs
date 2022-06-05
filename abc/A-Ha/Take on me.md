@@ -55,45 +55,45 @@ Intro:  [E|-----------------------------------------------------------------
   ***F#4/5***  
   ***B-=20***  
   ***B- / E / A / D C#- /  B- / E         / A     / D C#- / B- / E / B- / E***  
-                                Pa ppa  paa pa  
+    Pa ppa  paa pa  
   ***B-           E  A                 D         C#-     B-         E    A***  
   Talking away    I don't know what  I'm to say I'll say it anyway today isn't  
       ***D      C#-     B-          E  F#-                         D***  
   my day to find you   shying away     I'll be coming for your love OK  
    ***A   C#-|G#  F#-   D            A   C#-/G#  F#-   D***  
   Take on      me....            Take me      on......  
-                   (take on me)                   (take on me)  
+    (take on me)                   (take on me)  
   ***A    C#-/G#  F#-  D            A    C#-/G#  D  E***  
   I'll be     gone   in a day or  two...  
       ***B-           E    A             D        C#-     B-        E    A***  
   So needless to say at odds and ends  but I'm me    stumbling away slowly  
-                 ***D       C#-  B-         E F#-                     D***  
+    ***D       C#-  B-         E F#-                     D***  
   learning that life is OK   say after me    it's no better to be safe than  
-         ***A   C#-/G#  F#-   D            A   C#-/G#  F#-   D***  
+    ***A   C#-/G#  F#-   D            A   C#-/G#  F#-   D***  
   sorry Take on      me....            Take me      on......  
-                   (take on me)                   (take on me)  
+    (take on me)                   (take on me)  
   ***A    C#-/G#  F#-  D           A    C#-/G#  D  E***  
   I'll be     gone   in a day or two...  
   ***C#-  G  C#-  G  B-  E***  
   ***N.C. | N.C. | N.C. | N.C.***  
   ***B- | E | A | D C#- || B- | E | A | D C#- | B- | E | B- | E          B-***  
-                                                             Oh the things that  
-        ***E     A             D          C#-    B-        E        F#-***  
+    Oh the things that  
+    ***E     A             D          C#-    B-        E        F#-***  
   you say yeh is it life or  just to play my worries away you're all the things  
-        ***D      C#-     B-            E  F#-                   D***  
+    ***D      C#-     B-            E  F#-                   D***  
   I've got to remember  you shying away   I'll be coming for you anyway  
    ***A   C#-/G#  F#- D         A   C#-/G#  F#- D***  
   Take on      me...        Take me      on......  
-                 (take on me)              (take on me)  
+    (take on me)              (take on me)  
   ***A    C#-/G#   F#-  D       A   C#-/G#  F#-  D           A   C#-/G#  F#-  D***  
   I'll be      gone    in a.. day......  
-                           (take on      me...)         (take me      on...)  
-                                           ((Take on me))               ((Take  
-         ***A    C#-/G#  F#- D          A   C#-/G# F#-  D         =20***  
-         I'll be     gone...   in a.. day...  
-              on     me..)         (take me     on..)  
+    (take on      me...)         (take me      on...)  
+    ((Take on me))               ((Take  
+    ***A    C#-/G#  F#- D          A   C#-/G# F#-  D         =20***  
+    I'll be     gone...   in a.. day...  
+    on     me..)         (take me     on..)  
   on me))              ((take on me)              ((take on me))  
     ***A   C#-/G# F#-   D            A   C#-/G# F#-  D           A   C#-/G#  F#- D***  
   (take on     me....)          (take me     on.....)       (take on     me....)  
-                  ((take on me))               ((take on me))             ((take  
+    ((take on me))               ((take on me))             ((take  
   on me)) ...

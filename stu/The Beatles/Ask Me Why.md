@@ -24,19 +24,19 @@ Now you`re mine      my happiness near makes me cry
 And in  time        you`ll understand the reason why that I cry  
      C#m  
 It`s not because I`m sad  
-                A                       E   E+  (e.g., 076550)  
+    A                       E   E+  (e.g., 076550)  
 But you`re the only love that I`ve ever had  
   
 Middle:  
-         A      B7                 E   E+  
+    A      B7                 E   E+  
 I can`t believe   it`s happened to me  
-          A     B7               E     B7  
+    A     B7               E     B7  
 I can`t conceive   of any more misery  
   
 Verse:  
  E  F#m G#m              F#m  
 Ask me  why   I`ll say I love you  [second time jump to ending]  
-         G#m                A   E   E+  
+    G#m                A   E   E+  
 And I`m always thinking of you  
   
  [now repeat from the middle]  
@@ -52,11 +52,11 @@ A|--7-----------7--|
 E|-----------7-----|  
   And I`m always thinking of you you  
   
-       E           A       G#m  
+    E           A       G#m  
 E|----------------------------------------------|  
 B|----------------4--4--------------------------|  
 G|----------------------4--4--4--4--------------|  
 D|-------9--9-----------------------------6--6--|  
 A|----7-----------7-----------------------------|  
 E|-7-----------4--------------------------------|  
-                you
+    you

@@ -66,11 +66,11 @@ legend:  ^: bend
   
   ***F5  G5   A5     (F5)     G5***  
 chorus:  In  my  heart,   in  my  soul  
-              ***F5         C5          Bb5   G5***  
+    ***F5         C5          Bb5   G5***  
   I   really  hate  to   pay   this    toll  
   ***F5      G5   A5       (F5)        G5***  
   Should   be  strong,  young  and  bold  
-          ***F5           Em      A5***  
+    ***F5           Em      A5***  
   But the only thing I feel is pain  
   
   *(the below bit is sung with the same chords in 1.verse,*  
@@ -100,11 +100,11 @@ SOLO:                        ***
   
   ***F5    G5   A5      (F5)        G5***  
   With  my   heart,  with   my   soul  
-                ***F5          C5            Bb5 G5***  
+    ***F5          C5            Bb5 G5***  
   Some   guys   cry   you   bought   and   sold  
    ***F5        G5       A5        (F5)          G5***  
   They've    been     strong,    young  and   bold  
-              ***F5                 E5       G5***  
+    ***F5                 E5       G5***  
   And   they  say,   play  this  song  again  
   
   *repeat CHORUS and fade out*  

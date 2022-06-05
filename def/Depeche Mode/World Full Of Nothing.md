@@ -17,7 +17,7 @@ World Full Of Nothing - Black Celebration
   His first girl  
   ***Em***  
   Makes a change  
-       ***F***  
+    ***F***  
   In a world full of nothing  
   ***C***  
   Though it's not love  
@@ -37,7 +37,7 @@ World Full Of Nothing - Black Celebration
   Nothing is true  
   ***Em***  
   But he will do  
-       ***F***  
+    ***F***  
   In a world full of nothing  
   ***C***  
   Though it's not love  

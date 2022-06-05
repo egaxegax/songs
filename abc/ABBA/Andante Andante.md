@@ -1,13 +1,13 @@
 <!--2020-09-05 01:18:24-->
 Intro chords: F  C/E   Bb   F   Bb   F    C  
   
-       F    C        F  
+    F    C        F  
 Take it easy with me, please  
  C      F             C              F  
 Touch me gently like a summer evening breeze  
-         Bb            F  
+    Bb            F  
 Take your time, make it slow  
-        Bb  
+    Bb  
 Andante, Andante  
     C                     F    C7  
 Just let the feeling grow  
@@ -23,15 +23,15 @@ Go slowly with me now
 I'm your music  
    Bb  
 I'm your song  
-       Eb            F     F7          Bb  
+    Eb            F     F7          Bb  
 Play me time and time again and make me strong  
-       Eb            Bb  
+    Eb            Bb  
 Make me sing, make me sound  
-        Eb  
+    Eb  
 Andante, Andante  
       F            Bb  
 Tread lightly on my ground  
-        Eb  
+    Eb  
 Andante, Andante  
   F                   Bb  
 Oh please don't let me down  

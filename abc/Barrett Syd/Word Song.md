@@ -2,7 +2,7 @@
 Word Song  
   
   *Chords:*  
-                    [E  A  D  G  B  e]  
+    [E  A  D  G  B  e]  
   ****D*** .............   [x  x  0  2  3  2]*  
   ****D*** (10th fret).    [10 12 12 11 10 10]*  
   ****A*** ............    [5  7  7  4  5  5]*  
@@ -31,8 +31,8 @@ Word Song
   Loads, Liquids, ???, Eaters, Jaws, Jungle, Main, Signal, Knives, Kitchen,  
   Ingot, Lovey, Mirror, Mold, Mile, Seen, Moat, Puppy, Wrapper, Radar, Rex,  
   Sugar,Teak, Silver, Park, Thin, Be, Truth, Carrot, Emily, Fruit, Copper, Silk  
-                            *\____________________________________/*  
-                                  *This is my favorite part!!!*  
+    *\____________________________________/*  
+    *This is my favorite part!!!*  
   
   *Chorus 2:*  
   

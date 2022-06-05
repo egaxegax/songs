@@ -1,6 +1,6 @@
 <!--2020-09-04 23:35:12-->
 Intro: Fm . . . |. . Eb . |Fm . . . |. . . . |  
-       Dbmaj7 . . . |. . Eb . |Fm . . . |. . . . |  
+    Dbmaj7 . . . |. . Eb . |Fm . . . |. . . . |  
   
 Fm  
 By the rivers dark  
@@ -18,11 +18,11 @@ In Babylon
   
 Ab             Bb6  
 By the rivers dark  
-                   Fm  
+    Fm  
 Where I could not see  
 Db                Eb  
 Who was waiting there  
-                 Fm  
+    Fm  
 Who was hunting me  
   
 And he cut my lip  
@@ -50,11 +50,11 @@ With a deadly force
 And he said, "This heart:  
 It is not yours"  
   
-        Db       Eb  
+    Db       Eb  
 And he gave the wind  
 Fm  
 My wedding ring  
-        Db     Eb/db  
+    Db     Eb/db  
 And he circled us  
      Bbm7  C  C7  
 With everything  
@@ -96,7 +96,7 @@ A6:       x02222
 D/c:      x3x232  
   
 Intro: Em . . . |. . D . |Em . . . |. . . . |  
-       Cmaj7 . . . |. . D . |Em . . . |. . . . |  
+    Cmaj7 . . . |. . D . |Em . . . |. . . . |  
   
 Em  
 By the rivers dark  
@@ -111,20 +111,20 @@ In Babylon
   
 G              A6  
 By the rivers dark  
-                   Em  
+    Em  
 Where I could not see  
 C                 D  
 Who was waiting there  
-                 Em  
+    Em  
 Who was hunting me  
   
 ...  
   
-        C        D  
+    C        D  
 And he gave the wind  
 Em  
 My wedding ring  
-        C      D/c  
+    C      D/c  
 And he circled us  
      Am7  B  B7  
 With everything  

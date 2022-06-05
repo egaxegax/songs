@@ -4,26 +4,26 @@ Secret Messages (1983)
   
   ***Gm       Fm              Eb***  
   A moving stream of information  
-          ***Dm              Cm  Dm***  
+    ***Dm              Cm  Dm***  
   That is floating on the wind  
-                     ***Cm  Dm***  
+    ***Cm  Dm***  
   The secrets never end  
   ***Gm            Fm***  
   And now they call,  
-                  ***Eb***  
+    ***Eb***  
   They sing, they play, they dance  
       ***Dm                   Cm   Dm***  
   For you, from out of the blue,  
-                  ***Cm Dm***  
+    ***Cm Dm***  
   What can you do?  
   
   ***G               Em         Hm          C***  
 Chorus:  the secret messages are calling to me endlessly  
-        ***Hm        C***  
+    ***Hm        C***  
   They call to me across the air  
   ***G       Em                Hm***  
   The messages across the atmosphere  
-       ***C               Hm             C        G***  
+    ***C               Hm             C        G***  
   They whisper in your ear, they're calling everywhere  
   
   Where words cascade like rainbows tumbling from the sky  

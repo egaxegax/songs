@@ -48,7 +48,7 @@
   *book is not quite accurate.*  
   
   *Chords used:*  
-           *EADGBe*  
+    *EADGBe*  
   ****A7sus4***  ([x02033]) (official book: ***Asus4*** ([x02230]))*  
   ****G***       ([3x0033])*  
   ****Em7***     ([022033]) (official book: ***Em*** ([022000]))*  
@@ -59,11 +59,11 @@ Intro:  ***A7sus4  G  A7sus4  G***
   
   ***A7sus4***  
 Verse 1: Here's a thought for every man who tries to understand  
-          ***G***  
+    ***G***  
   what is in his hands  (what's in his hands)  
      ***A7sus4***  
   He walks along the open road of love and life  
-                  ***G***  
+    ***G***  
   surviving if he can   (only if he can)  
   
   *(low "***E***" string: play G-note, then*  

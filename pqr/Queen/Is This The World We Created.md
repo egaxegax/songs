@@ -26,7 +26,7 @@
   
   
  Verse:  
-        Just look at all those ...            So many lonely faces...  
+    Just look at all those ...            So many lonely faces...  
  e|-----10-10-10-10-10-10-10--9-----9--7---|-----5--5--5--5-----5-------------  
  b|-----7--7--7--7--7--7--7---7--7-----5---|-----5--5--5--3--3-----3----------  
  g|*----7--7--7--7--7--7--7---7--------7--*|-----0--0--0------------------0---  
@@ -51,7 +51,7 @@
  E|----------------------------|--------2~~~----------------------------------  
   
  Comment: I basically only transcribed the first verse and chorus. I then  
-          assume the that the second verse and chorus are identical. BTW  
+    assume the that the second verse and chorus are identical. BTW  
    they`re not (but there`s not much difference).  
   
   

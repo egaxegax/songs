@@ -3,22 +3,22 @@ Being Tom Waits (2002), Игры в Тома Уэйтса (2005)
   More Than Rain  
   *(Tom Waits)*  
   
-                  ***Am                Dm***  
+    ***Am                Dm***  
   It's more than rain that falls on our parade tonight  
-                   ***E                       Am***  
+    ***E                       Am***  
   It's more than thunder, it's more than thunder  
-                                        ***Dm***  
+    ***Dm***  
   It's more than a bedroom and that's why i'm so good  
-                ***E                    Am***  
+    ***E                    Am***  
   It's no more dancing, it's just a sad time  
   
-       ***A7      Dm                      G***  
+    ***A7      Dm                      G***  
   None of our pockets are filled with gold  
-                ***C***  
+    ***C***  
   And nobody's caught the boquet  
-        ***A7                Dm               E***  
+    ***A7                Dm               E***  
   And there are no dead presidents we can fold  
-              ***Am           Dm                     E***  
+    ***Am           Dm                     E***  
   Nothing is going our way, nothing is going our way  
   
   It's more than a bad dream, and I've got myself into  

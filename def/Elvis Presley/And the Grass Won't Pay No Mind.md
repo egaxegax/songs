@@ -19,9 +19,9 @@ riff 1:                   ***G#***
   Come on to me,          Your hair's softly falling  
   ***C#    F#           G#***  
   On my face as in a dream  
-          ***F#               C#***  
+    ***F#               C#***  
   And the time will be our time  
-          ***F#                 C#***  
+    ***F#                 C#***  
   And the grass won't pay no mind  
   
   Saying nothing, lying where the sun is  
@@ -32,7 +32,7 @@ riff 1:                   ***G#***
   And the grass won't pay no mind  
   ***C#              F#***  
   Child, touch my soul with your cries  
-          ***G#                         C#***  
+    ***G#                         C#***  
   And the music will know what we've found  
   ***C#        F#***  
   I, hear a hundred good-byes  

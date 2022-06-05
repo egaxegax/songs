@@ -2,13 +2,13 @@
 "La Fossette"  
   Le Courage des Oiseaux  
   
-                    ***E            G***  
+    ***E            G***  
   Dieu que cette histoire finit mal  
-                 ***C       Am***  
+    ***C       Am***  
   On imagine jamais tres bien  
-                            ***E      G***  
+    ***E      G***  
   Qu'une histoire puisse finir si mal  
-              ***C              Am***  
+    ***C              Am***  
   Quand elle a commence si bien  
   On imagine pourtant tres bien  
   Voir un jour les raisons d'aimer  

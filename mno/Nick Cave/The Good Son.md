@@ -25,7 +25,7 @@ G
 One more man gone  
 one more man gone  
   
-         Am    [ C / D ]  
+    Am    [ C / D ]  
 one more man  
   
 G  

@@ -54,17 +54,17 @@ The Weight
   
   ***G             Bm            C                       G      C    G***  
   I pulled into Nazareth, was feelin' about half past dead;  
-         ***Bm                    C            G      C      G***  
+    ***Bm                    C            G      C      G***  
   I just need some place where I can lay my head.  
-                        ***Bm              C                G       C     G***  
+    ***Bm              C                G       C     G***  
   "Hey, mister, can you tell me where a man might find a bed?"  
-                      ***Bm                  C                G      C      G***  
+    ***Bm                  C                G      C      G***  
   He just grinned and shook my hand, and "No!", was all he said.  
   ------------------------------------------------  
   *(Chorus)*  
-         ***D       C      G      D         G***  
+    ***D       C      G      D         G***  
   Take a load off Fanny, take a load for free;  
-         ***D        C                                                    G***  
+    ***D        C                                                    G***  
   Take a load off Fanny, And (and) (and) you can put the load right on me.  
   ****G***(***F#***bass)       ***Em       Em7       C****  
   ------------------------------------------------  
@@ -72,35 +72,35 @@ The Weight
   I picked up my bag, I went lookin' for a place to hide;  
   ***G          Bm                   C               G      C      G***  
   When I saw Carmen and the Devil walkin' side by side.  
-                ***Bm           C                G      C      G***  
+    ***Bm           C                G      C      G***  
   I said, "Hey, Carmen, come on, let's go downtown."  
-             ***Bm                 C                 G       C       G***  
+    ***Bm                 C                 G       C       G***  
   She said, "I gotta go, but my friend can stick around."  
   *(Chorus)*  
-                ***Bm             C               G       C       G***  
+    ***Bm             C               G       C       G***  
   Go down, Miss Moses, there's nothin' you can say  
-                ***Bm               C                    G      C      G***  
+    ***Bm               C                    G      C      G***  
   It's just ol' Luke, and Luke's waitin' on Judgement Day.  
-                  ***Bm            C               G      C      G***  
+    ***Bm            C               G      C      G***  
   "Well, Luke, my friend, what about young Anna Lee?"  
-                    ***Bm                 C                      G        C      G***  
+    ***Bm                 C                      G        C      G***  
   He said, "Do me a favor, son, woncha stay and keep Anna Lee company?"  
   *(Chorus)*  
-                ***Bm                  C                G      C      G***  
+    ***Bm                  C                G      C      G***  
   Crazy Chester followed me, and he caught me in the fog.  
-                   ***Bm                C                    G      C      G***  
+    ***Bm                C                    G      C      G***  
   He said, "I will fix your rack, if you'll take Jack, my dog."  
-                          ***Bm                C              G      C      G***  
+    ***Bm                C              G      C      G***  
   I said, "Wait a minute, Chester, you know I'm a peaceful man."  
-            ***Bm                          C                 G      C      G***  
+    ***Bm                          C                 G      C      G***  
   He said, "That's okay, boy, won't you feed him when you can."  
   *(Chorus)*  
-          ***Bm                  C                G      C      G***  
+    ***Bm                  C                G      C      G***  
   Catch a cannon ball now, to take me down the line  
-            ***Bm                C               G      C      G***  
+    ***Bm                C               G      C      G***  
   My bag is sinkin' low and I do believe it's time.  
-                      ***Bm              C              G      C      G***  
+    ***Bm              C              G      C      G***  
   To get back to Miss Fanny, you know she's the only one.  
-              ***Bm              C              G      C      G***  
+    ***Bm              C              G      C      G***  
   Who sent me here with her regards for everyone.  
   *(Chorus)*

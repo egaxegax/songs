@@ -3,8 +3,8 @@
   Somebody Got Murdered  
   
   *Chords: It sounds like there are two guitars and they*  
-          *mix up the fingering from lower to higher. Here are*  
-          *the two positions where they alternate.*  
+    *mix up the fingering from lower to higher. Here are*  
+    *the two positions where they alternate.*  
     ***E     C#m    A    F#m    B***  
   [-4-0-----4----5-0----5-2---2------------------------  
   -5-0-----5----5-2----7-2---4------------------------  
@@ -14,7 +14,7 @@
   ---0----------5--------2----------------------]  
   
   *Intro: The song starts with a muffled barred ***E*** keeping beat*  
-         *with the snare. Then, the other guitar comes in with:*  
+    *with the snare. Then, the other guitar comes in with:*  
   *repeat*  
   [--7---5---4-----------5--4-----7--5--4------  
   --5-----------5-------5-----5-----------5---  
@@ -31,7 +31,7 @@
   *Verses:*  
   ***E                A   E***  
   Someone lights a cigarette  
-        ***A      E    F#m***  
+    ***A      E    F#m***  
   While riding in a car  
   ***E            A       E***  
   Some ol' guy takes a swig  
@@ -43,7 +43,7 @@
   No-one can remember  
   ***C#m          A***  
   Somebody got murdered  
-       ***B               E***  
+    ***B               E***  
   Goodbye, for keeps, forever  
   ***E        C#m       A***  
   Somebody       got murdered  

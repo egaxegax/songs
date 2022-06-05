@@ -22,7 +22,7 @@ Beneath your branch of holly
   
  B                 E      B  
 Fare thee well my nightingale  
-       B                F#  
+    B                F#  
 'Twas long ago I found you  
     B                  E  
 Now all your songs of beauty fail  

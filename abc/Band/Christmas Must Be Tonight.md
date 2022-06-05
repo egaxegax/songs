@@ -4,20 +4,20 @@
   
   ***G  Em  G  Em***  
   
-                      ***G                      Am***  
+    ***G                      Am***  
   Come down to the manger, see the little stranger  
     ***C                     D                     G***  
   Wrapped in swaddling clothes, the prince of peace  
-                  ***G                     Am***  
+    ***G                     Am***  
   Wheels start turning, torches start burning  
-           ***C              D              G***  
+    ***C              D              G***  
   And the old wise men journey from the East  
   
-          ***Em         D              C             G***  
+    ***Em         D              C             G***  
 CHORUS:  How a little baby boy bring the people so much joy  
-              ***Am***  
+    ***Am***  
   Son of a carpenter, Mary carried the light  
-                                ***D    G***  
+    ***D    G***  
   This must be Christmas, must be tonight  
   
   A shepherd on a hillside, while over my flock I bide  

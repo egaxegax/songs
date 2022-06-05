@@ -76,7 +76,7 @@
   I tell her why I'm cool  
   ***C     B***  
   She coos back just what I like  
-            ***Bb***  
+    ***Bb***  
   When I pretend she's near  
   
   *GUIT SOLO (tremolo pick all these notes)*  

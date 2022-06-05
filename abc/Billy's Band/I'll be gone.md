@@ -5,12 +5,12 @@
   
   ***Am***  
   Tonight I’ll shave the mountain  
-                             ***Dm***  
+    ***Dm***  
   I’ll cut the hearts from pharoahs  
   ***E***  
   I pull the road off of the rise  
   Tear the memories from my eyes  
-                              ***Am***  
+    ***Am***  
   And in the morning I’ll be gone  
   
   I drink 1000 shipwrecks  
@@ -19,7 +19,7 @@
   The birds will all fly from my head  
   And in the morning I’ll be gone  
   
-               ***A7           Dm***  
+    ***A7           Dm***  
   Take every dream that’s breathing  
   ***G                       C***  
   Find every boot that’s leaving  

@@ -8,7 +8,7 @@ I---------------------------I---------------------------I
 I---------------------------I---------------------------I  
   A         A-7       D         D/F  
 Picture yourself in a boat on a river  
-       A       A-7        D        D/F --->  G  
+    A       A-7        D        D/F --->  G  
 With tangerine trees and marmalade skies  
    A      A-7           D            D/F  
 Somebody calls you, you answer quite slowly  
@@ -17,7 +17,7 @@ A girl with kaleidiscope eyes
   
     Bb                      C                   F                  Bb  
    Cellophane  flowers  of  yellow and green    towering over your head  
-                            (slow bend)  
+    (slow bend)  
 eI-------------------------------------------I----------------------------I  
 bI-------------------------------------------I----------------------------I  
 gI--5^w-5^w-5^w-5^w-5^w-5^w---5^1/2--5^w-5^w-I-5^w-5^w-5^w-5^w-5^w-5^w-53I  
@@ -32,9 +32,9 @@ gI--5^w-5^w--5^w--5^w--5^w--5^w-5^w-5^w-5^w--5^w---5---4---I--2-----------I
   
 CHORUS:  
   
-        G           C        D          G           C        D  
+    G           C        D          G           C        D  
 Lucy in the Sky with Diamonds.  Lucy in the Sky with Diamonds  
-        G           C        D          D ---> A  
+    G           C        D          D ---> A  
 Lucy in the Sky with Diamonds.  Ahhhhhhhhhhhh.  
   
   

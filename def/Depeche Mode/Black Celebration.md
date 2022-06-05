@@ -3,41 +3,41 @@ Black Celebration - Black Celebration
   
 Intro:  ***Dm F Gm F Em***  
   
-               ***Dm                 F***  
+    ***Dm                 F***  
   Let's have a black celebration  
   ***Gm                 F***  
   Black Celebration  
   ***Em***  
   Tonight  
-         ***Dm***  
+    ***Dm***  
   To celebrate the fact  
-             ***F***  
+    ***F***  
   That we've seen the back  
       ***Gm           F    Em***  
   Of another black day  
   ***(Dm F Gm F Em)***  
     ***Dm***  
   I look to you  
-          ***F***  
+    ***F***  
   How you carry on  
-           ***Gm***  
+    ***Gm***  
   When all hope is gone  
-           ***F    Em***  
+    ***F    Em***  
   Can't you see  
-       ***Dm***  
+    ***Dm***  
   Your optimistic eyes  
-            ***F***  
+    ***F***  
   Seem like paradise  
      ***Gm***  
   To someone like  
   ***F    Em***  
   Me  
-            ***Bb***  
+    ***Bb***  
   I want to take you  
   In my arms  
      ***C                         Dm***  
   Forgetting all I couldn't do today  
-                   ***F***  
+    ***F***  
   Black Celebration  
   ***Gm               F***  
   Black Celebration  

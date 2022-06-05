@@ -21,7 +21,7 @@ Silent running
   ***Am D Am D Am D Am D***  
   ***D        Am     D       Am    D***  
   Tears of sorrow running deep  
-          ***Am     D     F#m***  
+    ***Am     D     F#m***  
   running silent in my sleep  
-          ***G                    Am***  
+    ***G                    Am***  
   running silent in my sleep.

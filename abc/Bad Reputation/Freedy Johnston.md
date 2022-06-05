@@ -7,28 +7,28 @@
   *(1st verse:)*  
    ***Em***  
   |-------:-------:-------:-------|-------:-------:-------:-------|  
-          I    know    I  got  a  bad     repu  - ta   -  tion  
+    I    know    I  got  a  bad     repu  - ta   -  tion  
    ***G***  
   |-------:-------:-------:-------|-------:-------:-------:-------|  
-          and it  isn't   just    talk,   talk,   talk.  
+    and it  isn't   just    talk,   talk,   talk.  
    ***Am                              C***  
   |-------:-------:-------:-------|-------:-------:-------:-------|  
-          If     I  could only    give    you     every - thing  
+    If     I  could only    give    you     every - thing  
    ***Em                              D               C***  
   |-------:-------:-------:-------|-------:-------:-------:-------|  
       you know  I haven't          got...  
    ***Em***  
   |-------:-------:-------:-------|-------:-------:-------:-------|  
-          I    couldn't   have    one     conver -sa   -  tion  
+    I    couldn't   have    one     conver -sa   -  tion  
    ***G***  
   |-------:-------:-------:-------|-------:-------:-------:-------|  
-          if it   wasn't  for the lies,   lies,   lies.  
+    if it   wasn't  for the lies,   lies,   lies.  
    ***Am                              C***  
   |-------:-------:-------:-------|-------:-------:-------:-------|  
-          And   still   I wanna   tell    you     every - thing  
+    And   still   I wanna   tell    you     every - thing  
    ****Em                              D***      (Refrain:)*  
   |-------:-------:-------:-------|-------:-------:-------:-------|  
-          `till I close  my        eyes.  Sudden -ly       I'm  
+    `till I close  my        eyes.  Sudden -ly       I'm  
    ***G               C               D7***  
   |-------:-------:-------:-------|-------:-------:-------:-------|  
   on     the     street,          seven   years   dis  -  ap  -  

@@ -36,7 +36,7 @@ I can't Stand it anymore
   I can't stand it anymore....      I CAN'T STAND IT ANYMORE!!!  
   *(***A***)                                       (***C#***)*  
   He was like a shadow a theif in the night he took away the only  
-                 *(***B***)           (***A***)*  
+    *(***B***)           (***A***)*  
   thing I wanted in my life!  It's kinda' my fault for not letting  
       *(***C#***)           (***B***)             (***A***)           (***D***)     (***C#***)*  
   her know the feelings that I have inside (and I) I can't stand  
@@ -44,7 +44,7 @@ I can't Stand it anymore
   it ! I can't stand it anymore! I can't stand it anymore!  
   *(***A***)                         (***C#***)           (***B***)*  
   Three days and weeks pass me by but my feelings for you never  
-                   *(***D***)        (***C#***)       (***B***)*  
+    *(***D***)        (***C#***)       (***B***)*  
   diminish or die! You called me a greedy and selfish guy! It  
   didn't matter to me because I had you by my side!  
   *(During solo, play ***A***, ***B***, ***C#***, ***D***, ***F#***, ***E***)*  

@@ -7,7 +7,7 @@ A|-------------------------------020------|
 E|-----------------------------------^3-0-|  
   
 Verse: There are a few slight variations of this riff  
-             But this will sound fine.  
+    But this will sound fine.  
   
 G|----------------------------------|  
 D|----------------------------------|  

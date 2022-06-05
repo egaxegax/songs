@@ -84,9 +84,9 @@ Chorus:
  You find me where the river flows  
   
   
-                   Am  
+    Am  
  Where the river flows  
-                   Am  
+    Am  
  Where the river flows  
-                   Am  
+    Am  
  Where the river flows

@@ -104,11 +104,11 @@ Bridge Deelie: E|------------------------------|--------------------|
   *(riff)*  
   ****Em*** (mute)*  
   Carry on  
-           ***D      C***  
+    ***D      C***  
   You will always remember  
   ****Em*** (mute)*  
   Carry on  
-          ***D          C***  
+    ***D          C***  
   Nothing equals the splendor  
   ***Am       G                F***  
   Now your life's no longer empty  

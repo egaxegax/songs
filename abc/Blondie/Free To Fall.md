@@ -7,13 +7,13 @@ Free To Fall
   If I could right the wrongs the past just wouldn't be  
   ***F#m         C#m             F#m       C#m***  
   How could I fall in love at zero gravity  
-         ***E              B***  
+    ***E              B***  
   And if I did make you love me  
-       ***C#m           A***  
+    ***C#m           A***  
   Will you make me belong  
-          ***E               B***  
+    ***E               B***  
   And I'm waiting for the time  
-           ***C#m             A***  
+    ***C#m             A***  
   Like the calm before the storm  
   
   ***E                 B       A***  
@@ -29,13 +29,13 @@ Chorus:  Oh no, you're not free to fall,
   This must be someone else 'Cause the part just isn't me  
   ***F#m         C#m                 F#m                  C#m***  
   Can this be happening 'Cause it sounds like lines to me  
-               ***E                   B***  
+    ***E                   B***  
   First you're sailing then you're swimming  
-              ***C#m                   A***  
+    ***C#m                   A***  
   Then you're sinking in the sea of love  
-            ***E               B***  
+    ***E               B***  
   Still you sparkle and you sizzle  
-           ***C#m              A***  
+    ***C#m              A***  
   'Cause a live wire always does.  
   
   *Chorus*  
@@ -50,13 +50,13 @@ Chorus:  Oh no, you're not free to fall,
 Solo:  ***F#m C#m F#m C#m***  
   ***F#m C#m F#m C#m***  
   
-         ***E                B***  
+    ***E                B***  
   And if I could make you love me  
   ***C#m           A***  
   What did I do wrong  
-          ***E        B***  
+    ***E        B***  
   And I'm waiting, waiting  
-           ***C#m             A***  
+    ***C#m             A***  
   Like the calm before the storm  
   
   *Chorus*  

@@ -1,16 +1,16 @@
 <!--2020-09-04 23:29:21-->
 B                            F#m  
 La la la, la la la, la la la la la la  
-                A                  E  B               E  
+    A                  E  B               E  
 La la la la la la, la la la la la la, la la la la la la  
   
-          E                   B  
+    E                   B  
 Now the flames they followed Joan of Arc  
-             A                  E  
+    A                  E  
 As she came riding through the dark  
     F#              B  
 No moon to keep her armour bright  
-        F#                          E                B        B7  
+    F#                          E                B        B7  
 And no man to get her through this dark, this very smoky night  
   
 She said, "I'm tired of the war  

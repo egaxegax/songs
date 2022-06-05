@@ -21,7 +21,7 @@
   You cheated and lied, as her love slowly died  
   And her heart just broke in two  
   Then for the bridge it changes:  
-          ***Fmaj7   G     Fmaj7      G***  
+    ***Fmaj7   G     Fmaj7      G***  
   When she was with        you,     all     along  
   ***Fmaj7    G    Fmaj7   G***  
   Behind you right or wrong  
@@ -30,15 +30,15 @@
       ***Fmaj7      G       Fmaj7   G***  
   But you went too far, and she's gone  
   *And the chorus is something like this:*  
-              ***Am            G***  
+    ***Am            G***  
   And now it's over and her heart turns to stone  
-             ***Am                G***  
+    ***Am                G***  
   No time for pity, when her heart turns to stone  
       ***Am                G***  
   She cries a little as her heart turns to stone  
-             ***Am***  
+    ***Am***  
   She's that kind of woman  
-                 ***G***  
+    ***G***  
   She'll do fine on her own  
   *Verse 2 - as verse 1:*  
   What you thought was a game  
@@ -61,9 +61,9 @@
   *The guitar solo follows the pattern again*  
   ****Am    G    Am    G***     once through*  
   *The final fadeout section is as the chorus:*  
-          ***Am***  
+    ***Am***  
   She hides the pain  
-              ***G***  
+    ***G***  
   But her heart turns to stone  
   *Etc . . .*  
   No time for pity  

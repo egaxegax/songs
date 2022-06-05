@@ -27,17 +27,17 @@
   I know all I need to know by the way that I got kissed  
   
   *Chorus*  
-        ***A             E***  
+    ***A             E***  
   I was Cryin' when I met you  
-          ***F#m          D           A***  
+    ***F#m          D           A***  
   now I'm tryin' to forget you  
-                 ***E          D***  
+    ***E          D***  
   (your) love is sweet misery  
-        ***A              E***  
+    ***A              E***  
   I was Cryin' just to get you  
-          ***C#m            D         A***  
+    ***C#m            D         A***  
   now I'm dyin' 'cause I let you  
-              ***E           D***  
+    ***E           D***  
   do what you do, down on me  
   
   *w/Intro*  
@@ -61,27 +61,27 @@
   *Intro*  
   
   *Bridge*  
-         ***D#             A#***  
+    ***D#             A#***  
   'cause what you got inside  
-        ***D#                     A#***  
+    ***D#                     A#***  
   ain't where your love should stay  
       ***G#                    D#***  
   yeah, our love, sweet love, ain't love  
-          ***E***  
+    ***E***  
   till ya give your heart away  
   
   *Alt. Chorus*  
-        ***A             E***  
+    ***A             E***  
   I was Cryin' when I met you  
-          ***C#m          D           A***  
+    ***C#m          D           A***  
   now I'm tryin' to forget you  
-               ***E          D***  
+    ***E          D***  
   your love is sweet misery  
-        ***A              E***  
+    ***A              E***  
   I was Cryin' just to get you  
-          ***F#m(tacet)    D         A***  
+    ***F#m(tacet)    D         A***  
   now I'm dy_____in' to let you  
-              ***E          D***  
+    ***E          D***  
   do what you do down to me, baby, baby,....  
   
   *Solo*  

@@ -1,11 +1,11 @@
 <!--2020-09-05 01:15:33-->
 C             G  
  No more champagne  
-          Am              Em  
+    Am              Em  
  And the fireworks are through  
-         F            C  
+    F            C  
  Here we are, me and you  
-          Dm                G  
+    Dm                G  
  Feeling lost and feeling blue  
   
  It's the end of the party  
@@ -14,17 +14,17 @@ C             G
  Now's the time for us to say...  
   
 Chorus:  
-           C               Am  
+    C               Am  
 Happy new year, Happy new year  
-            Em     F              Dm  
+    Em     F              Dm  
 May we all have a vision now and then  
-                        C               G  
+    C               G  
 Of a world where every neighbour is a friend  
-           C               Am  
+    C               Am  
 Happy new year, Happy new year  
-            Em       F                  Dm  
+    Em       F                  Dm  
 May we all have our hopes, our will to try  
-                         C                 G  
+    C                 G  
 If we don't we might as well lay down and die  
 F  G    C  
 You and I  
@@ -39,7 +39,7 @@ Oh yes, man is a fool
 And he thinks he'll be okay  
 Dragging on, feet of clay  
 Never knowing he's astray  
-          F        G  
+    F        G  
 Keeps on going anyway...  
   
 Chorus  
@@ -53,7 +53,7 @@ It's the end of a decade
 In another ten years time  
 Who can say what we'll find  
 What lies waiting down the line  
-       F              G  
+    F              G  
 In the end of eighty-nine...  
   
 Chorus

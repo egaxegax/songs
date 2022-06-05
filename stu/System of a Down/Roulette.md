@@ -36,7 +36,7 @@ Roulette
 -  
   
   *Main line*  
-           ***C            G          A#        C#                  G#        A#***  
+    ***C            G          A#        C#                  G#        A#***  
   [e-----------------------------------------------------------------------------  
   B-----------------------------------------------------------------------------  
   G-----9-----9---------4---------7---------10--------10---------5---------7-----  
@@ -45,12 +45,12 @@ Roulette
   E--8----8-8---8h3--3----3h6--6----6h9--9-----9--9-----9h4--4----4h6--6-----6---]  
   ***C          G          A#           C#***  
   I have a problem but I can not explain  
-              ***G#          A#               C***  
+    ***G#          A#               C***  
   I have no reason why it should of been so plain  
   I have no questions but I should have excused  
   I like the reason why it should be so confused  
   C этoгo мecтa игpaeтcя нeмнoгo пo дpyгoмy.  
-           ***C                 G                A#                C#             G#***  
+    ***C                 G                A#                C#             G#***  
   [e-----------------------------------------------------------------------------------  
   B-----------------------------------------------------------------------------------  
   G-----9-----9---------4------4----------7-------7--------10-------10---------5------  
@@ -74,9 +74,9 @@ Roulette
   I         don't know how I feel when I'm around you  
   I       I know how I feel when I'm around you  
   I         don't know how I feel when I'm around you  
-          ...around you  
-          ...around you  
-          ...around you  
+    ...around you  
+    ...around you  
+    ...around you  
   
 -  
   

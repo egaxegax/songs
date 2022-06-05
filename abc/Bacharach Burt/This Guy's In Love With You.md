@@ -33,7 +33,7 @@ This Guy's In Love With You
   I need your love,             I want your love  
   ***Cma7       Bm7     Am7           D7        G       Gmaj7    G7***  
   Say you're in      love, in love with this guy     |  |  |  |  
-                   ***C***  
+    ***C***  
   If not I'll just die  
   ***Cma7    Fmaj7        Bbmaj7    Cma7    Fmaj7    E7sus4  E7  Am7***  
   ***Gm7          C9               Fmaj7         Bb9***  
@@ -44,7 +44,7 @@ This Guy's In Love With You
   I need your love,             I want your love  
   ***Cma7       Bm7     Am7           D7        G       Gmaj7    G7***  
   Say you're in      love, in love with this guy     |  |  |  |  
-                   ***C***  
+    ***C***  
   If not I'll just die  
   ***Cma7        Fma7            Bbma7      Cma7***  
   Transcribed and submitted by Mark Zimmerman

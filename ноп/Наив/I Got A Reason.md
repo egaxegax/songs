@@ -5,11 +5,11 @@
   
   ***A                  F#m      E       A***  
   Anarchy is a crime if it is out of dirt  
-                                       ***F#m     E***  
+    ***F#m     E***  
   But this worst crime was sanctified by some balding quirk  
    ***D            E         F#m                D***  
   Too many generations strived for the anarchy  
-                                           ***E***  
+    ***E***  
   But their habitation looks like a mortuary  
   
   Now I'm one of the happiest scum in the history  
@@ -17,11 +17,11 @@
   People in grey suits did it all for me!  
   No matter if my anarchy comes from misery  
   
-           ***A                                         F#m***  
+    ***A                                         F#m***  
   I GOT A REASON I GOT A REASON I GOT A REASON - to live!  
-         ***A                                     E***  
+    ***A                                     E***  
   GOT A REASON GOT A REASON GOT A REASON - to give!  
-         ***A                                     F#m***  
+    ***A                                     F#m***  
   GOT A REASON GOT A REASON GOT A REASON - to booze!  
      ***D                       E***  
   Because that is - that's what I chooze!  
@@ -48,7 +48,7 @@
   
    ***D              E   F#m              D***  
   People in grey suits did it all for me!  
-                                          ***E***  
+    ***E***  
   No matter if my anarchy comes from misery  
   
   I got a reason got a reason got a reason to think  

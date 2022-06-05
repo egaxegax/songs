@@ -6,11 +6,11 @@ Change II
   *INTRO: (play twice, second time with drums)*  
   ***G   G   C C G    D    D    Em Em C C***  
   *VERSE 1:*  
-                                                          ***G   G   C C G***  
+    ***G   G   C C G***  
   It's been a long time coming and it's good to be back  
-                                                          ***G   G   C C G***  
+    ***G   G   C C G***  
   Been in a head on collision with a medicine man  
-            ***D***  
+    ***D***  
   I've been down in the alley where the odds are stacked  
   ***Em    C***  
   Down on my knees, had to turn back  
@@ -46,5 +46,5 @@ Change II
   ***A       E F#m       D          A     E    F#m    D***  
   Change, Change, I need a change, Oh Lord  
   *(song ends:)*  
-         ***A  A***  
+    ***A  A***  
   It's been a long time coming and it's good to be back

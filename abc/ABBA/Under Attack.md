@@ -2,7 +2,7 @@
 INTRO:   B7sus4  
   
 bass riff:   A-----0--2------0--2---------0-2-------  
-             E---2---------2---------2--2------------  
+    E---2---------2---------2--2------------  
   
   
 (VERSE) (B7sus4) Don't know how to take it, don't know where to (B7) go  

@@ -10,11 +10,11 @@ Verse 1: Girl, it's been a long, long time comin'
   But I, I know that it's been worth the wait  
   ***Gm            C             Gm***  
   It feels like springtime in Winter  
-                ***C            Am***  
+    ***C            Am***  
   It feels like Christmas in June  
-                ***Dm         Gm***  
+    ***Dm         Gm***  
   It feels like heaven has opened up  
-       ***Am               C***  
+    ***Am               C***  
   It's gates for me and you  
   
       ***F           C***  
@@ -27,24 +27,24 @@ Chorus:  And everytime I close my eyes
   And everytime I think of it  
     ***Dm                  Am***  
   I pinch myself 'cause  
-             ***Bb***  
+    ***Bb***  
   I don't believe it's true  
-       ***C***  
+    ***C***  
   That someone like you  
-           ***F    Bb    F     Bb***  
+    ***F    Bb    F     Bb***  
   Loves me too  
   
   ***F                  Bb           F         Bb***  
 Verse 2: Girl, I think that you're truly somethin'  
       ***F                    Bb                  F    Bb***  
   And you're, you're every bit of a dream come true  
-       ***Gm                 C***  
+    ***Gm                 C***  
   With you baby, it never rains  
-              ***Gm***  
+    ***Gm***  
   And it's no wonder  
-                 ***C                    Am***  
+    ***C                    Am***  
   The sun always shines when I'm near you  
-              ***Dm             Gm***  
+    ***Dm             Gm***  
   It's just a blessing that I have found  
       ***Am        C***  
   Somebody like you  
@@ -59,23 +59,23 @@ Chorus:  And everytime I close my eyes
   And everytime I think of it  
     ***Dm                  Am***  
   I pinch myself 'cause  
-             ***Bb***  
+    ***Bb***  
   I don't believe it's true  
-       ***C***  
+    ***C***  
   That someone like you  
-           ***Dm***  
+    ***Dm***  
   Loves me too  
   
      ***Em7***  
 Bridge:  To think of all the nights  
-                       ***F***  
+    ***F***  
   I've cried myself to sleep  
       ***Gm***  
   You really oughta know  
-                       ***Bb***  
+    ***Bb***  
   How much you mean to me  
   It's only right that you be  
-                             ***C***  
+    ***C***  
   In my life right here with me  
   Oh baby,baby  
   
@@ -93,11 +93,11 @@ Chorus:  And everytime I close my eyes
   And everytime I think of it  
     ***Dm                  Am***  
   I pinch myself 'cause  
-             ***Bb***  
+    ***Bb***  
   I don't believe it's true  
-       ***C***  
+    ***C***  
   That someone like you  
-           ***F***  
+    ***F***  
   Loves me too  
   
   *( ***F  Bb*** ) repeat till the end of song*

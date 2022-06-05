@@ -3,7 +3,7 @@
   Hit The Lights  
   
   *Here's the main riff.*  
-                   *Repeat a whole bunch of times*  
+    *Repeat a whole bunch of times*  
   ||---------------------|---------------------||  
   ||---------------------|---------------------||  
   ||*--------5--7--5--7--|--------------------*||  

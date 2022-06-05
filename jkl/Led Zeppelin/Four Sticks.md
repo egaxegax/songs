@@ -61,7 +61,7 @@ Lyrics:  Oh, baby, it's crying time           
   Oh, baby, when the pines begin to cry  
   Baby, baby, how do you feel?  
   If the rivers run dry, baby, how would you feel?  
-                                                     (Riff 1)  
+    (Riff 1)  
   Craze, baby, rainbow's end  
   Oh, baby, it's just a den for those who hide  
   Who hide their love to the depths of life  
@@ -71,10 +71,10 @@ Lyrics:  Oh, baby, it's crying time           
   Baby, baby, how do you feel?  
   If the rivers run dry, baby, how would you feel?  
   Ah, baby how do you feel  
-                                                     (Riff 3)  
+    (Riff 3)  
   Oh, brave I endure                                 (Riff 1)  
   Ooh, yeah, strong sheilds of love  
   They can hold the wrath of those who walk  
   And the boots of those who march  
   Baby, through the Roads of Time so long ago        (Riff 1)  
-                                                     Fade out
+    Fade out

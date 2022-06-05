@@ -13,33 +13,33 @@
   
   ***Bb         F***  
 Verse:  Out of the blue,  
-         ***Bb         F***  
+    ***Bb         F***  
   On the wings of a dove,  
     ***Bb        F***  
   A messenger comes,  
-                      ***C***  
+    ***C***  
   with the beating of drums,  
-                        ***Bb***  
+    ***Bb***  
   it's not a message of love  
       ***Bb           F***  
   Our children are born,  
       ***Bb           F***  
   and we keep them warm,  
-       ***Bb            F***  
+    ***Bb            F***  
   they must have the right  
-                 ***C***  
+    ***C***  
   to live in the light,  
-                      ***Bb***  
+    ***Bb***  
   to be safe from the storm.  
       ***Bb         F***  
   And out of the blue,  
-       ***Bb           F***  
+    ***Bb           F***  
   with wings on his heels,  
     ***Bb        F***  
   a messenger comes,  
-          ***C***  
+    ***C***  
   bearing regrets  
-                       ***Bb***  
+    ***Bb***  
   for the time that he steals.  
       ***Bb          F***  
   But steal it he will,  
@@ -47,21 +47,21 @@ Verse:  Out of the blue,
   my children's and mine,  
   ***Bb          F***  
   against our desires,  
-                  ***C***  
+    ***C***  
   against all our needs,  
-                         ***Bb***  
+    ***Bb***  
   our blood spilled like wine.  
   
   ***Dm***  
   ***Dm       C       Bb***  
 Chorus:  Over and over we call,  
-         ***Dm***  
+    ***Dm***  
   No one hears... and further  
       ***C           Bb         F***  
   and further and further we fall...  
-            ***Dm           C              Bb***  
+    ***Dm           C              Bb***  
   Though we brave it, we soon will have wait  
-        ***Dm                          C***  
+    ***Dm                          C***  
   It is clear that it's no dream at all,  
       ***Bb           F***  
   our lives are at stake.  
@@ -71,20 +71,20 @@ Chorus:  Over and over we call,
 Verse:  I cannot believe...  
       ***Bb   F***  
   nor even pretend...  
-           ***Bb        F***  
+    ***Bb        F***  
   that the thunder I hear,  
-            ***C***  
+    ***C***  
   will just disappear,  
-                         ***Bb***  
+    ***Bb***  
   and the nightmare will end.  
      ***Bb            F***  
   So hold back the fire,  
-          ***Bb           F***  
+    ***Bb           F***  
   because this much is true,  
-       ***Bb             F***  
+    ***Bb             F***  
   when all's said and done,  
-                   ***C***  
+    ***C***  
   then ending will come,  
-                  ***Bb***  
+    ***Bb***  
   from out of the blue.  
   ***F Bb F C***

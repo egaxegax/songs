@@ -22,7 +22,7 @@ Feels Like the First Time
   *h=hammer on  o=pull off    =Slide down  /=Slide up*  
   
   *Intro:*  
-               *V--Bass & Drums come in here*  
+    *V--Bass & Drums come in here*  
   [E-------------------------------------------------------|  
   B------------55--5-5-53--3----3-3--3--3---3-3-3----5---|  
   G------------66--6-6-64--4----2-2--2--2---2-2-2----6---|  

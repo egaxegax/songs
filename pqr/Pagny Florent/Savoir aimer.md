@@ -12,11 +12,11 @@ Savoir aimer
   Ni regard ni grand Amour,  
   ***D B/D#***  
   Pas mкme l'espoir d'кtre aimer...  
-          ***Em (Em7)    C***  
+    ***Em (Em7)    C***  
   Mais savoir donner,  
   ***D Am7***  
   Donner sans reprendre, Ne rien faire qu'apprendre,  
-          ***Em (Em7)  C***  
+    ***Em (Em7)  C***  
   Apprendre a aimer...  
   ***D***  
   Aimer sans attendre,  
@@ -57,7 +57,7 @@ Savoir aimer
   Apprendre a Aimer, A rкver pour 2,  
   ***Am7***  
   Rien qu'en fermant les yeux  
-       ***Em***  
+    ***Em***  
   Et savoir donner  
   ***D Am7***  
   Donner sans ratures, ni demies mesures  
@@ -67,5 +67,5 @@ Savoir aimer
   Vouloir jusqu'au bout, rester malgrй tout  
   ***Em (Em7) C    D Am7***  
   Apprendre a aimer Et s'en aller  
-          ***Em C D Am7  Em***  
+    ***Em C D Am7  Em***  
   Et s'en aller    Et s'en aller...

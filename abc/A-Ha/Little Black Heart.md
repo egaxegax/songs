@@ -4,49 +4,49 @@ Little Black Heart (4:33)
   
   ****Bm**** - [024400]*  
   
-               ***Em     Bm*-C***  
+    ***Em     Bm*-C***  
   I never saw sunlight  
-           ***Em   Bm*-C***  
+    ***Em   Bm*-C***  
   Burn as bright  
-               ***Em      Bm*-C***  
+    ***Em      Bm*-C***  
   I never felt darkness  
-                     ***Em     C***  
+    ***Em     C***  
   The way I feel it tonight  
-                       ***G     C***  
+    ***G     C***  
   You say it's getting better  
-               ***G       C***  
+    ***G       C***  
   You say it's allright  
-                    ***Em    Bm****  
+    ***Em    Bm****  
   But I never felt darkness  
-                 ***C     D***  
+    ***C     D***  
   Like I feel it tonight  
-                ***Em***  
+    ***Em***  
   Little black heart  
-                  ***Em     Bm*-C***  
+    ***Em     Bm*-C***  
   Raindrops on my window  
-                    ***Em     Bm*-C***  
+    ***Em     Bm*-C***  
   I can't tell them apart  
-                      ***Em     Bm*-C***  
+    ***Em     Bm*-C***  
   Like the few things forgiven  
-               ***Em     Bm*-C***  
+    ***Em     Bm*-C***  
   In my little black heart  
-                       ***G     C***  
+    ***G     C***  
   You say it's getting better  
-                       ***G    C***  
+    ***G    C***  
   We just never got it right  
-                   ***Em     Bm****  
+    ***Em     Bm****  
   But I never felt darkness  
-                    ***C     D***  
+    ***C     D***  
   The way I feel it tonight  
-               ***Em***  
+    ***Em***  
   Little black heart  
   ***D                D/F#m***  
   Some day we will shine  
-           ***Bm          E***  
+    ***Bm          E***  
   Like the moon in the morning  
-           ***Dm            G***  
+    ***Dm            G***  
   Like the sun when it's dawning  
-          ***Dm            G***  
+    ***Dm            G***  
   Yes the sun when it's dawning  
      ***Dm G D***  
   The sun  

@@ -14,11 +14,11 @@ VERSE 1:
  E  
 You`re the kind of person you meet  
 At certain dismal dull affairs.  
-       A  
+    A  
 Center of a crowd, talking much too loud  
-        E  
+    E  
 Running up and down the stairs.  
-         A  
+    A  
 Well it seems to me that you have seen  
 Too much in too few years.  
       E  
@@ -26,22 +26,22 @@ And though you`ve tried you just can`t hide
 Your eyes are edged with tears.  
   
 CHORUS:  
-             B Esus4 Esus4 E ; B Esus4 Esus4 E  
+    B Esus4 Esus4 E ; B Esus4 Esus4 E  
 You better stop,  
   
-                    (RIFF 2)  
-                E|--------------|  *NOTE: strike the note on  
-       A        B|--------------|         the 5th fret first,  
+    (RIFF 2)  
+    E|--------------|  *NOTE: strike the note on  
+    A        B|--------------|         the 5th fret first,  
 Look around,    G|---------7--5-|         then place finger  
-                D|--*5--7-------|         on the 7th fret  
-                A|--------------|         without striking.  
-                E|--------------|  
+    D|--*5--7-------|         on the 7th fret  
+    A|--------------|         without striking.  
+    E|--------------|  
   
-          E  
+    E  
 Here it comes, here it comes,  
-          A  
+    A  
 Here it comes, here it comes.  
-       E  
+    E  
 Here comes your nine-teenth nervous breakdown.  
   
 VERSE 2:  
@@ -61,7 +61,7 @@ BREAK:
   
 B                         E  
 Oh, who`s to blame, that girl`s just insane.  
-       A  
+    A  
 Well nothing I do don`t seem to work,  
     B  
 It only seems to make matters worse.  
@@ -84,7 +84,7 @@ CHORUS:
   
 FIRST GUITAR: start with (RIFF 3) -- 3x`s  
   
-              (RIFF 3)  
+    (RIFF 3)  
 E|--------------------------------|  
 B|--------------------------------|  
 G|--------------------------------|  
@@ -93,7 +93,7 @@ A|---------9----------------9-----|
 E|---7------------7------7--------|  
   
 2nd GUITAR: start INTRO (RIFF 1) last 2 times of FIRST GUITAR  
-              playing (RIFF 3).  
+    playing (RIFF 3).  
   
 BREAK:  
   
@@ -101,14 +101,14 @@ VERSE 2:
   
 OUTRO CHORUS:  
   
-             B     Esus4  Esus4  E ;  B  Esus4  Esus4  E  
+    B     Esus4  Esus4  E ;  B  Esus4  Esus4  E  
 You better stop,  
   
-       A      play (RIFF 2) once then (RIFF 3) -- 2x`s  
+    A      play (RIFF 2) once then (RIFF 3) -- 2x`s  
 Look around,  
-          A  
+    A  
 Here it comes.  
-       E  
+    E  
 Here comes your nine-teenth nervous breakdown  
   
 *Here comes your nine-teenth nervous breakdown.  

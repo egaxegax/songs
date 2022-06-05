@@ -15,7 +15,7 @@ Take A Giant Step
   It's time you felt like you did then  
   ***G                   F             G             F***  
   There's just no per-centage in re-membering the past  
-       ***G                   F             Em***  
+    ***G                   F             Em***  
   It's time you learned to live again at last  
   ***G         Am7       G      Am7    G   Am7 G***  
   Come with me, leave yester-day be-hind  
@@ -35,7 +35,7 @@ Take A Giant Step
   That's not where you be-long  
   ***G                   F                 G                F***  
   Come with me, I'll take you where the taste of life is green  
-       ***G              F             Em***  
+    ***G              F             Em***  
   And every day holds wonders to be seen  
   ***G         Am7       G      Am7    G   Am7 G***  
   Come with me, leave yesterday behind  

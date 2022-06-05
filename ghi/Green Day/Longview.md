@@ -8,9 +8,9 @@
   |------|----------7---5---4----|---------5--4----------|          |  
   |------|--3H5------------------|--5H3-------------3----|     Listen to the  
   +------+-----------------------+-----------------------+     recording to  
-                                                               get the exact  
-                                                               number of times  
-                                                               these two lines  
+    get the exact  
+    number of times  
+    these two lines  
      e e   q   q   q         e e   q   q   q                   are played.  
   +----------------------+---6/7---5---4---5-----+-------+          |  
   |--------7---5---4-----|-----------------------|-*--*--|          |  
@@ -29,7 +29,7 @@
   +-----7---4H5H7----+--5--4-------------+--------+]  
   *[|------------------|----------7----5---|--*--*--|]   = BEND*  
     *[\______/]      [H] = HAMMER ON   [\]  = SLIDE TO FRET     [R] = Rest*  
-                  *[P] = PULL OFF    [\X] = SLIDE TO NOWHERE  [~] = Trill*  
+    *[P] = PULL OFF    [\X] = SLIDE TO NOWHERE  [~] = Trill*  
   
 -  
   
@@ -44,11 +44,11 @@
   
   ***H5  A5       E5         H5***  
   Bite my lips and close my eyes  
-                    ***A5     E5    H5***  
+    ***A5     E5    H5***  
   take me away to paradise  
-                          ***A5         E5        H5***  
+    ***A5         E5        H5***  
   i'm so damn bored i'm going blind  
-                                     ***A5***  
+    ***A5***  
   and i smell like shit  
   ***E5       D5***  
   I got no motivation

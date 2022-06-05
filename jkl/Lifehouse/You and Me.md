@@ -4,7 +4,7 @@ You and Me
   *Tuning: standard*  
   
   *Chord voicings used:*  
-       ***C       G      G/F#    Em      D(sus)  C/D     Cm***  
+    ***C       G      G/F#    Em      D(sus)  C/D     Cm***  
   [E----3-------3-------3-------3-------2(3)----3-------3-----|  
   B----3-------3-------3-------3-------3-------3-------3-----|  
   G----0-------0-------0-------0-------2-------0-------0-----|  
@@ -22,27 +22,27 @@ Intro:  ***G // C // G/F# // G/B // Em // D // C***
 Verse 1: What day is it?  
   ***G/F#       G/B***  
   And in what month  
-       ***Em          D         C***  
+    ***Em          D         C***  
   This clock never seemed so alive.  
   ***G            C***  
   I can't keep up  
      ***G/F#         G/B***  
   And I can't back down  
-             ***Em   D***  
+    ***Em   D***  
   I've been losing  
-          ***C***  
+    ***C***  
   So much time.  
   
-              ***G       C***  
+    ***G       C***  
 Chorus 1: Cause' it's you and me,  
       ***G/B***  
   And all other people  
-       ***C          G***  
+    ***C          G***  
   With nothing to do,  
   ***C          D***  
   Nothing to lose,  
   
-              ***G       C***  
+    ***G       C***  
   Cause' it's you and me,  
       ***G/B***  
   And all other people,  
@@ -59,21 +59,21 @@ Verse 2: What other things
   Just aren't coming out right.  
      ***G            C***  
   I'm tripping on words,  
-        ***G/F#         G/B***  
+    ***G/F#         G/B***  
   You've got my head spinning  
     ***Em          D          C***  
   I don't where to go from here.  
   
-              ***G       C***  
+    ***G       C***  
 Chorus 2: Cause' it's you and me,  
       ***G/B***  
   And all other people  
-        ***C         G***  
+    ***C         G***  
   With nothing to do,  
-       ***C         D***  
+    ***C         D***  
   And nothing to prove  
   
-           ***G       C***  
+    ***G       C***  
   And it's you and me,  
      ***G/B***  
   And all other people,  
@@ -91,16 +91,16 @@ Bridge:  Something about you now,
   ***Em                     C   C/D   Cm  C/D***  
   Everything she does is right.  
   
-              ***G       C***  
+    ***G       C***  
 Chorus 3: Cause' it's you and me,  
       ***G/B***  
   And all other people  
-       ***C          G***  
+    ***C          G***  
   With nothing to do,  
   ***C          D***  
   Nothing to lose,  
   
-           ***G       C***  
+    ***G       C***  
   And it's you and me,  
       ***G/B***  
   And all other people,  
@@ -113,12 +113,12 @@ Chorus 3: Cause' it's you and me,
   and me,  
       ***G/B***  
   And all other people  
-        ***C         G***  
+    ***C         G***  
   With nothing to do,  
-       ***C         D***  
+    ***C         D***  
   And nothing to prove  
   
-           ***G       C***  
+    ***G       C***  
   And it's you and me,  
      ***G/B***  
   And all other people,  
@@ -131,7 +131,7 @@ Chorus 3: Cause' it's you and me,
 Last verse: What day is it?  
   ***G/F#       G/B***  
   And in what month  
-       ***Em          D         C***  
+    ***Em          D         C***  
   This clock never seemed so alive.  
   
 -  
@@ -159,7 +159,7 @@ Last verse: What day is it?
   *mute the bass E note, however it should still sound okay even if its not muted.*  
   
   *Intro and Verse:*  
-       ***G       C2     G/F#    G/B     Em7     Dsus     C2***  
+    ***G       C2     G/F#    G/B     Em7     Dsus     C2***  
   [E----3-------3-------3-------3-------3-------3-------3-----3---|  
   B----3-------3-------3-------3-------3-------3-------3-----3---|  
   G----0-------0-------0-------0-------0-------2-------0-----0---|  
@@ -167,7 +167,7 @@ Last verse: What day is it?
   A----x-------3-------X-------2-------2-------0-------3-----3---|  
   E----3-------x-------2-------x-------0-------2-------X-----x---|  
   
-       ***G          C2       G/F#       G/B***  
+    ***G          C2       G/F#       G/B***  
   E----3-----------3-------3-----------3-------|  
   B----3-----------3-------3-----------3-------|  
   G----0-----------0-------0-----------0-------|  
@@ -176,7 +176,7 @@ Last verse: What day is it?
   E----3-----------X-------2-----------0-------|]  
       What day is it?     And in what month  
   
-           ***Em7         Dsus      C2***  
+    ***Em7         Dsus      C2***  
   [E---------3-----------3--------3-------3--|  
   B---------3-----------3--------3-------3--|  
   G---------0-----------2--------0-------0--|  
@@ -192,7 +192,7 @@ Last verse: What day is it?
   *(a lot of tabbers are missing the note between ***G*** and ***C2***, but if you use a bass, you can*  
   *a missing note)*  
   
-              ***G      Asus     C2***  
+    ***G      Asus     C2***  
   [E-----------3-------3-------3------------|  
   B-----------3-------3-------3------------|  
   G-----------0-------0-------0------------|  
@@ -201,7 +201,7 @@ Last verse: What day is it?
   E-----------3-------X-------X------------|]  
   Cause it's you and me and all other people  
   
-           ***Em7        G    Em7      Dsus***  
+    ***Em7        G    Em7      Dsus***  
   [E--------3----------3-----3--------3-------|  
   B--------3----------3-----3--------3-------|  
   G--------0----------0-----0--------2-------|  
@@ -210,7 +210,7 @@ Last verse: What day is it?
   E--------0----------3-----0--------2-------|]  
      With nothing to do, nothing to lose  
   
-              ***G      Asus     C2***  
+    ***G      Asus     C2***  
   [E-----------3-------3-------3----------------|  
   B-----------3-------3-------3----------------|  
   G-----------0-------0-------0----------------|  
@@ -219,20 +219,20 @@ Last verse: What day is it?
   E-----------3-------X-------0----------------|]  
   Cause it's you and me and all other people  
   
-           ***Em7          G      Em7             Dsus        C2***  
+    ***Em7          G      Em7             Dsus        C2***  
   [E--------3------------3------3----------------3----------3------|  
   B--------3------------3------3----------------3----------3------|  
   G--------0------------0------0----------------2----------0------|  
   D--------2------------0------2----------------0----------x------|  
   A--------2------------x------2----------------0----------3------|  
   E--------0------------3------0----------------2----------x------|]  
-       And I don't know why,   I can't keep my eyes off of you.  
+    And I don't know why,   I can't keep my eyes off of you.  
   
   **NOTE: When you play the chorus for the last time before the bridge, play a ***G*** instead of*  
   *last ***C2****  
   
   *Bridge*  
-       ***Bm        C             G       D2           Em7***  
+    ***Bm        C             G       D2           Em7***  
   [E----2---------0-------------3-------0------------3-----------|  
   B----3---------1-------------3-------3------------3-----------|  
   G----4---------0-------------0-------2------------0-----------|  
@@ -245,7 +245,7 @@ Last verse: What day is it?
   *nonetheless. There is a final A bass note at the end of the riff, but it happens at the*  
   *time as the ***Am****  
   
-       ***Am                    D2***  
+    ***Am                    D2***  
   [E----0---------------------0----------------|  
   B----1---------------------3----------------|  
   G----2---------------------2----------------|  
@@ -254,7 +254,7 @@ Last verse: What day is it?
   E----0---------------------0----------------|]  
   Everything she does is beautiful  
   
-       ***Bm                    Cm***  
+    ***Bm                    Cm***  
   [E----2---------------------3-------|  
   B----3---------------------4-------|  
   G----4---------------------5-------|  

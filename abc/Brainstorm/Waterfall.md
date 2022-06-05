@@ -12,9 +12,9 @@ E|------------------------------------------|
 ..water runs still..  
 ..the river goes up the hill, up the hill..  
   
-           C           D                 F          F7   Fm  
+    C           D                 F          F7   Fm  
 Sometimes I feel like a waterfall, like a waterfall  
-           C           D                 F          F7   Fm  
+    C           D                 F          F7   Fm  
 Sometimes I feel like a waterfall, like a waterfall  
   
  C                                 Dsus2  
@@ -22,9 +22,9 @@ Time stops for a while and water runs still
  C                               Dsus2  
 No more rush, the river goes up the hill  
   
-           C           D                 F          F7   Fm  
+    C           D                 F          F7   Fm  
 Sometimes I feel like a waterfall, like a waterfall  
-           C           D                 F          F7   Fm  
+    C           D                 F          F7   Fm  
 Sometimes I feel like a waterfall, like a waterfall  
   
  C   D  
@@ -35,9 +35,9 @@ Eternal flow, this miracle gives me wings
  C                                          Dsus2  
 And no one can stop me, time's just playing my strings  
   
-           C           D                 F          F7   Fm  
+    C           D                 F          F7   Fm  
 Sometimes I feel like a waterfall, like a waterfall  
-           C           D                 F          F7   Fm  
+    C           D                 F          F7   Fm  
 Sometimes I feel like a waterfall, like a waterfall  
   
  C   D  
@@ -53,7 +53,7 @@ Who always will ask why
 always will ask why  
   F    F7        G  
 We look up to the sky  
-       C  
+    C  
 To fly  
   
 repeat  

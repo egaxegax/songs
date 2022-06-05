@@ -24,25 +24,25 @@
   ***A   F#m     D     E***  
   ***A                    F#m                                        D***  
   Liza's had enough of men         She says, she won't get burned again  
-                                   ***E                               A***  
+    ***E                               A***  
   She says, they don't know how to fuck   Her last boyfriend, the shmuck  
-                          ***F#m                                D***  
+    ***F#m                                D***  
   Shared with her a nice disease   Kept her passive, on her knees  
-                            ***E                         A    A-G#-F#***  
+    ***E                         A    A-G#-F#***  
   'Til one day she took his car    And drove into the city  
-                      ***B                                         E***  
+    ***B                                         E***  
   Liza had put down a few          When she met this girl named Lou  
-                          ***C#m                                 F#***  
+    ***C#m                                 F#***  
   Who convinced her to go home with her  She said, "My name's Louise  
-                                     ***B***  
+    ***B***  
   Now will you take your clothes off please?  I want to take you to the  
   ***E                     C#m***  
   moon and back   So get on your back."  
-                      ***A                      C#m***  
+    ***A                      C#m***  
   With a flick of the tongue    She made her scream  
-                ***D                             A***  
+    ***D                             A***  
   She made her laugh            She made her dance  
-           ***B                         D        E***  
+    ***B                         D        E***  
   She was happy for the first time   And you know she wanted more  
   Now with her legs spread wider     She needed to have Louise inside her  
   She said, "I'll never forget the first time  You kissed me, now I want  

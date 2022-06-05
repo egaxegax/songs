@@ -44,7 +44,7 @@ VERSE 3: I may be blue, but I don't mind
   
   *(Solo on two verses and end)*  
   
-         *EADGBe*  
+    *EADGBe*  
   ***D7     [x5453x]***  
   ****G7***     [353433] or [353463]*  
   ****G7/G#***  [453433] or [xx6767]*  

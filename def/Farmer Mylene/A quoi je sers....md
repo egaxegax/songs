@@ -39,7 +39,7 @@ A quoi je sers...
   Ce qu'on attend de nous, j'avoue  
   ***Dm                G***  
   Ne plus savoir a quoi je sers  
-        ***Em              F***  
+    ***Em              F***  
   Sans doute a rien du tout  
   ***Dm            G***  
   A present je peux ma taire  

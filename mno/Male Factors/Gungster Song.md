@@ -9,24 +9,24 @@ Gungster Song
      ***Am***  
   Im always on the run  
   Ive got a head, ive got a gun  
-       ***Dm***  
+    ***Dm***  
   Im grey at the night  
-       ***Am***  
+    ***Am***  
   As phantom creeping in the backyard  
   
-       ***Am***  
+    ***Am***  
   Im checking up cartage clip  
   Im looking for my target  
   Thats what i seek  
-       ***Dm***  
+    ***Dm***  
   The name of the target is Rock'n'Roll  
    ***E***  
   In my cartage clip  
   My gungster song  
   
-                ***Am                                    Dm***  
+    ***Am                                    Dm***  
   My Gangster Swing, MY gangster swing, my gangster swing  
-                ***Am***  
+    ***Am***  
   My Gangster Swing, MY gangster swing, my gangster swing  
-                ***Dm                 E***  
+    ***Dm                 E***  
   My Gangster Swing, MY gangster swing, swing

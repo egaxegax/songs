@@ -24,7 +24,7 @@ C             A
 Проигрыш2  
 D  
  You?re the one for me  
-                                          A  
+    A  
  I?m gonna keep you busy as a bee, could bee, could be  
   
 Проигрыш2  

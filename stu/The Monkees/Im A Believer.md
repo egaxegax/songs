@@ -2,7 +2,7 @@
 Im A Believer  
   
   *RIFF PART 1*  
-                                      *RIFF PART 2*  
+    *RIFF PART 2*  
   [E---1--1--0--0--------1--1--0--0------------------------------  
   B---3--3--1--1--3-----3--3--1--1--3---------------------------  
   G---0--0--0--0--4-----0--0--0--0--4---------------------------  
@@ -16,7 +16,7 @@ Im A Believer
   ***D***  
   love was out to get me thats the way it seems dissapointment haunted all  
   my dreams  
-                 ***G RIFF 1   C    G RIFF 1   G                     RIFF 1    C***  
+    ***G RIFF 1   C    G RIFF 1   G                     RIFF 1    C***  
   ***G***  
   then I saw her face now Im a believer not a trace of of doubt in my mind Im  
   in love  
@@ -29,7 +29,7 @@ Im A Believer
   ***C                 G       C              G    C             G              D***  
   What's the use in trying  All you get is pain  When I neede sunshine I got  
   rain  
-                 ***G RIFF 1   C    G RIFF 1   G                     RIFF 1    C***  
+    ***G RIFF 1   C    G RIFF 1   G                     RIFF 1    C***  
   ***G***  
   then I saw her face now Im a believer not a trace of of doubt in my mind Im  
   in love  

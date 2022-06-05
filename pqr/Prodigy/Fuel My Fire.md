@@ -6,7 +6,7 @@ intro:  ***F# B(VII) G#***
   
   ***G#***  
   I’ve got word of thanks  
-                           ***F#***  
+    ***F#***  
   Thanks that I’d like to say  
   For the rage that I feel  
   The rage that I feel today  

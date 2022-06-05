@@ -1,13 +1,13 @@
 <!--2020-09-07 04:06:15-->
 Solace  
   
-              ***D   A***  
+    ***D   A***  
   Some sign of forgiveness  
    ***D              A***  
   Some form of release  
-           ***Bm               E***  
+    ***Bm               E***  
   Is all that she asks for  
-       ***D               A***  
+    ***D               A***  
   Is all that she needs  
   She waits for the day when  
   She feels more at ease  

@@ -27,13 +27,13 @@ Verse 1: Come with me and lets go for a ride
   ***A***  
   Cause I know that youXre the  
   
-                ***A B G A***  
+    ***A B G A***  
 Chorus:  Best thing in town  
-              ***A B G A***  
+    ***A B G A***  
   Best thing around  
-                ***A B G A***  
+    ***A B G A***  
   Best thing in town  
-              ***A B G A***  
+    ***A B G A***  
   Best thing around  
   
 Verse 2: Running wild and always running free  

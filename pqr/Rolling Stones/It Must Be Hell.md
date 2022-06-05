@@ -7,16 +7,16 @@ VERSE:
   
 G         C                 G  
 We got trouble, that`s for sure  
-        C           G  
+    C           G  
 We got millions unemployed  
-                  C               *NOTE: ENTIRE SONG IS  
+    C               *NOTE: ENTIRE SONG IS  
 Some kids can`t write                       ONLY THE  
-                 G                     C & G BARRE CHORDS  
+    G                     C & G BARRE CHORDS  
 Some kids can`t read  
-               C  
+    C  
 Some kids are hungry  
   
-          G    INTRO RIFF - 2x`s  
+    G    INTRO RIFF - 2x`s  
 Some overeat  
   
 VERSE:  
@@ -28,18 +28,18 @@ The strength of darkness still abides
   
 CHORUS:  
   
-         C   C C C C C  G  
+    C   C C C C C  G  
 Must be hell  
  C  
 Living in the world  
-                          G    INTRO RIFF  
+    G    INTRO RIFF  
 Living in the world like you  
   
-         C   C C C C C  G  
+    C   C C C C C  G  
 Must be hell  
  C  
 Living in the world  
-                             G   INTRO RIFF --2x`s  
+    G   INTRO RIFF --2x`s  
 Suffering in the world like you  
   
 VERSE:  
@@ -77,7 +77,7 @@ Must be hell living in the world
 Suffering in the world like you  
   
 OUTRO:        OPENING RIFF OVER AND OVER UTIL END  
-                 ( LISTEN TO CD FOR TIMING )  
+    ( LISTEN TO CD FOR TIMING )  
   
 I say we are heaven bound  
 I say we are heaven bound  

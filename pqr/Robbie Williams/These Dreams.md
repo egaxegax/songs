@@ -2,11 +2,11 @@
 These Dreams  
   *(R. Williams/G. Chambers)*  
   
-          ***D***  
+    ***D***  
   She lies on the bed  
-           ***C***  
+    ***C***  
   With her hands in her head  
-          ***D***  
+    ***D***  
   And she screams  
   ***D                     C***  
   He gets a kick out of losing the plot  
@@ -22,9 +22,9 @@ These Dreams
   The one under his arm  
   ***A       G           D***  
   These dreams have let you down  
-                                    ***A***  
+    ***A***  
   Take it don't break it just turn it around  
-          ***G      D***  
+    ***G      D***  
   These dreams won't let you down  
   You never stopped loving his misfortunate  
   Lazy ways  
@@ -45,11 +45,11 @@ These Dreams
   Do you cry in your sleep 'cos it's  
   ***C***  
   Better unsaid  
-                                ***G***  
+    ***G***  
   Have you forgotten your past because  
-                  ***D***  
+    ***D***  
   That's how it seems  
-                                ***C***  
+    ***C***  
   Is it too hard to think so you edit  
   ***Bb***  
   Your dreams  

@@ -3,19 +3,19 @@
   One Of God's Better People  
   *(R. Williams/G. Chambers)*  
   
-               ***Am             G***  
+    ***Am             G***  
   You're one of God's better people  
-                 ***Am***  
+    ***Am***  
   And you don't know  
-                    ***Em***  
+    ***Em***  
   That's why you're special  
   ***Am       Am/H***  
   And I cry so I can talk like this  
-            ***C/Am  H/Am***  
+    ***C/Am  H/Am***  
   From my downbeat existence  
-          ***Am        Em***  
+    ***Am        Em***  
   And I know that you can make my wish  
-               ***D***  
+    ***D***  
   If my wish is pure  
   ***Am***  
   But I don't know  
@@ -23,11 +23,11 @@
   I just don't know  
   ***Am***  
   I don't know  
-                 ***G***  
+    ***G***  
   Let me love you so  
-         ***G ~  Em   D    C***  
+    ***G ~  Em   D    C***  
   Now I can't live this without you  
-       ***Eb     Cm***  
+    ***Eb     Cm***  
   I'd die without you  
   ***Am     Hm Am Hm G***  
   Without you, without you  
@@ -50,7 +50,7 @@
   Without you, without you  
   ***Am          Hm***  
   And everybody's going to step aside  
-             ***C     Hm***  
+    ***C     Hm***  
   As you spread your wings and you will fly  
   ***Am                   Hm                  G***  
   And take me to the other side where they know  
@@ -60,7 +60,7 @@
   I just don't know no more  
   ***Am***  
   I don't know  
-                  ***G***  
+    ***G***  
   Let me love you so  
   Now I can't live this without you  
   I'd die without you  
@@ -79,30 +79,30 @@
   
 Intro:  ***G | G***  
   
-                               ***Am            G***  
+    ***Am            G***  
   You're one of God's better people  
-                 ***Am***  
+    ***Am***  
   And you don't know  
-                      ***G***  
+    ***G***  
   That's why you're special  
-        ***Fmaj          Em***  
+    ***Fmaj          Em***  
   And I cry so I can talk like this  
-          ***Cmaj       Em***  
+    ***Cmaj       Em***  
   From my downbeat existence  
-        ***Fmaj               Em***  
+    ***Fmaj               Em***  
   And I know that you can make my wish  
-        ***Cmaj***  
+    ***Cmaj***  
   If my wish was pure  
   
-                ***Am  Asus2 Am***  
+    ***Am  Asus2 Am***  
   But I don't know  
-                 ***G***  
+    ***G***  
   I just don't know  
-            ***Am***  
+    ***Am***  
   I don't know  
-                   ***G Gsus4 G***  
+    ***G Gsus4 G***  
   Let me love you so  
-              ***G  F#m Em          Cmaj***  
+    ***G  F#m Em          Cmaj***  
   Now I can't li-i-i-ive this without you  
       ***Cm***  
   I'd die without you  
@@ -134,25 +134,25 @@ Intro:  ***G | G***
   
       ***Fmaj                  Em***  
   And everybody's going to step aside  
-            ***G                  Am***  
+    ***G                  Am***  
   As you spread your wings and you will fly  
       ***Fmaj           Em                       Gsus4 G***  
   And take me to the other side where they know  
   
-                ***Am***  
+    ***Am***  
   'cos I don't know no more  
-                 ***G***  
+    ***G***  
   I just don't know no more  
-            ***Am***  
+    ***Am***  
   I don't know  
-                   ***Gsus4 G***  
+    ***Gsus4 G***  
   Let me love you so  
   
   *(Play the chorus twice and then comes this end)*  
   
-                               ***Am            G***  
+    ***Am            G***  
   You're one of God's better people  
-                 ***Am***  
+    ***Am***  
   And you don't know  
-                      ***G***  
+    ***G***  
   That's why you're special

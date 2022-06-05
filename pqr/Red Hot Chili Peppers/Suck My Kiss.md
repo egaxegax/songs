@@ -42,7 +42,7 @@ Suck My Kiss
   stick with this  
   ***E      Dsus4        D5 Dsus4  A  N.C.***  
   is she talking dirty  
-              ***E               Dsus4***  
+    ***E               Dsus4***  
   give to me sweet sacred bliss  
   ***Dsus4           A5     N.C.***  
   your mouth was made to suck my kiss  

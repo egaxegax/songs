@@ -8,7 +8,7 @@ Time (1981)
   A suitcase in your hand,  
   ***F                  C***  
   They won't get you very far,  
-               ***Dm                   G***  
+    ***Dm                   G***  
   Now you're a twenty-first century man.  
   
   ***C              G***  
@@ -17,7 +17,7 @@ Time (1981)
   Far above the land,  
   ***F               C***  
   You can do most anything,  
-           ***Dm                   G***  
+    ***Dm                   G***  
   You're a twenty-first century man.  
   
   ***G          F           C           F      F C***  

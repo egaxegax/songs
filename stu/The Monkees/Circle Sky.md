@@ -28,17 +28,17 @@ opening riff:     ***B  Bb A  Ab G   Gb F  E
   telling lies.  
   Here I stand  
   happy man,  
-         ***G                F       E      A***  
+    ***G                F       E      A***  
   and it looks like we've made it once again.  
-          ***G                F       E      A***  
+    ***G                F       E      A***  
   Yes, it looks like we've made it once again.  
   Colors, sound  
   all around.  
   Wing-tip smile,  
   sees for miles.  
-         ***G                F       E      A***  
+    ***G                F       E      A***  
   and it looks like we've made it once again.  
-          ***G                F       E      A***  
+    ***G                F       E      A***  
   Yes, it looks like we've made it once again.  
   
   ***B Bb A Ab G Gb F E A***  
@@ -49,7 +49,7 @@ opening riff:     ***B  Bb A  Ab G   Gb F  E
   to those who don't understand,  
       ***Dm***  
   but what you have seen you must believe,  
-         ***E***  
+    ***E***  
   if you can,  
   if you can.  
   ***A***  
@@ -57,9 +57,9 @@ opening riff:     ***B  Bb A  Ab G   Gb F  E
   smiling down.  
   Telling more,  
   than before,  
-         ***G                F       E      A***  
+    ***G                F       E      A***  
   and it looks like we've made it once again.  
-          ***G                F       E      A***  
+    ***G                F       E      A***  
   Yes, it looks like we've made it to the end!  
   
   ***B Bb A Ab G Gb F E A***  

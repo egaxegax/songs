@@ -72,7 +72,7 @@ Coda:  Horsing around
   Pray to the power  
   ***Am7***  
   Play to the crowd with your big hit sound  
-                  ***Edim***  
+    ***Edim***  
   And they won't simmer won't simmer won't simmer down  
   ***Am7***  
   Play to the crowd  

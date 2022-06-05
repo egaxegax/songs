@@ -22,13 +22,13 @@ Made In Heaven 1995
   ***F                     Bb   C***  
    This could be heaven.  
   This could be heaven.  
-                       ***Bb     F***  
+    ***Bb     F***  
   This could be heaven    for everyone.  
-                       ***Bb***  
+    ***Bb***  
   This could be heaven.  
   ***C***  
   This could be heaven.  
-                       ***Bb***  
+    ***Bb***  
   This could be heaven.  
   ***F***  
   This could be heaven for everyone.  
@@ -36,8 +36,8 @@ Made In Heaven 1995
   In these days of cool    reflection,  
     ***Bb        C***  
   you come to me    [e--5--3---------  
-                    G--------6--5---]  
-           ***Bb    F***  
+    G--------6--5---]  
+    ***Bb    F***  
   and everything   seems alright.  
      ***Bb     C        Bb   F***  
   In these days of cold affections,  
@@ -45,11 +45,11 @@ Made In Heaven 1995
   you sit by me - and everything's   fine.  
   ***C                         G/B***  
    This could be heaven for everyone.  
-       ***D                         A/C#***  
+    ***D                         A/C#***  
   This world could be free, this world could be fun.  
   ***C                        G***  
   This could be heaven for everyone.  
-       ***D                         A/C#***  
+    ***D                         A/C#***  
   This world could be free, this world could be one.  
   [e------------8--10--12--13--8~\------------  
   B--10-p8~--------------------------4-p3-p1-]  
@@ -62,13 +62,13 @@ Made In Heaven 1995
    ***Bb         C              Bb      F***  
   you come to me, soothe my troubled mind.  
   
-        ***C                        G/B***  
+    ***C                        G/B***  
   Yeah, this could be heaven for everyone.  
-       ***D                        A/C#***  
+    ***D                        A/C#***  
   This world could be fed, this world could be fun.  
   ***C                       G***  
   This should be love for everyone, yeah.  
-       ***D                         A/C#***  
+    ***D                         A/C#***  
   This world could be free, this world could be one.  
   ***C                           G/B***  
   We should bring love to our daughters and sons.  
@@ -96,41 +96,41 @@ Made In Heaven 1995
   e--16--14--12--14--16--12--14--16--14--16--18--14--16--18~~--  
   B----------12--16--17--12--16--17--14--18--19--14--18--19~~--  
   e-------------------10--------------12]  
-               ***D            A/C#***  
+    ***D            A/C#***  
   Listen: what people do to other souls  
   [e--------------------12-------------------14]  
-       ***E                    B***  
+    ***E                    B***  
   they take their lives, destroy their goals.  
   [e----------------14---------------16]  
-        ***F#              C#/F***  
+    ***F#              C#/F***  
   Their basic pride  and    dignity  
   
   [e---------19--]  
      ***E                     B***  
   is stripped and torn and shown no pity  
-       ***D                         E    F#***  
+    ***D                         E    F#***  
   when this should be heaven for everyone.  
   ***C#                   B***  
   This could be heaven.  
   ***F#                                                          B***  
      This could be heaven.  
-                        &gt;(This could be heaven for everyone.)  
+    &gt;(This could be heaven for everyone.)  
   ***C#                                B       F#***  
   This could be heaven, could be heaven for everyone.  
-                                           &gt;This could be heaven,  
+    &gt;This could be heaven,  
   (this could be heaven.)  
   ***C#                                B       F#***  
   This could be heaven, could be heaven for everyone.  
-                                           &gt;This could be heaven,  
+    &gt;This could be heaven,  
   (this could be heaven.)  
   ***C#                                B       F#***  
   This could be heaven, could be heaven for everyone.  
-                                           &gt;This could be heaven for  
+    &gt;This could be heaven for  
   everyone.  
   ***C#                                B       F#***  
   This could be heaven, could be heaven for everyone.  
-                                           &gt;This could be heaven.  
-                                                          (This could be heaven.)  
+    &gt;This could be heaven.  
+    (This could be heaven.)  
   ***C#                   B***  
   This could be heaven.  
   ***F#                      B***  
@@ -139,10 +139,10 @@ Made In Heaven 1995
   This could be heaven.  
   ***F#                      B***  
   This could be heaven.  
-                (This could be heaven)  
+    (This could be heaven)  
   ***C#                                B***  
   This could be heaven  
-                     for everyone.  
+    for everyone.  
   ***F#***  
       For everyone  
   

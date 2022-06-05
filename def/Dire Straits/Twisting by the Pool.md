@@ -7,7 +7,7 @@ Twisting by the Pool
   Gonna take a villa or a small chalet  
   ***A***  
   Costa Del (?), magnifico,  
-               ***D                   E***  
+    ***D                   E***  
   You know the cost of living's so low  
   
   ***D            E***  

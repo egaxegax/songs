@@ -2,34 +2,34 @@
 Take A Chance On Me  
   
   [         ______      ______  
-       ***F#***: ||||||   ***B***: ||||||   ***C#m***: 4th  ||||||  
-           o|||oo      xo|||o       fret&gt; xo|||o  
-           |||o||      ||||||             ||||o|  
-           |oo|||      ||ooo|             ||oo||  
-                       ______  
+    ***F#***: ||||||   ***B***: ||||||   ***C#m***: 4th  ||||||  
+    o|||oo      xo|||o       fret&gt; xo|||o  
+    |||o||      ||||||             ||||o|  
+    |oo|||      ||ooo|             ||oo||  
+    ______  
   ***Ab***: 4th  ||||||   ***E***: |||o||  
      fret&gt; o|||oo      |oo|||  
-           |||o||      ||||||  
-           |oo|||]  
+    |||o||      ||||||  
+    |oo|||]  
   
-                     ***B***  
+    ***B***  
 Chorus:  If you change your mind, I'm the first in line  
-                                         ***F#***  
+    ***F#***  
   Honey I'm still free, take a chance on me  
   If you need me let me know, gonna be around  
-                                        ***B***  
+    ***B***  
   If you got no place to go when you're feelin' down  
-                 ***B***  
+    ***B***  
   If you're all alone, when the pretty birds have flown  
-                                         ***F#***  
+    ***F#***  
   Honey I'm still free, take a chance on me  
   Gonna do my very best, and it ain't no lie  
-                                    ***B***  
+    ***B***  
   If you put me to the test, if you let me try  
-         ***F#***  
+    ***F#***  
   Take a chance on me     (that's all I ask of you, honey) - 1st time  
-                          (c'mon, give me a break, man)    - 2nd time  
-         ***F#***  
+    (c'mon, give me a break, man)    - 2nd time  
+    ***F#***  
   Take a chance on me  
   ***C#m***  
   We can go dancing, we can go walking  
@@ -39,16 +39,16 @@ Chorus:  If you change your mind, I'm the first in line
   Listen to some music, maybe just slow and  
   ***B***  
   Get to know me better  
-                           ***Ab***  
+    ***Ab***  
   Cause you know I've got, so much that I wanna do  
   ***E                                     Ab***  
   When I dream I'm alone with you, it's magic  
   ***Ab                          E***  
   You want to leave it there, afraid of a love affair  
-              ***F#***  
+    ***F#***  
   But I think you know, that I can't let go  
   *(Chorus)*  
-             ***C#m***  
+    ***C#m***  
   Oh you can take your chance baby, I'm in no hurry  
   ***B***  
   Ooh I'm gonna get you  

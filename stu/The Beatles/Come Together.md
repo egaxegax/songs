@@ -21,12 +21,12 @@ g#46xxxx i think
 g 35xxxx  
 Bm7997xx  
   
-         verse  
+    verse  
 D boogie  
 here come old flat top, he come grooving up slowly,  
 D boogie  
 he got joo joo eyeball, he one Holy roller  
-       A                        g#  
+    A                        g#  
 he got hair down to his knee          ****  
 G {strum only once at 1/8 of note}  
 got to be a joker he just do what he please  

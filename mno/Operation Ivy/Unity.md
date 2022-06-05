@@ -4,7 +4,7 @@ Unity
   *The chords in this song are ***A***, ***D***, ***E***. In the chorus play them as a*  
   *regular bar chord, but in the verse play them like this(Playing the up beats*  
   *and muting the down beats):*  
-       ***A                              D                    E***  
+    ***A                              D                    E***  
   [-----x-----------          -------x--------       --------x-------  
   -----5-----------          --------7--------      --------9-------  
   -----6-----------          --------7--------      --------9-------  

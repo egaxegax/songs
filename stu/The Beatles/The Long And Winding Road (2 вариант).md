@@ -3,7 +3,7 @@ Cm           Gm              �
 The long and winding road____ that leads to your door  
 Eb EB/Db   Ab  
 wild and windy night______ that the rain washed away  
-            Eb/G               Cm7  Fm7  
+    Eb/G               Cm7  Fm7  
 will never disappear____ i`ve seen that road before  
  Bb7              Eb7sus  
 has left a pool of tears___ crying for the day  

@@ -10,18 +10,18 @@ From The Who Sell Out (1967)
   Then I suddenly see  
   ***D    A A           E     A A***  
   Mary-Anne with the shaky hands  
-               ***D           A A***  
+    ***D           A A***  
   What they've done to her man  
-        ***E7    A***  
+    ***E7    A***  
   Those shaky hands  
   ***||: A  D/A  :|| A....***  
   ***E***  
   Mary is so pretty  
       ***B                E***  
   The prettiest in the land  
-       ***E***  
+    ***E***  
   Guys come from every city  
-          ***B               E***  
+    ***B               E***  
   Just to shake her shaky hands  
   Linda can cook  
   Jean reads books  

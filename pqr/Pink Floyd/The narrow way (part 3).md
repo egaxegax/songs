@@ -2,16 +2,16 @@
 E drone  
   
 (guitar with vibrato pedal)                    ______*__*______  
-                                              __________  
+    __________  
 C   *Dadd4 C  Emadd9                           __________*  
-                                              ________*__  
+    ________*__  
 Am            G/Am          F/Am               __________  
 Following the path as it leads toward          __________  
    Amb5              D      D/D#              E  A  D  G  B  E  
 The darkness in the north  
 Am        G/Am        F/Am                     *This is a diagram  
 Weary stranger's faces show their sympathy      for "Dadd4", I'm not  
-       Amb5             D      D/D#            sure if that is the  
+    Amb5             D      D/D#            sure if that is the  
 They've seen that hope before                   name for it.  
   
 A                             D  
@@ -37,7 +37,7 @@ F/Am               Amb5         
 Hear the roar get louder in your ears  
 Am                 G/Am  
 You know the folly was your own  
-       F/Am                  Amb5            D      D/E  D  
+    F/Am                  Amb5            D      D/E  D  
 But the force behind can't conquer all you fears  
   
   

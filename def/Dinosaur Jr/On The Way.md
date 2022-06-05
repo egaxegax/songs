@@ -16,9 +16,9 @@ Riff:  [D--------2----
   
   ***F#                               C#***  
   I've been a wreck so long it's hard to pull it back  
-          ***F#             G#              A           C# A***  
+    ***F#             G#              A           C# A***  
   But I'm on it and I want it and you flaunt it  
-           ***F#             G#                A***  
+    ***F#             G#                A***  
   And it wakes me and it takes me and it rapes me  
   ***C#m                  E***  
   Gone away  
