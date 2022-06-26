@@ -1,5 +1,4 @@
 * [0-9](0-9)
-* [_layouts](_layouts)
 * [abc](abc)
 * [def](def)
 * [ghi](ghi)
