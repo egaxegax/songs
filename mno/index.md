@@ -1,5 +1,3 @@
-Список разделов *mno*
-
 * [Mad Caddies](Mad%20Caddies)
 * [Madonna](Madonna)
 * [Male Factors](Male%20Factors)

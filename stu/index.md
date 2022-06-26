@@ -1,5 +1,3 @@
-Список разделов *stu*
-
 * [Santa Esmeralda](Santa%20Esmeralda)
 * [Santana](Santana)
 * [Satyricon](Satyricon)

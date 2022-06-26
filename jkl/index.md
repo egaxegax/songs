@@ -1,5 +1,3 @@
-Список разделов *jkl*
-
 * [Jackson Alan](Jackson%20Alan)
 * [Jakubowicz Martyna](Jakubowicz%20Martyna)
 * [James Blunt](James%20Blunt)

@@ -1,5 +1,3 @@
-Список разделов *def*
-
 * [DJ Дождик](DJ%20Дождик)
 * [Da Buzz](Da%20Buzz)
 * [Dance Hall Crashers](Dance%20Hall%20Crashers)

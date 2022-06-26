@@ -1,5 +1,3 @@
-Список разделов *vwz*
-
 * [Van Halen](Van%20Halen)
 * [Van der Graaf Generator](Van%20der%20Graaf%20Generator)
 * [Vandals](Vandals)

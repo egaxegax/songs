@@ -1,5 +1,3 @@
-Список разделов *ghi*
-
 * [Garbage](Garbage)
 * [Gary Moore](Gary%20Moore)
 * [Gasoline](Gasoline)

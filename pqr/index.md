@@ -1,5 +1,3 @@
-Список разделов *pqr*
-
 * [PFM](PFM)
 * [POD](POD)
 * [Pace Brigitte](Pace%20Brigitte)
