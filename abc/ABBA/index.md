@@ -1,6 +1,6 @@
 ![](abba.jpg)
 
-Шведская поп-группа, существующая с 1972 года.
+Шведская поп-группа, существующая с *1972* года.
 
 * [Andante Andante](Andante%20Andante)
 * [Angeleyes](Angeleyes)
