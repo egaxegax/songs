@@ -1,8 +1,0 @@
-* [Bohemian Ballet](Bohemian%20Ballet)
-* [Bulgarian Melody](Bulgarian%20Melody)
-* [Gathering](Gathering)
-* [Lament](Lament)
-* [Marta's Song](Marta's%20Song)
-* [Media Luna](Media%20Luna)
-* [Twosome](Twosome)
-* [While The Earth Sleeps](While%20The%20Earth%20Sleeps)

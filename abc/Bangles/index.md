@@ -1,8 +1,0 @@
-* [All About You](All%20About%20You)
-* [Eternal Flame](Eternal%20Flame)
-* [Following](Following)
-* [Going Down To Liverpool](Going%20Down%20To%20Liverpool)
-* [Hazy Shade Of Winter](Hazy%20Shade%20Of%20Winter)
-* [In Your Room](In%20Your%20Room)
-* [More Than Meets The Eye](More%20Than%20Meets%20The%20Eye)
-* [Walk Like An Egyptian](Walk%20Like%20An%20Egyptian)

@@ -1,7 +1,0 @@
-* [A Toi](A%20Toi)
-* [Et si tu nexistais pas](Et%20si%20tu%20nexistais%20pas)
-* [L'ete Indien (2 вариант)](L'ete%20Indien%20(2%20вариант))
-* [L'ete Indien](L'ete%20Indien)
-* [Les Champs-Elisees (2 вариант)](Les%20Champs-Elisees%20(2%20вариант))
-* [Les Champs-Elisees](Les%20Champs-Elisees)
-* [Salut](Salut)

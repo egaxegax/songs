@@ -1,6 +1,0 @@
-* [1234 1234](1234%201234)
-* [Alone In A Crowd](Alone%20In%20A%20Crowd)
-* [As the Footsteps Die Out Forev](As%20the%20Footsteps%20Die%20Out%20Forev)
-* [Keasbey Nights](Keasbey%20Nights)
-* [Keasby Nights](Keasby%20Nights)
-* [San Fransico Payphone](San%20Fransico%20Payphone)

@@ -1,8 +1,0 @@
-* [20 Cent Goodbye](20%20Cent%20Goodbye)
-* [Chris Cayton](Chris%20Cayton)
-* [Disorder](Disorder)
-* [I Need to Know](I%20Need%20to%20Know)
-* [Mable](Mable)
-* [Superman](Superman)
-* [This Lonely Place](This%20Lonely%20Place)
-* [Too Late](Too%20Late)

@@ -1,5 +1,0 @@
-* [Get it While You Can](Get%20it%20While%20You%20Can)
-* [Me And Bobby McGee](Me%20And%20Bobby%20McGee)
-* [Piece Of My Heart](Piece%20Of%20My%20Heart)
-* [Summertime](Summertime)
-* [These Boots](These%20Boots)

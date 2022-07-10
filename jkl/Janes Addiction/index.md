@@ -1,5 +1,0 @@
-* [Classic Girl](Classic%20Girl)
-* [Mountain Song](Mountain%20Song)
-* [Obvious](Obvious)
-* [Ocean size](Ocean%20size)
-* [Up the beach](Up%20the%20beach)

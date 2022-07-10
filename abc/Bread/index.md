@@ -1,7 +1,0 @@
-* [Ann](Ann)
-* [Aubrey](Aubrey)
-* [Baby I'm A want you](Baby%20I'm%20A%20want%20you)
-* [Diary](Diary)
-* [Everything I Own](Everything%20I%20Own)
-* [Guitar Man](Guitar%20Man)
-* [If](If)

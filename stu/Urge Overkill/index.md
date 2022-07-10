@@ -1,5 +1,0 @@
-* [Bottle of Fur](Bottle%20of%20Fur)
-* [Girl You'll Be A Woman Soon](Girl%20You'll%20Be%20A%20Woman%20Soon)
-* [Heaven 90210](Heaven%2090210)
-* [Positive Bleeding](Positive%20Bleeding)
-* [Sister Havana](Sister%20Havana)

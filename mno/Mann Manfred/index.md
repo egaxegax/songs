@@ -1,6 +1,0 @@
-* [Blinded by the light](Blinded%20by%20the%20light)
-* [Do Wah Diddy Diddy](Do%20Wah%20Diddy%20Diddy)
-* [My Name Is Jack](My%20Name%20Is%20Jack)
-* [Semi-detached Suburban Mr. James](Semi-detached%20Suburban%20Mr.%20James)
-* [Sha La La](Sha%20La%20La)
-* [With God On Our Side](With%20God%20On%20Our%20Side)

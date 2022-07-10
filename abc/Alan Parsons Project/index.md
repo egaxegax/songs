@@ -1,7 +1,0 @@
-* [Blue Blue Sky](Blue%20Blue%20Sky)
-* [Don't Answer Me](Don't%20Answer%20Me)
-* [Eye in the Sky](Eye%20in%20the%20Sky)
-* [Games People Play](Games%20People%20Play)
-* [Old and Wise](Old%20and%20Wise)
-* [Since the Last Goodbye](Since%20the%20Last%20Goodbye)
-* [Time](Time)

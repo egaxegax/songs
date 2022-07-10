@@ -1,7 +1,0 @@
-* [Bad Company](Bad%20Company)
-* [Can't Get Enough](Can't%20Get%20Enough)
-* [Feel Like Making Love](Feel%20Like%20Making%20Love)
-* [Movin On](Movin%20On)
-* [Rock Steady](Rock%20Steady)
-* [Seagull](Seagull)
-* [Shooting Star](Shooting%20Star)

@@ -1,7 +1,0 @@
-* [Act of love](Act%20of%20love)
-* [Blue Eden](Blue%20Eden)
-* [Danger Bird](Danger%20Bird)
-* [Don't Cry No Tears](Don't%20Cry%20No%20Tears)
-* [Down To The Wire](Down%20To%20The%20Wire)
-* [Downtown](Downtown)
-* [Opera Star](Opera%20Star)

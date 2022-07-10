@@ -1,6 +1,0 @@
-* [Because The Night](Because%20The%20Night)
-* [Dancing Barefoot](Dancing%20Barefoot)
-* [Death Singing](Death%20Singing)
-* [Ghost dance](Ghost%20dance)
-* [My Madrigal](My%20Madrigal)
-* [Pissing in a river](Pissing%20in%20a%20river)

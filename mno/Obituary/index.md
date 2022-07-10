@@ -1,8 +1,0 @@
-* [Burned In](Burned%20In)
-* [Cause of Death](Cause%20of%20Death)
-* [Chopped in Half](Chopped%20in%20Half)
-* [End Complete](End%20Complete)
-* [Final Thoughts](Final%20Thoughts)
-* [Infected](Infected)
-* [Memories Remain](Memories%20Remain)
-* [Slowly We Rot](Slowly%20We%20Rot)

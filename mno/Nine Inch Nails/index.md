@@ -1,8 +1,0 @@
-* [Dead Souls](Dead%20Souls)
-* [March of the Pigs](March%20of%20the%20Pigs)
-* [Piggy](Piggy)
-* [Sanctified](Sanctified)
-* [Something I Can Never Have](Something%20I%20Can%20Never%20Have)
-* [The becoming](The%20becoming)
-* [The downward spiral](The%20downward%20spiral)
-* [The frail](The%20frail)

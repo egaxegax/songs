@@ -1,6 +1,0 @@
-* [California Waiting](California%20Waiting)
-* [Mollys Chamber](Mollys%20Chamber)
-* [Red Morning Light](Red%20Morning%20Light)
-* [Talihina Skies](Talihina%20Skies)
-* [Wasted Time](Wasted%20Time)
-* [Wicker Chair](Wicker%20Chair)

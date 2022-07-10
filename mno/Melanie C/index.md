@@ -1,5 +1,0 @@
-* [Closer](Closer)
-* [Ga Ga](Ga%20Ga)
-* [I Turn To You](I%20Turn%20To%20You)
-* [If That Were Me](If%20That%20Were%20Me)
-* [Never be the same again](Never%20be%20the%20same%20again)

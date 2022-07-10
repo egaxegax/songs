@@ -1,8 +1,0 @@
-* [Bark At The Moon](Bark%20At%20The%20Moon)
-* [Believer](Believer)
-* [Dreamer](Dreamer)
-* [Killer of Giants](Killer%20of%20Giants)
-* [Mama, I'm Coming Home](Mama,%20I'm%20Coming%20Home)
-* [Old L.A. tonight](Old%20L.A.%20tonight)
-* [Tears](Tears)
-* [Thunder Underground](Thunder%20Underground)

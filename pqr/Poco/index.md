@@ -1,5 +1,0 @@
-* [Bad Weather](Bad%20Weather)
-* [Crazy Love](Crazy%20Love)
-* [Kind Woman](Kind%20Woman)
-* [Pickin' Up The Pieces](Pickin'%20Up%20The%20Pieces)
-* [There Goes My Heart](There%20Goes%20My%20Heart)

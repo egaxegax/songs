@@ -1,5 +1,0 @@
-* [Avrai](Avrai)
-* [E tu](E%20tu)
-* [Poster](Poster)
-* [Questo Piccolo Grande Amore](Questo%20Piccolo%20Grande%20Amore)
-* [Strada facendo](Strada%20facendo)

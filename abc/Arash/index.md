@@ -1,6 +1,0 @@
-* [Arash](Arash)
-* [Behnaz](Behnaz)
-* [Bora Bora](Bora%20Bora)
-* [Temptation](Temptation)
-* [Tike Tike Kardi](Tike%20Tike%20Kardi)
-* [Yalla](Yalla)

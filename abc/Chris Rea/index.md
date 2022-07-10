@@ -1,5 +1,0 @@
-* [Fool](Fool)
-* [Josephine](Josephine)
-* [Stainsby Girls](Stainsby%20Girls)
-* [Texas](Texas)
-* [The road to hell](The%20road%20to%20hell)

@@ -1,6 +1,0 @@
-* [All Your Lies](All%20Your%20Lies)
-* [Boot camp](Boot%20camp)
-* [Flower](Flower)
-* [Outshined](Outshined)
-* [Room A Thousand Years Wide](Room%20A%20Thousand%20Years%20Wide)
-* [Spoonman](Spoonman)

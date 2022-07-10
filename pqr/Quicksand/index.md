@@ -1,5 +1,0 @@
-* [Delusional](Delusional)
-* [Dine Alone](Dine%20Alone)
-* [Freezing Process](Freezing%20Process)
-* [Landmine Spring](Landmine%20Spring)
-* [Simpleton](Simpleton)

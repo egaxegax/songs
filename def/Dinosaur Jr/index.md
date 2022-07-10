@@ -1,5 +1,0 @@
-* [Even You](Even%20You)
-* [Green Mind](Green%20Mind)
-* [Not the Same](Not%20the%20Same)
-* [On The Way](On%20The%20Way)
-* [The Boy with the Thorn in his Side](The%20Boy%20with%20the%20Thorn%20in%20his%20Side)

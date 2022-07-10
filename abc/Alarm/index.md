@@ -1,7 +1,0 @@
-* [Change II](Change%20II)
-* [Marching On](Marching%20On)
-* [One Step Closer To Home](One%20Step%20Closer%20To%20Home)
-* [Presence Of Love](Presence%20Of%20Love)
-* [Raw](Raw)
-* [Shelter](Shelter)
-* [Sold Me Down A River](Sold%20Me%20Down%20A%20River)

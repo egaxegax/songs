@@ -1,6 +1,0 @@
-* [Ataque](Ataque)
-* [Borracho Y Agresivo](Borracho%20Y%20Agresivo)
-* [Laburantes](Laburantes)
-* [Mosca De Bar](Mosca%20De%20Bar)
-* [Pelea Callejera](Pelea%20Callejera)
-* [Tema De Adrian](Tema%20De%20Adrian)

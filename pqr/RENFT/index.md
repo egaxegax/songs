@@ -1,5 +1,0 @@
-* [Apfeltaum](Apfeltaum)
-* [Besinnung](Besinnung)
-* [Ich bau euch ein Lied](Ich%20bau%20euch%20ein%20Lied)
-* [Liebeslied](Liebeslied)
-* [Wer die Rose ehrt](Wer%20die%20Rose%20ehrt)

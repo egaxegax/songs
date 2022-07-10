@@ -1,5 +1,0 @@
-* [Barbara's Song](Barbara's%20Song)
-* [Murray's Song](Murray's%20Song)
-* [Santos & the Well Traveled Bear](Santos%20&%20the%20Well%20Traveled%20Bear)
-* [The Bricklayer's Beautiful Daughter](The%20Bricklayer's%20Beautiful%20Daughter)
-* [The Impending Death of the Virgin Spirit](The%20Impending%20Death%20of%20the%20Virgin%20Spirit)

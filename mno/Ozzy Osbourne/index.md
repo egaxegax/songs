@@ -1,6 +1,0 @@
-* [Dee](Dee)
-* [Dreamer (2 вариант)](Dreamer%20(2%20вариант))
-* [Dreamer](Dreamer)
-* [I Just Want You](I%20Just%20Want%20You)
-* [Killer Of Giants](Killer%20Of%20Giants)
-* [Mama, I Coming Home](Mama,%20I%20Coming%20Home)

@@ -1,8 +1,0 @@
-* [20 Nothing](20%20Nothing)
-* [Gas In My Car](Gas%20In%20My%20Car)
-* [Im In Love With A Girl Named Spike](Im%20In%20Love%20With%20A%20Girl%20Named%20Spike)
-* [Make A Change](Make%20A%20Change)
-* [My Hair](My%20Hair)
-* [On young ha say yo](On%20young%20ha%20say%20yo)
-* [Pseudo Punk](Pseudo%20Punk)
-* [Rest Of The World](Rest%20Of%20The%20World)

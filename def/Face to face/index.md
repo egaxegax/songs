@@ -1,7 +1,0 @@
-* [Big Choice](Big%20Choice)
-* [Debt](Debt)
-* [Disconnected](Disconnected)
-* [I Want](I%20Want)
-* [No Authority](No%20Authority)
-* [Promises](Promises)
-* [You've Done Nothing](You've%20Done%20Nothing)

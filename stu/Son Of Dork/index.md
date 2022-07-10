@@ -1,6 +1,0 @@
-* [Eddies Song](Eddies%20Song)
-* [My Best Friend](My%20Best%20Friend)
-* [Partys Over](Partys%20Over)
-* [Ticket Outta Loserville](Ticket%20Outta%20Loserville)
-* [Wear Me Down](Wear%20Me%20Down)
-* [Were Not Alone](Were%20Not%20Alone)

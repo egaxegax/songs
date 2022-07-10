@@ -1,8 +1,0 @@
-* [A Past and Future Secret](A%20Past%20and%20Future%20Secret)
-* [Harvest Of Sorrow](Harvest%20Of%20Sorrow)
-* [Lord Of The Rings](Lord%20Of%20The%20Rings)
-* [Mirror, Mirror](Mirror,%20Mirror)
-* [The Bard's Song](The%20Bard's%20Song)
-* [The Maiden And The Minstrel Knight](The%20Maiden%20And%20The%20Minstrel%20Knight)
-* [Time What is Time](Time%20What%20is%20Time)
-* [Valhalla](Valhalla)

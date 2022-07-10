@@ -1,8 +1,0 @@
-* [Big Deal](Big%20Deal)
-* [But I do love you](But%20I%20do%20love%20you)
-* [Can't fight the moonlight](Can't%20fight%20the%20moonlight)
-* [How do I live](How%20do%20I%20live)
-* [Life Goes On](Life%20Goes%20On)
-* [One way ticket](One%20way%20ticket)
-* [The light in your eyes](The%20light%20in%20your%20eyes)
-* [The right kind of wrong](The%20right%20kind%20of%20wrong)
