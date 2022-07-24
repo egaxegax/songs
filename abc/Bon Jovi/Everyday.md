@@ -107,10 +107,10 @@ I ain't here to play
       ***F***            ***G***         ***Am***  
 I'm gonna live my life everyday  
   
-  ***Am***    ***C***    ***G***             ***F***            ***G***  
+  ***Am***    ***C***    ***G***      ***F***        ***G***  
 I, oh I, oh I, I'm gonna live my life everyday  
-  ***Am***            ***C***                        ***G***  
-I   ***gonna touch the sky***, oh I   ***spread these wings and fly***, oh I  
+  ***Am***            ***C***               ***G***  
+I gonna touch the sky, oh I spread these wings and fly, oh I  
       ***F***  
 I'm gonna live my life everyday  
   
